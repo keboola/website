@@ -1,0 +1,10 @@
+---
+label: article-with-perex
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  default: article-with-perex
+  hidden: true
