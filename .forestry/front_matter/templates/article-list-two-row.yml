@@ -1,0 +1,45 @@
+---
+label: article-list-two-row
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  default: article-list-two-row
+  hidden: true
+- type: text
+  label: sub headline
+  name: subheadline
+- type: text
+  name: headline
+  label: headline
+- type: textarea
+  label: content
+  name: content
+- type: field_group_list
+  name: list
+  label: list
+  fields:
+  - type: text
+    name: link
+    label: link
+  - type: select
+    name: icotype
+    config:
+      source:
+        type: simple
+      options:
+      - blue
+      - yellow
+      - gray
+      - black
+      - blueright
+      - yellowright
+    label: icotype
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    label: desc
+    name: desc
