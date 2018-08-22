@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="13px" viewBox="0 0 14 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Star</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="solutions" transform="translate(-1366.000000, -3432.000000)" fill="#233141">
+            <g id="TABLE" transform="translate(250.000000, 2965.000000)">
+                <path d="M1117.42963,467 L1128.57061,467 C1129.36004,467 1130,467.639959 1130,468.429389 C1130,468.680299 1129.93395,468.926789 1129.8085,469.144083 L1124.23801,478.792458 C1123.84329,479.476124 1122.96909,479.710366 1122.28542,479.315651 C1122.06813,479.190196 1121.88769,479.009753 1121.76223,478.792458 L1116.19174,469.144083 C1115.79703,468.460417 1116.03127,467.586217 1116.71493,467.191502 C1116.93223,467.066047 1117.17872,467 1117.42963,467 Z" id="Star"></path>
+            </g>
+        </g>
+    </g>
+</svg>

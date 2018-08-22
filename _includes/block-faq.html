@@ -1,0 +1,11 @@
+<article class="faq-content"><div class="in">
+	<h1 class="h1-small">{{ section.headline }}</h1>
+	{% for list in section.list %}
+		<div class="faq-item{% if forloop.first %} faq-item-act{% endif %}">
+			<div class="faq-item-head"><a href=""><h2>{{ list.name }}</h2></a></div>
+			<div class="faq-item-desc"><div class="faq-item-desc-content">
+				<p>{{ list.desc }}</p>
+			</div></div>
+		</div>
+	{% endfor %}
+</div></article>

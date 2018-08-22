@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="25px" viewBox="0 0 44 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-arrow-bottom</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ico-arrow-bottom" fill="#228DFF" fill-rule="nonzero">
+            <path d="M39.0270103,13.8333327 L0.500000337,13.8333327 L0.500000337,11.1666667 L39.0270103,11.1666667 L30.4529003,2.66364466 C29.9538003,2.16868066 29.9538003,1.36618566 30.4529003,0.871222663 C30.9520003,0.376258663 31.7612103,0.376258663 32.2603103,0.871222663 L43.1490603,11.6696877 C43.4686603,11.9866387 43.5637003,12.3925707 43.4596703,12.7735257 C43.4362003,12.9584247 43.3372603,13.1436677 43.1490603,13.3303117 L32.2603103,24.1287767 C31.7612103,24.6237407 30.9520003,24.6237407 30.4529003,24.1287767 C29.9538003,23.6338137 29.9538003,22.8313187 30.4529003,22.3363547 L39.0270103,13.8333327 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

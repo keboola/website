@@ -1,0 +1,228 @@
+// Typography.less
+// Headings, body text, lists, code, and more for a versatile and durable typography system
+// ----------------------------------------------------------------------------------------
+
+
+
+// ---------
+// BODY TEXT
+// ---------
+p{
+  margin:0 0 20px 0;
+  .font-size(18, 30px);
+  font-weight:300;
+  color:#233141;
+
+  a{
+    color:#228DFF;
+  }
+}
+.p-margin{
+  margin-bottom:60px;
+}
+.p-perex{
+  margin:0;
+  font-weight:400;
+  color:#AFC4D7;
+  letter-spacing:2px;
+  text-transform:uppercase;
+}
+.p-perex-dark{
+  .font-size(20, 30px);
+  color:#233141;
+}
+.p-perex-ligth{
+  color:#A0A8B0;
+}
+.p-head{
+  .font-size(22, 34px);
+}
+.p-white{
+  color:@white;
+
+  a{
+    color:@white;
+  }
+}
+.p-more{
+  a{
+    position:relative;
+    display:inline-block;
+    min-height:24px;
+    padding:0 82px 0 0;
+    .font-size(18, 24px);
+    font-weight:700;
+    color:#228DFF;
+
+    &:after{
+      content:'';
+      position:absolute;
+      right:0;
+      top:0;
+      .size(43px, 24px);
+      background:url(../img/ico-arrow-right-blue.svg) 0 0 no-repeat;
+      background-size:100% auto;
+    }
+  }
+}
+.p-more-play{
+  margin:40px 0 0 0;
+
+  a{
+    position:relative;
+    display:inline-block;
+    padding:0 0 0 50px;
+    .font-size(20, 30px);
+    font-weight:400;
+    color:#228DFF;
+    letter-spacing:1px;
+    vertical-align:top;
+
+    i{
+      position:absolute;
+      left:0;
+      top:0;
+      .sq(30px);
+      .border-radius(16px);
+      background:#228DFF;
+
+      &:after{
+        content:'';
+        position:absolute;
+        left:0;
+        top:0;
+        .sq(100%);
+        background:url(../img/ico-play-btn-white.svg) 54% center no-repeat;
+      }
+    }
+  }
+}
+
+
+
+// ---------
+// HEADINGS
+// ---------
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding:0;
+  font-weight: normal;
+  text-rendering: optimizelegibility; // Fix the character spacing for headings
+}
+h1{
+  margin:0 0 30px 0;
+  .font-size(44, 1.3em);
+  font-weight:400;
+  color:#233141;
+
+  span{
+    color:#228DFF;
+  }
+}
+.h1-head{
+  .font-size(48, 1.3em);
+}
+.h1-middle{
+  .font-size(40, 1.3em);
+}
+.h1-small{
+  .font-size(32, 1.3em);
+}
+.h1-white{
+  font-weight:300;
+  color:@white;
+}
+.h1-blue{
+  font-weight:300;
+  color:#228DFF;
+}
+
+h2{
+  margin:0 0 10px 0;
+  .font-size(24, 1.2em);
+  font-weight:400;
+  color:#233141;
+}
+.h2-middle{
+  .font-size(20, 1.2em);
+}
+.h2-blue,
+.h2-blueright{
+  color:#228DFF;
+}
+.h2-yellow,
+.h2-yellowright{
+  color:#FFC306;
+}
+
+
+
+// ---------
+// LISTS
+// ---------
+
+// Unordered and Ordered lists
+ul, ol {
+  padding: 0;
+  margin: 0;
+}
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+  margin-bottom: 0;
+}
+ul {
+  list-style: none;
+}
+ol {
+  list-style: none;
+}
+li {
+}
+
+// Description Lists
+dl {
+  margin-bottom: 0;
+}
+dt,
+dd {
+}
+dt {
+}
+dd {
+}
+
+// MISC
+// ----
+
+// Horizontal rules
+hr {
+  margin: 0;
+  border: 0;
+}
+
+// Emphasis
+strong {
+  font-weight: bold;
+}
+em {
+  font-style: italic;
+}
+
+
+// Abbreviations and acronyms
+abbr {
+  font-size: 90%;
+  text-transform: uppercase;
+  border-bottom: 1px dotted #ddd;
+  cursor: help;
+}
+
+// Misc
+small {
+  font-size: 100%;
+}
+cite {
+  font-style: normal;
+}

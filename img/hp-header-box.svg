@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="644px" height="494px" viewBox="0 0 644 494" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>box keboola</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-11.8%" y="-23.7%" width="123.7%" height="147.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="15" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#F8FCFF" offset="0%"></stop>
+            <stop stop-color="#F3FAFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="87.3118151%" x2="0%" y2="30.9342466%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F9FDFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="97.1414379%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#E0F1FF" offset="0%"></stop>
+            <stop stop-color="#F6FBFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.21278902%" x2="50%" y2="98.0830022%" id="linearGradient-5">
+            <stop stop-color="#F6F9FC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#F6F9FC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-illustration" transform="translate(-506.000000, -457.000000)">
+            <g id="box-keboola" transform="translate(530.000000, 457.000000)">
+                <polygon id="Rectangle-11-Copy" fill-opacity="0.300000012" fill="#3FA9F5" filter="url(#filter-1)" points="190 143.203861 380 238.203861 190 333.203861 0 238.203861"></polygon>
+                <polygon id="Rectangle-11" fill="url(#linearGradient-2)" points="310 0.308108108 620 155.308108 310 319.551351 0 155.308108"></polygon>
+                <polygon id="Rectangle-3" fill="url(#linearGradient-3)" points="0 155.308108 310 310.308108 310 494 0 494"></polygon>
+                <polygon id="Rectangle-3-Copy-2" fill="url(#linearGradient-4)" transform="translate(465.000000, 324.654054) scale(-1, 1) translate(-465.000000, -324.654054) " points="310 155.308108 620 310.308108 620 494 310 494"></polygon>
+                <rect id="Rectangle-3-Copy" fill="url(#linearGradient-5)" x="0" y="194" width="620" height="300"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

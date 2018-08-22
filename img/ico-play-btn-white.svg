@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="12px" viewBox="0 0 10 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Star</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product" transform="translate(-341.000000, -2880.000000)" fill="#FFFFFF">
+            <g id="PARTNER" transform="translate(250.000000, 2510.000000)">
+                <path d="M91,380.550355 L91,371.642835 C91,371.011665 91.5116648,370.5 92.1428353,370.5 C92.3434448,370.5 92.5405201,370.552806 92.714253,370.653111 L100.428392,375.106871 C100.975001,375.422456 101.162284,376.121403 100.846698,376.668013 C100.746394,376.841746 100.602124,376.986015 100.428392,377.08632 L92.714253,381.54008 C92.1676433,381.855665 91.4686962,381.668383 91.1531109,381.121773 C91.0528062,380.94804 91,380.750965 91,380.550355 Z" id="Star"></path>
+            </g>
+        </g>
+    </g>
+</svg>

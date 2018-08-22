@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="915px" height="204px" viewBox="0 0 915 204" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>growYourBusiness</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="45.8584337%" y1="51.17206%" x2="1.06031061%" y2="92.6730315%" id="linearGradient-4">
+            <stop stop-color="#F2F8FC" offset="0%"></stop>
+            <stop stop-color="#D9EAF7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="100%" y2="7.65770019%" id="linearGradient-5">
+            <stop stop-color="#5B6F85" offset="0%"></stop>
+            <stop stop-color="#F2F8FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.20630092%" y1="9.44798242%" x2="36.1272176%" y2="38.658549%" id="linearGradient-6">
+            <stop stop-color="#FFF6DB" offset="0%"></stop>
+            <stop stop-color="#F2F8FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="98.2928895%" y1="93.5334558%" x2="69.7698196%" y2="66.7146068%" id="linearGradient-7">
+            <stop stop-color="#FFF6DB" offset="0%"></stop>
+            <stop stop-color="#F2F8FC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-illustration" transform="translate(-332.000000, -1787.000000)">
+            <g id="growYourBusiness" transform="translate(340.000000, 1787.000000)">
+                <g id="Group" transform="translate(0.000000, 17.000000)">
+                    <g id="box">
+                        <polygon id="Rectangle-11-Copy" fill="#E7F1F9" filter="url(#filter-1)" points="50 89.9047619 100 114.904762 50 139.904762 0 114.904762"></polygon>
+                        <polygon id="Rectangle-11" fill="#F2F8FC" points="50 11.3333333 100 36.3333333 50 61.3333333 0 36.3333333"></polygon>
+                        <polygon id="Rectangle-11-Copy-4" fill="#228DFF" points="50.3333333 20 83.6666667 36.6666667 50.3333333 53.3333333 17 36.6666667"></polygon>
+                        <polygon id="Rectangle-11-Copy-5" fill="#51B1FE" points="50 10 83.3333333 26.6666667 50 43.3333333 16.6666667 26.6666667"></polygon>
+                        <polygon id="Rectangle-11-Copy-2" fill="#8BD3FF" points="50 0 83.3333333 16.6666667 50 33.3333333 16.6666667 16.6666667"></polygon>
+                        <polygon id="Rectangle-3" fill="#D9EAF7" points="0 36.3333333 50 61.3333333 50 125.619048 0 100.619048"></polygon>
+                        <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(75.000000, 80.976190) scale(-1, 1) translate(-75.000000, -80.976190) " points="50 36.3333333 100 61.3333333 100 125.619048 50 100.619048"></polygon>
+                    </g>
+                </g>
+                <g id="Group-Copy" transform="translate(400.000000, 28.000000)">
+                    <g id="box">
+                        <polygon id="Rectangle-11-Copy" fill="#E7F1F9" filter="url(#filter-2)" points="50 78.9047619 100 103.904762 50 128.904762 0 103.904762"></polygon>
+                        <polygon id="Rectangle-11" fill="#F2F8FC" points="50 0.333333333 100 25.3333333 50 50.3333333 0 25.3333333"></polygon>
+                        <polygon id="Rectangle-3" fill="#D9EAF7" points="0 25.3333333 50 50.3333333 50 114.619048 0 89.6190476"></polygon>
+                        <polygon id="Rectangle-3-Copy-2" fill="#FFC306" transform="translate(75.000000, 69.976190) scale(-1, 1) translate(-75.000000, -69.976190) " points="50 25.3333333 100 50.3333333 100 114.619048 50 89.6190476"></polygon>
+                        <polygon id="Rectangle-3-Copy-4" fill="#FDD862" transform="translate(75.000000, 69.785714) scale(-1, 1) translate(-75.000000, -69.785714) " points="60 43 90 58 90 96.5714286 60 81.5714286"></polygon>
+                        <polygon id="Rectangle-3-Copy-5" fill="#FFEDB2" transform="translate(75.000000, 81.785714) scale(-1, 1) translate(-75.000000, -81.785714) " points="90 67 90 96.5714286 60 81.5714286"></polygon>
+                    </g>
+                </g>
+                <g id="Group-Copy-3" transform="translate(799.000000, 28.000000)">
+                    <g id="box">
+                        <polygon id="Rectangle-11-Copy" fill="#E7F1F9" filter="url(#filter-3)" points="50 78.9047619 100 103.904762 50 128.904762 0 103.904762"></polygon>
+                        <polygon id="Rectangle-11" fill="#F2F8FC" points="50 0 100 25 50 50 0 25"></polygon>
+                        <polygon id="Rectangle-11-Copy-2" fill="#233141" points="50.3333333 9 83.6666667 25.6666667 50.3333333 42.3333333 17 25.6666667"></polygon>
+                        <polygon id="Rectangle-11-Copy-3" fill="#121A22" points="50.3333333 9 83.6666667 25.6666667 50.3333333 42.3333333"></polygon>
+                        <polygon id="Rectangle-3" fill="#D9EAF7" points="0 25 50 50 50 114.285714 0 89.2857143"></polygon>
+                        <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(75.000000, 69.642857) scale(-1, 1) translate(-75.000000, -69.642857) " points="50 25 100 50 100 114.285714 50 89.2857143"></polygon>
+                    </g>
+                </g>
+                <polygon id="Rectangle-18" fill="#233141" points="818 90 828 95 828 111 818 111"></polygon>
+                <path d="M100,88 L100,78 L256,0 L266,5 L100,88 Z" id="Combined-Shape" fill="url(#linearGradient-4)"></path>
+                <polygon id="Rectangle-11-Copy-8" fill="url(#linearGradient-5)" points="828 101 828 110.958362 642.082031 204 638 195.604439"></polygon>
+                <path d="M460,103 L652,199.023888 L642,204 L460,113.203132 L460,103 Z" id="Combined-Shape" fill="url(#linearGradient-6)"></path>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-7)" points="400 72.6344517 400 83 251 8.02993938 256 0"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

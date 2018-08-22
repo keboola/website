@@ -1,0 +1,14 @@
+<div class="ask-for-demo"><div class="in">
+	{% if section.subheadline != "" and section.subheadline != nil %}
+		<p class="p-perex">{{ section.subheadline }}</p>
+	{% endif %}
+	{% if section.headline != "" and section.headline != nil %}
+		<h1>{{ section.headline }}</h1>
+	{% endif %}
+	{% if section.content != "" and section.content != nil %}
+		<p class="p-margin">{{ section.content }}</p>
+	{% endif %}
+	<div class="ask-for-demo-content">
+		<a href="{{ section.ctalink }}" class="btn btn-big btn-blue">{{ section.ctaname }}</a>
+	</div>
+</div></div>

@@ -1,0 +1,15 @@
+<div class="article-list article-list-half"><div class="in">
+	<div class="item-desc">
+		<p class="p-perex">{{ section.subheadline }}</p>
+		<h1 class="h1-blue">{{ section.headline }}</h1>
+	</div>
+	<div class="item-list"><ul class="article-list-content article-list-content-three">
+		{% for list in section.list %}
+			<li><a href="{{ list.link }}">
+				<i class="ico ico-{{ list.icotype }}"></i>
+				<h2 class="h2-middle h2-{{ list.icotype }}">{{ list.title }}</h2>
+				<p>{{ list.desc }}</p>
+			</a></li>
+        {% endfor %}
+	</ul></div>
+</div></div>

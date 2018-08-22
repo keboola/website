@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product" transform="translate(-1222.000000, -2374.000000)" fill="#228DFF" fill-rule="nonzero">
+            <g id="TABLE" transform="translate(250.000000, 2030.000000)">
+                <path d="M988,344 C979.164,344 972,351.164 972,360 C972,368.836 979.164,376 988,376 C996.836,376 1004,368.836 1004,360 C1004,351.164 996.836,344 988,344 Z M996.942667,356.942667 L986.862667,367.022667 C986.612,367.273333 986.273333,367.413333 985.92,367.413333 C985.566667,367.413333 985.226667,367.273333 984.977333,367.022667 L980.373333,362.418667 C979.852,361.897333 979.852,361.054667 980.373333,360.533333 C980.894667,360.012 981.737333,360.012 982.258667,360.533333 L985.92,364.194667 L995.057333,355.057333 C995.578667,354.536 996.421333,354.536 996.942667,355.057333 C997.464,355.578667 997.464,356.421333 996.942667,356.942667 Z" id="Shape-Copy-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

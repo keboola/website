@@ -1,0 +1,13 @@
+host: 127.0.0.1
+port: 4004
+url: "https://www.keboola.com"
+permalink: none
+highlighter: true
+exclude: ['Rakefile.rb', 'CNAME', 'README.markdown']
+gems:
+  - jekyll-sitemap
+
+collections:
+   product:
+     output: true
+     permalink: /:collection/:path/

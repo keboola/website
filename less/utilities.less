@@ -1,0 +1,166 @@
+// UTILITY CLASSES
+// ---------------
+
+// GRADIENT
+/*
+  https://cssgradient.io/
+*/
+
+// TRIANGLE GENERATOR
+/*
+  http://apps.eky.hk/css-triangle-generator/
+*/
+
+// HARDWARE ACCELERATED
+/* 
+  -webkit-transform:translate3d(0,0,0);
+*/
+
+// BACKFACE VISIBILITY
+/* 
+  -webkit-backface-visibility: hidden;
+*/
+
+// MORE TRANSFORM
+/*
+  -webkit-transform: rotate(45deg) scale(2);
+*/
+
+// SELECT
+/*
+  select{
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    outline:none;
+    cursor:pointer;
+  }
+*/
+
+// IMG DRAG - REMOVE
+/*
+  pointer-events:none;
+*/
+
+
+// ANIMATION
+// ---------------
+/* 
+  .transition(all .2s ease-in-out);
+*/
+
+// EASING
+/* 
+  http://cubic-bezier.com/
+*/
+
+
+// KEYFRAMES - ANIMATION
+// ---------------
+/*
+  -webkit-animation: pulse 4s infinite ease-in-out;
+  -webkit-animation-delay: .5s;
+
+  @-webkit-keyframes pulse {
+    0% {
+      -webkit-transform: translate3d(0,0,0);
+    }
+    40% {
+      -webkit-transform: translate3d(0,30px,0);
+    }
+    100% {
+      -webkit-transform: translate3d(0,0,0);
+    }
+  }
+*/
+
+// ONCE ANIMATION
+/*
+  -webkit-animation: eye .6s ease-in-out;
+  -webkit-animation-delay: .5s;
+  -webkit-animation-fill-mode:forwards;
+  -webkit-animation-iteration-count: 1;
+
+  @-webkit-keyframes eye {
+    0% {
+      height:7px;
+    }
+    30% {
+      height:4px;
+    }
+    60% {
+      height:7px;
+    }
+    100% {
+      height:0;
+    }
+  }
+*/
+
+
+
+// TEXT OVERFLOW
+// ---------------
+/*
+  display:block;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+*/
+
+
+
+// SCROLL
+// ---------------
+/*
+  overflow:hidden;
+  overflow-x:hidden;
+  overflow-y:auto;
+  -webkit-overflow-scrolling: touch;
+*/
+
+// BOTTOM
+/*
+  overflow:hidden;
+  overflow-x:auto;
+  overflow-y:hidden;
+  -webkit-overflow-scrolling: touch;
+*/
+
+
+
+
+
+// MEDIA RESPONSIVE
+// ---------------
+
+// OR
+/* 
+  @media screen and (max-width: 1024px) , screen and (max-height: 768px)
+*/
+
+// AND
+/*
+  @media screen and (max-width: 1024px) and (max-height: 768px)
+*/
+
+
+// FIND ELEMENT BIGGER THAN VIEWPORT
+/*
+  $('*').each(function() {
+      if ($(this).width() > 320) {
+          console.log($(this).html(), $(this).attr('class'));
+      }
+  });
+*/
+
+
+
+
+
+
+
+
+

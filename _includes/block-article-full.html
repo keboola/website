@@ -1,0 +1,19 @@
+<div class="article-text-full"><div class="in">
+	<div class="item-desc">
+		{% if section.subheadline != "" and section.subheadline != nil %}
+			<p class="p-perex">{{ section.subheadline }}</p>
+		{% endif %}
+		{% if section.headline != "" and section.headline != nil %}
+			<h1>{{ section.headline }}</h1>
+		{% endif %}
+		{% if section.content != "" and section.content != nil %}
+			<p class="p-perex-dark">{{ section.content }}</p>
+		{% endif %}
+	</div>
+	{% for list in section.list %}
+		<div class="item-desc-list">
+			<div class="item-left"><p>{{ list.descleft }}</p></div>
+			<div class="item-right"><p>{{ list.descright }}</p></div>
+		</div>
+	{% endfor %}
+</div></div>
