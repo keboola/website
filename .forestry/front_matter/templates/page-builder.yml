@@ -19,5 +19,17 @@ fields:
   - header-blue
   - header-product
   - article-with-perex
+  - ask-demo
+  - article-list-hp
+  - article-list-one-row
+  - article-list-two-row
+  - article-list-table
+  - article-gray-box
+  - horizontal-rule
+  - black-panel
+  - review
+  - faq
+  - gallery-list
+  - recent-list
 pages:
 - _product/analytical-dwh.md
