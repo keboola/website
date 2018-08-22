@@ -1,0 +1,20 @@
+---
+label: review
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  default: review
+  hidden: true
+- type: field_group_list
+  label: list
+  name: list
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: textarea
+    label: desc
+    name: desc
