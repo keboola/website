@@ -1,0 +1,25 @@
+---
+label: ask-demo
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  default: ask-demo
+  hidden: true
+- type: text
+  name: subheadline
+  label: sub headline
+- type: text
+  name: headline
+  label: headline
+- type: textarea
+  name: content
+  label: content
+- type: text
+  name: ctaname
+  label: ctaname
+- type: text
+  name: ctalink
+  label: ctalink
