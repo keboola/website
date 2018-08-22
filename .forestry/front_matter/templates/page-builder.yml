@@ -16,3 +16,5 @@ fields:
   name: page_sections
   template_types:
   - header-hp
+pages:
+- _product/analytical-dwh.md
