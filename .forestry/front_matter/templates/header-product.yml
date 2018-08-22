@@ -1,0 +1,15 @@
+---
+label: header-product
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: blocks
+  label: blocks
+  default: header-product
+- type: text
+  label: sub headline
+  name: subheadline
+- type: text
+  label: headline
+  name: headline
