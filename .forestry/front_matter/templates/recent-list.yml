@@ -1,0 +1,10 @@
+---
+label: recent-list
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  default: recent-list
+  hidden: true
