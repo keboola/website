@@ -1,0 +1,42 @@
+---
+label: article-list-hp
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  default: article-list-hp
+  hidden: true
+- type: text
+  label: sub headline
+  name: subheadline
+- type: text
+  label: headline
+  name: headline
+- type: field_group_list
+  name: list
+  label: list
+  fields:
+  - type: text
+    name: link
+    label: link
+  - type: select
+    name: icotype
+    config:
+      source:
+        type: simple
+      options:
+      - blue
+      - yellow
+      - gray
+      - black
+      - blueright
+      - yellowright
+    label: icotype
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: desc
+    label: desc
