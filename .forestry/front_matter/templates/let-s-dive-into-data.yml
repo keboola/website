@@ -1,0 +1,61 @@
+---
+label: " – Let’s Dive into Data"
+hide_body: 
+is_partial: 
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: page_sections
+  label: Page sections
+  type: field_group_list
+  fields:
+  - name: template
+    label: Template
+    type: text
+    hidden: false
+    default: ''
+  - name: block
+    label: Block
+    type: text
+    hidden: false
+    default: ''
+  - name: headlineleft
+    label: Headlineleft
+    type: text
+    hidden: false
+    default: ''
+  - name: headlineright
+    label: Headlineright
+    type: text
+    hidden: false
+    default: ''
+  - name: headlineend
+    label: Headlineend
+    type: text
+    hidden: false
+    default: ''
+  - name: subheadline
+    label: Subheadline
+    type: text
+    hidden: false
+    default: ''
+  - name: headline
+    label: Headline
+    type: text
+    hidden: false
+    default: ''
+  - name: content
+    label: Content
+    type: textarea
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
