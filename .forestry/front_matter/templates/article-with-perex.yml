@@ -10,7 +10,7 @@ fields:
   hidden: true
 - type: text
   label: subheadline
-  name: sub_headline
+  name: subheadline
 - type: boolean
   name: headlinesmall
   label: headline small
