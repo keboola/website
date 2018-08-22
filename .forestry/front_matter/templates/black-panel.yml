@@ -1,0 +1,25 @@
+---
+label: black-panel
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  default: black-panel
+  hidden: true
+- type: text
+  name: headline
+  label: headline
+- type: textarea
+  name: content
+  label: content
+- type: file
+  name: img
+  label: img
+- type: text
+  name: ctaname
+  label: ctaname
+- type: text
+  name: ctalink
+  label: ctalink
