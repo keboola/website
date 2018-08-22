@@ -4,9 +4,10 @@ hide_body: false
 is_partial: true
 fields:
 - type: text
-  name: blocks
-  label: blocks
+  name: block
+  label: block
   default: header-product
+  hidden: true
 - type: text
   label: sub headline
   name: subheadline
