@@ -16,5 +16,8 @@ fields:
   name: page_sections
   template_types:
   - header-hp
+  - header-blue
+  - header-product
+  - article-with-perex
 pages:
 - _product/analytical-dwh.md
