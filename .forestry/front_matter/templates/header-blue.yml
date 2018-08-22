@@ -8,3 +8,12 @@ fields:
   name: block
   hidden: true
   default: header-blue
+- type: text
+  label: sub headline
+  name: subheadline
+- type: text
+  name: headline
+  label: headline
+- type: textarea
+  name: content
+  label: content
