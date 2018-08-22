@@ -16,5 +16,14 @@ page_sections:
   content: lorem ipsum
   subheadline: sub headline
   headlinesmall: true
+- template: article-with-perex
+  block: article-with-perex
+  subheadline: test
+  headline: ewsfsdf
+  content: sdfsdfsdfsf
+- template: horizontal-rule
+  block: hr
+- template: gallery-list
+  block: gallery-list
 
 ---
