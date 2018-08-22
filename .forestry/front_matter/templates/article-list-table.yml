@@ -1,0 +1,36 @@
+---
+label: article-list-table
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  default: article-list-table
+  hidden: true
+- type: field_group
+  name: tablehead
+  label: tablehead
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: valueold
+    label: value old
+  - type: text
+    name: valuenew
+    label: value new
+- type: field_group_list
+  label: tablerow
+  name: tablerow
+  fields:
+  - type: text
+    label: name
+    name: name
+  - type: text
+    label: valueold
+    name: valueold
+  - type: text
+    label: valuenew
+    name: valuenew
