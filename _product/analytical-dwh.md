@@ -15,5 +15,6 @@ page_sections:
   headline: head
   content: lorem ipsum
   subheadline: sub headline
+  headlinesmall: true
 
 ---
