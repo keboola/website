@@ -14,5 +14,6 @@ page_sections:
   sub_headline: sub head
   headline: head
   content: lorem ipsum
+  subheadline: sub headline
 
 ---
