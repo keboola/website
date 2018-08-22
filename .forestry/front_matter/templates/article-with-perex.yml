@@ -8,3 +8,15 @@ fields:
   label: block
   default: article-with-perex
   hidden: true
+- type: text
+  label: subheadline
+  name: sub_headline
+- type: boolean
+  name: headlinesmall
+  label: headline small
+- type: text
+  name: headline
+  label: headline
+- type: textarea
+  name: content
+  label: content
