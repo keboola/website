@@ -1,0 +1,18 @@
+---
+label: Page builder
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: blocks
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: blocks
+  label: Page Sections
+  name: page_sections
+  template_types:
+  - header-hp
