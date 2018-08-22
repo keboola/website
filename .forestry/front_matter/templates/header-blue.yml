@@ -1,0 +1,10 @@
+---
+label: header-blue
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  label: block
+  name: block
+  hidden: true
+  default: header-blue
