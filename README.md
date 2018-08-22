@@ -1,11 +1,12 @@
-# KEBOOLA
+---
 
-*Cogvio is a technology and data science company focused on the development of specialized applications in pharmaceutical, medical device and healthcare segment.*
+---
+# KEBOOLA
 
 [keboola](https://keboola.com)
 
-
 ## Docker run
+
 [more info](https://github.com/envygeeks/jekyll-docker)
 
 #### Usage
@@ -27,11 +28,5 @@ docker run --rm -v `pwd`:/app -ti appleboy/node-less \
 ```
 
 #### IP
-```
-http://127.0.0.1:4000/
-```
 
-
-
-
-
+    http://127.0.0.1:4000/
