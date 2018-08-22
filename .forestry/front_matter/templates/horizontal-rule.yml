@@ -1,0 +1,10 @@
+---
+label: horizontal-rule
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  label: block
+  name: block
+  default: hr
+  hidden: true
