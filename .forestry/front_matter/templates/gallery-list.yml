@@ -1,0 +1,10 @@
+---
+label: gallery-list
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  default: gallery-list
+  hidden: true
