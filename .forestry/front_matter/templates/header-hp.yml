@@ -1,0 +1,19 @@
+---
+label: header-hp
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  hidden: true
+  default: header-hp
+- type: text
+  name: headlineleft
+  label: headline left
+- type: text
+  name: headlineright
+  label: headline right
+- type: text
+  name: headlineend
+  label: headline end
