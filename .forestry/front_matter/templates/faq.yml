@@ -1,0 +1,23 @@
+---
+label: faq
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  default: faq
+  hidden: true
+- type: text
+  name: headline
+  label: headline
+- type: field_group_list
+  name: list
+  label: list
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: textarea
+    name: desc
+    label: desc
