@@ -31,7 +31,10 @@ page_sections:
     valuenew: new
   tablerow:
   - name: item
-    valueold: 'yes'
+    valueold: 'no'
     valuenew: new
+  - name: item 2
+    valueold: bla bla
+    valuenew: 'yes'
 
 ---
