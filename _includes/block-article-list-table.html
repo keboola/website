@@ -1,25 +1,29 @@
 <article class="comparison-table"><div class="in">
 	<div class="comparison-table-content">
-		{% for tablehead in section.tablehead %}
+		
 			<div class="comparison-table-head">
-				<div class="comparison-table-name">{{ tablehead.name }}</div>
-				<div class="comparison-table-value">{{ tablehead.valueold }}</div>
-				<div class="comparison-table-value comparison-table-value-blue">{{ tablehead.valuenew }}</div>
+				<div class="comparison-table-name">{{ section.tablehead.name }}</div>
+				<div class="comparison-table-value">{{ section.tablehead.valueold }}</div>
+				<div class="comparison-table-value comparison-table-value-blue">{{ section.tablehead.valuenew }}</div>
 			</div>
-		{% endfor %}
+		
 		{% for tablerow in section.tablerow %}
 			<div class="comparison-table-item">
 				<div class="comparison-table-name">{{ tablerow.name }}</div>
 				<div class="comparison-table-value">
-					{% if tablerow.valueold == false %}
+					{% if tablerow.valueold == 'false' %}
+						<i class="ico-{{ tablerow.valueold }}">{{ tablerow.valueold }}</i>
+					{% else if tablerow.valueold == 'true' %}
 						<i class="ico-{{ tablerow.valueold }}">{{ tablerow.valueold }}</i>
 					{% else %}
 						{{ tablerow.valueold }}
 					{% endif %}
 				</div>
 				<div class="comparison-table-value comparison-table-value-blue">
-					{% if tablerow.valuenew == true %}
+					{% if tablerow.valuenew == 'true' %}
 						<i class="ico-{{ tablerow.valuenew }}">{{ tablerow.valuenew }}</i>
+					{% else if tablerow.valueold == 'false' %}
+						<i class="ico-{{ tablerow.valueold }}">{{ tablerow.valueold }}</i>
 					{% else %}
 						{{ tablerow.valuenew }}
 					{% endif %}
