@@ -16,6 +16,8 @@ page_sections:
   content: lorem ipsum
   subheadline: sub headline
   headlinesmall: true
+- template: horizontal-rule
+  block: hr
 - template: article-with-perex
   block: article-with-perex
   subheadline: test
