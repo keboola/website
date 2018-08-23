@@ -8,3 +8,6 @@ fields:
   label: block
   default: recent-list
   hidden: true
+- type: text
+  name: headline
+  label: headline
