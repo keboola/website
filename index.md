@@ -247,5 +247,6 @@ page_sections:
   ctalink: "/blog/"
 - template: recent-list
   block: recent-list
+  headline: More <strong>Data Science</strong> Articles
 
 ---
