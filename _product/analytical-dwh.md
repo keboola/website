@@ -25,5 +25,7 @@ page_sections:
   block: hr
 - template: gallery-list
   block: gallery-list
+- template: recent-list
+  block: recent-list
 
 ---
