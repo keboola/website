@@ -36,5 +36,11 @@ page_sections:
   - name: item 2
     valueold: bla bla
     valuenew: 'yes'
+  - name: item 3
+    valueold: 'true'
+    valuenew: 'false'
+  - name: item last
+    valueold: 'false'
+    valuenew: 'true'
 
 ---
