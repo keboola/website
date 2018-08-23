@@ -23,5 +23,15 @@ page_sections:
 - template: recent-list
   block: recent-list
   headline: recent header
+- template: article-list-table
+  block: article-list-table
+  tablehead:
+    name: name
+    valueold: old
+    valuenew: new
+  tablerow:
+  - name: item
+    valueold: 'yes'
+    valuenew: new
 
 ---
