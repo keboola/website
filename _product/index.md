@@ -22,5 +22,6 @@ page_sections:
   block: gallery-list
 - template: recent-list
   block: recent-list
+  headline: recent header
 
 ---
