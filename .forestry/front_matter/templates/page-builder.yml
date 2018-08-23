@@ -32,6 +32,7 @@ fields:
   - gallery-list
   - recent-list
 pages:
+- test.md
 - _product/index.md
 - index.md
 - _product/analytical-dwh.md
