@@ -51,7 +51,7 @@ page_sections:
 - template: horizontal-rule
   block: hr
 - template: article-list-one-row
-  block: article-list-onerow
+  block: article-list-one-row
   subheadline: ALL IN ONE CONTAINER BASED DATA PLATFORM YOU CAN ADD TO
   headline: A new approach to embedded analytics
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pharetra
@@ -76,7 +76,7 @@ page_sections:
 - template: horizontal-rule
   block: hr
 - template: article-list-two-row
-  block: article-list-tworow
+  block: article-list-two-row
   subheadline: ALL IN ONE CONTAINER BASED DATA PLATFORM YOU CAN ADD TO
   headline: A new approach to embedded analytics
   content: 
