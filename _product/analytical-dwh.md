@@ -29,5 +29,11 @@ page_sections:
   block: gallery-list
 - template: recent-list
   block: recent-list
+  headline: More <strong>Data Science</strong> Articles
+- template: article-list-two-row
+  block: article-list-two-row
+  list:
+  - icotype: black
+    title: sfsdf
 
 ---
