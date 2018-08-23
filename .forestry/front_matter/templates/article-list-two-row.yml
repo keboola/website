@@ -6,7 +6,7 @@ fields:
 - type: text
   name: block
   label: block
-  default: article-list-tworow
+  default: article-list-two-row
   hidden: true
 - type: text
   label: sub headline
