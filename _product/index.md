@@ -11,8 +11,7 @@ page_sections:
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
   headlinesmall: true
-  headline: "Keboola allows you to collaborate \Lacross departments and use diverse\Lsets
-    of tools in \La single system with just one click."
+  headline: Keboola puts you in control of your data.
   content: |
     Bringing Data Engineering and Data Analytics together in one single platform that anyone can use via UI or API. One click managed infrastructure, data hub,all people provisioning, process automation - all in one platform.
     ML based solutions that provide predictive support, automatic data set …., one click scaffolding and much more.
