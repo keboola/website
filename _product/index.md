@@ -62,6 +62,12 @@ page_sections:
       You use only parts that suits you
       You can turn on/off services and modules with a single click
       Total control of performance, efficiency and spent
+- template: review
+  block: review
+  list:
+  - name: Sarah....
+    desc: Now it's upto you to fill in quotes...work with Fenek, Marcus, Jakub and
+      Lebka, pls.
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
