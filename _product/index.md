@@ -20,15 +20,7 @@ page_sections:
   subheadline: all in one container based data platform you can add to
   headline: A new approach to company wide analytics
   list:
-  - icotype: gray
-    title: Development & production environment
-    desc: |
-      secure and stable sandbox
-      Personal dev sandboxes and notebooks (SQL, RStudio, Python)
-      With data from data engineering linked
-      Model versioning
-      Auto scaling the platform
-      Error, exception, warning handling
+  - {}
   - icotype: blue
     title: No More Complex ETLs
     desc: No schema definition, connect to thousands of sources, create new connectors
@@ -51,6 +43,15 @@ page_sections:
       GDPR compliant
       All the data in your possession, all the time
       We believe that Keboola is the best - you can leave anytime with no hassle - your satisfaction is the only vendor lock
+  - icotype: gray
+    title: Development & production environment
+    desc: |
+      secure and stable sandbox
+      Personal dev sandboxes and notebooks (SQL, RStudio, Python)
+      With data from data engineering linked
+      Model versioning
+      Auto scaling the platform
+      Error, exception, warning handling Data lake, structured storage, real-time analytical dwh for you teams
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
