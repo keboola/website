@@ -68,6 +68,12 @@ page_sections:
   - name: Sarah....
     desc: Now it's upto you to fill in quotes...work with Fenek, Marcus, Jakub and
       Lebka, pls.
+- template: article-list-table
+  block: article-list-table
+  tablehead:
+    name: test name
+    valueold: test value old
+    valuenew: test value new
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
