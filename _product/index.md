@@ -80,9 +80,9 @@ page_sections:
 - template: article-list-table
   block: article-list-table
   tablehead:
-    name: test name
-    valueold: test value old
-    valuenew: test value new
+    name: Tasks
+    valueold: old way
+    valuenew: Keboola way
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
