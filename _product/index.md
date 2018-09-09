@@ -20,12 +20,6 @@ page_sections:
   subheadline: all in one container based data platform you can add to
   headline: A new approach to company wide analytics
   list:
-  - icotype: black
-    title: Serverless - built as micro-service, running on AWS
-    desc: |
-      You use only parts that suits you
-      You can turn on/off services and modules with a single click
-      Total control of performance, efficiency and spent
   - icotype: blue
     title: No More Complex ETLs
     desc: No schema definition, connect to thousands of sources, create new connectors
@@ -62,6 +56,12 @@ page_sections:
       With one click from developer sandboxes
       Handle the complicated process and trigger actions in other SaaS apps and legacy systems like CRM, mailing, ERP, SupplyChain or BI
     icotype: yellow
+  - icotype: black
+    title: Serverless - built as micro-service, running on AWS
+    desc: |
+      You use only parts that suits you
+      You can turn on/off services and modules with a single click
+      Total control of performance, efficiency and spent
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
