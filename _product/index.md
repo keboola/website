@@ -20,15 +20,6 @@ page_sections:
   subheadline: all in one container based data platform you can add to
   headline: A new approach to company wide analytics
   list:
-  - icotype: blueright
-    title: " No blackbox - open and totally customizable system"
-    desc: |
-      You see every single line of code, each transition and data stream
-      No user can break it - you see log of changes and all the updates
-      Each part can be changed for you own purposes
-      GDPR compliant
-      All the data in your possession, all the time
-      We believe that Keboola is the best - you can leave anytime with no hassle - your satisfaction is the only vendor lock
   - icotype: blue
     title: No More Complex ETLs
     desc: No schema definition, connect to thousands of sources, create new connectors
@@ -42,6 +33,15 @@ page_sections:
       All user provisioning, no data volume limitations.
       No expensive maintanance cost
       All managed and scaled by our software platform
+  - icotype: blueright
+    title: " No blackbox - open and totally customizable system"
+    desc: |
+      You see every single line of code, each transition and data stream
+      No user can break it - you see log of changes and all the updates
+      Each part can be changed for you own purposes
+      GDPR compliant
+      All the data in your possession, all the time
+      We believe that Keboola is the best - you can leave anytime with no hassle - your satisfaction is the only vendor lock
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
