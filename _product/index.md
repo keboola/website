@@ -87,6 +87,9 @@ page_sections:
   - name: Connecting to data sources
     valueold: Weeks
     valuenew: Hours - no coding
+  - name: Team Size
+    valueold: 20+ advanced tech needed
+    valuenew: 1 - basic data knowledge required
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
