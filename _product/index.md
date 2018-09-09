@@ -49,5 +49,9 @@ page_sections:
   - name: item last
     valueold: 'false'
     valuenew: 'true'
+- template: article-list-two-row
+  block: article-list-two-row
+  subheadline: all in one container based data platform you can add to
+  headline: A new approach to company wide analytics
 
 ---
