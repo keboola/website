@@ -68,6 +68,15 @@ page_sections:
   - name: Sarah....
     desc: Now it's upto you to fill in quotes...work with Fenek, Marcus, Jakub and
       Lebka, pls.
+- template: article-list-one-row
+  block: article-list-one-row
+  subheadline: all in one container based data  platform you can add to
+  headline: A new approach to enterprise analytics
+  content: With Keboola you can support different roles across the organization from
+    data scientists to advanced users in business and their ever changing requirements
+    for tools, setup and data without the need to change the underlaying infrastructure
+    or deploy significant new IT resources to handle demands of DataScientist and
+    "Citizen" data users across your organisation
 - template: article-list-table
   block: article-list-table
   tablehead:
