@@ -20,7 +20,11 @@ page_sections:
   subheadline: all in one container based data platform you can add to
   headline: A new approach to company wide analytics
   list:
-  - {}
+  - title: Automation
+    desc: |
+      With one click from developer sandboxes
+      Handle the complicated process and trigger actions in other SaaS apps and legacy systems like CRM, mailing, ERP, SupplyChain or BI
+    icotype: yellow
   - icotype: blue
     title: No More Complex ETLs
     desc: No schema definition, connect to thousands of sources, create new connectors
