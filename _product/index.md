@@ -26,6 +26,13 @@ page_sections:
       on the fly. Prepare the data in form and types as you need for particular use
       case. Data is stored so always available to you. Orchestration of rich pipelines
       across technologies 3rd party apps directly orchestrated in your workflows
+  - icotype: yellow
+    title: Data Lake & DwH
+    desc: |-
+      Instant access to DataLake S3, Realtime Analytical Dwh Snowflake/Redshift. Processed data storage and data catalogues
+      All user provisioning, no data volume limitations.
+      No expensive maintanance cost
+      All managed and scaled by our software platform
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
