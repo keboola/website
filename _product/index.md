@@ -20,7 +20,7 @@ page_sections:
   subheadline: all in one container based data platform you can add to
   headline: A new approach to company wide analytics
   list:
-  - icotype: yellow
+  - icotype: blue
     title: No More Complex ETLs
     desc: No schema definition, connect to thousands of sources, create new connectors
       on the fly. Prepare the data in form and types as you need for particular use
