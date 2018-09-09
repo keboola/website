@@ -83,6 +83,10 @@ page_sections:
     name: Tasks
     valueold: old way
     valuenew: Keboola way
+  tablerow:
+  - name: Connecting to data sources
+    valueold: Weeks
+    valuenew: Hours - no coding
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
