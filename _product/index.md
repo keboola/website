@@ -19,6 +19,13 @@ page_sections:
   block: article-list-two-row
   subheadline: all in one container based data platform you can add to
   headline: A new approach to company wide analytics
+  list:
+  - icotype: yellow
+    title: No More Complex ETLs
+    desc: No schema definition, connect to thousands of sources, create new connectors
+      on the fly. Prepare the data in form and types as you need for particular use
+      case. Data is stored so always available to you. Orchestration of rich pipelines
+      across technologies 3rd party apps directly orchestrated in your workflows
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
