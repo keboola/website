@@ -14,6 +14,7 @@ page_sections:
   content: |
     Bringing Data Engineering and Data Analytics together in one single platform that anyone can use via UI or API. One click managed infrastructure, data hub,all people provisioning, process automation - all in one platform.
     ML based solutions that provide predictive support, automatic data set description, one click scaffolding and much more.
+  ctaname: Ask for demo
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
