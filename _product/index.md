@@ -6,7 +6,7 @@ page_sections:
 - template: header-product
   block: header-product
   subheadline: Keboola puts you in control of your data
-  headline: "<strong>Platform for you Data Analytics</strong>"
+  headline: "<strong>Platform for you Data Analytics </strong>"
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
