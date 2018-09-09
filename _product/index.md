@@ -10,7 +10,7 @@ page_sections:
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
-  headlinesmall: true
+  headlinesmall: false
   headline: Keboola puts you in control of your data.
   content: |
     Bringing Data Engineering and Data Analytics together in one single platform that anyone can use via UI or API. One click managed infrastructure, data hub,all people provisioning, process automation - all in one platform.
