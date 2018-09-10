@@ -57,7 +57,8 @@ page_sections:
   content: Bringing Data Engineering and Data Analytics together in one single platform
     that anyone can use via UI or API. One click managed infrastructure, all people
     provisioning, process automation - one platform.ML based solutions that provide
-    predictive support, automatic data set …., one click scaffolding and much more.
+    predictive support, automatic data set discovery, one click scaffolding and much
+    more.
   ctaname: Ask for a demo
   ctalink: "/blog/"
 - template: article-full
