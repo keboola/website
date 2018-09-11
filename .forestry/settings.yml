@@ -10,6 +10,8 @@ sections:
 - type: jekyll-posts
   label: Learning
   create: all
+  templates:
+  - learning-detail
 - type: directory
   path: _product
   label: Product
