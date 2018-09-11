@@ -27,11 +27,11 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: markdown
+        format: html-blocks
   - type: textarea
     label: description - right
     name: descright
     config:
       wysiwyg: true
       schema:
-        format: markdown
+        format: html
