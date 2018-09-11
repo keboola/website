@@ -45,9 +45,9 @@ page_sections:
   headline: Keboola works with the world’s best!
   list:
   - name: AWS
-    img: "/img/logo-aws.jpg"
+    img: "/uploads/logo-aws.jpg"
   - name: Azure
-    img: "/img/logo-azure.jpg"
+    img: "/uploads/logo-azure.jpg"
 - template: horizontal-rule
   block: hr
 - template: ask-demo
