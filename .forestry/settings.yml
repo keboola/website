@@ -15,7 +15,6 @@ sections:
 - type: jekyll-posts
   label: Learning
   create: all
-  match: "**/*"
   templates:
   - resources-detail
 upload_dir: uploads
