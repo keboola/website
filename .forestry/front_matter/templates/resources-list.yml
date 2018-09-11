@@ -18,4 +18,5 @@ fields:
   name: type
   label: type
 pages:
+- gaming.md
 - saas.md
