@@ -43,18 +43,7 @@
 </div></article>
 
 <div class="article-list article-list-table"><div class="in">
-	<div class="item-title">
-		<h1>{{ page.type }}</h1>
-		<div class="item-title-select">
-			<div class="item-input"><select name="" id="">
-				<option value="">Type</option>
-				<option value="">Type</option>
-				<option value="">Type</option>
-				<option value="">Type</option>
-				<option value="">Type</option>
-			</select></div>
-		</div>
-	</div>
+	<div class="item-title"><h1>{{ page.type }}</h1></div>
 	<div class="item-list"><ul class="article-list-content-table">
 		{% assign thiscategory = page.type | downcase %}
 		{% for post in site.posts %}
