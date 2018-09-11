@@ -86,6 +86,9 @@ page_sections:
     valueold: old way
     valuenew: Keboola way
   tablerow:
+  - name: test
+    valueold: old old
+    valuenew: new-new
   - name: Connecting to data sources
     valueold: Weeks
     valuenew: Hours - no coding
