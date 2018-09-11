@@ -1,0 +1,23 @@
+---
+label: article-list-img
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  default: article-list-img
+  label: block
+  name: block
+  hidden: true
+- type: text
+  name: headline
+  label: headline
+- type: field_group_list
+  label: list
+  name: list
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    label: img
+    name: img
