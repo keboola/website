@@ -37,6 +37,14 @@ p{
 .p-head{
   .font-size(22, 34px);
 }
+.p-perex-light{
+  .font-size(20, 30px);
+  font-weight:400;
+  color:@white;
+  .opacity(60);
+  letter-spacing:1px;
+  text-transform:uppercase;
+}
 .p-white{
   color:@white;
 
@@ -142,6 +150,10 @@ h2{
   .font-size(24, 1.2em);
   font-weight:400;
   color:#233141;
+
+  a{
+    color:#233141;
+  }
 }
 .h2-middle{
   .font-size(20, 1.2em);
@@ -153,6 +165,25 @@ h2{
 .h2-yellow,
 .h2-yellowright{
   color:#FFC306;
+}
+.h2-white{
+  margin-bottom:30px;
+  font-weight:400;
+  color:@white;
+  text-transform:uppercase;
+  letter-spacing:1px;
+
+  a{
+    color:@white;
+    .opacity(60);
+    text-decoration:none;
+    .transition(all .2s ease-in-out);
+
+    &:hover{
+      .opacity(100);
+      text-decoration:none;
+    }
+  }
 }
 
 
