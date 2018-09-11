@@ -33,8 +33,3 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: tag_list
-  default:
-  - user
-  label: cat
-  name: cat
