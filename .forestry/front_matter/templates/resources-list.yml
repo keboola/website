@@ -1,0 +1,19 @@
+---
+label: Resources - list
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  label: layout
+  name: layout
+  hidden: true
+  default: resources-list
+- type: text
+  label: title
+  name: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: type
+  label: type
