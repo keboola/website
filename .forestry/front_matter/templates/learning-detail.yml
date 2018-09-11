@@ -1,19 +1,35 @@
 ---
-label: resources - list
-hide_body: true
+label: resources - detail
+hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: layout
   label: layout
-  default: resources-list
+  name: layout
+  default: learning-detail
   hidden: true
 - type: text
-  name: title
   label: title
+  name: title
 - type: text
-  name: type
-  label: type
-- type: text
-  name: permalink
-  label: permalink
+  name: perex
+  label: perex
+- type: datetime
+  name: date
+  label: date
+- type: select
+  name: categories
+  config:
+    source:
+      type: simple
+    options:
+    - ecommerce
+    - saas
+    - retail
+    - logistics
+    - gaming
+    - financial
+    - customer-stories
+    - whitepapers
+    - slidedecks
+  label: categories
