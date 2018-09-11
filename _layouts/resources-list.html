@@ -1,0 +1,71 @@
+{% include head.html %}
+<article class="section-header section-header-resourcedetail"><div class="in">
+	<div class="section-desc">
+		<p class="p-perex p-perex-dark">Helpful assets to maximaze your success</p>
+		<h1 class="h1-head h1-white"><strong>{{ page.type }}</strong></h1>
+		<div class="section-header-list">
+			<div class="list-item list-item-two">
+				<h2>Industry</h2>
+				<ul>
+					<li><a href="">eCommerce</a></li>
+					<li><a href="">Saas</a></li>
+					<li><a href="">Retail</a></li>
+					<li><a href="">Logistics</a></li>
+					<li><a href="">Gaming</a></li>
+					<li><a href="">Financial</a></li>
+				</ul>
+			</div>
+			<div class="list-item">
+				<h2>Type</h2>
+				<ul>
+					<li><a href="">Customer Stories</a></li>
+					<li><a href="">Whitepapers</a></li>
+					<li><a href="">Slidedecks</a></li>
+				</ul>
+			</div>
+			<div class="list-item">
+				<h2>academy</h2>
+				<ul>
+					<li><a href="">Demos</a></li>
+					<li><a href="">Hands-On</a></li>
+				</ul>
+			</div>
+			<div class="list-item">
+				<h2>OTHER</h2>
+				<ul>
+					<li><a href="">Wiki</a></li>
+					<li><a href="">Webinars</a></li>
+					<li><a href="">User communities</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div></article>
+
+<div class="article-list article-list-table"><div class="in">
+	<div class="item-title">
+		<h1>{{ page.type }}</h1>
+		<div class="item-title-select">
+			<div class="item-input"><select name="" id="">
+				<option value="">Type</option>
+				<option value="">Type</option>
+				<option value="">Type</option>
+				<option value="">Type</option>
+				<option value="">Type</option>
+			</select></div>
+		</div>
+	</div>
+	<div class="item-list"><ul class="article-list-content-table">
+		{% assign thiscategory = page.type | downcase %}
+		{% for post in site.posts %}
+			{% if post.categories contains thiscategory %}<li><a href="{{ post.url }}" class="item-li">
+			<div class="item-li-company">
+				<div class="item-company"><img src="/img/logo-netflix.png" alt=""></div>
+				<h2>{{ post.title }}</h2>
+			</div>
+			<div class="item-li-foot"><strong>{{ page.type }}</strong></div>
+		</a></li>{% endif %}
+		{% endfor %}
+	</ul></div>
+</div></div>
+{% include foot.html %}

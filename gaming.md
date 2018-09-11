@@ -1,6 +1,7 @@
 ---
-title: Gaming
 layout: resources-list
+title: Gaming - Industry - Learning
+
 permalink: "/gaming/"
-type: gaming
+type: Gaming
 ---

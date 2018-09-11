@@ -73,6 +73,9 @@
 
 #font {
   #family {
+    .sans-code() {
+      font-family: 'Roboto Mono', Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+    }
     .serif() {
       font-family: 'Roboto Slab', Georgia, "Times New Roman", Times, serif;
     }
@@ -173,6 +176,13 @@
       -ms-transform: translate(@x, @y);
        -o-transform: translate(@x, @y);
           transform: translate(@x, @y);
+}
+.translateX(@x: 0) {
+  -webkit-transform: translateX(@x);
+     -moz-transform: translateX(@x);
+      -ms-transform: translateX(@x);
+       -o-transform: translateX(@x);
+          transform: translateX(@x);
 }
 .skew(@x: 0, @y: 0) {
   -webkit-transform: translate(@x, @y);

@@ -3,7 +3,7 @@ port: 4004
 url: "https://www.keboola.com"
 permalink: none
 highlighter: true
-exclude: ['Rakefile.rb', 'CNAME', 'README.markdown']
+exclude: ['Rakefile.rb', 'CNAME', 'README.md', 'config.codekit3', 'Gemfile*', 'less']
 gems:
   - jekyll-sitemap
 
