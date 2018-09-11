@@ -12,9 +12,6 @@ fields:
   label: title
   name: title
 - type: text
-  name: permalink
-  label: permalink
-- type: text
   name: perex
   label: perex
 - type: select
