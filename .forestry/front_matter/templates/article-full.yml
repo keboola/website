@@ -34,4 +34,4 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
