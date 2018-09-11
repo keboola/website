@@ -1,0 +1,40 @@
+---
+label: Resources - detail
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: layout
+  name: layout
+  hidden: true
+  default: learning-detail
+- type: text
+  label: title
+  name: title
+- type: text
+  name: perex
+  label: perex
+- type: select
+  name: categories
+  config:
+    source:
+      type: simple
+    options:
+    - ecommerce
+    - saas
+    - retail
+    - logistics
+    - gaming
+    - financial
+    - customer-stories
+    - whitepapers
+    - slidedecks
+  label: categories
+- type: datetime
+  name: date
+  label: date
+- type: tag_list
+  default:
+  - user
+  label: cat
+  name: cat
