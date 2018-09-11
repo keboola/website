@@ -1,6 +1,0 @@
----
-title: Gaming
-layout: resources-list
-permalink: "/gaming/"
-type: gaming
----
