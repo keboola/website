@@ -1,7 +1,7 @@
 ---
 title: 'Reviving our Company with Reliable Data, Karel Klodner, CEO Lékárna.cz: '
 layout: learning-detail
-categories: retail
+categories: saas
 date: 2018-08-30 00:00:00 +0000
 user: pavel-dolezal
 perex: "\Lwithstand the preasure thanks to data driven approach and becomes #1!"
