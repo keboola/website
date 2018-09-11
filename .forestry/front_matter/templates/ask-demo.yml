@@ -17,6 +17,10 @@ fields:
 - type: textarea
   name: content
   label: content
+  config:
+    wysiwyg: true
+    schema:
+      format: html
 - type: text
   name: ctaname
   label: ctaname
