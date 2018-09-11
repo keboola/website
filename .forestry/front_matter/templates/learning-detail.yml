@@ -8,3 +8,12 @@ fields:
   label: layout
   default: resources-list
   hidden: true
+- type: text
+  name: title
+  label: title
+- type: text
+  name: type
+  label: type
+- type: text
+  name: permalink
+  label: permalink
