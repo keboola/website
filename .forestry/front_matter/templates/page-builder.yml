@@ -20,10 +20,12 @@ fields:
   - header-product
   - article-with-perex
   - ask-demo
+  - article-full
   - article-list-hp
   - article-list-one-row
   - article-list-two-row
   - article-list-table
+  - article-list-img
   - article-gray-box
   - horizontal-rule
   - black-panel
