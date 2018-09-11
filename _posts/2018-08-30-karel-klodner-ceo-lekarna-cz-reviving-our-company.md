@@ -1,10 +1,10 @@
 ---
-title: 'Reviving our Company - gaming'
+title: Reviving our Company - retail
 layout: resources-detail
-categories: gaming
+categories: retail
 date: 2018-08-30 00:00:00 +0000
 user: pavel-dolezal
-perex: ' withstand the preasure thanks to data driven approach and becomes #1!'
+perex: "\Lwithstand the preasure thanks to data driven approach and becomes #1!"
 
 ---
 Here at Keboola, we have never shied away from taking an often unorthodox approach. Case in point is one of the methods we use to scope out businesses that could use our help. By scanning Czech e-commerce sites, we can easily discern between the companies already employing data tools, and the ones who are not using the data available to them to its potential. For the companies in the latter category, we are always happy to step in with a helping hand.
