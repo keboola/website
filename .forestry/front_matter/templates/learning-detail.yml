@@ -1,12 +1,12 @@
 ---
-label: Learning - detail
+label: Learning - list
 hide_body: false
 is_partial: false
 fields:
 - type: text
   name: layout
   label: layout
-  default: learning-detail
+  default: resources-list
   hidden: true
 - type: text
   name: title
