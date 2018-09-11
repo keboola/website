@@ -22,8 +22,8 @@
 				<div class="comparison-table-value comparison-table-value-blue">
 					{% if tablerow.valuenew == 'true' %}
 						<i class="ico-{{ tablerow.valuenew }}">{{ tablerow.valuenew }}</i>
-					{% else if tablerow.valueold == 'false' %}
-						<i class="ico-{{ tablerow.valueold }}">{{ tablerow.valueold }}</i>
+					{% else if tablerow.valuenew == 'false' %}
+						<i class="ico-{{ tablerow.valuenew }}">{{ tablerow.valuenew }}</i>
 					{% else %}
 						{{ tablerow.valuenew }}
 					{% endif %}

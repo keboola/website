@@ -16,11 +16,11 @@ fields:
     name: name
     label: name
   - type: text
-    name: valueold
     label: value old
+    name: valueold
   - type: text
-    name: valuenew
     label: value new
+    name: valuenew
 - type: field_group_list
   label: tablerow
   name: tablerow
@@ -29,8 +29,8 @@ fields:
     label: name
     name: name
   - type: text
-    label: valueold
+    label: value old
     name: valueold
   - type: text
-    label: valuenew
+    label: value new
     name: valuenew
