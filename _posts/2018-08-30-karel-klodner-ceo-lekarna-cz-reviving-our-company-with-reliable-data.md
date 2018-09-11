@@ -1,6 +1,6 @@
 ---
 title: 'Reviving our Company with Reliable Data, Karel Klodner, CEO Lékárna.cz: '
-layout: learning-detail
+layout: resources-detail
 categories: [saas, logistics, gaming]
 date: 2018-08-30 00:00:00 +0000
 user: pavel-dolezal

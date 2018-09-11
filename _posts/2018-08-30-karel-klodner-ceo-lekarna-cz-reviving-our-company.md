@@ -1,6 +1,6 @@
 ---
 title: 'Reviving our Company - gaming'
-layout: learning-detail
+layout: resources-detail
 categories: gaming
 date: 2018-08-30 00:00:00 +0000
 user: pavel-dolezal
