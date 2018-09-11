@@ -2,7 +2,7 @@
 title: Reviving our Company - retail
 layout: resources-detail
 categories: retail
-date: 2018-08-30 00:00:00 +0000
+date: 2018-09-06 00:00:00 +0000
 user: pavel-dolezal
 perex: "\Lwithstand the preasure thanks to data driven approach and becomes #1!"
 
