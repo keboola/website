@@ -1,6 +1,11 @@
 ---
-title: testing
+title: Je obecně známou věcí, že člověk bývá při zkoumání
 layout: resources-detail
 date: 2018-09-11 00:00:00 +0000
+perex: někdy náhodou, někdy účelně (např. pro pobavení čtenáře).
+categories: gaming
 
 ---
+## Proč ho používáme?
+
+Je obecně známou věcí, že člověk bývá při zkoumání grafického návrhu rozptylován okolním textem, pokud mu dává nějaký smysl. Úkolem Lorem Ipsum je pak nahradit klasický smysluplný text vhodnou bezvýznamovou alternativou s relativně běžným rozložením slov. To jej dělá narozdíl od opakujícího se "Tady bude text. Tady bude text..." mnohem více čitelnějším. V dnešní době je Lorem Ipsum používáno spoustou DTP balíků a webových editorů coby výchozí model výplňového textu. Ostatně si zkuste zadat frázi "lorem ipsum" do vyhledavače a sami uvidíte. Během let se objevily různé varianty a odvozeniny od klasického Lorem Ipsum, někdy náhodou, někdy účelně (např. pro pobavení čtenáře).
