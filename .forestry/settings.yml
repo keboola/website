@@ -12,6 +12,12 @@ sections:
   label: Product
   create: all
   match: "**/*"
+- type: jekyll-posts
+  label: Learning
+  create: all
+  match: "**/*"
+  templates:
+  - resources-detail
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
