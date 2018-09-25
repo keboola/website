@@ -128,14 +128,12 @@ page_sections:
       With one click you can get any data inside Keboola. If you encounter new source,
       just use our Generic Extractor and get data from it as well. In a matter of
       minutes work on your data!
-  - name: Is there a minimum?
-    desc: Nulla eu ullamcorper nisl. Ut lobortis augue a tortor aliquam ullamcorper.
-      Nam viverra venenatis urna, quis rutrum ipsum congue vitae. Vivamus commodo
-      convallis urna nec sagittis. Curabitur ut posuere justo. Sed pellentesque ipsum
-      quis neque molestie, eu auctor odio scelerisque. Aenean sed elit ex. Suspendisse
-      quis ex hendrerit, scelerisque diam nec, sodales risus. Etiam ornare, tellus
-      vitae iaculis egestas, velit dui imperdiet quam, mattis interdum arcu est ut
-      dui.
+  - name: How hard is to scale the platform and how do I provision it for multiple
+      users?
+    desc: 'Zero, nada, not a single minute you need to spend on actual management
+      or scaling or user provisioning of Keboola. That''s the job of software! We
+      have taken all the menial tasks and jobs in data infrastructure and built a
+      software to handle them! #robotsbaby'
   - name: Is there buy???
     desc: Nulla eu ullamcorper nisl. Ut lobortis augue a tortor aliquam ullamcorper.
       Nam viverra venenatis urna, quis rutrum ipsum congue vitae. Vivamus commodo
