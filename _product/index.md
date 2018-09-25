@@ -98,7 +98,7 @@ page_sections:
     valuenew: included - automatic
   - name: ETL
     valueold: need some ETL framework
-    valuenew: no need
+    valuenew: 'true'
   - name: 'DataScience '
     valueold: need to connect to some platform or assemble Jupyter notebooks&servers,
       etc.
