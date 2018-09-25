@@ -6,7 +6,7 @@ page_sections:
   block: header-hp
   headlineleft: Business people <strong>Never</strong> Do data
   headlineright: Data people <strong>Never</strong> Make money
-  headlineend: 'Keboola makes it easy to jump     <br><strong>from Excel to AI</strong> with lightning speed.'
+  headlineend: 'Keboola makes it easy to jump     <br><strong>from Excel to AI</strong> with lightning speed. '
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
