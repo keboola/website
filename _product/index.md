@@ -126,24 +126,5 @@ page_sections:
 - template: recent-list
   block: recent-list
   headline: recent header
-- template: article-list-table
-  block: article-list-table
-  tablehead:
-    name: name
-    valueold: old
-    valuenew: new
-  tablerow:
-  - name: item
-    valueold: 'no'
-    valuenew: new
-  - name: item 2
-    valueold: bla bla
-    valuenew: 'yes'
-  - name: item 3
-    valueold: 'true'
-    valuenew: 'false'
-  - name: item last
-    valueold: 'false'
-    valuenew: 'true'
 
 ---
