@@ -99,6 +99,10 @@ page_sections:
   - name: ETL
     valueold: need some ETL framework
     valuenew: no need
+  - name: 'DataScience '
+    valueold: need to connect to some platform or assemble Jupyter notebooks&servers,
+      etc.
+    valuenew: included
   - name: Connecting to data sources
     valueold: Weeks
     valuenew: Hours - no coding
