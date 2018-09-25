@@ -34,4 +34,5 @@ fields:
   name: date
   label: date
 pages:
+- _posts/ROTI-case-study.md
 - _posts/2018-09-11-testing.md
