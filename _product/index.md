@@ -95,7 +95,7 @@ page_sections:
     valuenew: embedded, sw scaled
   - name: Workflows, query runs
     valueold: Program airflow, have separate dwh, take care of parallel processes
-    valuenew: true - automatic
+    valuenew: 'true'
   - name: ETL
     valueold: need some ETL framework
     valuenew: 'true'
