@@ -134,14 +134,13 @@ page_sections:
       or scaling or user provisioning of Keboola. That''s the job of software! We
       have taken all the menial tasks and jobs in data infrastructure and built a
       software to handle them! #robotsbaby'
-  - name: Is there buy???
-    desc: Nulla eu ullamcorper nisl. Ut lobortis augue a tortor aliquam ullamcorper.
-      Nam viverra venenatis urna, quis rutrum ipsum congue vitae. Vivamus commodo
-      convallis urna nec sagittis. Curabitur ut posuere justo. Sed pellentesque ipsum
-      quis neque molestie, eu auctor odio scelerisque. Aenean sed elit ex. Suspendisse
-      quis ex hendrerit, scelerisque diam nec, sodales risus. Etiam ornare, tellus
-      vitae iaculis egestas, velit dui imperdiet quam, mattis interdum arcu est ut
-      dui.
+  - name: How flexible is your pricing?
+    desc: 'Dude, you will be surprised!  Start as low as $900/m for your whole infrastructure
+      with data acquistion, dwh, notebooks, orchestration and grow as you need slowly/fast
+      back/fourth. What ever suits your need. If you decide it is time for you to
+      go, just press "data take out" button and all of your data and code you had
+      with us will land in your S3. We hate strings attached. We hate drama. And that''s
+      why we''ve made it easy even to leave us :) . #enjoy'
 - template: horizontal-rule
   block: hr
 - template: ask-demo
