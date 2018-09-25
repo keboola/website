@@ -7,6 +7,13 @@ page_sections:
   headlineleft: Business people <strong>Never</strong> Do data
   headlineright: Data people <strong>Never</strong> Make money
   headlineend: 'Keboola brings people together     <br><strong>from Excel to AI</strong> with lightning speed. '
+- template: black-panel
+  block: black-panel
+  headline: Netflix Case Study
+  content: Reduction of operational costs through predictive maintenance.
+  img: "/img/logo-netflix.png"
+  ctaname: Deliver to your e-mail
+  ctalink: "/blog"
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
@@ -105,13 +112,6 @@ page_sections:
   img: "/img/article-gray-img.png"
   ctaname: See how to get the same solution
   ctalink: "/blog/"
-- template: black-panel
-  block: black-panel
-  headline: Netflix Case Study
-  content: Reduction of operational costs through predictive maintenance.
-  img: "/img/logo-netflix.png"
-  ctaname: Deliver to your e-mail
-  ctalink: "/blog"
 - template: horizontal-rule
   block: hr
 - template: faq
