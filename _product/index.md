@@ -64,8 +64,12 @@ page_sections:
       You use only parts that suits you
       You can turn on/off services and modules with a single click
       Total control of performance, efficiency and spent
-- template: gallery-list
-  block: gallery-list
+- template: review
+  block: review
+  list:
+  - name: Sarah....
+    desc: Now it's upto you to fill in quotes...work with Fenek, Marcus, Jakub and
+      Lebka, pls.
 - template: article-list-one-row
   block: article-list-one-row
   subheadline: all in one container based data  platform you can add to
@@ -117,12 +121,6 @@ page_sections:
   - name: Team Size
     valueold: 20+ advanced tech needed
     valuenew: 1 - basic data knowledge required
-- template: review
-  block: review
-  list:
-  - name: Sarah....
-    desc: Now it's upto you to fill in quotes...work with Fenek, Marcus, Jakub and
-      Lebka, pls.
 - template: recent-list
   block: recent-list
   headline: recent header
