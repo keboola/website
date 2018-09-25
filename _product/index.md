@@ -115,6 +115,9 @@ page_sections:
   - name: Connecting to data sources
     valueold: Weeks
     valuenew: Hours - no coding
+  - name: Automation
+    valueold: series of task, pipes, external scripts
+    valuenew: automation inside platform as well as outside sources & apps included
   - name: Team Size
     valueold: 20+ advanced tech needed
     valuenew: 1 - basic data knowledge required
