@@ -12,4 +12,4 @@ Focusing on young city dwellers, ROTI has grown like crazy. And it's systems sto
 
 Coming from highly structured and processed company like McDonald's, Jeff wanted to keep the good about processes yet giving the power to change things and work in agile way to his users.
 
-    .... <iframe width="560" height="315" src="https://www.youtube.com/embed/g-VBfkV4xfc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/g-VBfkV4xfc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
