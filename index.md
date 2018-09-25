@@ -61,6 +61,20 @@ page_sections:
     more.
   ctaname: Ask for a demo
   ctalink: "/blog/"
+- template: review
+  block: review
+  list:
+  - name: THOMAS YOUNG, CFO PAPERS AND CO. INC
+    desc: Keboola team really knows how to work with data, eget arcu velit. Pellentesque
+      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+  - name: THOMAS YOUNG, CFO PAPERS AND CO. INC
+    desc: Keboola team really knows how to work with data, eget arcu velit. Pellentesque
+      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+      Keboola team really knows how to work with data, eget arcu velit. Pellentesque
+      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+  - name: THOMAS YOUNG, CFO PAPERS AND CO. INC
+    desc: Keboola team really knows how to work with data, eget arcu velit. Pellentesque
+      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 - template: article-full
   block: article-full
   subheadline: no more procurement night mare
@@ -81,20 +95,6 @@ page_sections:
       helping you with mundane tasks.</p>"
 - template: horizontal-rule
   block: hr
-- template: review
-  block: review
-  list:
-  - name: THOMAS YOUNG, CFO PAPERS AND CO. INC
-    desc: Keboola team really knows how to work with data, eget arcu velit. Pellentesque
-      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-  - name: THOMAS YOUNG, CFO PAPERS AND CO. INC
-    desc: Keboola team really knows how to work with data, eget arcu velit. Pellentesque
-      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-      Keboola team really knows how to work with data, eget arcu velit. Pellentesque
-      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-  - name: THOMAS YOUNG, CFO PAPERS AND CO. INC
-    desc: Keboola team really knows how to work with data, eget arcu velit. Pellentesque
-      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 - template: article-gray-box
   block: article-gray-box
   subheadline: better and faster results
