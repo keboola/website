@@ -70,6 +70,8 @@ page_sections:
   - name: Sarah....
     desc: Now it's upto you to fill in quotes...work with Fenek, Marcus, Jakub and
       Lebka, pls.
+- template: gallery-list
+  block: gallery-list
 - template: article-list-one-row
   block: article-list-one-row
   subheadline: all in one container based data  platform you can add to
@@ -121,8 +123,6 @@ page_sections:
   - name: Team Size
     valueold: 20+ advanced tech needed
     valuenew: 1 - basic data knowledge required
-- template: gallery-list
-  block: gallery-list
 - template: recent-list
   block: recent-list
   headline: recent header
