@@ -96,6 +96,9 @@ page_sections:
   - name: Workflows, query runs
     valueold: Program airflow, have separate dwh, take care of parallel processes
     valuenew: included - automatic
+  - name: ETL
+    valueold: need some ETL framework
+    valuenew: no need
   - name: Connecting to data sources
     valueold: Weeks
     valuenew: Hours - no coding
