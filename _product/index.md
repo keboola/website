@@ -102,7 +102,7 @@ page_sections:
   - name: 'DataScience '
     valueold: need to connect to some platform or assemble Jupyter notebooks&servers,
       etc.
-    valuenew: included
+    valuenew: 'true'
   - name: ML Models productization
     valueold: cumbersome process, no versioning, many parts to be take care of
     valuenew: 'true'
