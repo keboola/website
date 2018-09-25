@@ -7,13 +7,6 @@ page_sections:
   headlineleft: Business people <strong>Never</strong> Do data
   headlineright: Data people <strong>Never</strong> Make money
   headlineend: 'Keboola brings people together     <br><strong>from Excel to AI</strong> with lightning speed. '
-- template: black-panel
-  block: black-panel
-  headline: Netflix Case Study
-  content: Reduction of operational costs through predictive maintenance.
-  img: "/img/logo-netflix.png"
-  ctaname: Deliver to your e-mail
-  ctalink: "/blog"
 - template: article-with-perex
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
@@ -25,6 +18,13 @@ page_sections:
     underutilized data and use it effectively across all the departments of your business,
     you could make better, more coordinated decisions in a fraction of the time it
     used to take.
+- template: black-panel
+  block: black-panel
+  headline: Netflix Case Study
+  content: Reduction of operational costs through predictive maintenance.
+  img: "/img/logo-netflix.png"
+  ctaname: Deliver to your e-mail
+  ctalink: "/blog"
 - template: horizontal-rule
   block: hr
 - template: article-list-hp
