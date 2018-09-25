@@ -93,6 +93,9 @@ page_sections:
     valueold: selection, running, scaling - lot of pain, lot of people have to take
       care of it
     valuenew: embedded, sw scaled
+  - name: Workflows, query runs
+    valueold: Program airflow, have separate dwh, take care of parallel processes
+    valuenew: included - automatic
   - name: Connecting to data sources
     valueold: Weeks
     valuenew: Hours - no coding
