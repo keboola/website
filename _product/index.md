@@ -103,6 +103,9 @@ page_sections:
     valueold: need to connect to some platform or assemble Jupyter notebooks&servers,
       etc.
     valuenew: included
+  - name: ML Models productization
+    valueold: cumbersome process, no versioning, many parts to be take care of
+    valuenew: 'true'
   - name: Connecting to data sources
     valueold: Weeks
     valuenew: Hours - no coding
