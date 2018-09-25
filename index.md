@@ -118,14 +118,11 @@ page_sections:
   block: faq
   headline: Still have a questions?
   list:
-  - name: Is there a minimum I have to buy??????
-    desc: Nulla eu ullamcorper nisl. Ut lobortis augue a tortor aliquam ullamcorper.
-      Nam viverra venenatis urna, quis rutrum ipsum congue vitae. Vivamus commodo
-      convallis urna nec sagittis. Curabitur ut posuere justo. Sed pellentesque ipsum
-      quis neque molestie, eu auctor odio scelerisque. Aenean sed elit ex. Suspendisse
-      quis ex hendrerit, scelerisque diam nec, sodales risus. Etiam ornare, tellus
-      vitae iaculis egestas, velit dui imperdiet quam, mattis interdum arcu est ut
-      dui.
+  - name: I am "beginner" in data what I have to learn ?
+    desc: 'If you know basics of SQL, Py that''s it. With our platform you just start
+      working. No roadblocks in your way. One click to get to data, one click to get
+      to SQL/Py notebook. One click to invite your mates to collaborate on the same
+      code. That''s it. It is #easy'
   - name: Is there a minimum I have to buy?
     desc: Nulla eu ullamcorper nisl. Ut lobortis augue a tortor aliquam ullamcorper.
       Nam viverra venenatis urna, quis rutrum ipsum congue vitae. Vivamus commodo
