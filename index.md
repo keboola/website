@@ -123,10 +123,11 @@ page_sections:
       working. No roadblocks in your way. One click to get to data, one click to get
       to SQL/Py notebook. One click to invite your mates to collaborate on the same
       code. That''s it. It is #easy'
-  - name: Is there a minimum I have to buy?
-    desc: Nulla eu ullamcorper nisl. Ut lobortis augue a tortor aliquam ullamcorper.
-      Nam viverra venenatis urna, quis rutrum ipsum congue vitae. Vivamus commodo
-      convallis urna nec sagittis. Curabitur ut posuere justo.
+  - name: How long does it take from data to model ?
+    desc: We have integrated data acquisition framework with over 200 preset connectors.
+      With one click you can get any data inside Keboola. If you encounter new source,
+      just use our Generic Extractor and get data from it as well. In a matter of
+      minutes work on your data!
   - name: Is there a minimum?
     desc: Nulla eu ullamcorper nisl. Ut lobortis augue a tortor aliquam ullamcorper.
       Nam viverra venenatis urna, quis rutrum ipsum congue vitae. Vivamus commodo
