@@ -106,6 +106,9 @@ page_sections:
   - name: ML Models productization
     valueold: cumbersome process, no versioning, many parts to be take care of
     valuenew: 'true'
+  - name: Internal IT support
+    valueold: needed for every configuration
+    valuenew: no need, automatic
   - name: Connecting to data sources
     valueold: Weeks
     valuenew: Hours - no coding
