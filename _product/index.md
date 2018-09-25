@@ -82,15 +82,12 @@ page_sections:
 - template: article-list-table
   block: article-list-table
   tablehead:
-    name: Tasks
+    name: I don't need "what"?
     valueold: old way
     valuenew: Keboola way
   tablerow:
-  - name: test 3
-    valueold: old
-    valuenew: 'true'
   - name: test
-    valueold: 'false'
+    valueold: old old
     valuenew: new-new
   - name: Connecting to data sources
     valueold: Weeks
