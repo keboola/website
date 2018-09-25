@@ -89,6 +89,10 @@ page_sections:
   - name: Overall
     valueold: complex, unconnected
     valuenew: easy, straight to value
+  - name: Datawarehouse
+    valueold: selection, running, scaling - lot of pain, lot of people have to take
+      care of it
+    valuenew: embedded, sw scaled
   - name: Connecting to data sources
     valueold: Weeks
     valuenew: Hours - no coding
