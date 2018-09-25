@@ -109,6 +109,9 @@ page_sections:
   - name: Internal IT support
     valueold: needed for every configuration
     valuenew: no need, automatic
+  - name: Procurement
+    valueold: each use case handled separately
+    valuenew: one contract
   - name: Connecting to data sources
     valueold: Weeks
     valuenew: Hours - no coding
