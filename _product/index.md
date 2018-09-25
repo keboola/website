@@ -64,6 +64,11 @@ page_sections:
       You use only parts that suits you
       You can turn on/off services and modules with a single click
       Total control of performance, efficiency and spent
+- template: article-list-img
+  block: article-list-img
+  list:
+  - img: "/uploads/logo-aws-1.jpg"
+  - img: "/uploads/logo-azure-1.jpg"
 - template: review
   block: review
   list:
