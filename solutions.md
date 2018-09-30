@@ -19,6 +19,13 @@ page_sections:
 - template: review
   block: review
   list:
+  - name: Logistics
+    desc: 'Major competitor to Tesco has used Keboola as a datahub and data analytics
+      and automation system and is measuring and automating data in the whole chain
+      from pickers in warehouse, customer response, planing delivery routes to multichannel
+      marketing. Growing hundred percent faster then closest competitors.
+
+'
   - name: Multichannel marketing
     desc: 'Major world shoe producer has been using Keboola to integrate all of the
       omnichannel data, created machine learning segmentations and orchestrates campaigns
