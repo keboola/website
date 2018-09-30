@@ -59,5 +59,11 @@ page_sections:
   subheadline: According to Hbr.org
   headline: DataDriven companies have 30% higher EBITDA!
   ctaname: Take 7 day challenge!
+- template: gallery-list
+  block: gallery-list
+- template: article-list-hp
+  block: article-list-hp
+  headline: Get all your data, act on it immediately ! Increase profit and market
+    share.
 
 ---
