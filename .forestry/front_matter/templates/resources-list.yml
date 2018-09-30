@@ -18,7 +18,6 @@ fields:
   name: type
   label: type
 pages:
-- solutions.md
 - retail.md
 - gaming.md
 - saas.md
