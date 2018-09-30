@@ -16,5 +16,12 @@ page_sections:
     results fast!
 
 '
+- template: review
+  block: review
+  list:
+  - name: Going beyond traditional dwh - enabling citizen users
+    desc: "MallGroup Europa’s leading retail in 6 countries has enabled analytics
+      through Keboola to all departments from logistics to customer success and marketing
+      within two months. \n"
 
 ---
