@@ -16,6 +16,17 @@ page_sections:
     results fast!
 
 '
+- template: ask-demo
+  block: ask-demo
+  content: "<br>Aggregating data from internal dwh, external sources and bringing
+    analytics driven behaviour into every department should be easy! That’s when our
+    complex analytics solution comes in. Using Keboola data analytics platform companies
+    have solved all kinds of challenges from dynamic pricing, KPI reportings available
+    to whole company, same store predictions, predictive restocking, logistic in real
+    time or enabling all departments to work on the same data at the same time."
+  subheadline: According to Hbr.org
+  headline: DataDriven companies have 30% higher EBITDA!
+  ctaname: Take 7 day challenge!
 - template: review
   block: review
   list:
@@ -48,22 +59,11 @@ page_sections:
     desc: "MallGroup Europa’s leading retail in 6 countries has enabled analytics
       through Keboola to all departments from logistics to customer success and marketing
       within two months. \n"
-- template: ask-demo
-  block: ask-demo
-  content: "<br>Aggregating data from internal dwh, external sources and bringing
-    analytics driven behaviour into every department should be easy! That’s when our
-    complex analytics solution comes in. Using Keboola data analytics platform companies
-    have solved all kinds of challenges from dynamic pricing, KPI reportings available
-    to whole company, same store predictions, predictive restocking, logistic in real
-    time or enabling all departments to work on the same data at the same time."
-  subheadline: According to Hbr.org
-  headline: DataDriven companies have 30% higher EBITDA!
-  ctaname: Take 7 day challenge!
-- template: gallery-list
-  block: gallery-list
 - template: article-list-hp
   block: article-list-hp
   headline: Get all your data, act on it immediately ! Increase profit and market
     share.
+- template: gallery-list
+  block: gallery-list
 
 ---
