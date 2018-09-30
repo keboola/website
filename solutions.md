@@ -58,5 +58,6 @@ page_sections:
     time or enabling all departments to work on the same data at the same time."
   subheadline: According to Hbr.org
   headline: DataDriven companies have 30% higher EBITDA!
+  ctaname: Take 7 day challenge!
 
 ---
