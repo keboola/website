@@ -19,6 +19,11 @@ page_sections:
 - template: review
   block: review
   list:
+  - name: Out of stock reports in 7 days!
+    desc: 'Pietro Filipi has gone from bunch of odl IT systems to company wide out
+      off stock reports in 7days!  Increasing profitability by tens of percent!
+
+'
   - name: Going beyond traditional dwh - enabling citizen users
     desc: "MallGroup Europa’s leading retail in 6 countries has enabled analytics
       through Keboola to all departments from logistics to customer success and marketing
