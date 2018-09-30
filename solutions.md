@@ -16,6 +16,5 @@ page_sections:
     results fast!
 
 '
-published: false
 
 ---
