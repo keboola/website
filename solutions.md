@@ -19,6 +19,13 @@ page_sections:
 - template: review
   block: review
   list:
+  - name: Multichannel marketing
+    desc: 'Major world shoe producer has been using Keboola to integrate all of the
+      omnichannel data, created machine learning segmentations and orchestrates campaigns
+      from Keboola to Silverpop, web and online advertising with reported over 20%
+      increase in work efficiency.
+
+'
   - name: Out of stock reports in 7 days!
     desc: 'Pietro Filipi has gone from bunch of odl IT systems to company wide out
       off stock reports in 7days!  Increasing profitability by tens of percent!
