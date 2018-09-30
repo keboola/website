@@ -5,8 +5,8 @@ title: Product
 page_sections:
 - template: header-product
   block: header-product
-  subheadline: Keboola puts you in control of your data
-  headline: "<strong>Platform for you Data Analytics </strong>"
+  subheadline: Manage data flows & processes
+  headline: "<strong>Platform for your Data Analytics </strong>"
 - template: ask-demo
   block: ask-demo
   subheadline: No setup! One click and you work!
