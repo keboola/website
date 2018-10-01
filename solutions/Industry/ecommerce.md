@@ -8,6 +8,5 @@ page_sections:
   subheadline: eCommerce
   headline: eCommerce
   content: eCommerce
-published: false
 
 ---
