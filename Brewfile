@@ -1,5 +1,0 @@
-tap 'homebrew/bundle'
-tap 'homebrew/core'
-brew 'postgresql'
-brew 'ruby'
-brew 'tree'
