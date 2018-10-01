@@ -55,5 +55,6 @@ page_sections:
     share.
 - template: gallery-list
   block: gallery-list
+published: false
 
 ---
