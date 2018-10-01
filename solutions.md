@@ -1,5 +1,5 @@
 ---
-title: Solutionsss
+title: Solutions
 layout: blocks
 date: 2018-09-30 21:57:37 +0000
 permalink: solutions
