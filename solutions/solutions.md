@@ -8,6 +8,5 @@ page_sections:
   subheadline: sol
   headline: sol sol
   content: contenct sol
-published: false
 
 ---
