@@ -7,7 +7,7 @@ fields:
   name: layout
   label: layout
   default: blocks
-  hidden: false
+  hidden: true
 - type: text
   name: title
   label: title
