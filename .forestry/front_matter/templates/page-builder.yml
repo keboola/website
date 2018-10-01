@@ -34,8 +34,6 @@ fields:
   - gallery-list
   - recent-list
 pages:
-- solutions/Industry/ecommerce.md
-- solutions/solutions.md
 - solutions.md
 - index.md
 - _product/index.md

@@ -12,13 +12,6 @@ sections:
   label: Product
   create: all
   match: "**/*"
-- type: directory
-  path: solutions
-  label: Solutions
-  create: all
-  match: "**/*"
-  templates:
-  - page-builder
 - type: jekyll-posts
   label: Learning
   create: all
