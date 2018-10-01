@@ -6,7 +6,7 @@ fields:
 - type: text
   label: layout
   name: layout
-  hidden: false
+  hidden: true
   default: resources-detail
 - type: text
   label: title
