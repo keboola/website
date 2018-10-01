@@ -49,11 +49,11 @@ page_sections:
     desc: "MallGroup Europa’s leading retail in 6 countries has enabled analytics
       through Keboola to all departments from logistics to customer success and marketing
       within two months. \n"
+- template: gallery-list
+  block: gallery-list
 - template: article-list-hp
   block: article-list-hp
   headline: Get all your data, act on it immediately ! Increase profit and market
     share.
-- template: gallery-list
-  block: gallery-list
 
 ---
