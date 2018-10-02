@@ -9,10 +9,6 @@ fields:
   default: blocks
   hidden: true
 - type: text
-  name: permalink
-  label: permalink
-  hidden: false
-- type: text
   name: title
   label: title
 - type: blocks
