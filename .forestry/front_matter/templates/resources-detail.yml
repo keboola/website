@@ -33,6 +33,3 @@ fields:
 - type: datetime
   name: date
   label: date
-pages:
-- _posts/2018-09-25-ROTI-case-study.md
-- _posts/2018-09-11-testing.md

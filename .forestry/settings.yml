@@ -21,11 +21,6 @@ sections:
   match: "**/*"
   templates:
   - page-builder
-- type: jekyll-posts
-  label: Learning
-  create: all
-  templates:
-  - resources-detail
 - type: directory
   path: _data
   label: Data
