@@ -34,6 +34,7 @@ fields:
   - gallery-list
   - recent-list
 pages:
+- _about/about.md
 - index.md
 - _product/index.md
 - _product/analytical-dwh.md
