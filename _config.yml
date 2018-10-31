@@ -1,6 +1,7 @@
 host: 127.0.0.1
 port: 4004
-url: "https://www.keboola.com"
+#url: "https://www.keboola.com"
+url: "https://confident-lovelace-ce6a6c.netlify.com"
 permalink: none
 highlighter: true
 exclude: ['Rakefile.rb', 'CNAME', 'README.md', 'config.codekit3', 'Gemfile*', 'less']
