@@ -18,3 +18,6 @@ collections:
    learning:
      output: true
      permalink: /:collection/:path/
+   about:
+     output: true
+     permalink: /:collection/:path/
