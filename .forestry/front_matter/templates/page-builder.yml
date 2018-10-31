@@ -34,6 +34,7 @@ fields:
   - gallery-list
   - recent-list
 pages:
+- _solutions/Industry/tesst.md
 - solutions.md
 - index.md
 - _product/index.md
