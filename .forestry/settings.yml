@@ -15,6 +15,13 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: _platform
+  label: Platform
+  create: all
+  match: "**/*"
+  templates:
+  - page-builder
+- type: directory
   path: _solutions
   label: Solutions
   create: all
