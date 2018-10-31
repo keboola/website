@@ -8,6 +8,5 @@ page_sections:
   headlineleft: asdasd
   headlineright: gfjfgj
   headlineend: po§úpúú
-published: false
 
 ---
