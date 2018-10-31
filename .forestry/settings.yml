@@ -28,6 +28,13 @@ sections:
   match: "**/*"
   templates:
   - page-builder
+- type: directory
+  path: _about
+  label: About
+  create: all
+  match: "**/*"
+  templates:
+  - page-builder
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
