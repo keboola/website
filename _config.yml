@@ -12,6 +12,9 @@ collections:
    product:
      output: true
      permalink: /:collection/:path/
+   platform:
+     output: true
+     permalink: /:collection/:path/
    solutions:
      output: true
      permalink: /:collection/:path/
