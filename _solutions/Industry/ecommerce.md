@@ -20,5 +20,9 @@ page_sections:
     sem. Proin ut elit aliquam, congue quam auctor, congue arcu. Mauris elit erat,
     convallis id cursus hendrerit, vestibulum non elit. Maecenas interdum porttitor
     libero, facilisis auctor libero sollicitudin ut. Nullam tincidunt id dictu.
+- template: gallery-list
+  block: gallery-list
+- template: horizontal-rule
+  block: hr
 
 ---
