@@ -28,7 +28,10 @@ page_sections:
   - title: No More Complex ETLs
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns.
-  - {}
+  - title: Embed Your Way
+    desc: Get the data and the best tools to create adhoc analyses right in your department
+      to improve your campaigns.
+    icotype: yellow
   - {}
   - {}
 
