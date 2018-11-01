@@ -45,5 +45,11 @@ page_sections:
       rhoncus eros non, maximus sem.
     icotype: yellow
     title: Embed Your Way
+- template: review
+  block: review
+  list:
+  - name: THOMAS YOUNG, CFO PAPERS AND CO. INC
+    desc: Keboola team really knows how to work with data, eget arcu velit. Pellentesque
+      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
 ---
