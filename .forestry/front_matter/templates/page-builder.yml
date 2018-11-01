@@ -34,6 +34,7 @@ fields:
   - gallery-list
   - recent-list
 pages:
+- _solutions/Goals/letting-business-people-access-to-unstructured-data.md
 - _solutions/Goals/cooperation-with-external-datascience-teams.md
 - _solutions/Goals/changing-systems.md
 - _solutions/Goals/fast-time-to-market.md
