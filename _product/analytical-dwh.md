@@ -41,7 +41,11 @@ page_sections:
       to improve your campaigns. Maecenas ac hendrerit felis. Aliquam a ligula tempor,
       rhoncus eros non, maximus sem.
     title: No More Complex ETLs
-  - {}
+  - icotype: yellowright
+    desc: Get the data and the best tools to create adhoc analyses right in your department
+      to improve your campaigns. Maecenas ac hendrerit felis. Aliquam a ligula tempor,
+      rhoncus eros non, maximus sem.
+    title: Embed Your Way
 - template: recent-list
   block: recent-list
   headline: More <strong>Data Science</strong> Articles
