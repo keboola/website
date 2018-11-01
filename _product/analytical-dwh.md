@@ -21,19 +21,30 @@ page_sections:
     libero, facilisis auctor libero sollicitudin ut. Nullam tincidunt id dictu.
   subheadline: Use data to drive your decissions
   headlinesmall: true
-- template: horizontal-rule
-  block: hr
-- template: article-with-perex
-  block: article-with-perex
-  subheadline: test
-  headline: ewsfsdf
-  content: sdfsdfsdfsf
-- template: horizontal-rule
-  block: hr
 - template: gallery-list
   block: gallery-list
+- template: horizontal-rule
+  block: hr
+- template: article-full
+  block: article-full
+  subheadline: All in one container based data platform you can add to
+  headline: A new approach to embedded analytics
+  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pharetra
+    orci et justo sollicitudin lacinia. Donec suscipit leo quis laoreet elementum.
+    Maecenas ac hendrerit felis. Aliquam a ligula tempor, rhoncus eros non, maximus
+    sem. Proin ut elit aliquam, congue quam auctor, congue arcu. Mauris elit erat,
+    convallis id cursus hendrerit, vestibulum non elit. Maecenas interdum porttitor
+    libero, facilisis auctor libero sollicitudin ut. Nullam tincidunt id dictu
 - template: recent-list
   block: recent-list
   headline: More <strong>Data Science</strong> Articles
+- template: review
+  block: review
+- template: black-panel
+  block: black-panel
+- template: faq
+  block: faq
+- template: ask-demo
+  block: ask-demo
 
 ---
