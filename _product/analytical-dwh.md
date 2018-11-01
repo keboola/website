@@ -70,7 +70,14 @@ page_sections:
       quis ex hendrerit, scelerisque diam nec, sodales risus. Etiam ornare, tellus
       vitae iaculis egestas, velit dui imperdiet quam, mattis interdum arcu est ut
       dui.
-  - {}
+  - desc: Nulla eu ullamcorper nisl. Ut lobortis augue a tortor aliquam ullamcorper.
+      Nam viverra venenatis urna, quis rutrum ipsum congue vitae. Vivamus commodo
+      convallis urna nec sagittis. Curabitur ut posuere justo. Sed pellentesque ipsum
+      quis neque molestie, eu auctor odio scelerisque. Aenean sed elit ex. Suspendisse
+      quis ex hendrerit, scelerisque diam nec, sodales risus. Etiam ornare, tellus
+      vitae iaculis egestas, velit dui imperdiet quam, mattis interdum arcu est ut
+      dui.
+    name: Do I need to lorem ipsum dolor sit amet?
 - template: ask-demo
   block: ask-demo
 - template: recent-list
