@@ -34,6 +34,7 @@ fields:
   - gallery-list
   - recent-list
 pages:
+- _product/security.md
 - _product/keboola-for-enterprise.md
 - _product/keboola-way.md
 - _product/integration.md
