@@ -34,6 +34,7 @@ fields:
   - gallery-list
   - recent-list
 pages:
+- _platform/programmable-data-platform.md
 - _product/pricing.md
 - _product/security.md
 - _product/keboola-for-enterprise.md
