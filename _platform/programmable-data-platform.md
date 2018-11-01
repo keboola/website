@@ -51,5 +51,11 @@ page_sections:
     our powerful NLP software into Keboola’s platform making it possible for customers
     to easily add a large amount of text, process it and visualize the results.
   ctaname: See how to get the same solution
+- template: black-panel
+  block: black-panel
+  img: "/uploads/netflixLogo-1.png"
+  headline: Netflix Case Study
+  content: Reduction of operational costs through predictive maintenance.
+  ctaname: Deliver to your e-mail
 
 ---
