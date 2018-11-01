@@ -34,6 +34,7 @@ fields:
   - gallery-list
   - recent-list
 pages:
+- _solutions/Departments/data-engineer.md
 - _solutions/Departments/it-cio.md
 - _solutions/Departments/board-ceo-coo.md
 - _platform/developer-docs.md
