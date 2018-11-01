@@ -32,7 +32,10 @@ page_sections:
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns.
     icotype: yellow
-  - {}
+  - desc: Get the data and the best tools to create adhoc analyses right in your department
+      to improve your campaigns.
+    title: Future-Proof Your Analytics
+    icotype: blueright
   - {}
 
 ---
