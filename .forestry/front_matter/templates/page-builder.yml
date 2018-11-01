@@ -34,6 +34,7 @@ fields:
   - gallery-list
   - recent-list
 pages:
+- _solutions/Goals/fast-to-results.md
 - _solutions/Departments/operations.md
 - _solutions/Departments/product.md
 - _solutions/Departments/customer-support-ux.md
