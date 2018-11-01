@@ -7,5 +7,15 @@ page_sections:
   block: header-product
   subheadline: LOREM IPSUM SMALL HEADER
   headline: Programmable Data Platform
+- template: article-with-perex
+  block: article-with-perex
+  subheadline: Use data to drive your decissions
+  headline: 'Grow your business     with precise data and open access'
+  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pharetra
+    orci et justo sollicitudin lacinia. Donec suscipit leo quis laoreet elementum.
+    Maecenas ac hendrerit felis. Aliquam a ligula tempor, rhoncus eros non, maximus
+    sem. Proin ut elit aliquam, congue quam auctor, congue arcu. Mauris elit erat,
+    convallis id cursus hendrerit, vestibulum non elit. Maecenas interdum porttitor
+    libero, facilisis auctor libero sollicitudin ut.
 
 ---
