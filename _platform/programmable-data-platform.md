@@ -7,6 +7,5 @@ page_sections:
   block: header-product
   subheadline: LOREM IPSUM SMALL HEADER
   headline: Programmable Data Platform
-published: false
 
 ---
