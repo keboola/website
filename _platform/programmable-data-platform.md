@@ -10,7 +10,7 @@ page_sections:
 - template: article-with-perex
   block: article-with-perex
   subheadline: Use data to drive your decissions
-  headline: 'Grow your business     with precise data and open access'
+  headline: "Grow your business \Lwith precise data and open access"
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pharetra
     orci et justo sollicitudin lacinia. Donec suscipit leo quis laoreet elementum.
     Maecenas ac hendrerit felis. Aliquam a ligula tempor, rhoncus eros non, maximus
