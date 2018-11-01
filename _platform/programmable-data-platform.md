@@ -35,6 +35,10 @@ page_sections:
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns. Maecenas ac hendrerit felis. Aliquam a ligula tempor,
       rhoncus eros non, maximus sem.
-  - {}
+  - icotype: yellow
+    title: Embed Your Way
+    desc: Get the data and the best tools to create adhoc analyses right in your department
+      to improve your campaigns. Maecenas ac hendrerit felis. Aliquam a ligula tempor,
+      rhoncus eros non, maximus sem.
 
 ---
