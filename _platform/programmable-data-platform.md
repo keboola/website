@@ -20,5 +20,16 @@ page_sections:
 - template: ask-demo
   block: ask-demo
   ctaname: Ask for demo
+- template: article-list-two-row
+  block: article-list-two-row
+  subheadline: All in one container based data platform you can add to
+  headline: A new approach to embedded analytics
+  list:
+  - title: No More Complex ETLs
+    desc: Get the data and the best tools to create adhoc analyses right in your department
+      to improve your campaigns.
+  - {}
+  - {}
+  - {}
 
 ---
