@@ -49,11 +49,11 @@ page_sections:
 - template: review
   block: review
   list:
-  - name: JEREMY OLD, CFO PAPERS AND CO. INC
-    desc: Keboola is just awesome.
   - name: THOMAS YOUNG, CFO PAPERS AND CO. INC
     desc: Keboola team really knows how to work with data, eget arcu velit. Pellentesque
       habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+  - name: JEREMY OLD, CFO PAPERS AND CO. INC
+    desc: Keboola is just awesome.
 - template: black-panel
   block: black-panel
   headline: Netflix Case Study
