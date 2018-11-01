@@ -57,5 +57,8 @@ page_sections:
   headline: Netflix Case Study
   content: Reduction of operational costs through predictive maintenance.
   ctaname: Deliver to your e-mail
+- template: recent-list
+  block: recent-list
+  headline: Case Study Articles
 
 ---
