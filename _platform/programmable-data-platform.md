@@ -36,6 +36,9 @@ page_sections:
       to improve your campaigns.
     title: Future-Proof Your Analytics
     icotype: blueright
-  - {}
+  - icotype: gray
+    desc: Get the data and the best tools to create adhoc analyses right in your department
+      to improve your campaigns.
+    title: Lorem Ipsum Dolor
 
 ---
