@@ -34,6 +34,7 @@ fields:
   - gallery-list
   - recent-list
 pages:
+- _platform/developer-docs.md
 - _platform/developers-portal.md
 - _platform/developers.md
 - _platform/command-control-api-first.md
