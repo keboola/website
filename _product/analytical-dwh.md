@@ -60,6 +60,17 @@ page_sections:
   ctaname: Deliver to your e-mail
 - template: faq
   block: faq
+  headline: Still have a questions?
+  list:
+  - name: Is there a minimum I have to buy?
+    desc: Nulla eu ullamcorper nisl. Ut lobortis augue a tortor aliquam ullamcorper.
+      Nam viverra venenatis urna, quis rutrum ipsum congue vitae. Vivamus commodo
+      convallis urna nec sagittis. Curabitur ut posuere justo. Sed pellentesque ipsum
+      quis neque molestie, eu auctor odio scelerisque. Aenean sed elit ex. Suspendisse
+      quis ex hendrerit, scelerisque diam nec, sodales risus. Etiam ornare, tellus
+      vitae iaculis egestas, velit dui imperdiet quam, mattis interdum arcu est ut
+      dui.
+  - {}
 - template: ask-demo
   block: ask-demo
 - template: recent-list
