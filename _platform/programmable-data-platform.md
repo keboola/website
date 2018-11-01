@@ -40,5 +40,15 @@ page_sections:
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns.
     title: Lorem Ipsum Dolor
+- template: article-gray-box
+  block: article-gray-box
+  subheadline: better and faster results
+  headline: Inteligent Interpretation
+  content: In response to these demands, Keboola turned to Geneea for help. We integrated
+    our powerful NLP software into Keboola’s platform making it possible for customers
+    to easily add a large amount of text, process it and visualize the results.
+  ctaname: In response to these demands, Keboola turned to Geneea for help. We integrated
+    our powerful NLP software into Keboola’s platform making it possible for customers
+    to easily add a large amount of text, process it and visualize the results.
 
 ---
