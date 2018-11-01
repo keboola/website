@@ -25,8 +25,8 @@ page_sections:
   block: gallery-list
 - template: horizontal-rule
   block: hr
-- template: article-full
-  block: article-full
+- template: article-list-one-row
+  block: article-list-one-row
   subheadline: All in one container based data platform you can add to
   headline: A new approach to embedded analytics
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pharetra
@@ -35,6 +35,13 @@ page_sections:
     sem. Proin ut elit aliquam, congue quam auctor, congue arcu. Mauris elit erat,
     convallis id cursus hendrerit, vestibulum non elit. Maecenas interdum porttitor
     libero, facilisis auctor libero sollicitudin ut. Nullam tincidunt id dictu
+  list:
+  - icotype: blueright
+    desc: Get the data and the best tools to create adhoc analyses right in your department
+      to improve your campaigns. Maecenas ac hendrerit felis. Aliquam a ligula tempor,
+      rhoncus eros non, maximus sem.
+    title: No More Complex ETLs
+  - {}
 - template: recent-list
   block: recent-list
   headline: More <strong>Data Science</strong> Articles
