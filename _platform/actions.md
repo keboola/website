@@ -61,6 +61,5 @@ page_sections:
 - template: recent-list
   block: recent-list
   headline: Case Study Articles
-published: false
 
 ---
