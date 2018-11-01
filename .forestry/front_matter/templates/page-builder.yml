@@ -34,6 +34,7 @@ fields:
   - gallery-list
   - recent-list
 pages:
+- _solutions/Departments/logistics-supply-chain.md
 - _solutions/Departments/business-analysts.md
 - _solutions/Departments/data-scientist.md
 - _solutions/Departments/data-engineer.md
