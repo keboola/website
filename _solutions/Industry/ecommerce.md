@@ -80,5 +80,8 @@ page_sections:
 - template: ask-demo
   block: ask-demo
   ctaname: Ask for a demo
+- template: recent-list
+  block: recent-list
+  headline: Case Study Articles
 
 ---
