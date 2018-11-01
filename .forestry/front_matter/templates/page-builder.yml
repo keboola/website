@@ -34,6 +34,7 @@ fields:
   - gallery-list
   - recent-list
 pages:
+- _solutions/Goals/making-company-truly-data-driven.md
 - _solutions/Goals/lowering-skillset-needed.md
 - _solutions/Goals/fast-to-results.md
 - _solutions/Departments/operations.md
