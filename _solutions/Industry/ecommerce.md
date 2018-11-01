@@ -51,5 +51,11 @@ page_sections:
   - name: THOMAS YOUNG, CFO PAPERS AND CO. INC
     desc: Keboola team really knows how to work with data, eget arcu velit. Pellentesque
       habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+- template: black-panel
+  block: black-panel
+  img: "/uploads/netflixLogo-2.png"
+  ctaname: Deliver to your e-mail
+  headline: Netflix Case Study
+  content: Reduction of operational costs through predictive maintenance.
 
 ---
