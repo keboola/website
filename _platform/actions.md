@@ -6,7 +6,7 @@ page_sections:
 - template: header-blue
   block: header-blue
   subheadline: LOREM IPSUM SMALL HEADER
-  headline: 3rd party AI
+  headline: Actions
   content: Apply machine learning and AI to automate tasks and achieve better operational
     efficiency. Predict and act instead of reacting. Don't do it all yourselve. Use
     our vast network of partners and pre build AI apps in our marketplace.
