@@ -85,6 +85,6 @@ page_sections:
   ctaname: Ask for a demo
 - template: recent-list
   block: recent-list
-  headline: More <strong>Data Science</strong> Articles
+  headline: "<strong>Case Study</strong> Articles"
 
 ---
