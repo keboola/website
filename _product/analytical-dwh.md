@@ -20,7 +20,7 @@ page_sections:
     convallis id cursus hendrerit, vestibulum non elit. Maecenas interdum porttitor
     libero, facilisis auctor libero sollicitudin ut. Nullam tincidunt id dictu.
   subheadline: Use data to drive your decissions
-  headlinesmall: true
+  headlinesmall: false
 - template: gallery-list
   block: gallery-list
 - template: horizontal-rule
