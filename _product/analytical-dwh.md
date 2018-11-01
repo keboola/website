@@ -54,6 +54,10 @@ page_sections:
       habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.”"
 - template: black-panel
   block: black-panel
+  headline: Netflix Case Study
+  content: Reduction of operational costs through predictive maintenance.
+  img: "/uploads/netflixLogo.png"
+  ctaname: Deliver to your e-mail
 - template: faq
   block: faq
 - template: ask-demo
