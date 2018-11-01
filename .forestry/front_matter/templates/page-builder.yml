@@ -34,9 +34,9 @@ fields:
   - gallery-list
   - recent-list
 pages:
+- _platform/actions.md
 - _platform/programmable-data-platform.md
 - _platform/3rd-party-ai.md
-- _platform/actions.md
 - _product/pricing.md
 - _product/security.md
 - _product/keboola-for-enterprise.md
