@@ -6,7 +6,7 @@ page_sections:
 - template: header-blue
   block: header-blue
   subheadline: LOREM IPSUM SMALL HEADER
-  headline: 'Platform: <strong>Command & Control API first</strong>'
+  headline: 'Platform: <strong>Developers</strong>'
   content: Apply machine learning and AI to automate tasks and achieve better operational
     efficiency. Predict and act instead of reacting. Don't do it all yourselve. Use
     our vast network of partners and pre build AI apps in our marketplace.
@@ -61,6 +61,5 @@ page_sections:
 - template: recent-list
   block: recent-list
   headline: Case Study Articles
-published: false
 
 ---
