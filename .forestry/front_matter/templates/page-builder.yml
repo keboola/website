@@ -34,6 +34,7 @@ fields:
   - gallery-list
   - recent-list
 pages:
+- _about/about.md
 - _platform/platform.md
 - _product/product.md
 - _solutions/Goals/fast-time-to-market.md
