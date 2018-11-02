@@ -7,6 +7,5 @@ page_sections:
   block: header-product
   subheadline: about
   headline: About Us
-published: false
 
 ---
