@@ -2,13 +2,10 @@
 layout: blocks
 title: Product
 page_sections:
-- template: header-blue
-  block: header-blue
-  subheadline: This is how we do it
-  headline: 'Product: <strong>Analytical DWH</strong>'
-  content: Apply machine learning and AI to automate tasks and achieve better operational
-    efficiency. Predict and act instead of reacting. Don't do it all yourselve. Use
-    our vast network of <a href="">partners</a> and pre build AI apps in our <a href="">marketplace</a>.
+- template: header-product
+  block: header-product
+  subheadline: End to end Solution
+  headline: Data Analytics Stack can be easy
 - template: article-with-perex
   block: article-with-perex
   sub_headline: sub head
