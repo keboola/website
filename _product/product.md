@@ -1,6 +1,7 @@
 ---
 layout: blocks
 title: Product
+permalink: "/product/"
 page_sections:
 - template: header-product
   block: header-product

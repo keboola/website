@@ -1,6 +1,7 @@
 ---
 title: Platform
 layout: blocks
+permalink: "/platform/"
 date: 2018-11-01 09:41:24 +0000
 page_sections:
 - template: header-blue
