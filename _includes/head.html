@@ -27,10 +27,10 @@
 		<div class="header-nav">
 			<a href="#" class="btn-show-menu"><i></i> Menu</a>
 			<nav><ul class="nav-list">
-				<li class="nav-item"><a href="/product/"{% if page.url contains '/product/' %} class="item-act"{% endif %}>Product</a></li>
-				<li class="nav-item"><a href="/platform/"{% if page.url contains '/platform/' %} class="item-act"{% endif %}>Platform</a></li>
+				<li class="nav-item"><a href="/product/"{% if page.url contains '/product/' %} class="item-act"{% endif %}><span>Product</span></a></li>
+				<li class="nav-item"><a href="/platform/"{% if page.url contains '/platform/' %} class="item-act"{% endif %}><span>Platform</span></a></li>
 				<li class="nav-item nav-item-sub">
-					<a href="/solutions/"{% if page.url contains '/solutions/' %} class="item-act"{% endif %}>Solutions</a>
+					<a href="/solutions/"{% if page.url contains '/solutions/' %} class="item-act"{% endif %}><span>Solutions</span></a>
 					<div class="nav-list-submenu"><div class="in"><div class="nav-list-submenu-content">
 						<div class="nav-list-submenu-item">
 							<p>industry</p>
@@ -42,17 +42,7 @@
 								</ul>
 							{% endfor %}
 						</div>
-						<div class="nav-list-submenu-item">
-							<p>goals</p>
-							{% for solutions in site.solutions %}
-								<ul>
-							 	{% if solutions.relative_path contains '/goals/' %}
-									<li><a href="{{ solutions.url }}">{{ solutions.title }}</a></li>
-								{% endif %}
-								</ul>
-							{% endfor %}
-						</div>
-						<div class="nav-list-submenu-item nav-list-submenu-item-last">
+						<div class="nav-list-submenu-item nav-list-submenu-item-second">
 							<p>departments</p>
 							{% for solutions in site.solutions %}
 								<ul>
@@ -62,10 +52,20 @@
 								</ul>
 							{% endfor %}
 						</div>
+						<div class="nav-list-submenu-item nav-list-submenu-item-last">
+							<p>goals</p>
+							{% for solutions in site.solutions %}
+								<ul>
+							 	{% if solutions.relative_path contains '/goals/' %}
+									<li><a href="{{ solutions.url }}">{{ solutions.title }}</a></li>
+								{% endif %}
+								</ul>
+							{% endfor %}
+						</div>
 					</div></div></div>
 				</li>
-				<li class="nav-item"><a href="/learning/"{% if page.url contains '/learning/' %} class="item-act"{% endif %}>Learning</a></li>
-				<li class="nav-item"><a href="/about/"{% if page.url contains '/about/' %} class="item-act"{% endif %}>About</a></li>
+				<li class="nav-item"><a href="/learning/"{% if page.url contains '/learning/' %} class="item-act"{% endif %}><span>Learning</span></a></li>
+				<li class="nav-item"><a href="/about/"{% if page.url contains '/about/' %} class="item-act"{% endif %}><span>About</span></a></li>
 				<!--li class="nav-item-btn"><a href="" class="btn-dark">See demo</a></li-->
 			</ul></nav>
 			<!--a href="" class="btn btn-blue">See demo</a-->

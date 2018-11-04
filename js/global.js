@@ -260,6 +260,23 @@
             r4.utils.resize();
         });
 
+
+        $('.nav-item-sub').on('mouseenter mouseleave', function(e){
+            e.preventDefault();
+
+            var el = $(this);
+
+            if (e.type == 'mouseenter') {
+                r4.cache.html.addClass('show-submenu');
+                el.addClass('nav-item-sub-hover');
+            } else {
+                r4.cache.html.removeClass('show-submenu');
+                el.removeClass('nav-item-sub-hover');
+            }
+        });
+
+
+
         // HOME
         if ($('.hp-home-header').length){
             r4.utils.home();
