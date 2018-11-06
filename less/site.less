@@ -969,6 +969,9 @@ nav{
   margin-left:-250px;
   width:500px;
 }
+
+// HEADER - NAV - SUBMENU - CONTENT - ITEM
+// ---------
 .nav-list-submenu-item{
   float:left;
   width:100%;
@@ -1641,6 +1644,186 @@ section{
   }
 }*/
 
+
+// SECTION - HEADER - LEARNING
+// ---------
+.section-header-learning-list{
+  margin:0 auto 50px;
+  width:100%;
+  max-width:800px;
+}
+.section-header-learning-list-big,
+.section-header-learning-list-small{
+  width:100%;
+
+  ul{
+    width:100%;
+    .c;
+  }
+  li{
+    float:left;
+    width:25%;
+    margin:0 0 20px 0;
+    padding:0 10px;
+    text-align:center;
+  }
+  a{
+    position:relative;
+    display:block;
+    width:100%;
+    height:220px;
+    background:rgba(255,255,255,0.2);
+    text-decoration:none;
+    .transition(all .2s ease-in-out);
+
+    &:hover{
+      background:@white;
+      text-decoration:none;
+
+      p{
+        color:#228DFF;
+        text-decoration:underline;
+      }
+      .ico-customer,
+      .ico-papers,
+      .ico-events,
+      .ico-webinars,
+      .ico-arrow{
+        &:before{
+          .opacity(0);
+        }
+        &:after{
+          .opacity(100);
+        }
+      }
+    }
+  }
+  p{
+    position:absolute;
+    left:0;
+    bottom:0;
+    margin:0;
+    padding:0 15px 15px 15px;
+    width:100%;
+    .font-size(20, 24px);
+    font-weight:400;
+    color:@white;
+    text-align:center;
+    text-decoration:none;
+    .transition(all .2s ease-in-out);
+  }
+  .ico-customer,
+  .ico-papers,
+  .ico-events,
+  .ico-webinars{
+    position:absolute;
+    left:0;
+    top:0;
+    width:100%;
+    height:155px;
+
+    &:before,
+    &:after{
+      content:'';
+      position:absolute;
+      left:0;
+      top:0;
+      width:100%;
+      height:100%;
+      background-position:center 32px;
+      background-repeat:no-repeat;
+      .transition(all .2s ease-in-out);
+    }
+    &:after{
+      .opacity(0);
+    }
+  }
+  .ico-customer{
+    &:before{
+      background-image:url(../img/ico-learning-customer.svg);
+    }
+    &:after{
+      background-image:url(../img/ico-learning-customer-blue.svg)
+    }
+  }
+  .ico-papers{
+    &:before{
+      background-image:url(../img/ico-learning-papers.svg);
+    }
+    &:after{
+      background-image:url(../img/ico-learning-papers-blue.svg)
+    }
+  }
+  .ico-events{
+    &:before,
+    &:after{
+      background-position:center 40px;
+    }
+    &:before{
+      background-image:url(../img/ico-learning-events.svg);
+    }
+    &:after{
+      background-image:url(../img/ico-learning-events-blue.svg)
+    }
+  }
+  .ico-webinars{
+    &:before,
+    &:after{
+      background-position:center 40px;
+    }
+    &:before{
+      background-image:url(../img/ico-learning-webinars.svg);
+    }
+    &:after{
+      background-image:url(../img/ico-learning-webinars-blue.svg)
+    }
+  }
+  .ico-arrow{
+    position:absolute;
+    right:22px;
+    top:0;
+    width:32px;
+    height:100%;
+
+    &:before,
+    &:after{
+      content:'';
+      position:absolute;
+      left:0;
+      top:0;
+      width:100%;
+      height:100%;
+      background-size:auto 18px;
+      background-position:center center;
+      background-repeat:no-repeat;
+      .transition(all .2s ease-in-out);
+    }
+    &:before{
+      background-image:url(../img/ico-arrow-right-white.svg);
+    }
+    &:after{
+      background-image:url(../img/ico-arrow-right-blue.svg);
+      .opacity(0);
+    }
+  }
+}
+.section-header-learning-list-small{
+  li{
+    width:50%;
+    text-align:left;
+  }
+  a{
+    height:60px;
+  }
+  p{
+    position:relative;
+    padding:0 22px;
+    line-height:60px;
+    text-align:left;
+  }
+}
+
+
 // SECTION - HEADER - RECENT SLIDER
 // ---------
 .section-header-recent{
@@ -1811,6 +1994,8 @@ section{
     margin:0;
   }
 }
+
+
 
 
 

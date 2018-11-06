@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="18px" viewBox="0 0 32 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="resources" transform="translate(-776.000000, -611.000000)" fill="#FFFFFF">
+            <g id="LINKS" transform="translate(450.000000, 351.000000)">
+                <path d="M354.655683,270 L327,270 C326.447715,270 326,269.552285 326,269 C326,268.447715 326.447715,268 327,268 L354.655683,268 L348.278417,261.622734 C347.907194,261.251511 347.907194,260.64964 348.278417,260.278417 C348.64964,259.907194 349.251511,259.907194 349.622734,260.278417 L357.721583,268.377266 C357.959296,268.614979 358.029987,268.919428 357.952614,269.205144 C357.935155,269.343819 357.861565,269.482751 357.721583,269.622734 L349.622734,277.721583 C349.251511,278.092806 348.64964,278.092806 348.278417,277.721583 C347.907194,277.35036 347.907194,276.748489 348.278417,276.377266 L354.655683,270 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
