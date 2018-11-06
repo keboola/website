@@ -92,10 +92,10 @@
 						<div class="nav-list-submenu-item nav-list-submenu-item-half">
 							<p>Resources</p>
 							<ul>
-								<li><a href="/learning/customer -stories/">Customer  Stories</a></li>
-								<li><a href="/learning/whitepapers/">Whitepapers</a></li>
-								<li><a href="/learning/events/">Events</a></li>
-								<li><a href="/learning/webinars/">Webinars</a></li>
+								<li><a href="/learning/customer -stories/"{% if page.url contains '/learning/customer -stories/' %} class="item-act"{% endif %}>Customer  Stories</a></li>
+								<li><a href="/learning/whitepapers/"{% if page.url contains '/learning/whitepapers/' %} class="item-act"{% endif %}>Whitepapers</a></li>
+								<li><a href="/learning/events/"{% if page.url contains '/learning/events/' %} class="item-act"{% endif %}>Events</a></li>
+								<li><a href="/learning/webinars/"{% if page.url contains '/learning/webinars/' %} class="item-act"{% endif %}>Webinars</a></li>
 							</ul>
 						</div>
 						<div class="nav-list-submenu-item nav-list-submenu-item-half">
@@ -113,7 +113,7 @@
 						<ul>
 						{% for about in site.about %}
 						 	{% if about.url != '/about/' %}
-							<li><a href="{{ product.url }}">{{ about.title }}</a></li>
+							<li><a href="{{ about.url }}"{% if page.url contains about.url %} class="item-act"{% endif %}>{{ about.title }}</a></li>
 							{% endif %}
 						{% endfor %}
 						</ul>
