@@ -915,6 +915,9 @@ nav{
 .nav-item-btn{
   display:none;
 }
+
+// HEADER - NAV - SUBMENU
+// ---------
 .nav-item-sub-hover{
   .nav-list-submenu{
     //display:block;
@@ -923,6 +926,10 @@ nav{
     margin-top:-20px;
   }
 }
+
+
+// HEADER - NAV - SUBMENU - CONTENT
+// ---------
 .nav-list-submenu{
   //display:none;
   visibility:hidden;
@@ -958,6 +965,10 @@ nav{
   margin-left:-375px;
   width:750px;
 }
+.nav-list-submenu-learning{
+  margin-left:-250px;
+  width:500px;
+}
 .nav-list-submenu-item{
   float:left;
   width:100%;
@@ -980,7 +991,8 @@ nav{
       text-decoration:none;
       .transition(all .2s ease-in-out);
 
-      &:hover{
+      &:hover,
+      &.item-act{
         color:#228DFF;
         text-decoration:underline;
       }
@@ -995,6 +1007,9 @@ nav{
 }
 .nav-list-submenu-item-big{
   width:44%;
+}
+.nav-list-submenu-item-half{
+  width:50%;
 }
 
 

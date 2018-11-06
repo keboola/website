@@ -33,7 +33,7 @@
 						<ul>
 						{% for product in site.product %}
 						 	{% if product.url != '/product/' %}
-							<li><a href="{{ product.url }}">{{ product.title }}</a></li>
+							<li><a href="{{ product.url }}"{% if page.url contains product.url %} class="item-act"{% endif %}>{{ product.title }}</a></li>
 							{% endif %}
 						{% endfor %}
 						</ul>
@@ -45,7 +45,7 @@
 						<ul>
 						{% for platform in site.platform %}
 						 	{% if platform.url != '/platform/' %}
-							<li><a href="{{ platform.url }}">{{ platform.title }}</a></li>
+							<li><a href="{{ platform.url }}"{% if page.url contains platform.url %} class="item-act"{% endif %}>{{ platform.title }}</a></li>
 							{% endif %}
 						{% endfor %}
 						</ul>
@@ -59,7 +59,7 @@
 							<ul>
 							{% for solutions in site.solutions %}
 							 	{% if solutions.relative_path contains '/industry/' %}
-								<li><a href="{{ solutions.url }}">{{ solutions.title }}</a></li>
+								<li><a href="{{ solutions.url }}"{% if page.url contains solutions.url %} class="item-act"{% endif %}>{{ solutions.title }}</a></li>
 								{% endif %}
 							{% endfor %}
 							</ul>
@@ -69,7 +69,7 @@
 							<ul>
 							{% for solutions in site.solutions %}
 							 	{% if solutions.relative_path contains '/departments/' %}
-								<li><a href="{{ solutions.url }}">{{ solutions.title }}</a></li>
+								<li><a href="{{ solutions.url }}"{% if page.url contains solutions.url %} class="item-act"{% endif %}>{{ solutions.title }}</a></li>
 								{% endif %}
 							{% endfor %}
 							</ul>
@@ -79,14 +79,34 @@
 							<ul>
 							{% for solutions in site.solutions %}
 							 	{% if solutions.relative_path contains '/goals/' %}
-								<li><a href="{{ solutions.url }}">{{ solutions.title }}</a></li>
+								<li><a href="{{ solutions.url }}"{% if page.url contains solutions.url %} class="item-act"{% endif %}>{{ solutions.title }}</a></li>
 								{% endif %}
 							{% endfor %}
 							</ul>
 						</div>
 					</div>
 				</li>
-				<li class="nav-item"><a href="/learning/"{% if page.url contains '/learning/' %} class="item-act"{% endif %}><span>Learning</span></a></li>
+				<li class="nav-item nav-item-sub">
+					<a href="/learning/"{% if page.url contains '/learning/' %} class="item-act"{% endif %}><span>Learning</span></a>
+					<div class="nav-list-submenu nav-list-submenu-learning">
+						<div class="nav-list-submenu-item nav-list-submenu-item-half">
+							<p>Resources</p>
+							<ul>
+								<li><a href="/learning/customer -stories/">Customer  Stories</a></li>
+								<li><a href="/learning/whitepapers/">Whitepapers</a></li>
+								<li><a href="/learning/events/">Events</a></li>
+								<li><a href="/learning/webinars/">Webinars</a></li>
+							</ul>
+						</div>
+						<div class="nav-list-submenu-item nav-list-submenu-item-half">
+							<p>Other</p>
+							<ul>
+								<li><a href="https://blog.keboola.com/">Blog</a></li>
+								<li><a href="http://wiki.keboola.com/">Wiki</a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
 				<li class="nav-item nav-item-sub">
 					<a href="/about/"{% if page.url contains '/about/' %} class="item-act"{% endif %}><span>About</span></a>
 					<div class="nav-list-submenu"><div class="nav-list-submenu-item">
