@@ -375,7 +375,11 @@ hr{
     cursor:pointer;
     .opacity(20);
     .transition(all .2s ease-in-out);
-
+    
+    &.disabled{
+      visibility:hidden;
+      cursor:default;
+    }
     &:hover{
       .opacity(100);
     }
@@ -727,7 +731,7 @@ header{
       text-indent:-9999px;
       vertical-align:middle;
 
-      &:after{
+      /*&:after{
         content:'';
         display:none;
         position:absolute;
@@ -740,7 +744,7 @@ header{
         .show-submenu &{
           display:block;
         }
-      }
+      }*/
     }
   }
 }
@@ -1581,7 +1585,7 @@ section{
 
 // SECTION - HEADER - SEARCH
 // ---------
-.section-header-search{
+/*.section-header-search{
   .in{
     padding-top:90px;
   }
@@ -1620,7 +1624,7 @@ section{
     top:50%;
     margin-top:-26px;
   }
-}
+}*/
 
 // SECTION - HEADER - RECENT SLIDER
 // ---------
@@ -1730,7 +1734,7 @@ section{
 
 // SECTION - HEADER - RESOURCES LIST
 // ---------
-.section-header-list{
+/*.section-header-list{
   margin:0 0 68px 0;
   text-align:left;
   .c;
@@ -1767,7 +1771,7 @@ section{
     color:@white;
     text-decoration:none;
   }
-}
+}*/
 
 
 // SECTION - HEADER - RESOURCES LIST - DETAIL

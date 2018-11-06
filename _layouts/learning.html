@@ -1,0 +1,54 @@
+{% include head.html %}
+<article class="section-header section-header-recent"><div class="in">
+	<div class="section-desc">
+		<p class="p-perex p-perex-dark">Helpful assets to maximaze your success</p>
+		<h1 class="h1-head h1-white"><strong>Featured resources</strong></h1>
+
+	</div>
+</div></article>
+<div class="section-header-recent-content">
+	<div class="most-recent-list">
+		<ul class="most-recent-list-content">
+			<li class="li-placeholder"></li>
+			<li><a href="">
+				<div class="img"><img src="/img/most-recent-img-1.jpg" alt=""></div>
+				<div class="item-desc">
+					<h2>Platform solution for small businesses</h2>
+					<p>Go to the article</p>
+				</div>
+			</a></li>
+		</ul>
+		<div class="most-recent-pages-content">
+			<span class="btn-prevpage">prev</span>
+			<ul class="most-recent-pages"></ul>
+			<span class="btn-nextpage">next</span>
+		</div>
+	</div>
+</div>
+
+<div class="hr"><div class="in"><hr></div></div>
+
+<div class="article-list article-list-table"><div class="in">
+	<div class="item-title">
+		<h1>Data Center</h1>
+		<!--div class="item-title-select">
+			<div class="item-input"><select name="" id="">
+				<option value="">Type</option>
+				<option value="">Type</option>
+				<option value="">Type</option>
+				<option value="">Type</option>
+				<option value="">Type</option>
+			</select></div>
+		</div-->
+	</div>
+	<div class="item-list"><ul class="article-list-content-table">
+		{% for post in site.posts %}<li><a href="{{ post.url }}" class="item-li">
+			<div class="item-li-company">
+				<div class="item-company"><img src="/img/logo-netflix.png" alt=""></div>
+				<h2>{{ post.title }}</h2>
+			</div>
+			<div class="item-li-foot"><strong>{% for category in post.categories limit:1 %}{{ category | downcase | replace:"-"," " }}{% endfor %}</strong></div>
+		</a></li>{% endfor %}
+	</ul></div>
+</div></div>
+{% include foot.html %}

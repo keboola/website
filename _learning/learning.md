@@ -1,5 +1,5 @@
 ---
-layout: resources
+layout: learning
 title: Learning
 permalink: "/learning/"
 ---
