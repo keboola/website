@@ -31,38 +31,38 @@
 				<li class="nav-item"><a href="/platform/"{% if page.url contains '/platform/' %} class="item-act"{% endif %}><span>Platform</span></a></li>
 				<li class="nav-item nav-item-sub">
 					<a href="/solutions/"{% if page.url contains '/solutions/' %} class="item-act"{% endif %}><span>Solutions</span></a>
-					<div class="nav-list-submenu"><div class="nav-list-submenu-content">
-						<div class="nav-list-submenu-item">
+					<div class="nav-list-submenu">
+						<div class="nav-list-submenu-item nav-list-submenu-item-small">
 							<p>industry</p>
+							<ul>
 							{% for solutions in site.solutions %}
-								<ul>
 							 	{% if solutions.relative_path contains '/industry/' %}
-									<li><a href="{{ solutions.url }}">{{ solutions.title }}</a></li>
+								<li><a href="{{ solutions.url }}">{{ solutions.title }}</a></li>
 								{% endif %}
-								</ul>
 							{% endfor %}
+							</ul>
 						</div>
-						<div class="nav-list-submenu-item nav-list-submenu-item-second">
+						<div class="nav-list-submenu-item nav-list-submenu-item-middle">
 							<p>departments</p>
+							<ul>
 							{% for solutions in site.solutions %}
-								<ul>
 							 	{% if solutions.relative_path contains '/departments/' %}
-									<li><a href="{{ solutions.url }}">{{ solutions.title }}</a></li>
+								<li><a href="{{ solutions.url }}">{{ solutions.title }}</a></li>
 								{% endif %}
-								</ul>
 							{% endfor %}
+							</ul>
 						</div>
-						<div class="nav-list-submenu-item nav-list-submenu-item-last">
+						<div class="nav-list-submenu-item nav-list-submenu-item-big">
 							<p>goals</p>
+							<ul>
 							{% for solutions in site.solutions %}
-								<ul>
 							 	{% if solutions.relative_path contains '/goals/' %}
-									<li><a href="{{ solutions.url }}">{{ solutions.title }}</a></li>
+								<li><a href="{{ solutions.url }}">{{ solutions.title }}</a></li>
 								{% endif %}
-								</ul>
 							{% endfor %}
+							</ul>
 						</div>
-					</div></div>
+					</div>
 				</li>
 				<li class="nav-item"><a href="/learning/"{% if page.url contains '/learning/' %} class="item-act"{% endif %}><span>Learning</span></a></li>
 				<li class="nav-item"><a href="/about/"{% if page.url contains '/about/' %} class="item-act"{% endif %}><span>About</span></a></li>
@@ -71,5 +71,4 @@
 			<!--a href="" class="btn btn-blue">See demo</a-->
 		</div>
 	</div></header>
-	<i class="nav-overlay"></i>
 	<section>

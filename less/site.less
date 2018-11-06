@@ -865,6 +865,7 @@ nav{
   .c;
 }
 .nav-item{
+  position:relative;
   float:left;
   //margin:0 60px 0 0;
   height:118px;
@@ -910,67 +911,49 @@ nav{
 .nav-item-btn{
   display:none;
 }
-
-.nav-item-sub{
-  &> a{
-    &:after{
-      display:none;
-      content:'';
-      position:absolute;
-      left:50%;
-      bottom:0;
-      .sq(0);
-      margin-left:-4px;
-      border-style: solid;
-      border-width: 0 4px 4px 4px;
-      border-color: transparent transparent @white transparent;
-    }
-  }
-}
 .nav-item-sub-hover{
-  &> a{
-    color:@white;
-
-    &:after{
-      display:block;
-    }
-    &.item-act,
-    &:hover{
-      color:@white; 
-    }
-    &.item-act{
-      span{
-        &:before{
-          background:@white;
-        }
-      }
-    } 
-  }
   .nav-list-submenu{
-    display:block;
+    //display:block;
+    visibility:visible;
+    .opacity(100);
+    margin-top:-20px;
   }
 }
 .nav-list-submenu{
-  display:none;
+  //display:none;
+  visibility:hidden;
+  .opacity(0);
+  margin-top:-10px;
 
   position:absolute;
   left:50%;
   top:100%;
-  margin-left:-590px;
-  width:100%;
-  max-width:1180px;
-}
-.nav-list-submenu-content{
-  width:100%;
+  margin-left:-375px;
   padding:40px 40px 40px 0;
-  background:@white;
+  //width:100%;
+  width:750px;
   .border-radius(2px);
-  .font-size(0,0);
+  border:1px solid rgba(35,49,65,0.05);
+  background:@white;
+  .box-shadow(0 20px 50px 0 rgba(35,49,65,0.35));
+  .transition(all .2s ease-in-out);
+  .c;
+
+  &:before{
+    content:'';
+    position:absolute;
+    left:50%;
+    bottom:100%;
+    .sq(0);
+    margin-left:-4px;
+    border-style: solid;
+    border-width: 0 4px 4px 4px;
+    border-color: transparent transparent @white transparent;
+  }
 }
 .nav-list-submenu-item{
-  display:inline-block;
+  float:left;
   padding-left:40px;
-  width:180px;
   vertical-align:top;
 
   p{
@@ -996,32 +979,15 @@ nav{
     }
   }
 }
-.nav-list-submenu-item-second{
-  width:240px;
+.nav-list-submenu-item-small{
+  width:22%;
 }
-.nav-list-submenu-item-last{
-  width:400px;
+.nav-list-submenu-item-middle{
+  width:34%;
 }
-
-.nav-overlay{
-  //display:none;
-  position:fixed;
-  left:0;
-  top:0;
-  .sq(100%);
-  background:#233141;
-  .opacity(0);
-  z-index:40;
-  visibility:hidden;
-  .transition(all .2s ease-in-out);
-
-  .show-submenu &{
-    //display:block;
-    visibility:visible;
-    .opacity(75);
-  }
+.nav-list-submenu-item-big{
+  width:44%;
 }
-
 
 
 

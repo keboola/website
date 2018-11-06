@@ -267,10 +267,10 @@
             var el = $(this);
 
             if (e.type == 'mouseenter') {
-                r4.cache.html.addClass('show-submenu');
+                //r4.cache.html.addClass('show-submenu');
                 el.addClass('nav-item-sub-hover');
             } else {
-                r4.cache.html.removeClass('show-submenu');
+                //r4.cache.html.removeClass('show-submenu');
                 el.removeClass('nav-item-sub-hover');
             }
         });
