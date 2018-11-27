@@ -118,20 +118,6 @@ page_sections:
       desktop environment in cloud with the professional support just one click away
       and the knowledge of thousands of users empowering our machine learning and
       helping you with mundane tasks.</p>"
-- template: horizontal-rule
-  block: hr
-- template: article-gray-box
-  block: article-gray-box
-  subheadline: better and faster results
-  headline: Inteligent Interpretation
-  content: In response to these demands, Keboola turned to Geneea for help. We integrated
-    our powerful NLP software into Keboola’s platform making it possible for customers
-    to easily add a large amount of text, process it and visualize the results.
-  img: "/img/article-gray-img.png"
-  ctaname: See how to get the same solution
-  ctalink: "/blog/"
-- template: horizontal-rule
-  block: hr
 - template: ask-demo
   block: ask-demo
   subheadline: 
