@@ -18,13 +18,6 @@ page_sections:
     underutilized data and use it effectively across all the departments of your business,
     you could make better, more coordinated decisions in a fraction of the time it
     used to take.
-- template: black-panel
-  block: black-panel
-  headline: Netflix Case Study
-  content: Reduction of operational costs through predictive maintenance.
-  img: "/img/logo-netflix.png"
-  ctaname: Deliver to your e-mail
-  ctalink: "/blog"
 - template: horizontal-rule
   block: hr
 - template: article-list-hp
@@ -71,9 +64,11 @@ page_sections:
 - template: review
   block: review
   list:
-  - name: THOMAS YOUNG, CFO PAPERS AND CO. INC
-    desc: Keboola team really knows how to work with data, eget arcu velit. Pellentesque
-      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+  - name: Jeff Miller, VP of Technology at Roti Modern Mediterranean
+    desc: Keboola’s Business Data Model has transformed the way Roti thinks about
+      its data.  Our BDM has allowed us to elevate conversations from the tactical
+      to the strategic helping us provide a scalable platform and greater business
+      value.
   - name: THOMAS YOUNG, CFO PAPERS AND CO. INC
     desc: Keboola team really knows how to work with data, eget arcu velit. Pellentesque
       habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
