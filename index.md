@@ -70,7 +70,10 @@ page_sections:
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns, sales tactic and more. The information is approachable
       and easily accessible with a click of a button.
-  - {}
+  - icotype: yellow
+    title: Embed Your Way
+    desc: You know what works best for you and why would we doubt that? Embed in whatever
+      way you want to!
   - {}
 - template: review
   block: review
