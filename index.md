@@ -58,17 +58,20 @@ page_sections:
     img: "/uploads/erste_logo.png"
 - template: horizontal-rule
   block: hr
-- template: ask-demo
-  block: ask-demo
-  subheadline: Keboola puts you in control of your data
-  headline: Keboola puts you in control of your data
-  content: Bringing Data Engineering and Data Analytics together in one single platform
-    that anyone can use via UI or API. One click managed infrastructure, all people
-    provisioning, process automation - one platform.ML based solutions that provide
-    predictive support, automatic data set discovery, one click scaffolding and much
-    more.
-  ctaname: Ask for a demo
-  ctalink: "/blog/"
+- template: article-list-one-row
+  block: article-list-one-row
+  subheadline: All in one container based data platform you can add to
+  headline: A new approach to streamlined analytics
+  content: We've handled all the security, provisioning, governance, audit trails,
+    payloads... everything. You are in control with your data.
+  list:
+  - icotype: blueright
+    title: No More Complex ETLs
+    desc: Get the data and the best tools to create adhoc analyses right in your department
+      to improve your campaigns, sales tactic and more. The information is approachable
+      and easily accessible with a click of a button.
+  - {}
+  - {}
 - template: review
   block: review
   list:
