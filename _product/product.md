@@ -34,9 +34,8 @@ page_sections:
       and easily accessible with a click of a button.
     title: No More Complex ETLs
   - icotype: yellowright
-    desc: Get the data and the best tools to create adhoc analyses right in your department
-      to improve your campaigns. Maecenas ac hendrerit felis. Aliquam a ligula tempor,
-      rhoncus eros non, maximus sem.
+    desc: You know what works best for you and why would we doubt that? Embed in whatever
+      way you want to!
     title: Embed Your Way
   - icotype: black
     title: Accelerate analytics with ready-to-query schemas
