@@ -24,7 +24,7 @@ page_sections:
   list:
   - img: "/uploads/Goodyear-logo.png"
     name: Goodyear
-  - img: "/uploads/bata-logo.png"
+  - img: "/uploads/bata-logo-small.png"
     name: Bata
   - name: AWS
     img: "/uploads/logo-aws.jpg"
