@@ -125,5 +125,8 @@ page_sections:
   content: 
   ctaname: Ask for a demo
   ctalink: "/blog/"
+- template: recent-list
+  block: recent-list
+  headline: Success Stories
 
 ---
