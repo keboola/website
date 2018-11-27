@@ -28,8 +28,8 @@ page_sections:
     name: Bata
   - name: Zendesk
     img: "/uploads/zendesk_logo.png"
-  - name: Azure
-    img: "/uploads/logo-azure.jpg"
+  - name: Erste
+    img: "/uploads/erste_logo.png"
 - template: horizontal-rule
   block: hr
 - template: article-list-hp
