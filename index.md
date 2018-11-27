@@ -22,6 +22,8 @@ page_sections:
   block: article-list-img
   headline: Keboola works with the world’s best!
   list:
+  - name: CSC
+    img: "/uploads/CSC_Logo.png"
   - img: "/uploads/Goodyear-logo.png"
     name: Goodyear
   - img: "/uploads/bata-logo-small.png"
