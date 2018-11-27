@@ -118,6 +118,8 @@ page_sections:
       desktop environment in cloud with the professional support just one click away
       and the knowledge of thousands of users empowering our machine learning and
       helping you with mundane tasks.</p>"
+- template: horizontal-rule
+  block: hr
 - template: recent-list
   block: recent-list
   headline: Success Stories
