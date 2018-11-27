@@ -40,8 +40,6 @@ page_sections:
     title: AUTOMATION
     desc: Connect to any data right away. Create pipelines, automate. Share data catalogues
       and tools for your teams across the company.
-- template: horizontal-rule
-  block: hr
 - template: article-list-img
   block: article-list-img
   headline: Keboola works with the world’s best!
@@ -58,6 +56,8 @@ page_sections:
     img: "/uploads/zendesk_logo.png"
   - name: Erste
     img: "/uploads/erste_logo.png"
+- template: horizontal-rule
+  block: hr
 - template: ask-demo
   block: ask-demo
   subheadline: Keboola puts you in control of your data
@@ -122,35 +122,6 @@ page_sections:
   ctalink: "/blog/"
 - template: horizontal-rule
   block: hr
-- template: faq
-  block: faq
-  headline: Still have a questions?
-  list:
-  - name: I am "beginner" in data what I have to learn ?
-    desc: 'If you know basics of SQL, Py that''s it. With our platform you just start
-      working. No roadblocks in your way. One click to get to data, one click to get
-      to SQL/Py notebook. One click to invite your mates to collaborate on the same
-      code. That''s it. It is #easy'
-  - name: How long does it take from data to model ?
-    desc: We have integrated data acquisition framework with over 200 preset connectors.
-      With one click you can get any data inside Keboola. If you encounter new source,
-      just use our Generic Extractor and get data from it as well. In a matter of
-      minutes work on your data!
-  - name: How hard is to scale the platform and how do I provision it for multiple
-      users?
-    desc: 'Zero, nada, not a single minute you need to spend on actual management
-      or scaling or user provisioning of Keboola. That''s the job of software! We
-      have taken all the menial tasks and jobs in data infrastructure and built a
-      software to handle them! #robotsbaby'
-  - name: How flexible is your pricing?
-    desc: 'Dude, you will be surprised!  Start as low as $900/m for your whole infrastructure
-      with data acquistion, dwh, notebooks, orchestration and grow as you need slowly/fast
-      back/fourth. What ever suits your need. If you decide it is time for you to
-      go, just press "data take out" button and all of your data and code you had
-      with us will land in your S3. We hate strings attached. We hate drama. And that''s
-      why we''ve made it easy even to leave us :) . #enjoy'
-- template: horizontal-rule
-  block: hr
 - template: ask-demo
   block: ask-demo
   subheadline: 
@@ -158,8 +129,5 @@ page_sections:
   content: 
   ctaname: Ask for a demo
   ctalink: "/blog/"
-- template: recent-list
-  block: recent-list
-  headline: More <strong>Data Science</strong> Articles
 
 ---
