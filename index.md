@@ -44,6 +44,10 @@ page_sections:
   block: article-list-img
   headline: Keboola works with the world’s best!
   list:
+  - img: "/uploads/Goodyear-logo.png"
+    name: Goodyear
+  - img: "/uploads/bata-logo.png"
+    name: Bata
   - name: AWS
     img: "/uploads/logo-aws.jpg"
   - name: Azure
