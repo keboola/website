@@ -18,6 +18,18 @@ page_sections:
     underutilized data and use it effectively across all the departments of your business,
     you could make better, more coordinated decisions in a fraction of the time it
     used to take.
+- template: article-list-img
+  block: article-list-img
+  headline: Keboola works with the world’s best!
+  list:
+  - img: "/uploads/Goodyear-logo.png"
+    name: Goodyear
+  - img: "/uploads/bata-logo.png"
+    name: Bata
+  - name: AWS
+    img: "/uploads/logo-aws.jpg"
+  - name: Azure
+    img: "/uploads/logo-azure.jpg"
 - template: horizontal-rule
   block: hr
 - template: article-list-hp
@@ -40,18 +52,6 @@ page_sections:
     title: AUTOMATION
     desc: Connect to any data right away. Create pipelines, automate. Share data catalogues
       and tools for your teams across the company.
-- template: article-list-img
-  block: article-list-img
-  headline: Keboola works with the world’s best!
-  list:
-  - img: "/uploads/Goodyear-logo.png"
-    name: Goodyear
-  - img: "/uploads/bata-logo.png"
-    name: Bata
-  - name: AWS
-    img: "/uploads/logo-aws.jpg"
-  - name: Azure
-    img: "/uploads/logo-azure.jpg"
 - template: horizontal-rule
   block: hr
 - template: ask-demo
