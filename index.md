@@ -74,7 +74,11 @@ page_sections:
     title: Embed Your Way
     desc: You know what works best for you and why would we doubt that? Embed in whatever
       way you want to!
-  - {}
+  - icotype: blue
+    title: Accelerate analytics with ready-to-query schemas
+    desc: We build the best schemas around, ensuring you get all the data you need,
+      with no duplicates. And our documented ERDs show you exactly what you’re working
+      with.
 - template: review
   block: review
   list:
