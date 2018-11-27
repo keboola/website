@@ -118,13 +118,6 @@ page_sections:
       desktop environment in cloud with the professional support just one click away
       and the knowledge of thousands of users empowering our machine learning and
       helping you with mundane tasks.</p>"
-- template: ask-demo
-  block: ask-demo
-  subheadline: 
-  headline: 
-  content: 
-  ctaname: Ask for a demo
-  ctalink: "/blog/"
 - template: recent-list
   block: recent-list
   headline: Success Stories
