@@ -28,21 +28,21 @@ page_sections:
   content: We've handled all the security, provisioning, governance, audit trails,
     payloads...everything. You are in control with your data.
   list:
-  - icotype: black
-    title: Accelerate analytics with ready-to-query schemas
-    desc: We build the best schemas around, ensuring you get all the data you need,
-      with no duplicates. And our documented ERDs show you exactly what you’re working
-      with.
   - icotype: blueright
     desc: Get the data and the best tools to create adhoc analyses right in your department
-      to improve your campaigns. Maecenas ac hendrerit felis. Aliquam a ligula tempor,
-      rhoncus eros non, maximus sem.
+      to improve your campaigns, sales tactic and more. The information is approachable
+      and easily accessible with a click of a button.
     title: No More Complex ETLs
   - icotype: yellowright
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns. Maecenas ac hendrerit felis. Aliquam a ligula tempor,
       rhoncus eros non, maximus sem.
     title: Embed Your Way
+  - icotype: black
+    title: Accelerate analytics with ready-to-query schemas
+    desc: We build the best schemas around, ensuring you get all the data you need,
+      with no duplicates. And our documented ERDs show you exactly what you’re working
+      with.
 - template: review
   block: review
   list:
