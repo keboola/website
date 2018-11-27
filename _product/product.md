@@ -19,21 +19,20 @@ page_sections:
     libero, facilisis auctor libero sollicitudin ut. Nullam tincidunt id dictu.
   subheadline: Use data to drive your decissions
   headlinesmall: false
-- template: gallery-list
-  block: gallery-list
 - template: horizontal-rule
   block: hr
 - template: article-list-one-row
   block: article-list-one-row
   subheadline: All in one container based data platform you can add to
   headline: A new approach to embedded analytics
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pharetra
-    orci et justo sollicitudin lacinia. Donec suscipit leo quis laoreet elementum.
-    Maecenas ac hendrerit felis. Aliquam a ligula tempor, rhoncus eros non, maximus
-    sem. Proin ut elit aliquam, congue quam auctor, congue arcu. Mauris elit erat,
-    convallis id cursus hendrerit, vestibulum non elit. Maecenas interdum porttitor
-    libero, facilisis auctor libero sollicitudin ut. Nullam tincidunt id dictu
+  content: We've handled all the security, provisioning, governance, audit trails,
+    payloads...everything. You are in control with your data.
   list:
+  - icotype: black
+    title: Accelerate analytics with ready-to-query schemas
+    desc: We build the best schemas around, ensuring you get all the data you need,
+      with no duplicates. And our documented ERDs show you exactly what you’re working
+      with.
   - icotype: blueright
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns. Maecenas ac hendrerit felis. Aliquam a ligula tempor,
