@@ -69,11 +69,11 @@ page_sections:
       its data.  Our BDM has allowed us to elevate conversations from the tactical
       to the strategic helping us provide a scalable platform and greater business
       value.
-  - name: THOMAS YOUNG, CFO PAPERS AND CO. INC
-    desc: Keboola team really knows how to work with data, eget arcu velit. Pellentesque
-      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-      Keboola team really knows how to work with data, eget arcu velit. Pellentesque
-      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+  - name: Vinh Buu, Manager of Shopper Data at Ivanhoe Cambridge
+    desc: Keboola allows us to integrate data from proprietary platforms and correlate
+      them with data from industry-leading solutions. Keboola is a facilitator to
+      the business in our quest to gain market intelligence.I see Keboola as an extension
+      of our team.
   - name: THOMAS YOUNG, CFO PAPERS AND CO. INC
     desc: Keboola team really knows how to work with data, eget arcu velit. Pellentesque
       habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
