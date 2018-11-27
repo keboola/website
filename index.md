@@ -26,8 +26,8 @@ page_sections:
     name: Goodyear
   - img: "/uploads/bata-logo-small.png"
     name: Bata
-  - name: AWS
-    img: "/uploads/logo-aws.jpg"
+  - name: Zendesk
+    img: "/uploads/zendesk_logo.png"
   - name: Azure
     img: "/uploads/logo-azure.jpg"
 - template: horizontal-rule
