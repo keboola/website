@@ -90,5 +90,12 @@ page_sections:
       and investigating details and new connections. What’s more, we lacked proper
       visualization...
     icotype: gray
+- template: review
+  block: review
+  list:
+  - name: CIO OF MAJOR FINANCIAL INSTITUTION
+    desc: Keboola connection is visionary product that will standardize in the future
+      how companies and their comployees are accessing and working with data. Data
+      democracy and data driven company = Keboola connection.
 
 ---
