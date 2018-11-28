@@ -44,7 +44,10 @@ page_sections:
     desc: From our daily operations to our marketing campaigns, we know how to grow
       again. We work in a transparent way that everyone respects and trusts.
     icotype: blueright
-  - {}
+  - icotype: yellow
+    title: McPen
+    desc: Data Driven Management means each and every employee has the right information
+      to behave effectively and to earn more money.
   - title: Pietro Filipi
     icotype: black
     desc: Revenue reporting, inventory, basic reports for e-commerce, NPS, logistics,
