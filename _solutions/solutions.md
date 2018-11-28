@@ -22,7 +22,7 @@ page_sections:
     time or enabling all departments to work on the same data at the same time."
   subheadline: According to <a href="https://hbr.org/2018/02/big-companies-are-embracing-analytics-but-most-still-dont-have-a-data-driven-culture">Hbr.org</a>
   headline: DataDriven companies have 30% higher EBITDA!
-  ctaname: Take 7 day challenge!
+  ctaname: ''
 - template: article-list-hp
   block: article-list-hp
   headline: Get all your data, act on it immediately! Increase profit and market share.
