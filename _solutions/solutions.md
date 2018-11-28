@@ -27,6 +27,25 @@ page_sections:
   block: article-list-hp
   headline: Get all your data, act on it immediately ! Increase profit and market
     share.
+- template: article-list-one-row
+  block: article-list-one-row
+  headline: Retail
+  content: In the heart of retail is purchase and warehouse management, through store
+    locations sales/same store comparisons, throughput and connection to customized
+    CRM activities in marketing modern retail operations are very data heavy. The
+    challenge is to not only connect all the data from internal system, 3rd party
+    system and create a single view of customer, but allow collaboration through every
+    department and always measure profitability of the whole customer journey.
+  list:
+  - desc: Store retail management and warehouse purchase predictions at McPen
+    title: McPen
+  - desc: From company operations to data driven customer experience and marketing
+    title: Slevomat.cz
+  - title: Lékárna.cz
+    desc: Reviving our Company with Reliable Data
+  - title: Pietro Filipi
+    desc: Revenue reporting, inventory, basic reports for e-commerce, NPS, logistics,
+      and warehouse management within two weeks!
 - template: review
   block: review
   list:
@@ -51,21 +70,5 @@ page_sections:
     desc: "MallGroup Europa’s leading retail in 6 countries has enabled analytics
       through Keboola to all departments from logistics to customer success and marketing
       within two months. \n"
-- template: article-list-one-row
-  block: article-list-one-row
-  headline: Retail
-  content: In the heart of retail is purchase and warehouse management, through store
-    locations sales/same store comparisons, throughput and connection to customized
-    CRM activities in marketing modern retail operations are very data heavy. The
-    challenge is to not only connect all the data from internal system, 3rd party
-    system and create a single view of customer, but allow collaboration through every
-    department and always measure profitability of the whole customer journey.
-  list:
-  - desc: Store retail management and warehouse purchase predictions at McPen
-    title: McPen
-  - desc: From company operations to data driven customer experience and marketing
-    title: Slevomat.cz
-  - title: Lékárna.cz
-    desc: Reviving our Company with Reliable Data
 
 ---
