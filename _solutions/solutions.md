@@ -78,6 +78,13 @@ page_sections:
     desc: Revenue reporting, inventory, basic reports for e-commerce, NPS, logistics,
       and warehouse management within two weeks!
   subheadline: industry
+- template: review
+  block: review
+  list:
+  - name: CIO OF MAJOR FINANCIAL INSTITUTION
+    desc: Keboola connection is visionary product that will standardize in the future
+      how companies and their comployees are accessing and working with data. Data
+      democracy and data driven company = Keboola connection.
 - template: article-list-one-row
   block: article-list-one-row
   headline: Financials
@@ -95,13 +102,6 @@ page_sections:
   subheadline: Classic corporate BI tools would be  financial suicide for us
   ctaname: See how they used Keboola
   img: "/uploads/hello_logo.png"
-- template: review
-  block: review
-  list:
-  - name: CIO OF MAJOR FINANCIAL INSTITUTION
-    desc: Keboola connection is visionary product that will standardize in the future
-      how companies and their comployees are accessing and working with data. Data
-      democracy and data driven company = Keboola connection.
 - template: recent-list
   block: recent-list
   headline: More success stories
