@@ -22,9 +22,6 @@ page_sections:
     solved all kinds of challenges from dynamic pricing, KPI reportings available
     to whole company, same store predictions, predictive restocking, logistic in real
     time or enabling all departments to work on the same data at the same time.
-- template: article-list-hp
-  block: article-list-hp
-  headline: Get all your data, act on it immediately! Increase profit and market share.
 - template: review
   block: review
   list:
@@ -32,6 +29,9 @@ page_sections:
     desc: Keboola connection is visionary product that will standardize in the future
       how companies and their comployees are accessing and working with data. Data
       democracy and data driven company = Keboola connection.
+- template: article-list-hp
+  block: article-list-hp
+  headline: Get all your data, act on it immediately! Increase profit and market share.
 - template: ask-demo
   block: ask-demo
   ctaname: Take 7 day challenge!
