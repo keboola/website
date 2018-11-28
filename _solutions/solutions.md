@@ -70,7 +70,7 @@ page_sections:
       omnichannel data, created machine learning segmentations and orchestrates campaigns
       from Keboola to Silverpop, web and online advertising with reported over 20%
       increase in work efficiency.
-  - name: Out of stock reports in 7 days!
+  - name: OUT OF STOCK REPORTS IN 7 DAYS
     desc: Pietro Filipi has gone from bunch of odl IT systems to company wide out
       off stock reports in 7days!  Increasing profitability by tens of percent!
   - name: Going beyond traditional dwh - enabling citizen users
