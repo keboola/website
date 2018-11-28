@@ -89,5 +89,6 @@ page_sections:
     desc: When we had all the data aggregated in Excel, we couldn’t continue verifying
       and investigating details and new connections. What’s more, we lacked proper
       visualization...
+    icotype: gray
 
 ---
