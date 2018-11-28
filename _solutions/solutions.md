@@ -77,5 +77,17 @@ page_sections:
     desc: "MallGroup Europa’s leading retail in 6 countries has enabled analytics
       through Keboola to all departments from logistics to customer success and marketing
       within two months. \n"
+- template: article-list-one-row
+  block: article-list-one-row
+  headline: Financials
+  content: From aggregating data from disperse legacy banking systems, to helping
+    your marketing to create single view of customer, drive data driven marketing
+    effort to modern collaboration of your risk department on agile risk assessments,
+    Keboola platform supports you.
+  list:
+  - title: Hello Bank!
+    desc: When we had all the data aggregated in Excel, we couldn’t continue verifying
+      and investigating details and new connections. What’s more, we lacked proper
+      visualization...
 
 ---
