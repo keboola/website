@@ -87,6 +87,14 @@ page_sections:
     Keboola platform supports you.
   list: []
   subheadline: industry
+- template: article-gray-box
+  block: article-gray-box
+  headline: Hello Bank!
+  content: When we had all the data aggregated in Excel, we couldn’t continue verifying
+    and investigating details and new connections. What’s more, we lacked proper visualization...
+  subheadline: Classic corporate BI tools would be  financial suicide for us
+  ctaname: See how they used Keboola
+  img: "/uploads/hello_logo.png"
 - template: review
   block: review
   list:
@@ -94,7 +102,5 @@ page_sections:
     desc: Keboola connection is visionary product that will standardize in the future
       how companies and their comployees are accessing and working with data. Data
       democracy and data driven company = Keboola connection.
-- template: article-gray-box
-  block: article-gray-box
 
 ---
