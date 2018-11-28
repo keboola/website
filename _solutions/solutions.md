@@ -12,17 +12,16 @@ page_sections:
   content: Your customers want everything now, tailored for them and with wow experience.
     Keboola helps you to provide the best data driven solutions to all of your departments
     quickly!
-- template: ask-demo
-  block: ask-demo
-  content: "<br>Aggregating data from internal dwh, external sources and bringing
-    analytics driven behaviour into every department should be easy! That’s when our
-    complex analytics solution comes in. Using Keboola data analytics platform companies
-    have solved all kinds of challenges from dynamic pricing, KPI reportings available
-    to whole company, same store predictions, predictive restocking, logistic in real
-    time or enabling all departments to work on the same data at the same time."
+- template: article-full
+  block: article-full
   subheadline: According to <a href="https://hbr.org/2018/02/big-companies-are-embracing-analytics-but-most-still-dont-have-a-data-driven-culture">Hbr.org</a>
   headline: DataDriven companies have 30% higher EBITDA!
-  ctaname: ''
+  content: Aggregating data from internal dwh, external sources and bringing analytics
+    driven behaviour into every department should be easy! That’s when our complex
+    analytics solution comes in. Using Keboola data analytics platform companies have
+    solved all kinds of challenges from dynamic pricing, KPI reportings available
+    to whole company, same store predictions, predictive restocking, logistic in real
+    time or enabling all departments to work on the same data at the same time.
 - template: article-list-hp
   block: article-list-hp
   headline: Get all your data, act on it immediately! Increase profit and market share.
