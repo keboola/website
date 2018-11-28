@@ -25,10 +25,27 @@ page_sections:
 - template: review
   block: review
   list:
-  - name: CIO OF MAJOR FINANCIAL INSTITUTION
-    desc: Keboola connection is visionary product that will standardize in the future
-      how companies and their comployees are accessing and working with data. Data
-      democracy and data driven company = Keboola connection.
+  - name: DYNAMIC PRICING
+    desc: Major EU retailer has used Keboola to integrate data, build metrics and
+      data catalogues and invite external consultancy to collaborate on creation of
+      dynamic pricing models that were deployed within weeks through the same infrastructure.
+  - name: LOGISTICS
+    desc: Major competitor to Tesco has used Keboola as a datahub and data analytics
+      and automation system and is measuring and automating data in the whole chain
+      from pickers in warehouse, customer response, planing delivery routes to multichannel
+      marketing. Growing hundred percent faster then closest competitors.
+  - name: MULTICHANNEL MARKETING
+    desc: Major world shoe producer has been using Keboola to integrate all of the
+      omnichannel data, created machine learning segmentations and orchestrates campaigns
+      from Keboola to Silverpop, web and online advertising with reported over 20%
+      increase in work efficiency.
+  - name: OUT OF STOCK REPORTS IN 7 DAYS
+    desc: Pietro Filipi has gone from bunch of odl IT systems to company wide out
+      off stock reports in 7days!  Increasing profitability by tens of percent!
+  - name: GOING BEYOND TRADITIONAL DWH - ENABLING CITIZEN USERS
+    desc: "MallGroup Europa’s leading retail in 6 countries has enabled analytics
+      through Keboola to all departments from logistics to customer success and marketing
+      within two months. \n"
 - template: article-list-hp
   block: article-list-hp
   headline: Get all your data, act on it immediately! Increase profit and market share.
@@ -61,30 +78,6 @@ page_sections:
     desc: Revenue reporting, inventory, basic reports for e-commerce, NPS, logistics,
       and warehouse management within two weeks!
   subheadline: industry
-- template: review
-  block: review
-  list:
-  - name: DYNAMIC PRICING
-    desc: Major EU retailer has used Keboola to integrate data, build metrics and
-      data catalogues and invite external consultancy to collaborate on creation of
-      dynamic pricing models that were deployed within weeks through the same infrastructure.
-  - name: LOGISTICS
-    desc: Major competitor to Tesco has used Keboola as a datahub and data analytics
-      and automation system and is measuring and automating data in the whole chain
-      from pickers in warehouse, customer response, planing delivery routes to multichannel
-      marketing. Growing hundred percent faster then closest competitors.
-  - name: MULTICHANNEL MARKETING
-    desc: Major world shoe producer has been using Keboola to integrate all of the
-      omnichannel data, created machine learning segmentations and orchestrates campaigns
-      from Keboola to Silverpop, web and online advertising with reported over 20%
-      increase in work efficiency.
-  - name: OUT OF STOCK REPORTS IN 7 DAYS
-    desc: Pietro Filipi has gone from bunch of odl IT systems to company wide out
-      off stock reports in 7days!  Increasing profitability by tens of percent!
-  - name: GOING BEYOND TRADITIONAL DWH - ENABLING CITIZEN USERS
-    desc: "MallGroup Europa’s leading retail in 6 countries has enabled analytics
-      through Keboola to all departments from logistics to customer success and marketing
-      within two months. \n"
 - template: article-list-one-row
   block: article-list-one-row
   headline: Financials
@@ -102,6 +95,13 @@ page_sections:
   subheadline: Classic corporate BI tools would be  financial suicide for us
   ctaname: See how they used Keboola
   img: "/uploads/hello_logo.png"
+- template: review
+  block: review
+  list:
+  - name: CIO OF MAJOR FINANCIAL INSTITUTION
+    desc: Keboola connection is visionary product that will standardize in the future
+      how companies and their comployees are accessing and working with data. Data
+      democracy and data driven company = Keboola connection.
 - template: recent-list
   block: recent-list
   headline: More success stories
