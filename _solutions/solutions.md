@@ -42,7 +42,10 @@ page_sections:
     desc: From company operations to data driven customer experience and marketing.
   - {}
   - {}
-  - {}
+  - title: Pietro Filipi
+    icotype: black
+    desc: Revenue reporting, inventory, basic reports for e-commerce, NPS, logistics,
+      and warehouse management within two weeks!
 - template: review
   block: review
   list:
