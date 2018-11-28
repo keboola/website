@@ -56,7 +56,7 @@ page_sections:
 - template: review
   block: review
   list:
-  - name: Dynamic pricing
+  - name: DYNAMIC PRICING
     desc: Major EU retailer has used Keboola to integrate data, build metrics and
       data catalogues and invite external consultancy to collaborate on creation of
       dynamic pricing models that were deployed within weeks through the same infrastructure.
