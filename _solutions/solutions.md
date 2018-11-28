@@ -63,6 +63,7 @@ page_sections:
   list:
   - desc: Store retail management and warehouse purchase predictions at McPen
   - desc: From company operations to data driven customer experience and marketing
+    title: Slevomat.cz
   - {}
 
 ---
