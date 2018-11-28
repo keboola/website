@@ -90,7 +90,7 @@ page_sections:
       and investigating details and new connections. What’s more, we lacked proper
       visualization...
     icotype: gray
-  subheadline: insdustry
+  subheadline: industry
 - template: review
   block: review
   list:
