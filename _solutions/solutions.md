@@ -65,6 +65,7 @@ page_sections:
     title: McPen
   - desc: From company operations to data driven customer experience and marketing
     title: Slevomat.cz
-  - {}
+  - title: Lékárna.cz
+    desc: Reviving our Company with Reliable Data
 
 ---
