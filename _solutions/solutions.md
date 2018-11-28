@@ -62,6 +62,7 @@ page_sections:
     department and always measure profitability of the whole customer journey.
   list:
   - desc: Store retail management and warehouse purchase predictions at McPen
+    title: McPen
   - desc: From company operations to data driven customer experience and marketing
     title: Slevomat.cz
   - {}
