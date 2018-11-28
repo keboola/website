@@ -25,8 +25,7 @@ page_sections:
   ctaname: Take 7 day challenge!
 - template: article-list-hp
   block: article-list-hp
-  headline: Get all your data, act on it immediately ! Increase profit and market
-    share.
+  headline: Get all your data, act on it immediately! Increase profit and market share.
 - template: horizontal-rule
   block: hr
 - template: article-list-two-row
