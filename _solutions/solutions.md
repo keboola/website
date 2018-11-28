@@ -85,12 +85,7 @@ page_sections:
     your marketing to create single view of customer, drive data driven marketing
     effort to modern collaboration of your risk department on agile risk assessments,
     Keboola platform supports you.
-  list:
-  - title: Hello Bank!
-    desc: When we had all the data aggregated in Excel, we couldn’t continue verifying
-      and investigating details and new connections. What’s more, we lacked proper
-      visualization...
-    icotype: gray
+  list: []
   subheadline: industry
 - template: review
   block: review
@@ -99,5 +94,7 @@ page_sections:
     desc: Keboola connection is visionary product that will standardize in the future
       how companies and their comployees are accessing and working with data. Data
       democracy and data driven company = Keboola connection.
+- template: article-gray-box
+  block: article-gray-box
 
 ---
