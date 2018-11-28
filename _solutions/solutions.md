@@ -27,6 +27,8 @@ page_sections:
   block: article-list-hp
   headline: Get all your data, act on it immediately ! Increase profit and market
     share.
+- template: horizontal-rule
+  block: hr
 - template: article-list-two-row
   block: article-list-two-row
   headline: Retail
