@@ -9,11 +9,9 @@ page_sections:
   block: header-blue
   subheadline: Get data driven - react fast
   headline: Solutions
-  content: The retail world is changing fast. Customers want everything now, have
-    wow experience and everything tailored for them. That requires massive work with
-    data in all departments. Aggregate it, prepare it for analytics, enable analytics
-    in all departments and automate processes around it. We can help to get you to
-    results fast!
+  content: Your customers want everything now, tailored for them and with wow experience.
+    Keboola helps you to provide the best data driven solutions to all of your departments
+    quickly!
 - template: ask-demo
   block: ask-demo
   content: "<br>Aggregating data from internal dwh, external sources and bringing
