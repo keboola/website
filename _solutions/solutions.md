@@ -27,8 +27,8 @@ page_sections:
   block: article-list-hp
   headline: Get all your data, act on it immediately ! Increase profit and market
     share.
-- template: article-list-one-row
-  block: article-list-one-row
+- template: article-list-two-row
+  block: article-list-two-row
   headline: Retail
   content: In the heart of retail is purchase and warehouse management, through store
     locations sales/same store comparisons, throughput and connection to customized
@@ -37,15 +37,12 @@ page_sections:
     system and create a single view of customer, but allow collaboration through every
     department and always measure profitability of the whole customer journey.
   list:
-  - desc: Store retail management and warehouse purchase predictions at McPen
-    title: McPen
-  - desc: From company operations to data driven customer experience and marketing
+  - icotype: blue
     title: Slevomat.cz
-  - title: Lékárna.cz
-    desc: Reviving our Company with Reliable Data
-  - title: Pietro Filipi
-    desc: Revenue reporting, inventory, basic reports for e-commerce, NPS, logistics,
-      and warehouse management within two weeks!
+    desc: From company operations to data driven customer experience and marketing.
+  - {}
+  - {}
+  - {}
 - template: review
   block: review
   list:
