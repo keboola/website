@@ -40,7 +40,10 @@ page_sections:
   - icotype: blue
     title: Slevomat.cz
     desc: From company operations to data driven customer experience and marketing.
-  - {}
+  - title: Lékárna.cz
+    desc: From our daily operations to our marketing campaigns, we know how to grow
+      again. We work in a transparent way that everyone respects and trusts.
+    icotype: blueright
   - {}
   - title: Pietro Filipi
     icotype: black
