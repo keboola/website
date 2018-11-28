@@ -73,7 +73,7 @@ page_sections:
   - name: OUT OF STOCK REPORTS IN 7 DAYS
     desc: Pietro Filipi has gone from bunch of odl IT systems to company wide out
       off stock reports in 7days!  Increasing profitability by tens of percent!
-  - name: Going beyond traditional dwh - enabling citizen users
+  - name: GOING BEYOND TRADITIONAL DWH - ENABLING CITIZEN USERS
     desc: "MallGroup Europa’s leading retail in 6 countries has enabled analytics
       through Keboola to all departments from logistics to customer success and marketing
       within two months. \n"
