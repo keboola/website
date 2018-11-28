@@ -23,6 +23,10 @@ page_sections:
   subheadline: According to <a href="https://hbr.org/2018/02/big-companies-are-embracing-analytics-but-most-still-dont-have-a-data-driven-culture">Hbr.org</a>
   headline: DataDriven companies have 30% higher EBITDA!
   ctaname: Take 7 day challenge!
+- template: article-list-hp
+  block: article-list-hp
+  headline: Get all your data, act on it immediately ! Increase profit and market
+    share.
 - template: review
   block: review
   list:
@@ -47,11 +51,18 @@ page_sections:
     desc: "MallGroup Europa’s leading retail in 6 countries has enabled analytics
       through Keboola to all departments from logistics to customer success and marketing
       within two months. \n"
-- template: gallery-list
-  block: gallery-list
-- template: article-list-hp
-  block: article-list-hp
-  headline: Get all your data, act on it immediately ! Increase profit and market
-    share.
+- template: article-list-one-row
+  block: article-list-one-row
+  headline: Retail
+  content: In the heart of retail is purchase and warehouse management, through store
+    locations sales/same store comparisons, throughput and connection to customized
+    CRM activities in marketing modern retail operations are very data heavy. The
+    challenge is to not only connect all the data from internal system, 3rd party
+    system and create a single view of customer, but allow collaboration through every
+    department and always measure profitability of the whole customer journey.
+  list:
+  - desc: Store retail management and warehouse purchase predictions at McPen
+  - {}
+  - {}
 
 ---
