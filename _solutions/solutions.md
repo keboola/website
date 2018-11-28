@@ -65,7 +65,7 @@ page_sections:
       and automation system and is measuring and automating data in the whole chain
       from pickers in warehouse, customer response, planing delivery routes to multichannel
       marketing. Growing hundred percent faster then closest competitors.
-  - name: Multichannel marketing
+  - name: MULTICHANNEL MARKETING
     desc: Major world shoe producer has been using Keboola to integrate all of the
       omnichannel data, created machine learning segmentations and orchestrates campaigns
       from Keboola to Silverpop, web and online advertising with reported over 20%
