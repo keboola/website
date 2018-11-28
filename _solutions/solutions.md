@@ -53,6 +53,7 @@ page_sections:
     icotype: black
     desc: Revenue reporting, inventory, basic reports for e-commerce, NPS, logistics,
       and warehouse management within two weeks!
+  subheadline: industry
 - template: review
   block: review
   list:
