@@ -121,7 +121,9 @@
 				</li>
 				<li class="nav-item-btn"><a href="" class="btn-dark">See demo</a></li>
 			</ul></nav>
-			<a href="" class="btn btn-blue">See demo</a>
+			{% if page.url == '/' %}<a href="" class="btn btn-white">See demo</a>
+			{% else %}<a href="" class="btn btn-blue">See demo</a>{% endif %}
+			
 		</div>
 	</div></header>
 	<section>
