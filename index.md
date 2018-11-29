@@ -25,17 +25,17 @@ page_sections:
   subheadline: WE PROVIDE A CLOUD OPERATING SYSTEM FOR DATA ANALYTICS.
   headline: 'Keboola is a simple and scalable     <br>all-in-one cloud environment.'
   list:
-  - link: "/"
+  - link: ''
     icotype: blue
     title: INTEGRATION
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns.
-  - link: "////"
+  - link: ''
     icotype: yellowright
     title: ANALYTICS
     desc: One click, get your personal sandbox with great memory power to run all
       of your models. Auto model deploy to hybrid infrastructure.
-  - link: "/"
+  - link: ''
     icotype: black
     title: AUTOMATION
     desc: Connect to any data right away. Create pipelines, automate. Share data catalogues
