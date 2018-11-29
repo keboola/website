@@ -206,34 +206,33 @@
             content = slider.find('.gallery-list-content'),
             item = slider.find('li');
 
-        item.css({
-            //width: Math.floor(w / 3.5) + 'px'
+        $('.gallery-list').imagesLoaded( function() {
+        
+            var wrap = slider.parent(),
+                options = {
+                    horizontal: 1,
+                    itemNav: 'basic',
+                    smart: 1,
+                    activateMiddle: 1,
+                    mouseDragging: 1,
+                    touchDragging: 1,
+                    releaseSwing: 1,
+                    startAt: 0,
+                    scrollBy: 1,
+                    speed: 300,
+                    elasticBounds: 1,
+                    //easing: 'easeOutExpo',
+                    pagesBar: slider.find('.gallery-list-pages'),
+                    dragHandle: 1,
+                    dynamicHandle: 1,
+                    clickBar: 1,
+                    prevPage: wrap.find('.btn-prevpage'),
+                    nextPage: wrap.find('.btn-nextpage')
+                },
+                sly = new Sly(slider, options);
+                sly.init();
+                
         });
-
-        var wrap = slider.parent(),
-            options = {
-                horizontal: 1,
-                itemNav: 'basic',
-                smart: 1,
-                activateMiddle: 1,
-                mouseDragging: 1,
-                touchDragging: 1,
-                releaseSwing: 1,
-                startAt: 0,
-                scrollBy: 1,
-                speed: 300,
-                elasticBounds: 1,
-                //easing: 'easeOutExpo',
-                pagesBar: slider.find('.gallery-list-pages'),
-                dragHandle: 1,
-                dynamicHandle: 1,
-                clickBar: 1,
-                prevPage: wrap.find('.btn-prevpage'),
-                nextPage: wrap.find('.btn-nextpage')
-            },
-            sly = new Sly(slider, options);
-            sly.init();
-            
 
 
 
