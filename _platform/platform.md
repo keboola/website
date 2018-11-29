@@ -38,6 +38,7 @@ page_sections:
     desc: Develop components in the language of your choice. Sign up for our developer
       portal access - insert link !!>>>>>>
     icotype: blue
+    link: https://components.keboola.com
   - title: Automatic platform scaling
     desc: You write the advanced logic app. We take care of automatic infrastructure
       provisioning and scaling
