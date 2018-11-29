@@ -13,14 +13,12 @@ page_sections:
     providing a infrastructure for your data science team.
 - template: article-with-perex
   block: article-with-perex
-  subheadline: Use data to drive your decissions
-  headline: "Grow your business \Lwith precise data and open access"
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pharetra
-    orci et justo sollicitudin lacinia. Donec suscipit leo quis laoreet elementum.
-    Maecenas ac hendrerit felis. Aliquam a ligula tempor, rhoncus eros non, maximus
-    sem. Proin ut elit aliquam, congue quam auctor, congue arcu. Mauris elit erat,
-    convallis id cursus hendrerit, vestibulum non elit. Maecenas interdum porttitor
-    libero, facilisis auctor libero sollicitudin ut. Nullam tincidunt id dictu.
+  subheadline: Power to scale
+  headline: Reach Keboola's clients with your application
+  content: Do you have fascinating Ai product, need to connect to a new source or
+    run packaged machine learning models across whole organization ? Use our platform
+    and extend it with your functionality. The whole platform is well documented at
+    https://developers.keboola.com with user groups support for starting developers.
   headlinesmall: true
 - template: article-list-img
   block: article-list-img
