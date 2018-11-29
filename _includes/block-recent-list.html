@@ -1,57 +1,33 @@
+{% assign customerstories = site.customer-stories %}
+{% assign whitepapers = site.whitepapers %}
+{% assign events = site.events %}
+{% assign webinars = site.webinars %}
+
+{% assign learning = customerstories | concat: whitepapers | concat: events | concat: webinars %}
+{% assign sortedlearning = learning | sort: 'date' | reverse %}
+
 <div class="most-recent-header"><div class="in">
 	<h1 class="h1-small h1-blue">{{ section.headline }}</h1>
 </div></div>
 <div class="most-recent-content"><div class="most-recent-list">
 	<ul class="most-recent-list-content">
 		<li class="li-placeholder"></li>
-		<li><a href="">
-			<div class="img"><img src="/img/most-recent-img-1.jpg" alt=""></div>
-			<i class="bg-img"></i>
-			<div class="item-desc">
-				<h2>Platform solution for small businesses</h2>
-				<p>Go to the article</p>
-			</div>
-		</a></li>
-		<li><a href="">
-			<div class="img"><img src="/img/most-recent-img-2.jpg" alt=""></div>
-			<i class="bg-img"></i>
-			<div class="item-desc">
-				<h2>Platform solution for small businesses</h2>
-				<p>Go to the article</p>
-			</div>
-		</a></li>
-		<li><a href="">
-			<div class="img"><img src="/img/most-recent-img-1.jpg" alt=""></div>
-			<i class="bg-img"></i>
-			<div class="item-desc">
-				<h2>Platform solution for small businesses</h2>
-				<p>Go to the article</p>
-			</div>
-		</a></li>
-		<li><a href="">
-			<div class="img"><img src="/img/most-recent-img-1.jpg" alt=""></div>
-			<i class="bg-img"></i>
-			<div class="item-desc">
-				<h2>Platform solution for small businesses</h2>
-				<p>Go to the article</p>
-			</div>
-		</a></li>
-		<li><a href="">
-			<div class="img"><img src="/img/most-recent-img-2.jpg" alt=""></div>
-			<i class="bg-img"></i>
-			<div class="item-desc">
-				<h2>Platform solution for small businesses</h2>
-				<p>Go to the article</p>
-			</div>
-		</a></li>
-		<li><a href="">
-			<div class="img"><img src="/img/most-recent-img-2.jpg" alt=""></div>
-			<i class="bg-img"></i>
-			<div class="item-desc">
-				<h2>Platform solution for small businesses</h2>
-				<p>Go to the article</p>
-			</div>
-		</a></li>
+		{% for post in sortedlearning %}
+			{% if post.background-image != "" and post.background-image != nil %}
+				{% assign postcountingin = postcountingin | plus: 1 %}
+				{% if postcountingin < 7 %}
+					<li><a href="{{ post.url }}">
+						<div class="img"><img src="{{ post.background-image }}" alt="{{ post.title }}"></div>{% comment %}<i class="bg-img"></i>{% endcomment %}
+						<div class="item-desc"><h2>{{ post.title }}</h2><p>
+							{% if post.url contains '/customer-stories/' %}View story
+							{% elsif post.url contains '/whitepapers/' %}View whitepaper
+							{% elsif post.url contains '/events/' %}events
+							{% elsif post.url contains '/webinars/' %}webinars{% endif %}
+						</p></div>
+					</a></li>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
 	</ul>
 	<div class="most-recent-pages-content">
 		<span class="btn-prevpage">prev</span>

@@ -5,7 +5,7 @@
 {% assign webinars = site.webinars %}
 
 {% assign learning = customerstories | concat: whitepapers | concat: events | concat: webinars %}
-{% assign sortedlearning = learning | sort: 'date' | reverse | limit: 9 %}
+{% assign sortedlearning = learning | sort: 'date' | reverse %}
 
 <article class="section-header section-header-recent"><div class="in">
 	<div class="section-desc">
@@ -70,7 +70,7 @@
 		</div-->
 	</div>{% endcomment %}
 	<div class="item-list"><ul class="article-list-content-table">
-		{% for post in sortedlearning %}
+		{% for post in sortedlearning limit:9 %}
 			<li><a href="{{ post.url }}" class="item-li">
 				<div class="item-li-company">
 					<div class="item-company"><img src="/img/logo-netflix.png" alt=""></div>
