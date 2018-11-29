@@ -307,6 +307,31 @@
             r4.utils.reviewslider();
         }
 
+        
+
+
+        // SHARE FACEBOOK
+        $('.share-btn-fb').on('click', function(e){
+            e.preventDefault();
+
+            var a = $(this),
+                url = a.data('url');
+
+            window.open('http://facebook.com/sharer/sharer.php?u='+encodeURIComponent(url), '', 'left=0,top=0,width=650,height=420,personalbar=0,toolbar=0,scrollbars=0,resizable=0');
+        });
+
+
+        // SHARE TWITTER
+        $('.share-btn-tw').on('click', function(e){
+            e.preventDefault();
+
+            var a = $(this),
+                url = a.data('url'),
+                text = a.data('text');
+
+            window.open('http://twitter.com/share?url='+encodeURIComponent(url)+'&text='+encodeURIComponent(text), '', 'left=0,top=0,width=550,height=450,personalbar=0,toolbar=0,scrollbars=0,resizable=0');
+        });
+
     };
 
 
