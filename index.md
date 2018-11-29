@@ -50,7 +50,7 @@ page_sections:
     img: "/uploads/CSC_Logo-1.svg"
   - img: "/uploads/goodyear_logo.svg"
     name: Goodyear
-  - img: "/uploads/bata-logo-small.png"
+  - img: ''
     name: Bata
   - name: Zendesk
     img: "/uploads/zendesk_logo.png"
