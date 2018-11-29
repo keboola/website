@@ -47,8 +47,10 @@ page_sections:
     title: AppStore
     icotype: blueright
   - icotype: gray
-    desc: Reach Keboola customers and become part of our growing community
+    desc: Reach Keboola customers and become part of our growing community. See list
+      of components
     title: Developer support
+    link: https://components.keboola.com/components
 - template: article-gray-box
   block: article-gray-box
   subheadline: better and faster results
