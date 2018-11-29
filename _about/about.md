@@ -23,6 +23,13 @@ page_sections:
   headlinesmall: true
 - template: gallery-list
   block: gallery-list
+  list:
+  - photo: "/uploads/photo4.jpg"
+  - photo: "/uploads/photo0.jpg"
+  - photo: "/uploads/photo2.jpg"
+  - photo: "/uploads/photo3.jpg"
+  - photo: "/uploads/photo5.jpg"
+  - photo: "/uploads/photo1.jpg"
 - template: article-full
   block: article-full
   subheadline: do it keboola way
