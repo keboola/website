@@ -11,6 +11,9 @@ fields:
 - type: text
   name: title
   label: title
+- type: datetime
+  name: date-time
+  label: date time
 - type: text
   name: subtitle
   label: sub title
@@ -26,9 +29,6 @@ fields:
 - type: text
   name: location
   label: location
-- type: datetime
-  name: date-time
-  label: date time
 pages:
 - _webinars/test.md
 - _webinars/wfsdfsdf.md
