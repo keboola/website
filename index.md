@@ -103,7 +103,11 @@ page_sections:
       With our unique system, your team can build on top of each other’s successes
       in real time. Since everything is versioned, nothing gets lost in all the changes.
     background: "/uploads/illu3.svg"
-  - {}
+  - background: "/uploads/illu4.svg"
+    title: 'Security means       everything to us'
+    desc: Your data is valuable, so we guard it very carefully. All data is HIPAA
+      grade secured, and we meticulously log all user actions for your complete peace
+      of mind.
   - {}
 - template: review
   block: review
