@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720px" height="770px" viewBox="0 0 720 770" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>illu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#228DFF" offset="0%"></stop>
+            <stop stop-color="#A4D0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="720" height="770" rx="2"></rect>
+        <filter x="-25.0%" y="-62.5%" width="150.0%" height="225.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#EAF5FD" offset="0%"></stop>
+            <stop stop-color="#D9EAF7" offset="98.9252168%"></stop>
+        </linearGradient>
+        <filter x="-37.5%" y="-93.8%" width="175.0%" height="287.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-93.8%" width="175.0%" height="287.5%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.5%" y="-93.8%" width="175.0%" height="287.5%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SLIDER-Copy-4" transform="translate(-720.000000, 0.000000)">
+            <g id="illu" transform="translate(720.000000, 0.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <g id="Group-20" mask="url(#mask-3)" stroke="#FFFFFF" stroke-linecap="square">
+                    <g transform="translate(-27.000000, -7.000000)">
+                        <path d="M774.5,50.5 L0.5,436.5" id="Line-3"></path>
+                        <path d="M774.5,0.5 L0.5,386.5" id="Line-3-Copy-10"></path>
+                        <path d="M774.5,100.5 L0.5,486.5" id="Line-3-Copy" opacity="0.9"></path>
+                        <path d="M774.5,150.5 L0.5,536.5" id="Line-3-Copy-2" opacity="0.8"></path>
+                        <path d="M774.5,200.5 L0.5,586.5" id="Line-3-Copy-5" opacity="0.7"></path>
+                        <path d="M774.5,250.5 L0.5,636.5" id="Line-3-Copy-4" opacity="0.6"></path>
+                        <path d="M774.5,300.5 L0.5,686.5" id="Line-3-Copy-3" opacity="0.5"></path>
+                        <path d="M774.5,350.5 L0.5,736.5" id="Line-3-Copy-8" opacity="0.4"></path>
+                        <path d="M774.5,400.5 L0.5,786.5" id="Line-3-Copy-7" opacity="0.3"></path>
+                        <path d="M774.5,450.5 L0.5,836.5" id="Line-3-Copy-6" opacity="0.200000018"></path>
+                        <path d="M774.5,500.5 L0.5,886.5" id="Line-3-Copy-9" opacity="0.1"></path>
+                    </g>
+                </g>
+                <g id="Group-20-Copy" mask="url(#mask-3)" stroke="#FFFFFF" stroke-linecap="square">
+                    <g transform="translate(360.500000, 436.500000) scale(-1, 1) translate(-360.500000, -436.500000) translate(-27.000000, -7.000000)">
+                        <path d="M774.5,50.5 L0.5,436.5" id="Line-3"></path>
+                        <path d="M774.5,0.5 L0.5,386.5" id="Line-3-Copy-10"></path>
+                        <path d="M774.5,100.5 L0.5,486.5" id="Line-3-Copy" opacity="0.9"></path>
+                        <path d="M774.5,150.5 L0.5,536.5" id="Line-3-Copy-2" opacity="0.8"></path>
+                        <path d="M774.5,200.5 L0.5,586.5" id="Line-3-Copy-5" opacity="0.7"></path>
+                        <path d="M774.5,250.5 L0.5,636.5" id="Line-3-Copy-4" opacity="0.6"></path>
+                        <path d="M774.5,300.5 L0.5,686.5" id="Line-3-Copy-3" opacity="0.5"></path>
+                        <path d="M774.5,350.5 L0.5,736.5" id="Line-3-Copy-8" opacity="0.4"></path>
+                        <path d="M774.5,400.5 L0.5,786.5" id="Line-3-Copy-7" opacity="0.3"></path>
+                        <path d="M774.5,450.5 L0.5,836.5" id="Line-3-Copy-6" opacity="0.200000018"></path>
+                        <path d="M774.5,500.5 L0.5,886.5" id="Line-3-Copy-9" opacity="0.1"></path>
+                    </g>
+                </g>
+                <g id="infrastructure" mask="url(#mask-3)">
+                    <g transform="translate(301.000000, 369.000000)">
+                        <ellipse id="Oval-12-Copy-2" fill="#000000" opacity="0.200000018" filter="url(#filter-4)" cx="60" cy="124.8" rx="60" ry="24"></ellipse>
+                        <g id="Group-17-Copy-2" stroke-width="1" fill="none" transform="translate(0.000000, 72.000000)">
+                            <path d="M0,48 L0,24 L120,24 L120,48 C120,61.254834 93.137085,72 60,72 C26.862915,72 0,61.254834 0,48 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                            <ellipse id="Oval-12" fill="#F2F8FC" cx="60" cy="24" rx="60" ry="24"></ellipse>
+                        </g>
+                        <g id="Group-17-Copy" stroke-width="1" fill="none" transform="translate(0.000000, 36.000000)">
+                            <path d="M0,48 L0,24 L120,24 L120,48 C120,61.254834 93.137085,72 60,72 C26.862915,72 0,61.254834 0,48 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                            <ellipse id="Oval-12" fill="#F2F8FC" cx="60" cy="24" rx="60" ry="24"></ellipse>
+                        </g>
+                        <g id="Group-17" stroke-width="1" fill="none">
+                            <path d="M0,48 L0,24 L120,24 L120,48 C120,61.254834 93.137085,72 60,72 C26.862915,72 0,61.254834 0,48 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                            <ellipse id="Oval-12" fill="#F2F8FC" cx="60" cy="24" rx="60" ry="24"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <g id="infrastructure-copy" mask="url(#mask-3)">
+                    <g transform="translate(321.000000, 226.000000)">
+                        <ellipse id="Oval-12-Copy-2" fill="#000000" opacity="0.200000018" filter="url(#filter-6)" cx="40" cy="83.2" rx="40" ry="16"></ellipse>
+                        <g id="Group-17-Copy-2" stroke-width="1" fill="none" transform="translate(0.000000, 48.000000)">
+                            <path d="M0,32 L0,16 L80,16 L80,32 C80,40.836556 62.09139,48 40,48 C17.90861,48 0,40.836556 0,32 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                            <ellipse id="Oval-12" fill="#F2F8FC" cx="40" cy="16" rx="40" ry="16"></ellipse>
+                        </g>
+                        <g id="Group-17-Copy" stroke-width="1" fill="none" transform="translate(0.000000, 24.000000)">
+                            <path d="M0,32 L0,16 L80,16 L80,32 C80,40.836556 62.09139,48 40,48 C17.90861,48 0,40.836556 0,32 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                            <ellipse id="Oval-12" fill="#F2F8FC" cx="40" cy="16" rx="40" ry="16"></ellipse>
+                        </g>
+                        <g id="Group-17" stroke-width="1" fill="none">
+                            <path d="M0,32 L0,16 L80,16 L80,32 C80,40.836556 62.09139,48 40,48 C17.90861,48 0,40.836556 0,32 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                            <ellipse id="Oval-12" fill="#F2F8FC" cx="40" cy="16" rx="40" ry="16"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <g id="infrastructure-copy-2" mask="url(#mask-3)">
+                    <g transform="translate(471.000000, 301.000000)">
+                        <ellipse id="Oval-12-Copy-2" fill="#000000" opacity="0.200000018" filter="url(#filter-7)" cx="40" cy="83.2" rx="40" ry="16"></ellipse>
+                        <g id="Group-17-Copy-2" stroke-width="1" fill="none" transform="translate(0.000000, 48.000000)">
+                            <path d="M0,32 L0,16 L80,16 L80,32 C80,40.836556 62.09139,48 40,48 C17.90861,48 0,40.836556 0,32 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                            <ellipse id="Oval-12" fill="#F2F8FC" cx="40" cy="16" rx="40" ry="16"></ellipse>
+                        </g>
+                        <g id="Group-17-Copy" stroke-width="1" fill="none" transform="translate(0.000000, 24.000000)">
+                            <path d="M0,32 L0,16 L80,16 L80,32 C80,40.836556 62.09139,48 40,48 C17.90861,48 0,40.836556 0,32 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                            <ellipse id="Oval-12" fill="#F2F8FC" cx="40" cy="16" rx="40" ry="16"></ellipse>
+                        </g>
+                        <g id="Group-17" stroke-width="1" fill="none">
+                            <path d="M0,32 L0,16 L80,16 L80,32 C80,40.836556 62.09139,48 40,48 C17.90861,48 0,40.836556 0,32 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                            <ellipse id="Oval-12" fill="#F2F8FC" cx="40" cy="16" rx="40" ry="16"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <g id="infrastructure-copy-3" mask="url(#mask-3)">
+                    <g transform="translate(170.000000, 301.000000)">
+                        <ellipse id="Oval-12-Copy-2" fill="#000000" opacity="0.200000018" filter="url(#filter-8)" cx="40" cy="83.2" rx="40" ry="16"></ellipse>
+                        <g id="Group-17-Copy-2" stroke-width="1" fill="none" transform="translate(0.000000, 48.000000)">
+                            <path d="M0,32 L0,16 L80,16 L80,32 C80,40.836556 62.09139,48 40,48 C17.90861,48 0,40.836556 0,32 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                            <ellipse id="Oval-12" fill="#F2F8FC" cx="40" cy="16" rx="40" ry="16"></ellipse>
+                        </g>
+                        <g id="Group-17-Copy" stroke-width="1" fill="none" transform="translate(0.000000, 24.000000)">
+                            <path d="M0,32 L0,16 L80,16 L80,32 C80,40.836556 62.09139,48 40,48 C17.90861,48 0,40.836556 0,32 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                            <ellipse id="Oval-12" fill="#F2F8FC" cx="40" cy="16" rx="40" ry="16"></ellipse>
+                        </g>
+                        <g id="Group-17" stroke-width="1" fill="none">
+                            <path d="M0,32 L0,16 L80,16 L80,32 C80,40.836556 62.09139,48 40,48 C17.90861,48 0,40.836556 0,32 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                            <ellipse id="Oval-12" fill="#F2F8FC" cx="40" cy="16" rx="40" ry="16"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
