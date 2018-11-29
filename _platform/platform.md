@@ -38,9 +38,9 @@ page_sections:
     desc: Develop components in the language of your choice. Sign up for our developer
       portal access - insert link !!>>>>>>
     icotype: blue
-  - title: Embed Your Way
-    desc: Get the data and the best tools to create adhoc analyses right in your department
-      to improve your campaigns.
+  - title: Automatic platform scaling
+    desc: You write the advanced logic app. We take care of automatic infrastructure
+      provisioning and scaling
     icotype: yellow
   - desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns.
