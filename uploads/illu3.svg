@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720px" height="770px" viewBox="0 0 720 770" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>illu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#228DFF" offset="0%"></stop>
+            <stop stop-color="#A4D0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="720" height="770" rx="2"></rect>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-11">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SLIDER-Copy-3" transform="translate(-720.000000, 0.000000)">
+            <g id="illu" transform="translate(720.000000, 0.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <g id="Group-20" mask="url(#mask-3)" stroke="#FFFFFF" stroke-linecap="square">
+                    <g transform="translate(-13.000000, 206.000000)">
+                        <path d="M774.5,50.5 L0.5,436.5" id="Line-3"></path>
+                        <path d="M774.5,0.5 L0.5,386.5" id="Line-3-Copy-10"></path>
+                        <path d="M774.5,100.5 L0.5,486.5" id="Line-3-Copy" opacity="0.9"></path>
+                        <path d="M774.5,150.5 L0.5,536.5" id="Line-3-Copy-2" opacity="0.8"></path>
+                        <path d="M774.5,200.5 L0.5,586.5" id="Line-3-Copy-5" opacity="0.7"></path>
+                        <path d="M774.5,250.5 L0.5,636.5" id="Line-3-Copy-4" opacity="0.6"></path>
+                        <path d="M774.5,300.5 L0.5,686.5" id="Line-3-Copy-3" opacity="0.5"></path>
+                        <path d="M774.5,350.5 L0.5,736.5" id="Line-3-Copy-8" opacity="0.4"></path>
+                        <path d="M774.5,400.5 L0.5,786.5" id="Line-3-Copy-7" opacity="0.3"></path>
+                        <path d="M774.5,450.5 L0.5,836.5" id="Line-3-Copy-6" opacity="0.200000018"></path>
+                        <path d="M774.5,500.5 L0.5,886.5" id="Line-3-Copy-9" opacity="0.1"></path>
+                    </g>
+                </g>
+                <g id="Group-10" mask="url(#mask-3)">
+                    <g transform="translate(-9.000000, 82.000000)" id="Group-19">
+                        <g>
+                            <g id="box-copy-16" transform="translate(640.000000, 0.000000)">
+                                <polygon id="Rectangle-11-Copy" fill="#161E27" opacity="0.100000001" filter="url(#filter-4)" points="50 78.9047619 100 103.904762 50 128.904762 0 103.904762"></polygon>
+                                <polygon id="Rectangle-11" fill="#F2F8FC" points="50 0.333333333 100 25.3333333 50 60.3333333 0 25.3333333"></polygon>
+                                <polygon id="Rectangle-3" fill="#D9EAF7" points="0 25.3333333 50 50.3333333 50 114.619048 0 89.6190476"></polygon>
+                                <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(75.000000, 69.976190) scale(-1, 1) translate(-75.000000, -69.976190) " points="50 25.3333333 100 50.3333333 100 114.619048 50 89.6190476"></polygon>
+                            </g>
+                            <g id="box-copy-18" transform="translate(560.000000, 40.000000)">
+                                <polygon id="Rectangle-11-Copy" fill="#161E27" opacity="0.100000001" filter="url(#filter-5)" points="50 78.9047619 100 103.904762 50 128.904762 0 103.904762"></polygon>
+                                <polygon id="Rectangle-11" fill="#F2F8FC" points="50 0.333333333 100 25.3333333 50 60.3333333 0 25.3333333"></polygon>
+                                <polygon id="Rectangle-3" fill="#D9EAF7" points="0 25.3333333 50 50.3333333 50 114.619048 0 89.6190476"></polygon>
+                                <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(75.000000, 69.976190) scale(-1, 1) translate(-75.000000, -69.976190) " points="50 25.3333333 100 50.3333333 100 114.619048 50 89.6190476"></polygon>
+                            </g>
+                            <g id="box-copy-17" transform="translate(480.000000, 80.000000)">
+                                <polygon id="Rectangle-11-Copy" fill="#161E27" opacity="0.100000001" filter="url(#filter-6)" points="50 78.9047619 100 103.904762 50 128.904762 0 103.904762"></polygon>
+                                <polygon id="Rectangle-11" fill="#F2F8FC" points="50 0.333333333 100 25.3333333 50 60.3333333 0 25.3333333"></polygon>
+                                <polygon id="Rectangle-3" fill="#D9EAF7" points="0 25.3333333 50 50.3333333 50 114.619048 0 89.6190476"></polygon>
+                                <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(75.000000, 69.976190) scale(-1, 1) translate(-75.000000, -69.976190) " points="50 25.3333333 100 50.3333333 100 114.619048 50 89.6190476"></polygon>
+                            </g>
+                            <g id="box" transform="translate(400.000000, 120.000000)">
+                                <polygon id="Rectangle-11-Copy" fill="#161E27" opacity="0.100000001" filter="url(#filter-7)" points="50 78.9047619 100 103.904762 50 128.904762 0 103.904762"></polygon>
+                                <polygon id="Rectangle-11" fill="#F2F8FC" points="50 0.333333333 100 25.3333333 50 60.3333333 0 25.3333333"></polygon>
+                                <polygon id="Rectangle-3" fill="#D9EAF7" points="0 25.3333333 50 50.3333333 50 114.619048 0 89.6190476"></polygon>
+                                <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(75.000000, 69.976190) scale(-1, 1) translate(-75.000000, -69.976190) " points="50 25.3333333 100 50.3333333 100 114.619048 50 89.6190476"></polygon>
+                            </g>
+                            <g id="box-copy-14" transform="translate(320.000000, 160.000000)">
+                                <polygon id="Rectangle-11-Copy" fill="#161E27" opacity="0.100000001" filter="url(#filter-8)" points="50 78.9047619 100 103.904762 50 128.904762 0 103.904762"></polygon>
+                                <polygon id="Rectangle-11" fill="#F2F8FC" points="50 0.333333333 100 25.3333333 50 60.3333333 0 25.3333333"></polygon>
+                                <polygon id="Rectangle-3" fill="#D9EAF7" points="0 25.3333333 50 50.3333333 50 114.619048 0 89.6190476"></polygon>
+                                <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(75.000000, 69.976190) scale(-1, 1) translate(-75.000000, -69.976190) " points="50 25.3333333 100 50.3333333 100 114.619048 50 89.6190476"></polygon>
+                            </g>
+                            <g id="box-copy-7" transform="translate(240.000000, 200.000000)">
+                                <polygon id="Rectangle-11-Copy" fill="#161E27" opacity="0.100000001" filter="url(#filter-9)" points="50 78.9047619 100 103.904762 50 128.904762 0 103.904762"></polygon>
+                                <polygon id="Rectangle-11" fill="#F2F8FC" points="50 0.333333333 100 25.3333333 50 60.3333333 0 25.3333333"></polygon>
+                                <polygon id="Rectangle-3" fill="#D9EAF7" points="0 25.3333333 50 50.3333333 50 114.619048 0 89.6190476"></polygon>
+                                <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(75.000000, 69.976190) scale(-1, 1) translate(-75.000000, -69.976190) " points="50 25.3333333 100 50.3333333 100 114.619048 50 89.6190476"></polygon>
+                            </g>
+                            <g id="box-copy-10" transform="translate(160.000000, 240.000000)">
+                                <polygon id="Rectangle-11-Copy" fill="#161E27" opacity="0.100000001" filter="url(#filter-10)" points="50 78.9047619 100 103.904762 50 128.904762 0 103.904762"></polygon>
+                                <polygon id="Rectangle-11" fill="#F2F8FC" points="50 0.333333333 100 25.3333333 50 60.3333333 0 25.3333333"></polygon>
+                                <polygon id="Rectangle-3" fill="#D9EAF7" points="0 25.3333333 50 50.3333333 50 114.619048 0 89.6190476"></polygon>
+                                <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(75.000000, 69.976190) scale(-1, 1) translate(-75.000000, -69.976190) " points="50 25.3333333 100 50.3333333 100 114.619048 50 89.6190476"></polygon>
+                            </g>
+                            <g id="box-copy-11" transform="translate(80.000000, 280.000000)">
+                                <polygon id="Rectangle-11-Copy" fill="#161E27" opacity="0.100000001" filter="url(#filter-11)" points="50 78.9047619 100 103.904762 50 128.904762 0 103.904762"></polygon>
+                                <polygon id="Rectangle-11" fill="#F2F8FC" points="50 0.333333333 100 25.3333333 50 60.3333333 0 25.3333333"></polygon>
+                                <polygon id="Rectangle-3" fill="#D9EAF7" points="0 25.3333333 50 50.3333333 50 114.619048 0 89.6190476"></polygon>
+                                <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(75.000000, 69.976190) scale(-1, 1) translate(-75.000000, -69.976190) " points="50 25.3333333 100 50.3333333 100 114.619048 50 89.6190476"></polygon>
+                            </g>
+                            <g id="box-copy-12" transform="translate(0.000000, 320.000000)">
+                                <polygon id="Rectangle-11-Copy" fill="#161E27" opacity="0.100000001" filter="url(#filter-12)" points="50 78.9047619 100 103.904762 50 128.904762 0 103.904762"></polygon>
+                                <polygon id="Rectangle-11" fill="#F2F8FC" points="50 0.333333333 100 25.3333333 50 60.3333333 0 25.3333333"></polygon>
+                                <polygon id="Rectangle-3" fill="#D9EAF7" points="0 25.3333333 50 50.3333333 50 114.619048 0 89.6190476"></polygon>
+                                <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(75.000000, 69.976190) scale(-1, 1) translate(-75.000000, -69.976190) " points="50 25.3333333 100 50.3333333 100 114.619048 50 89.6190476"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
