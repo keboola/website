@@ -21,6 +21,11 @@ page_sections:
     sem. Proin ut elit aliquam, congue quam auctor, congue arcu. Mauris elit erat,
     convallis id cursus hendrerit, vestibulum non elit. Maecenas interdum porttitor
     libero, facilisis auctor libero sollicitudin ut. Nullam tincidunt id dictu.
+- template: article-list-img
+  block: article-list-img
+  list:
+  - img: "/uploads/tmp_data-insights-action-Keboola-  short 2018-11-29 14-30-38.png"
+    name: Extend our platform freely
 - template: ask-demo
   block: ask-demo
   ctaname: Ask for demo
@@ -62,9 +67,5 @@ page_sections:
 - template: recent-list
   block: recent-list
   headline: Case Study Articles
-- template: article-list-img
-  block: article-list-img
-  list:
-  - img: "/uploads/tmp_data-insights-action-Keboola-  short 2018-11-29 14-30-38.png"
 
 ---
