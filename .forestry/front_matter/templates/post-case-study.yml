@@ -18,6 +18,7 @@ fields:
   name: background-image
   label: background image
 pages:
+- _customer-stories/lékárna-cz-reviving-our-company-with-reliable-data.md
 - _customer-stories/hello-bank.md
 - _customer-stories/pietro-filipi-we-base-our-opinions-on-data.md
 - _customer-stories/sklizeno-making-purchasing-sales-and-management-more-effective.md
