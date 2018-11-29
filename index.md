@@ -90,7 +90,14 @@ page_sections:
       having everything they need available to them. You’ll have access to multiple
       clouds dealing with everything from Excel to AI.
     background: "/uploads/illu1.svg"
-  - {}
+  - title: Comprehensive data infrastructure
+    desc: 'Keboola provides on-demand access to all the tools, servers, and data warehouses
+      you need to help your business succeed in a scalable environment. We also make
+      integration easier by allowing your tools to run in parallel, so each user has
+      their own environment with access to all the relevant data they need in just
+      one click. Keboola makes it easy for everyone in your company, from a shop assistant
+      to a CEO, to read, combine, and use data to improve their effectiveness. '
+    background: "/uploads/illu2.svg"
   - {}
   - {}
   - {}
