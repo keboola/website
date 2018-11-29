@@ -53,7 +53,7 @@ page_sections:
   - img: "/uploads/bata_logo.svg"
     name: Bata
   - name: Zendesk
-    img: "/uploads/zendesk-logo.svg"
+    img: "/uploads/zendesk-logo-1.svg"
   - name: Erste
     img: "/uploads/Erste_Logo.svg"
 - template: horizontal-rule
