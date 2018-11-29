@@ -55,7 +55,7 @@ page_sections:
   - name: Zendesk
     img: "/uploads/zendesk-logo.svg"
   - name: Erste
-    img: "/uploads/erste_logo.png"
+    img: "/uploads/Erste_Logo.svg"
 - template: horizontal-rule
   block: hr
 - template: article-list-one-row
