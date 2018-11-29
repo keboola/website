@@ -202,8 +202,8 @@
     // GALLERY LIST - SLIDER
     r4.utils.galleryslider = function(w){
 
-        var slider = $('.gallery-list-content'),
-            content = slider.find('ul'),
+        var slider = $('.gallery-list'),
+            content = slider.find('.gallery-list-content'),
             item = slider.find('li');
 
         item.css({
@@ -224,9 +224,12 @@
                 speed: 300,
                 elasticBounds: 1,
                 //easing: 'easeOutExpo',
+                pagesBar: slider.find('.gallery-list-pages'),
                 dragHandle: 1,
                 dynamicHandle: 1,
-                clickBar: 1
+                clickBar: 1,
+                prevPage: wrap.find('.btn-prevpage'),
+                nextPage: wrap.find('.btn-nextpage')
             },
             sly = new Sly(slider, options);
             sly.init();

@@ -2157,13 +2157,9 @@ section{
   //width:5000px;
   width:100%;
   overflow:hidden;
-
-  ul{
-    //float:left;
-    width:100%;
-    height:auto;
-    .c;
-  }
+  height:auto;
+  .c;
+    
   li{
     float:left;
     padding:0 20px 0 0;
@@ -2175,13 +2171,69 @@ section{
   }
   .item{
     position:relative;
-    .size(580px, 320px);
+    .size(auto, 320px);
+    overflow:hidden;
 
     img{
-      position:absolute;
-      left:0;
-      top:0;
-      .sq(100%);
+      float:left;
+      width:auto;
+      height:100%;
+    }
+  }
+}
+.gallery-list-pages-content{
+  margin:50px 0 0 0;
+  .size(100%, auto);
+  text-align:center;
+
+  .btn-prevpage,
+  .btn-nextpage{
+    display:inline-block;
+    margin:0 15px;
+    width:32px;
+    height:18px;
+    background-position:center center;
+    background-repeat:no-repeat;
+    vertical-align:middle;
+    text-indent:-9999px;
+    cursor:pointer;
+    .opacity(20);
+    .transition(all .2s ease-in-out);
+
+    &.disabled{
+      visibility:hidden;
+      cursor:default;
+    }
+    &:hover{
+      .opacity(100);
+    }
+  }
+  .btn-prevpage{
+    background-image:url(../img/btn-slider-prev.svg);
+  }
+  .btn-nextpage{
+    background-image:url(../img/btn-slider-next.svg);
+  }
+}
+.gallery-list-pages{
+  display:inline-block;
+  .size(auto, 8px);
+  text-align:center;
+  vertical-align:middle;
+
+  li{
+    display:inline-block;
+    margin:0 5px;
+    .sq(8px);
+    .border-radius(4px);
+    background:#D3D6D9;
+    vertical-align:top;
+    text-indent:-9999px;
+    white-space:nowrap;
+    text-align:center;
+
+    &.active{
+      background:#233141;
     }
   }
 }

@@ -1,24 +1,10 @@
 <div class="gallery-list">
-	<div class="gallery-list-content"><ul>
-		<li>
-			<div class="item"><img src="/img/solution-gallery-img.jpg" alt=""></div>
-			<p></p>
-		</li>
-		<li>
-			<div class="item"><img src="/img/solution-gallery-img.jpg" alt=""></div>
-			<p></p>
-		</li>
-		<li>
-			<div class="item"><img src="/img/solution-gallery-img.jpg" alt=""></div>
-			<p></p>
-		</li>
-		<li>
-			<div class="item"><img src="/img/solution-gallery-img.jpg" alt=""></div>
-			<p></p>
-		</li>
-		<li>
-			<div class="item"><img src="/img/solution-gallery-img.jpg" alt=""></div>
-			<p></p>
-		</li>
-	</ul></div>
+	<ul class="gallery-list-content">{% for list in section.list %}
+		<li><div class="item"><img src="{{ list.photo }}" alt=""></div></li>
+    {% endfor %}</ul>
+	<div class="gallery-list-pages-content">
+		<span class="btn-prevpage">prev</span>
+		<ul class="gallery-list-pages"></ul>
+		<span class="btn-nextpage">next</span>
+	</div>
 </div>
