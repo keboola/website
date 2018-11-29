@@ -1,0 +1,31 @@
+---
+label: Post - events
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: blog-events
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: sub title
+- type: text
+  name: ctaname
+  label: cta name
+- type: text
+  name: ctalink
+  label: cta link
+- type: text
+  name: author
+  label: author
+- type: text
+  name: location
+  label: location
+- type: datetime
+  name: date-time
+  label: date time
