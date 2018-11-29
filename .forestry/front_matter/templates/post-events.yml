@@ -31,5 +31,3 @@ fields:
 - type: text
   name: location
   label: location
-pages:
-- _webinars/wfsdfsdf.md
