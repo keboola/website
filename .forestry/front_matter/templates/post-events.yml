@@ -34,5 +34,15 @@ fields:
 - type: file
   name: backgroundimage
   label: background image
+- type: select
+  name: country
+  config:
+    source:
+      type: simple
+    options:
+    - usa
+    - uk
+    - eu
+  label: country
 pages:
 - _events/test-events.md
