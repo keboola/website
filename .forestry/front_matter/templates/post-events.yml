@@ -15,7 +15,7 @@ fields:
   name: date-time
   label: date time
   config:
-    time_format: h:mm A Z
+    time_format: h:mm A
 - type: text
   name: subtitle
   label: sub title
