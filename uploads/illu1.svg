@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720px" height="770px" viewBox="0 0 720 770" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>illu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#228DFF" offset="0%"></stop>
+            <stop stop-color="#A4D0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="720" height="770" rx="2"></rect>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SLIDER-Copy-5" transform="translate(-720.000000, 0.000000)">
+            <g id="illu" transform="translate(720.000000, 0.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <g id="Group-10" mask="url(#mask-3)">
+                    <g transform="translate(-139.000000, 184.000000)">
+                        <ellipse id="Oval-10" stroke="#FFFFFF" opacity="0.799999952" cx="500" cy="154" rx="200" ry="100"></ellipse>
+                        <ellipse id="Oval-10-Copy-2" stroke="#FFFFFF" opacity="0.699999988" cx="500" cy="197" rx="300" ry="150"></ellipse>
+                        <ellipse id="Oval-10-Copy-3" stroke="#FFFFFF" opacity="0.599999964" cx="500" cy="241" rx="400" ry="200"></ellipse>
+                        <ellipse id="Oval-10-Copy-4" stroke="#FFFFFF" opacity="0.5" cx="500" cy="291" rx="500" ry="250"></ellipse>
+                        <ellipse id="Oval-10-Copy" stroke="#FFFFFF" opacity="0.899999976" cx="500" cy="112" rx="100" ry="50"></ellipse>
+                        <g id="box" stroke="none" fill-rule="evenodd" transform="translate(450.000000, 0.000000)">
+                            <polygon id="Rectangle-11-Copy" fill="#161E27" opacity="0.100000001" filter="url(#filter-4)" points="50 89.9047619 100 114.904762 50 139.904762 0 114.904762"></polygon>
+                            <polygon id="Rectangle-11" fill="#F2F8FC" points="50 11.3333333 100 36.3333333 50 71.3333333 0 36.3333333"></polygon>
+                            <polygon id="Rectangle-11-Copy-4" fill="#228DFF" points="50.3333333 20 83.6666667 36.6666667 50.3333333 53.3333333 17 36.6666667"></polygon>
+                            <polygon id="Rectangle-11-Copy-5" fill="#51B1FE" points="50 10 83.3333333 26.6666667 50 43.3333333 16.6666667 26.6666667"></polygon>
+                            <polygon id="Rectangle-11-Copy-2" fill="#8BD3FF" points="50 0 83.3333333 16.6666667 50 33.3333333 16.6666667 16.6666667"></polygon>
+                            <polygon id="Rectangle-3" fill="#D9EAF7" points="0 36.3333333 50 61.3333333 50 125.619048 0 100.619048"></polygon>
+                            <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(75.000000, 80.976190) scale(-1, 1) translate(-75.000000, -80.976190) " points="50 36.3333333 100 61.3333333 100 125.619048 50 100.619048"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
