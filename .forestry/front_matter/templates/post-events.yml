@@ -34,3 +34,5 @@ fields:
 - type: file
   name: backgroundimage
   label: background image
+pages:
+- _events/test-events.md
