@@ -62,5 +62,9 @@ page_sections:
 - template: recent-list
   block: recent-list
   headline: Case Study Articles
+- template: article-list-img
+  block: article-list-img
+  list:
+  - img: "/uploads/tmp_data-insights-action-Keboola-  short 2018-11-29 14-30-38.png"
 
 ---
