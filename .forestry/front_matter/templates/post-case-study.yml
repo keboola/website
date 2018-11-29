@@ -15,6 +15,9 @@ fields:
   name: author
   label: author
 - type: file
+  name: logo
+  label: logo
+- type: file
   name: background-image
   label: background image
 pages:
