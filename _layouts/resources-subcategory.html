@@ -13,7 +13,7 @@
 		{% for post in paginator.posts %}
 			<li><a href="{{ post.url }}" class="item-li">
 				<div class="item-li-company">
-					<div class="item-company"><img src="/img/logo-netflix.png" alt=""></div>
+					<div class="item-company"><img src="{{ post.logo }}" alt=""></div>
 					<h2>{{ post.title }}</h2>
 				</div>
 				<div class="item-li-foot"><strong>
