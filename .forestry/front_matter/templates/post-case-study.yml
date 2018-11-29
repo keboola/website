@@ -16,3 +16,4 @@ fields:
   label: author
 pages:
 - _customer-stories/test.md
+- _customer-stories/hello-bank.md
