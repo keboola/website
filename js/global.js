@@ -307,7 +307,20 @@
             r4.utils.reviewslider();
         }
 
-        
+
+
+        // FAQ
+        $('.faq-item').each(function(){
+            var el = $(this),
+                a = el.find('.faq-item-head a');
+
+            a.on('click', function(e){
+                e.preventDefault();
+
+                el.toggleClass('faq-item-act');
+            });
+        });
+
 
 
         // SHARE FACEBOOK

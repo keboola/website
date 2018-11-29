@@ -2836,7 +2836,9 @@ section{
     }
   }
   .faq-item-desc{
-    display:block;
+    //display:block;
+    max-height:1000px;
+    visibility:visible;
   }
 }
 .faq-item-head{
@@ -2849,6 +2851,11 @@ section{
     letter-spacing:1px;
     text-decoration:none;
     
+    &:hover{
+      h2{
+        color:#228DFF;
+      }
+    }
     &:before,
     &:after{
       content:'';
@@ -2867,11 +2874,16 @@ section{
   }
   h2{
     margin:0;
+    .transition(all .2s ease-in-out);
   }
 }
 .faq-item-desc{
-  display:none;
+  //display:none;
   padding:0 50px;
+  max-height:0;
+  visibility:hidden;
+  overflow:hidden;
+  .transition(all .2s ease-in-out);
 }
 .faq-item-desc-content{
   padding:28px 0 15px 0;
@@ -3085,7 +3097,7 @@ section{
 // ---------
 .post-casestudy-header{
   margin:0 0 70px 0;
-  
+
   .in{
     padding-top:80px;
     padding-bottom:80px;
