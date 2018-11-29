@@ -21,5 +21,7 @@ page_sections:
     administrators that all live for data? We see value in all forms of data, so come
     join us on our data journey.
   headlinesmall: true
+- template: gallery-list
+  block: gallery-list
 
 ---
