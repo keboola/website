@@ -5,7 +5,6 @@ date: 2018-11-29 10:54:02 +0000
 author: ''
 background-image: ''
 logo: "/uploads/slevomat_logo.jpg"
-published: false
 
 ---
 _At Keboola, we believe that first and foremost data should be useful and accessible to anyone wanting to make better decisions. It shouldn’t be just be for a few analysts or data geeks. With this in mind, we always strive to find the right way to make decision-making easier at companies. We therefore look for the right people, who act as partners rather than just clients. They’ll help us promote data democratisation thanks to the the Keboola Connection. So, we search for people at companies who will act as partners rather than mere clients.  Happily, we quickly found common ground with the guys from_ [_Bizz Treat_](https://www.bizztreat.com/), an important Keboola partner. Our partnership came exactly at the right time, when Slevomat started its journey towards making data-driven decisions.
