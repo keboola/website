@@ -6,8 +6,8 @@ date: 2018-11-01 09:41:24 +0000
 page_sections:
 - template: header-blue
   block: header-blue
-  subheadline: From Data -> Insight -> Automation
-  headline: Platform
+  subheadline: Extend Keboola
+  headline: Bring your code
   content: Keboola is a DataHub integration & analytics platform as a service, that
     extracts, transforms and enhances data for machine or analytic consumption by
     providing a infrastructure for your data science team.
