@@ -98,7 +98,11 @@ page_sections:
       one click. Keboola makes it easy for everyone in your company, from a shop assistant
       to a CEO, to read, combine, and use data to improve their effectiveness. '
     background: "/uploads/illu2.svg"
-  - {}
+  - title: 'Collaboration breeds       success'
+    desc: Keboola allows people to work together on the same code in the same pipeline.
+      With our unique system, your team can build on top of each other’s successes
+      in real time. Since everything is versioned, nothing gets lost in all the changes.
+    background: "/uploads/illu3.svg"
   - {}
   - {}
 - template: review
