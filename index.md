@@ -79,6 +79,21 @@ page_sections:
     desc: We build the best schemas around, ensuring you get all the data you need,
       with no duplicates. And our documented ERDs show you exactly what you’re working
       with.
+- template: hp-main-goals
+  block: hp-main-goals
+  list:
+  - title: 'All the tools you need       in one place'
+    desc: At Keboola, we have solved the procurement and administration nightmare
+      that businesses usually face when searching for and implementing new tools.
+      Now you can instantly get access to dozens of data analytics tools, data warehouses,
+      and clouds in one place. Your team will only be a click and a login away from
+      having everything they need available to them. You’ll have access to multiple
+      clouds dealing with everything from Excel to AI.
+    background: "/uploads/illu1.svg"
+  - {}
+  - {}
+  - {}
+  - {}
 - template: review
   block: review
   list:
