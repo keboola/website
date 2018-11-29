@@ -31,3 +31,6 @@ fields:
 - type: text
   name: location
   label: location
+- type: file
+  name: backgroundimage
+  label: background image
