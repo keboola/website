@@ -108,7 +108,12 @@ page_sections:
     desc: Your data is valuable, so we guard it very carefully. All data is HIPAA
       grade secured, and we meticulously log all user actions for your complete peace
       of mind.
-  - {}
+  - title: 'No more       vendor lock-in'
+    desc: "We intentionally made Keboola completely transparent and open box so you
+      can improve and build on top of existing work. \n\nWe’re so confident that you’ll
+      love Keboola that we give you the option to cancel anytime and take all your
+      data with you with just one click."
+    background: "/uploads/illu5.svg"
 - template: review
   block: review
   list:
