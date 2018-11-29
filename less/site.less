@@ -184,6 +184,47 @@ a:hover{
 
 
 
+// UI - PAGINATION
+// ---------
+.pagination-list{
+  .size(100%, auto);
+  text-align:left;
+
+  ul{
+    .size(100%, auto);
+    .c;
+  }
+  li{
+    float:left;
+    margin:0 20px 16px 0;
+
+    &.selected a{
+      border-color:#233141;
+      color:@white;
+      background:#233141;
+      .box-shadow(0 10px 20px 0 rgba(35,49,65,0.30));
+    }
+  }
+  a{
+    display:block;
+    .size(50px, 42px);
+    .border-radius(2px);
+    border:2px solid #E9EAEC;
+    .font-size(16, 38px);
+    font-weight:700;
+    color:#233141;
+    background:@white;
+    text-align:center;
+    text-decoration:none;
+    .transition(all .2s ease-in-out);
+
+    &:hover{
+      border-color:#233141;
+    }
+  }
+}
+
+
 
 
 
