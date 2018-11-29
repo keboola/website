@@ -36,7 +36,7 @@ page_sections:
   list:
   - title: Language of choice
     desc: Develop components in the language of your choice. Sign up for our developer
-      portal access - insert link !!>>>>>>
+      portal access
     icotype: blue
     link: https://components.keboola.com
   - title: Automatic platform scaling
