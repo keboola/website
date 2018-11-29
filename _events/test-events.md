@@ -1,7 +1,7 @@
 ---
 title: test events
 layout: post-events
-date: 2018-11-29 10:53:37 +0000
+date: 2018-11-29 10:49:37 +0000
 date-time: 2018-11-06 23:00:00 +0000
 subtitle: title 2
 ctaname: cta

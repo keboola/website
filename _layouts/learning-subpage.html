@@ -53,29 +53,6 @@
 		</div-->
 	</div>
 	<div class="item-list"><ul class="article-list-content-table">
-		{% assign customerstories = site.customer-stories %}
-		{% assign whitepapers = site.whitepapers %}
-		{% assign events = site.events %}
-		{% assign webinars = site.webinars %}
-
-		{% assign learning = customerstories | concat: whitepapers | concat: events | concat: webinars %}
-		{% assign sortedlearning = learning | sort: 'date' | reverse %}
-
-		{% for post in sortedlearning %}
-			<li><a href="{{ post.url }}" class="item-li">
-				<div class="item-li-company">
-					<div class="item-company"><img src="/img/logo-netflix.png" alt=""></div>
-					<h2>all - {{ post.title }}<br>{{ post.date }}</h2>
-				</div>
-				<div class="item-li-foot"><strong>{% for category in post.categories limit:1 %}{{ category | downcase | replace:"-"," " }}{% endfor %}</strong></div>
-			</a></li>
-		{% endfor %}
-
-
-
-
-
-
 		{% for post in site.posts %}<li><a href="{{ post.url }}" class="item-li">
 			<div class="item-li-company">
 				<div class="item-company"><img src="/img/logo-netflix.png" alt=""></div>
