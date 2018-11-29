@@ -7,7 +7,7 @@ fields:
   name: layout
   label: layout
   hidden: true
-  default: blog-events
+  default: post-events
 - type: text
   name: title
   label: title
