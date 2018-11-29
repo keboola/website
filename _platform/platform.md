@@ -32,11 +32,12 @@ page_sections:
 - template: article-list-two-row
   block: article-list-two-row
   subheadline: All in one container based data platform you can add to
-  headline: A new approach to embedded analytics
+  headline: A new approach to software managed infrastructure
   list:
-  - title: No More Complex ETLs
-    desc: Get the data and the best tools to create adhoc analyses right in your department
-      to improve your campaigns.
+  - title: Language of choice
+    desc: Develop components in the language of your choice. Sign up for our developer
+      portal access - insert link !!>>>>>>
+    icotype: blue
   - title: Embed Your Way
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns.
