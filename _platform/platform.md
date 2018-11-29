@@ -24,7 +24,7 @@ page_sections:
 - template: article-list-img
   block: article-list-img
   list:
-  - img: "/uploads/tmp_data-insights-action-Keboola-  short 2018-11-29 14-30-38.png"
+  - img: "/uploads/tmp_data-insights-action-Keboola-  short 2018-11-29 14-30-38-2.png"
     name: Extend our platform freely
 - template: ask-demo
   block: ask-demo
