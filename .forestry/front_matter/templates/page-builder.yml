@@ -34,7 +34,6 @@ fields:
   - gallery-list
   - recent-list
 pages:
-- _learning/customer-stories/pietro-filipi.md
 - _product/pricing.md
 - _product/keboola-way.md
 - _product/etl-elt.md
