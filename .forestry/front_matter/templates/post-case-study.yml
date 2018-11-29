@@ -14,5 +14,8 @@ fields:
 - type: text
   name: author
   label: author
+- type: file
+  name: background-image
+  label: background image
 pages:
 - _customer-stories/hello-bank.md
