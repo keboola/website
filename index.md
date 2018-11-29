@@ -50,10 +50,10 @@ page_sections:
     img: "/uploads/CSC_Logo-1.svg"
   - img: "/uploads/goodyear_logo.svg"
     name: Goodyear
-  - img: ''
+  - img: "/uploads/bata_logo.svg"
     name: Bata
   - name: Zendesk
-    img: "/uploads/zendesk_logo.png"
+    img: "/uploads/zendesk-logo.svg"
   - name: Erste
     img: "/uploads/erste_logo.png"
 - template: horizontal-rule
