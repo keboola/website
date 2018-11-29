@@ -47,7 +47,7 @@ page_sections:
   - name: roti
     img: "/uploads/roti-logo.png"
   - name: CSC
-    img: "/uploads/CSC_Logo.png"
+    img: "/uploads/CSC_Logo-1.svg"
   - img: "/uploads/Goodyear-logo.png"
     name: Goodyear
   - img: "/uploads/bata-logo-small.png"
