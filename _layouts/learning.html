@@ -1,4 +1,12 @@
 {% include head.html %}
+{% assign customerstories = site.customer-stories %}
+{% assign whitepapers = site.whitepapers %}
+{% assign events = site.events %}
+{% assign webinars = site.webinars %}
+
+{% assign learning = customerstories | concat: whitepapers | concat: events | concat: webinars %}
+{% assign sortedlearning = learning | sort: 'date' | reverse | limit: 9 %}
+
 <article class="section-header section-header-recent"><div class="in">
 	<div class="section-desc">
 		<p class="p-perex p-perex-dark">Helpful assets to maximaze your success</p>
@@ -21,13 +29,22 @@
 	<div class="most-recent-list">
 		<ul class="most-recent-list-content">
 			<li class="li-placeholder"></li>
-			<li><a href="">
-				<div class="img"><img src="/img/most-recent-img-1.jpg" alt=""></div>
-				<div class="item-desc">
-					<h2>Platform solution for small businesses</h2>
-					<p>Go to the article</p>
-				</div>
-			</a></li>
+			{% for post in sortedlearning %}
+				{% if post.background-image != "" and post.background-image != nil %}
+					{% assign postcountingin = postcountingin | plus: 1 %}
+					{% if postcountingin < 7 %}
+						<li><a href="{{ post.url }}">
+							<div class="img"><img src="{{ post.background-image }}" alt="{{ post.title }}"></div>{% comment %}<i class="bg-img"></i>{% endcomment %}
+							<div class="item-desc"><h2>{{ post.title }}</h2><p>
+								{% if post.url contains '/customer-stories/' %}View story
+								{% elsif post.url contains '/whitepapers/' %}View whitepaper
+								{% elsif post.url contains '/events/' %}events
+								{% elsif post.url contains '/webinars/' %}webinars{% endif %}
+							</p></div>
+						</a></li>
+					{% endif %}
+				{% endif %}
+			{% endfor %}
 		</ul>
 		<div class="most-recent-pages-content">
 			<span class="btn-prevpage">prev</span>
@@ -53,14 +70,6 @@
 		</div-->
 	</div>{% endcomment %}
 	<div class="item-list"><ul class="article-list-content-table">
-		{% assign customerstories = site.customer-stories %}
-		{% assign whitepapers = site.whitepapers %}
-		{% assign events = site.events %}
-		{% assign webinars = site.webinars %}
-
-		{% assign learning = customerstories | concat: whitepapers | concat: events | concat: webinars %}
-		{% assign sortedlearning = learning | sort: 'date' | reverse | 9 %}
-
 		{% for post in sortedlearning %}
 			<li><a href="{{ post.url }}" class="item-li">
 				<div class="item-li-company">
