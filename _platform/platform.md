@@ -19,7 +19,7 @@ page_sections:
     run packaged machine learning models across whole organization ? Use our platform
     and extend it with your functionality. The whole platform is well documented at
     https://developers.keboola.com with user groups support for starting developers.
-  headlinesmall: true
+  headlinesmall: false
 - template: article-list-img
   block: article-list-img
   list:
