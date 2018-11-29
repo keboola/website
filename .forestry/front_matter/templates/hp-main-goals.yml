@@ -1,0 +1,26 @@
+---
+label: hp-main-goals
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: block
+  name: block
+  default: hp-main-goals
+  hidden: true
+- type: field_group_list
+  name: list
+  label: list
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: desc
+    label: desc
+  - type: text
+    label: link
+    name: link
+  - type: file
+    name: background
+    label: background
