@@ -2,4 +2,15 @@
 label: Post - case study
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: post-case-study
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
