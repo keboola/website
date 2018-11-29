@@ -54,18 +54,13 @@ page_sections:
 - template: article-gray-box
   block: article-gray-box
   subheadline: better and faster results
-  headline: Inteligent Interpretation
-  content: In response to these demands, Keboola turned to Geneea for help. We integrated
-    our powerful NLP software into Keboola’s platform making it possible for customers
-    to easily add a large amount of text, process it and visualize the results.
+  headline: Natural Language Processing
+  content: In response to demand for out of the box NLP, Keboola turned to Geneea
+    for help. Geneea has integrated their powerful NLP software into Keboola’s platform
+    making it possible for customers to easily add a large amount of text, process
+    it and visualize the results.
   ctaname: See how to get the same solution
   img: "/uploads/geneeaLogo.png"
-- template: black-panel
-  block: black-panel
-  img: "/uploads/netflixLogo-1.png"
-  headline: Netflix Case Study
-  content: Reduction of operational costs through predictive maintenance.
-  ctaname: Deliver to your e-mail
 - template: recent-list
   block: recent-list
   headline: Case Study Articles
