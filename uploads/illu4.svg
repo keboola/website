@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720px" height="770px" viewBox="0 0 720 770" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>illu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#228DFF" offset="0%"></stop>
+            <stop stop-color="#A4D0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="720" height="770" rx="2"></rect>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SLIDER-Copy-2" transform="translate(-720.000000, 0.000000)">
+            <g id="illu" transform="translate(720.000000, 0.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <g id="Group-18" mask="url(#mask-3)" stroke="#FFFFFF" stroke-linecap="square">
+                    <g transform="translate(58.000000, -587.000000)">
+                        <path d="M301.5,0.5 L301.5,818.637519" id="Line"></path>
+                        <path d="M251.5,24.5 L251.5,842.637519" id="Line-Copy" opacity="0.799999952"></path>
+                        <path d="M201.5,50.5 L201.5,868.637519" id="Line-Copy-2" opacity="0.599999964"></path>
+                        <path d="M151.5,75.5 L151.5,893.637519" id="Line-Copy-3" opacity="0.400000006"></path>
+                        <path d="M101.5,100.5 L101.5,918.637519" id="Line-Copy-4" opacity="0.300000012"></path>
+                        <path d="M51.5,125.5 L51.5,943.637519" id="Line-Copy-5" opacity="0.200000018"></path>
+                        <path d="M1.5,150.5 L1.5,968.637519" id="Line-Copy-6" opacity="0.100000001"></path>
+                        <path d="M600.5,150.5 L600.5,968.637519" id="Line-Copy-12" opacity="0.100000001"></path>
+                        <path d="M550.5,125.5 L550.5,943.637519" id="Line-Copy-11" opacity="0.200000018"></path>
+                        <path d="M500.5,100.5 L500.5,918.637519" id="Line-Copy-10" opacity="0.300000012"></path>
+                        <path d="M450.5,75.5 L450.5,893.637519" id="Line-Copy-9" opacity="0.400000006"></path>
+                        <path d="M400.5,50.5 L400.5,868.637519" id="Line-Copy-8" opacity="0.599999964"></path>
+                        <path d="M350.5,24.5 L350.5,842.637519" id="Line-Copy-7" opacity="0.799999952"></path>
+                    </g>
+                </g>
+                <g id="Group-18-Copy" mask="url(#mask-3)" stroke="#FFFFFF" stroke-linecap="square">
+                    <g transform="translate(58.000000, 423.000000)">
+                        <path d="M301.5,0.5 L301.5,818.637519" id="Line"></path>
+                        <path d="M251.5,24.5 L251.5,842.637519" id="Line-Copy" opacity="0.799999952"></path>
+                        <path d="M201.5,50.5 L201.5,868.637519" id="Line-Copy-2" opacity="0.599999964"></path>
+                        <path d="M151.5,75.5 L151.5,893.637519" id="Line-Copy-3" opacity="0.400000006"></path>
+                        <path d="M101.5,100.5 L101.5,918.637519" id="Line-Copy-4" opacity="0.300000012"></path>
+                        <path d="M51.5,125.5 L51.5,943.637519" id="Line-Copy-5" opacity="0.200000018"></path>
+                        <path d="M1.5,150.5 L1.5,968.637519" id="Line-Copy-6" opacity="0.100000001"></path>
+                        <path d="M600.5,150.5 L600.5,968.637519" id="Line-Copy-12" opacity="0.100000001"></path>
+                        <path d="M550.5,125.5 L550.5,943.637519" id="Line-Copy-11" opacity="0.200000018"></path>
+                        <path d="M500.5,100.5 L500.5,918.637519" id="Line-Copy-10" opacity="0.300000012"></path>
+                        <path d="M450.5,75.5 L450.5,893.637519" id="Line-Copy-9" opacity="0.400000006"></path>
+                        <path d="M400.5,50.5 L400.5,868.637519" id="Line-Copy-8" opacity="0.599999964"></path>
+                        <path d="M350.5,24.5 L350.5,842.637519" id="Line-Copy-7" opacity="0.799999952"></path>
+                    </g>
+                </g>
+                <g id="box" mask="url(#mask-3)">
+                    <g transform="translate(310.000000, 272.000000)">
+                        <polygon id="Rectangle-11-Copy" fill="#000000" opacity="0.1" filter="url(#filter-4)" points="50 78.9047619 100 103.904762 50 128.904762 0 103.904762"></polygon>
+                        <polygon id="Rectangle-11" fill="#F2F8FC" points="50 0.333333333 100 25.3333333 50 60.3333333 0 25.3333333"></polygon>
+                        <polygon id="Rectangle-3" fill="#D9EAF7" points="0 25.3333333 50 50.3333333 50 114.619048 0 89.6190476"></polygon>
+                        <polygon id="Rectangle-3-Copy-2" fill="#E9F4FC" transform="translate(75.000000, 69.976190) scale(-1, 1) translate(-75.000000, -69.976190) " points="50 25.3333333 100 50.3333333 100 114.619048 50 89.6190476"></polygon>
+                        <polygon id="Rectangle-3-Copy-4" fill="#BFD3E2" transform="translate(75.000000, 69.785714) scale(-1, 1) translate(-75.000000, -69.785714) " points="60 43 90 58 90 96.5714286 60 81.5714286"></polygon>
+                        <polygon id="Rectangle-3-Copy-5" fill="#FDFEFF" transform="translate(75.000000, 81.785714) scale(-1, 1) translate(-75.000000, -81.785714) " points="90 67 90 96.5714286 60 81.5714286"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
