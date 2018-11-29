@@ -40,7 +40,7 @@
 <div class="hr"><div class="in"><hr></div></div>
 
 <div class="article-list article-list-table"><div class="in">
-	<div class="item-title">
+	{% comment %}<div class="item-title">
 		<h1>Data Center</h1>
 		<!--div class="item-title-select">
 			<div class="item-input"><select name="" id="">
@@ -51,7 +51,7 @@
 				<option value="">Type</option>
 			</select></div>
 		</div-->
-	</div>
+	</div>{% endcomment %}
 	<div class="item-list"><ul class="article-list-content-table">
 		{% assign customerstories = site.customer-stories %}
 		{% assign whitepapers = site.whitepapers %}
@@ -59,30 +59,22 @@
 		{% assign webinars = site.webinars %}
 
 		{% assign learning = customerstories | concat: whitepapers | concat: events | concat: webinars %}
-		{% assign sortedlearning = learning | sort: 'date' | reverse %}
+		{% assign sortedlearning = learning | sort: 'date' | reverse | 9 %}
 
 		{% for post in sortedlearning %}
 			<li><a href="{{ post.url }}" class="item-li">
 				<div class="item-li-company">
 					<div class="item-company"><img src="/img/logo-netflix.png" alt=""></div>
-					<h2>all - {{ post.title }}<br>{{ post.date }}</h2>
+					<h2>{{ post.title }}</h2>
 				</div>
-				<div class="item-li-foot"><strong>{% for category in post.categories limit:1 %}{{ category | downcase | replace:"-"," " }}{% endfor %}</strong></div>
+				<div class="item-li-foot"><strong>
+					{% if post.url contains '/customer-stories/' %}customer stories
+					{% elsif post.url contains '/whitepapers/' %}whitepapers
+					{% elsif post.url contains '/events/' %}events
+					{% elsif post.url contains '/webinars/' %}webinars{% endif %}
+				</strong></div>
 			</a></li>
 		{% endfor %}
-
-
-
-
-
-
-		{% for post in site.posts %}<li><a href="{{ post.url }}" class="item-li">
-			<div class="item-li-company">
-				<div class="item-company"><img src="/img/logo-netflix.png" alt=""></div>
-				<h2>{{ post.title }}</h2>
-			</div>
-			<div class="item-li-foot"><strong>{% for category in post.categories limit:1 %}{{ category | downcase | replace:"-"," " }}{% endfor %}</strong></div>
-		</a></li>{% endfor %}
 	</ul></div>
 </div></div>
 {% include foot.html %}
