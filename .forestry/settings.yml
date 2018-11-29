@@ -29,12 +29,19 @@ sections:
   templates:
   - page-builder
 - type: directory
-  path: _learning
-  label: Learning
-  create: all
+  path: _customer-stories
+  label: Customer stories
+  create: documents
   match: "**/*"
   templates:
-  - page-builder
+  - post-case-study
+- type: directory
+  path: _whitepapers
+  label: Whitepapers
+  create: documents
+  match: "**/*"
+  templates:
+  - post-case-study
 - type: directory
   path: _about
   label: About
