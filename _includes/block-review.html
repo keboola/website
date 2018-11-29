@@ -2,16 +2,16 @@
 	<div class="article-reviews-content">
 		<ul class="article-reviews-list">
 			{% for list in section.list %}
-				<li{% if forloop.first %} class="item-act"{% endif %}>
+				<li><div class="item-desc">
 					<h2>“{{ list.desc }}”</h2>
 					<h3>{{ list.name }}</h3>
-				</li>
+				</div></li>
 			{% endfor %}
 		</ul>
-		<ul class="article-reviews-pages">
-			{% for list in section.list %}
-				<li{% if forloop.first %} class="active"{% endif %}>{{ forloop.index }}</li>
-			{% endfor %}
-		</ul>
+		<div class="article-reviews-pages-content">
+			<span class="btn-prevpage">prev</span>
+			<ul class="article-reviews-pages"></ul>
+			<span class="btn-nextpage">next</span>
+		</div>
 	</div>
 </div></article>

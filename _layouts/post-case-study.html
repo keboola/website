@@ -1,11 +1,13 @@
 {% include head.html %}
-<article class="article-detail-header"><div class="in">
-	<div class="article-header-desc">
-		<h2>{% for category in page.categories limit:1 %}
-			<a href="/{{ category }}">{{ category | downcase | replace:"-"," " }}</a>
-			{% unless forloop.last %}, {% endunless %}{% endfor %}</h2>
+<article class="post-casestudy-header"><div class="in">
+	<div class="post-casestudy-header-desc">
+		<h2>{% if page.url contains '/customer-stories/' %}customer stories
+			{% elsif page.url contains '/whitepapers/' %}whitepapers
+			{% elsif page.url contains '/events/' %}events
+			{% elsif page.url contains '/webinars/' %}webinars{% endif %}</h2>
 		<h1>{{ page.title }}</h1>
 		<p>{{ page.perex }}</p>
+		<p class="p-user">by {{ page.author }}</p>
 	</div>
 </div></article>
 <article class="article-detail-content">
@@ -16,4 +18,31 @@
 		<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}" data-text="{{ page.title }}" data-url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" class="share-btn-tw"><i></i></a>
 	</div>
 </article>
+{% assign customerstories = site.customer-stories %}
+
+{% assign sortedlearning = customerstories | sort: 'date' | reverse %}
+<div class="most-recent-header"><div class="in">
+	<h1 class="h1-small h1-blue">More <strong>Customer Stories</strong></h1>
+</div></div>
+<div class="most-recent-content"><div class="most-recent-list">
+	<ul class="most-recent-list-content">
+		<li class="li-placeholder"></li>
+		{% for post in sortedlearning %}
+			{% if post.background-image != "" and post.background-image != nil and page.title != post.title %}
+				{% assign postcountingin = postcountingin | plus: 1 %}
+				{% if postcountingin < 7 %}
+					<li><a href="{{ post.url }}">
+						<div class="img"><img src="{{ post.background-image }}" alt="{{ post.title }}"></div>{% comment %}<i class="bg-img"></i>{% endcomment %}
+						<div class="item-desc"><h2>{{ post.title }}</h2><p>View story</p></div>
+					</a></li>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+	</ul>
+	<div class="most-recent-pages-content">
+		<span class="btn-prevpage">prev</span>
+		<ul class="most-recent-pages"></ul>
+		<span class="btn-nextpage">next</span>
+	</div>
+</div></div>
 {% include foot.html %}

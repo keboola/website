@@ -252,6 +252,11 @@
 
 
 
+    // REVIEW - SLIDER
+    r4.utils.reviewslider = function(w){
+
+
+    };
 
 
 
@@ -287,13 +292,19 @@
 
         // MOST RECENT ARTICLE - SLIDER
         if ($('.most-recent-list').length){
-            r4.utils.articleslider();    
+            r4.utils.articleslider();
         }
 
 
         // GALLERY LIST - SLIDER
         if ($('.gallery-list').length){
-            r4.utils.galleryslider();    
+            r4.utils.galleryslider();
+        }
+
+
+        // REVIEW - SLIDER
+        if ($('.article-reviews').length){
+            r4.utils.reviewslider();
         }
 
     };
