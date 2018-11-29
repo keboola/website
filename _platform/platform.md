@@ -42,9 +42,8 @@ page_sections:
     desc: You write the advanced logic app. We take care of automatic infrastructure
       provisioning and scaling
     icotype: yellow
-  - desc: Get the data and the best tools to create adhoc analyses right in your department
-      to improve your campaigns.
-    title: Future-Proof Your Analytics
+  - desc: Your application get listed in our appstore with automatic billing.
+    title: AppStore
     icotype: blueright
   - icotype: gray
     desc: Get the data and the best tools to create adhoc analyses right in your department
