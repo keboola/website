@@ -8,3 +8,16 @@ fields:
   label: block
   default: gallery-list
   hidden: true
+- type: field_group_list
+  name: list
+  label: list
+  fields:
+  - type: file
+    name: photo
+    label: photo
+  - type: text
+    label: link
+    name: link
+  - type: boolean
+    name: video
+    label: video
