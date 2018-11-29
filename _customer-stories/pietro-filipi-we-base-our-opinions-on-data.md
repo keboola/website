@@ -4,6 +4,7 @@ layout: post-case-study
 date: 2018-11-29 10:42:23 +0000
 author: ''
 background-image: ''
+logo: "/uploads/pietro_logo.jpg"
 
 ---
 ## **A data-driven approach behind the company’s transformation: how Pietro Filipi found a way out of their insolvency.**
