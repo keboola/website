@@ -61,6 +61,7 @@ page_sections:
     it and visualize the results.
   ctaname: See how to get the same solution
   img: "/uploads/geneeaLogo.png"
+  ctalink: https://components.keboola.com
 - template: recent-list
   block: recent-list
   headline: Case Study Articles
