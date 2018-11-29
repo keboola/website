@@ -44,5 +44,3 @@ fields:
     - uk
     - eu
   label: country
-pages:
-- _events/test-events.md
