@@ -33,6 +33,7 @@ fields:
   - faq
   - gallery-list
   - recent-list
+  - hp-main-goals
 pages:
 - _product/pricing.md
 - _product/keboola-way.md
