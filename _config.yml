@@ -32,6 +32,18 @@ collections:
    learning:
      output: true
      permalink: /:collection/:path/
+   customer-stories:
+     output: true
+     permalink: /:collection/:path/
+   whitepapers:
+     output: true
+     permalink: /:collection/:path/
+   events:
+     output: true
+     permalink: /:collection/:path/
+   webinars:
+     output: true
+     permalink: /:collection/:path/
    about:
      output: true
      permalink: /:collection/:path/
