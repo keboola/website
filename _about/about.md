@@ -82,5 +82,15 @@ page_sections:
   block: ask-demo
   headline: We appreciate the curious and creative!z
   ctaname: See open positions in Keboola
+- template: article-download-list
+  block: article-download-list
+  list:
+  - title: Brand Assets
+    ctaname: Download
+    background: "/uploads/assets-1.jpg"
+  - {}
+  - {}
+- template: article-about-office
+  block: article-about-office
 
 ---
