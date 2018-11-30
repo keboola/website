@@ -1,0 +1,29 @@
+---
+label: article-about-team
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: block
+  name: block
+  default: article-about-team
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: field_group_list
+  name: list
+  label: list
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: position
+    label: position
+  - type: file
+    name: photo
+    label: photo
