@@ -88,9 +88,26 @@ page_sections:
   - title: Brand Assets
     ctaname: Download
     background: "/uploads/assets-1.jpg"
-  - {}
-  - {}
+  - title: Brand Guidelines
+    ctaname: Download
+    background: "/uploads/guide.jpg"
+  - title: Press Kit
+    ctaname: Download
+    background: "/uploads/pressKit.jpg"
 - template: article-about-office
   block: article-about-office
+  list:
+  - name: CHICAGO
+    address: "210 - 1461 Johnston Road  \nWhite Rock, BC  \nV4B 3Z4  \nCanada  \n(+1
+      604 560 6333)"
+  - name: VANCOUVER
+    address: "210 - 1461 Johnston Road  \nWhite Rock, BC  \nV4B 3Z4  \nCanada  \n(+1
+      604 560 6333)"
+  - name: LONDON
+    address: "Work.Life Clerkenwell  \n20 Jerusalem Passage  \nLondon EC1V 4JP  \nUnited
+      Kingdom  \n(+44 747 626 8512)"
+  - name: PRAGUE
+    address: "Křižíkova 488/115  \nPrague 8  \n186 00  \nCzech Republic  \n(+420 739
+      632 821)"
 
 ---
