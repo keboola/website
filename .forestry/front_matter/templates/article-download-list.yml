@@ -1,0 +1,26 @@
+---
+label: article-download-list
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: block
+  label: block
+  default: article-download-list
+  hidden: true
+- type: field_group_list
+  label: list
+  name: list
+  fields:
+  - type: text
+    label: title
+    name: title
+  - type: text
+    name: ctaname
+    label: cta name
+  - type: text
+    name: ctalink
+    label: cta link
+  - type: file
+    name: background
+    label: background
