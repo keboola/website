@@ -1,0 +1,27 @@
+---
+label: article-about-office
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: block
+  name: block
+  default: article-about-office
+  hidden: true
+- type: field_group_list
+  name: list
+  label: list
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: textarea
+    name: address
+    label: address
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - type: text
+    name: mapslink
+    label: maps link
