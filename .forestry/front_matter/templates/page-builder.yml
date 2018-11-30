@@ -39,8 +39,8 @@ fields:
   - recent-list
   - hp-main-goals
 pages:
-- terms-conditions.md
 - _about/about.md
+- terms-conditions.md
 - _platform/platform.md
 - _product/product.md
 - _platform/3rd-party-ai.md
