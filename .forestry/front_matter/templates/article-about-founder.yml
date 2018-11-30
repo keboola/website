@@ -1,0 +1,30 @@
+---
+label: article-about-founder
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  default: article-about-founder
+  hidden: true
+- type: field_group_list
+  name: list
+  label: list
+  fields:
+  - type: text
+    label: name
+    name: name
+  - type: text
+    label: position
+    name: position
+  - type: textarea
+    name: desc
+    label: desc
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - type: file
+    name: image
+    label: image
