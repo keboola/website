@@ -28,6 +28,9 @@ fields:
   - article-list-img
   - article-gray-box
   - article-about-founder
+  - article-about-team
+  - article-about-office
+  - article-download-list
   - horizontal-rule
   - black-panel
   - review
