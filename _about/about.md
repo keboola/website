@@ -69,7 +69,9 @@ page_sections:
   - name: Martin
     position: Art Director
     photo: "/uploads/dummy.png"
-  - {}
+  - name: Thomas
+    position: CFO
+    photo: "/uploads/dummy-1.png"
   - {}
   - {}
   - {}
