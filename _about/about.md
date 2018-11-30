@@ -82,7 +82,7 @@ page_sections:
   - {}
 - template: ask-demo
   block: ask-demo
-  headline: We appreciate the curious and creative!z
+  headline: We appreciate the curious and creative!
   ctaname: See open positions in Keboola
 - template: article-download-list
   block: article-download-list
