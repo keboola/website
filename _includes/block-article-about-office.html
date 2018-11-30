@@ -1,0 +1,11 @@
+<div class="article-list"><div class="in">
+	<div class="item-list"><ul class="article-list-content">
+		{% for list in section.list %}
+			<li>
+				<h2>{{ list.name }}</h2>
+				<p>{{ list.address }}</p>
+				<p><a href="{{ list.mapslink }}">SHOW IN MAPS</a></p>
+			</li>
+        {% endfor %}
+	</ul></div>
+</div></div>

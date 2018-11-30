@@ -1,0 +1,16 @@
+<div class=""><div class="in">
+	<div class="item-desc">
+		<p class="p-perex">{{ section.subtitle }}</p>
+		<h1 class="h1-blue">{{ section.title }}</h1>
+	</div>
+
+	<div class=""><ul class="-content">
+		{% for list in section.list %}
+			<li>
+				<div class="item-img"><img src="{{ list.photo }}" alt=""></div>
+				<h2>{{ list.name }}</h2>
+				<p>{{ list.position }}</p>
+			</li>
+        {% endfor %}
+	</ul></div>
+</div></div>

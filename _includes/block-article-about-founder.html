@@ -1,0 +1,12 @@
+<div class="article-founder"><div class="in">
+	<div class="article-founder-list"><ul>
+		{% for list in section.list %}
+			<li>
+				<div class="item-img"><img src="{{ list.photo }}" alt=""></div>
+				<h2>{{ list.name }}</h2>
+				<h3 class="h3-middle h3-blue"><strong>{{ list.position }}</strong></h3>
+				<p class="p-middle">{{ list.desc }}</p>
+			</li>
+        {% endfor %}
+	</ul></div>
+</div></div>

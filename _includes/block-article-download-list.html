@@ -1,0 +1,12 @@
+<div class="article-list"><div class="in">
+	<div class="item-list"><ul class="article-list-content">
+		{% for list in section.list %}
+			<li><a href="{{ list.ctalink }}">
+				<div class="item-img"><img src="{{ list.background }}" alt=""></div>
+				<h2>{{ list.title }}</h2>
+				<p>{{ list.desc }}</p>
+				<p>{{ list.ctalink }}</p>
+			</a></li>
+        {% endfor %}
+	</ul></div>
+</div></div>
