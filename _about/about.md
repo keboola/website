@@ -61,6 +61,8 @@ page_sections:
       interdum porttitor libero, facilisis auctor libero sollicitudin ut. NLorem ipsum
       dolor sit amet, consectetur adipiscing elit.
     photo: "/uploads/milan.jpg"
+- template: horizontal-rule
+  block: hr
 - template: article-about-team
   block: article-about-team
   title: meet the people behind the best data platform
