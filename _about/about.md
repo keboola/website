@@ -93,7 +93,7 @@ page_sections:
     background: "/uploads/guide.jpg"
   - title: Press Kit
     ctaname: Download
-    background: "/uploads/pressKit.jpg"
+    background: "/uploads/pressKit-1.jpg"
 - template: article-about-office
   block: article-about-office
   list:
