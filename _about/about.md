@@ -40,5 +40,47 @@ page_sections:
     build better businesses, increase profitability, and make better decisions. Keboola
     employees help Keboola, by being honest, entrepreneurial, daring to learn, helping
     each other prosper, and thus, helping ourselves.
+- template: article-about-founder
+  block: article-about-founder
+  list:
+  - name: Pavel Doležal
+    position: CEO
+    desc: Mauris elit erat, convallis id cursus hendrerit, vestibulum non elit. Maecenas
+      interdum porttitor libero, facilisis auctor libero sollicitudin ut. NLorem ipsum
+      dolor sit amet, consectetur adipiscing elit.
+    photo: "/uploads/pavel.jpg"
+  - name: Petr Šimeček
+    position: Co-founder & Product Owner
+    desc: Mauris elit erat, convallis id cursus hendrerit, vestibulum non elit. Maecenas
+      interdum porttitor libero, facilisis auctor libero sollicitudin ut. NLorem ipsum
+      dolor sit amet, consectetur adipiscing elit.
+    photo: "/uploads/petr-1.jpg"
+  - name: Milan Veverka
+    position: Co-founder
+    desc: Mauris elit erat, convallis id cursus hendrerit, vestibulum non elit. Maecenas
+      interdum porttitor libero, facilisis auctor libero sollicitudin ut. NLorem ipsum
+      dolor sit amet, consectetur adipiscing elit.
+    photo: "/uploads/milan.jpg"
+- template: article-about-team
+  block: article-about-team
+  title: meet the people behind the best data platform
+  subtitle: The right people make anything possible
+  list:
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+- template: ask-demo
+  block: ask-demo
+  headline: We appreciate the curious and creative!z
+  ctaname: See open positions in Keboola
 
 ---
