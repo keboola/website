@@ -72,7 +72,9 @@ page_sections:
   - name: Thomas
     position: CFO
     photo: "/uploads/dummy-1.png"
-  - {}
+  - name: Joana
+    position: Sales US
+    photo: "/uploads/dummy-2.png"
   - {}
   - {}
   - {}
