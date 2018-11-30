@@ -26,5 +26,5 @@ fields:
       schema:
         format: markdown
   - type: file
-    name: image
-    label: image
+    name: photo
+    label: photo
