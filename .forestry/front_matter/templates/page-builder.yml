@@ -27,6 +27,7 @@ fields:
   - article-list-table
   - article-list-img
   - article-gray-box
+  - article-about-founder
   - horizontal-rule
   - black-panel
   - review
