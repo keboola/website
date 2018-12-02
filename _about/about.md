@@ -112,10 +112,10 @@ page_sections:
     address: "<p>210 - 1461 Johnston Road <br>White Rock, BC <br>V4B 3Z4 <br>Canada
       <br>(+1 604 560 6333)</p>"
   - name: LONDON
-    address: "Work.Life Clerkenwell  \n20 Jerusalem Passage  \nLondon EC1V 4JP  \nUnited
-      Kingdom  \n(+44 747 626 8512)"
+    address: "<p>210 - 1461 Johnston Road <br>White Rock, BC <br>V4B 3Z4 <br>Canada
+      <br>(+1 604 560 6333)</p>"
   - name: PRAGUE
-    address: "Křižíkova 488/115  \nPrague 8  \n186 00  \nCzech Republic  \n(+420 739
-      632 821)"
+    address: "<p>Křižíkova 488/115 <br>Prague 8 <br>186 00 <br>Czech Republic <br>(+420
+      739 632 821)</p>"
 
 ---
