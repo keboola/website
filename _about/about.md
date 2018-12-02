@@ -106,7 +106,7 @@ page_sections:
   block: article-about-office
   list:
   - name: CHICAGO
-    address: "210 - 1461 Johnston Road  \nWhite Rock, BC  \nV4B 3Z4  \nCanada  \n(+1
+    address: "210 - 1461 Johnston Road  \nWhite Rock, BC\n\nV4B 3Z4  \nCanada  \n(+1
       604 560 6333)"
   - name: VANCOUVER
     address: "210 - 1461 Johnston Road  \nWhite Rock, BC  \nV4B 3Z4  \nCanada  \n(+1
