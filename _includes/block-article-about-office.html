@@ -1,10 +1,11 @@
-<div class="article-list"><div class="in">
-	<div class="item-list"><ul class="article-list-content">
+<div class="article-offices"><div class="in">
+	<div class="article-offices-list"><ul>
 		{% for list in section.list %}
 			<li>
-				<h2>{{ list.name }}</h2>
-				<p>{{ list.address }}</p>
-				<p><a href="{{ list.mapslink }}">SHOW IN MAPS</a></p>
+				<i class="ico ico-{{ forloop.index }}"></i>
+				<h2 class="h2-middle h2-blue"><strong>{{ list.name }}</strong></h2>
+				{{ list.address }}
+				<p class="p-link"><a href="{{ list.mapslink }}"><strong>SHOW IN MAPS</strong></a></p>
 			</li>
         {% endfor %}
 	</ul></div>
