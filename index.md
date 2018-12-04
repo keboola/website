@@ -60,12 +60,12 @@ page_sections:
   block: hp-main-goals
   list:
   - title: 'All the tools you need       in one place'
-    desc: At Keboola, we have solved the procurement and administration nightmare
+    desc: "<p>At Keboola, we have solved the procurement and administration nightmare
       that businesses usually face when searching for and implementing new tools.
       Now you can instantly get access to dozens of data analytics tools, data warehouses,
       and clouds in one place. Your team will only be a click and a login away from
       having everything they need available to them. You’ll have access to multiple
-      clouds dealing with everything from Excel to AI.
+      clouds dealing with everything from Excel to AI.</p>"
     background: "/uploads/illu1.svg"
   - title: Comprehensive data infrastructure
     desc: 'Keboola provides on-demand access to all the tools, servers, and data warehouses
