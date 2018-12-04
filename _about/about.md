@@ -88,6 +88,7 @@ page_sections:
   headline: We appreciate the curious and creative!
   ctaname: See open positions in Keboola
   ctalink: https://www.linkedin.com/jobs/search/?f_C=1833529&locationId=OTHERS.worldwide
+  newwindow: true
 - template: article-download-list
   block: article-download-list
   list:
