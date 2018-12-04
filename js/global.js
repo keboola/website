@@ -67,45 +67,17 @@
 
 
 
-    // HOME
-    r4.utils.home = function(){
-
-        var home = $('.hp-home-header');
-
-        $('.home-panel-left, .home-panel-right').on('mouseenter mouseleave', function(e){
-            var el = $(this);
-
-
-            if (el.hasClass('home-panel-left')) {
-                if (e.type === 'mouseenter') {
-                    home.removeClass('hp-home-header-right');
-                    home.addClass('hp-home-header-left');
-                } else if (e.type === 'mouseleave') {
-                    
-                }
-
+    // HOME - HEADER
+    r4.utils.homeheader = function(){
+        r4.cache.window.on('scroll', function(){
+            var pos = $(window).scrollTop();
+            
+            if (pos > 100){
+                r4.cache.html.addClass('show-home-header');
             } else {
-                if (e.type === 'mouseenter') {
-                    home.removeClass('hp-home-header-left');
-                    home.addClass('hp-home-header-right');
-                } else if (e.type === 'mouseleave') {
-                    
-                }
-
+                r4.cache.html.removeClass('show-home-header');
             }
         });
-
-        $('.home-panel-left, .home-panel-right').on('click', function(e){
-            e.preventDefault();
-            
-            $('.home-panel-left, .home-panel-right').off('mouseenter mouseleave');
-
-            home.removeClass('hp-home-header-left');
-            home.removeClass('hp-home-header-right');
-
-            home.addClass('hp-home-header-act');
-        });
-
     };
 
 
@@ -121,7 +93,7 @@
             } else {
                 r4.cache.html.removeClass('show-product-header');
             }
-        })
+        });
     };
 
 
@@ -303,7 +275,7 @@
 
         // HOME
         if ($('.hp-home-header').length){
-            r4.utils.home();
+            r4.utils.homeheader();
         }
 
 
