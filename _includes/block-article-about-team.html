@@ -4,11 +4,11 @@
 		<h1>{{ section.title }}</h1>
 	</div>
 
-	<div class=""><ul class="-content">
+	<div class="article-team-list"><ul>
 		{% for list in section.list %}
 			<li>
 				<div class="item-img"><img src="{{ list.photo }}" alt=""></div>
-				<h2>{{ list.name }}</h2>
+				<h2 class="h2-middle">{{ list.name }}</h2>
 				<p>{{ list.position }}</p>
 			</li>
         {% endfor %}
