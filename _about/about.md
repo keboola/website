@@ -80,14 +80,9 @@ page_sections:
   - name: John
     position: CEO
     photo: "/uploads/helloBack-1.jpg"
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
+  - name: Doge
+    position: Such wow
+    photo: "/uploads/doge.jpg"
 - template: ask-demo
   block: ask-demo
   headline: We appreciate the curious and creative!
