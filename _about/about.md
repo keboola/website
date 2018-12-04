@@ -82,7 +82,7 @@ page_sections:
     photo: "/uploads/helloBack-1.jpg"
   - name: Doge
     position: Such wow
-    photo: "/uploads/doge.jpg"
+    photo: "/uploads/doge-1.jpg"
 - template: ask-demo
   block: ask-demo
   headline: We appreciate the curious and creative!
