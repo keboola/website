@@ -27,3 +27,6 @@ fields:
 - type: text
   name: ctalink
   label: ctalink
+- type: boolean
+  name: newwindow
+  label: new window
