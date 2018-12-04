@@ -6,7 +6,7 @@ page_sections:
 - template: header-product
   block: header-product
   subheadline: End to end Solution
-  headline: Data Analytics Stack can be easy
+  headline: "<strong>Data Analytics Stack can be easy</strong>"
 - template: article-with-perex
   block: article-with-perex
   sub_headline: sub head
