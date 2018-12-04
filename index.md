@@ -93,6 +93,24 @@ page_sections:
       love Keboola that we give you the option to cancel anytime and take all your
       data with you with just one click.</p>"
     background: "/uploads/illu5.svg"
+- template: article-full
+  block: article-full
+  subheadline: no more procurement night mare
+  headline: One contract/one invoice <span>over 50 technologies</span>
+  content: From SQL, RStudio, Python, Spark, Snowflake, S3...all in one contract and
+    single environment provisioned just for you as a service. New scenario and configuration
+    is just <a href=""><strong>one click away</strong></a>. Setup a separate project
+    for each use case. Solving the use case at hand, but having the flexibility to
+    use the results and pipes in other use cases and workflows - flexibility.
+  list:
+  - descleft: "<p><strong>Procurement</strong>. Once you buy you have access to all
+      the tools in the platform. No need for additional security or procurement permissions.
+      New use case doesn’t mean new round of IT/Security/Procurement talks and weeks
+      spent</p>"
+    descright: "<p><strong>Flexible environment</strong>. Us the tools you know from
+      desktop environment in cloud with the professional support just one click away
+      and the knowledge of thousands of users empowering our machine learning and
+      helping you with mundane tasks.</p>"
 - template: review
   block: review
   list:
@@ -114,26 +132,6 @@ page_sections:
     desc: Keboola Connection allowed us to start super quickly building our analytics
       offering and focus on our strengths rather than building the underlying data
       processing infrastructure from scratch.
-- template: article-full
-  block: article-full
-  subheadline: no more procurement night mare
-  headline: One contract/one invoice <span>over 50 technologies</span>
-  content: From SQL, RStudio, Python, Spark, Snowflake, S3...all in one contract and
-    single environment provisioned just for you as a service. New scenario and configuration
-    is just <a href=""><strong>one click away</strong></a>. Setup a separate project
-    for each use case. Solving the use case at hand, but having the flexibility to
-    use the results and pipes in other use cases and workflows - flexibility.
-  list:
-  - descleft: "<p><strong>Procurement</strong>. Once you buy you have access to all
-      the tools in the platform. No need for additional security or procurement permissions.
-      New use case doesn’t mean new round of IT/Security/Procurement talks and weeks
-      spent</p>"
-    descright: "<p><strong>Flexible environment</strong>. Us the tools you know from
-      desktop environment in cloud with the professional support just one click away
-      and the knowledge of thousands of users empowering our machine learning and
-      helping you with mundane tasks.</p>"
-- template: horizontal-rule
-  block: hr
 - template: recent-list
   block: recent-list
   headline: Success Stories
