@@ -77,7 +77,9 @@ page_sections:
   - name: Joana
     position: Sales US
     photo: "/uploads/dummy-2.png"
-  - {}
+  - name: John
+    position: CEO
+    photo: "/uploads/helloBack-1.jpg"
   - {}
   - {}
   - {}
