@@ -68,17 +68,19 @@ page_sections:
       clouds dealing with everything from Excel to AI.</p>"
     background: "/uploads/illu1.svg"
   - title: Comprehensive data infrastructure
-    desc: 'Keboola provides on-demand access to all the tools, servers, and data warehouses
-      you need to help your business succeed in a scalable environment. We also make
-      integration easier by allowing your tools to run in parallel, so each user has
-      their own environment with access to all the relevant data they need in just
-      one click. Keboola makes it easy for everyone in your company, from a shop assistant
-      to a CEO, to read, combine, and use data to improve their effectiveness. '
+    desc: "<p>Keboola provides on-demand access to all the tools, servers, and data
+      warehouses you need to help your business succeed in a scalable environment.
+      We also make integration easier by allowing your tools to run in parallel, so
+      each user has their own environment with access to all the relevant data they
+      need in just one click. Keboola makes it easy for everyone in your company,
+      from a shop assistant to a CEO, to read, combine, and use data to improve their
+      effectiveness.</p>"
     background: "/uploads/illu2.svg"
   - title: 'Collaboration breeds       success'
-    desc: Keboola allows people to work together on the same code in the same pipeline.
-      With our unique system, your team can build on top of each other’s successes
-      in real time. Since everything is versioned, nothing gets lost in all the changes.
+    desc: "<p>Keboola allows people to work together on the same code in the same
+      pipeline. With our unique system, your team can build on top of each other’s
+      successes in real time. Since everything is versioned, nothing gets lost in
+      all the changes.</p>"
     background: "/uploads/illu3.svg"
   - background: "/uploads/illu4.svg"
     title: 'Security means       everything to us'
