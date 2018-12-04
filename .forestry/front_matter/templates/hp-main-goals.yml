@@ -18,6 +18,10 @@ fields:
   - type: textarea
     name: desc
     label: desc
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
   - type: text
     label: link
     name: link
