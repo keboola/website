@@ -110,6 +110,22 @@
 
 
 
+    // PRODUCT - HEADER
+    r4.utils.productheader = function() {
+        r4.cache.window.on('scroll', function(){
+            var pos = $(window).scrollTop(),
+                el = $('.product-header').offset().top;
+            
+            if (pos > el){
+                r4.cache.html.addClass('show-product-header');
+            } else {
+                r4.cache.html.removeClass('show-product-header');
+            }
+        })
+    };
+
+
+
 
     // MOST RECENT ARTICLE - SLIDER
     r4.utils.articleslider = function(w){
@@ -284,9 +300,16 @@
 
 
 
+
         // HOME
         if ($('.hp-home-header').length){
             r4.utils.home();
+        }
+
+
+        // PRODUCT - HEADER
+        if ($('.product-header').length){
+            r4.utils.productheader();
         }
 
 

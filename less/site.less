@@ -1267,14 +1267,15 @@ section{
 // ---------
 .hp-home-header{
   position:relative;
+  width:100%;
   background:#228DFF;
   background-image: -webkit-linear-gradient(44deg, #228DFF 0%, #A4D0FF 100%);
   background-image: -o-linear-gradient(44deg, #228DFF 0%, #A4D0FF 100%);
   background-image: linear-gradient(134deg, #228DFF 0%, #A4D0FF 100%);
   overflow:hidden;
-  -webkit-transform:translate3d(0,0,0);
   
   .in{
+    position:static;
     height:900px;
   }
   .white-box-bottom{
@@ -1287,37 +1288,6 @@ section{
     border-style: solid;
     border-width: 0 840px 410px 840px;
     border-color: transparent transparent @white transparent;
-  }
-  .white-box{
-    position:absolute;
-    bottom:0;
-    width:0;
-    height:0;
-    border-style: solid;
-    visibility:hidden;
-    .opacity(0);
-    z-index:2;
-    .transition(all .3s ease-in-out);
-  }
-  .white-box-left{
-    left:-440px;
-    border-width: 980px 0 0 2000px;
-    border-color: transparent transparent transparent @white;
-  }
-  .white-box-right{
-    right:-440px;
-    border-width: 0 0 980px 2000px;
-    border-color: transparent transparent @white transparent;    
-  }
-  .shadow-box-bottom{
-    position:absolute;
-    left:0;
-    bottom:0;
-    .size(100%, 240px);
-    background: -webkit-linear-gradient(bottom, rgba(35,49,65,0.04) 0%, rgba(35,49,65,0) 100%);
-    background: -o-linear-gradient(bottom, rgba(35,49,65,0.04) 0%, rgba(35,49,65,0) 100%);
-    background: linear-gradient(to top, rgba(35,49,65,0.04) 0%, rgba(35,49,65,0) 100%);
-    z-index:5;
   }
 }
 .hp-home-header-left{
@@ -2107,6 +2077,7 @@ section{
     z-index:2;
   }
 }
+.product-header-content-start,
 .product-header-content{
   position:absolute;
   left:0;
@@ -2114,6 +2085,7 @@ section{
   padding:320px 80px 0 80px;
   .sq(100%);
   background:url(../img/product-header-bg.svg) center 260px no-repeat;
+  .transition(all .4s ease-in-out);
 
   .box-head{
     position:absolute;
@@ -2171,6 +2143,24 @@ section{
     i{
       background-image:url(../img/box-right-item.svg);
     }
+  }
+}
+.product-header-content-start{
+  background-image:url(../img/product-header-bg-start.svg);
+  //background-size:90% auto;
+
+  .show-product-header &{
+    visibility:hidden;
+    .opacity(0);
+  }
+}
+.product-header-content{
+  visibility:hidden;
+  .opacity(0);
+
+  .show-product-header &{
+    visibility:visible;
+    .opacity(100);
   }
 }
 
