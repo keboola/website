@@ -1,9 +1,11 @@
-<ul>
-{% for list in section.list %}
-	<h1>{{ list.title }}</h1>
-	<p>{{ list.desc }}</p>
-	<p><a href="{{ list.link }}">Learn more</a></p>
-	<img src="{{ list.background }}" alt="">
-{% endfor %}
-</ul>
-	
+<div class="hp-main-goals"><div class="in"><ul>
+	{% for list in section.list %}
+		<li>
+			<div class="iten-desc"><div class="iten-desc-content">
+				<h1 class="h1-middle">{{ list.title }}</h1>
+				{{ list.desc }}
+			</div></div>
+			<div class="item-img"><i style="background-image:url({{ list.background }});"></i></div>
+		</li>
+	{% endfor %}
+</ul></div></div>
