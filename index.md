@@ -84,14 +84,14 @@ page_sections:
     background: "/uploads/illu3.svg"
   - background: "/uploads/illu4.svg"
     title: 'Security means       everything to us'
-    desc: Your data is valuable, so we guard it very carefully. All data is HIPAA
+    desc: "<p>Your data is valuable, so we guard it very carefully. All data is HIPAA
       grade secured, and we meticulously log all user actions for your complete peace
-      of mind.
+      of mind.</p>"
   - title: 'No more       vendor lock-in'
-    desc: "We intentionally made Keboola completely transparent and open box so you
-      can improve and build on top of existing work. \n\nWe’re so confident that you’ll
+    desc: "<p>We intentionally made Keboola completely transparent and open box so
+      you can improve and build on top of existing work. We’re so confident that you’ll
       love Keboola that we give you the option to cancel anytime and take all your
-      data with you with just one click."
+      data with you with just one click.</p>"
     background: "/uploads/illu5.svg"
 - template: review
   block: review
