@@ -23,7 +23,7 @@ page_sections:
 - template: article-list-img
   block: article-list-img
   list:
-  - img: "/uploads/tmp_data-insights-action-Keboola-  short 2018-11-29 14-30-38-2.png"
+  - img: "/uploads/platform.svg"
     name: Extend our platform freely
 - template: ask-demo
   block: ask-demo
