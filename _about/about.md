@@ -68,6 +68,11 @@ page_sections:
   title: meet the people behind the best data platform
   subtitle: The right people make anything possible
   list:
+  - name: Marcus
+    position: Customer Success
+    photo: "/uploads/marcus.jpg"
+  - {}
+  - {}
   - name: Martin
     position: CTO
     photo: "/uploads/903531.jpeg"
