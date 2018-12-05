@@ -71,9 +71,9 @@ page_sections:
   - name: Martin
     position: CTO
     photo: "/uploads/903531.jpeg"
-  - name: Thomas
-    position: CFO
-    photo: "/uploads/dummy-1.png"
+  - name: Jakub
+    position: Sales EU
+    photo: "/uploads/0.jpeg"
   - name: Joana
     position: Sales US
     photo: "/uploads/dummy-2.png"
