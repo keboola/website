@@ -23,7 +23,7 @@ page_sections:
 - template: article-list-img
   block: article-list-img
   list:
-  - img: "/uploads/platform-1.svg"
+  - img: "/uploads/platform-2.svg"
     name: Extend our platform freely
 - template: ask-demo
   block: ask-demo
