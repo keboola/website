@@ -81,7 +81,7 @@ page_sections:
     position: Professional Services
     photo: "/uploads/fisa.jpg"
   - name: Ondrej
-    position: Lead Dev
+    position: Lead Developer
     photo: "/uploads/najlos.jpg"
   - name: Jeffry
     position: Account Executive
