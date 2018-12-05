@@ -68,6 +68,9 @@ page_sections:
   title: meet the people behind the best data platform
   subtitle: The right people make anything possible
   list:
+  - name: Ondrej
+    position: Lead Dev
+    photo: "/uploads/najlos.jpg"
   - name: Leonard
     position: Managing Director
     photo: "/uploads/ihfpjqzags88p0uiyv7k_400x400.jpeg"
