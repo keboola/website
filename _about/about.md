@@ -73,7 +73,10 @@ page_sections:
     photo: "/uploads/marcus.jpg"
   - name: Jeffry
     position: Account Executive
-  - {}
+    photo: "/uploads/jeffry.jpg"
+  - position: Solutions Consultant
+    name: Kathleen
+    photo: "/uploads/0-1.jpeg"
   - name: Martin
     position: CTO
     photo: "/uploads/903531.jpeg"
