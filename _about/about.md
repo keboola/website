@@ -68,20 +68,21 @@ page_sections:
   title: meet the people behind the best data platform
   subtitle: The right people make anything possible
   list:
-  - name: Martin
-    position: Art Director
-  - name: Ondrej
-    position: Data Scientist
-    photo: "/uploads/1*jBa92FLPeWL9AqV672m1Vw.jpeg"
-  - name: Ondrej
-    position: Lead Dev
-    photo: "/uploads/najlos.jpg"
-  - name: Leonard
-    position: Managing Director
-    photo: "/uploads/ihfpjqzags88p0uiyv7k_400x400.jpeg"
   - name: Marcus
     position: Customer Success
     photo: "/uploads/marcus.jpg"
+  - name: Ondrej
+    position: Data Scientist
+    photo: "/uploads/1*jBa92FLPeWL9AqV672m1Vw.jpeg"
+  - name: Leonard
+    position: Managing Director
+    photo: "/uploads/ihfpjqzags88p0uiyv7k_400x400.jpeg"
+  - name: Martin
+    position: Professional Services
+    photo: "/uploads/fisa.jpg"
+  - name: Ondrej
+    position: Lead Dev
+    photo: "/uploads/najlos.jpg"
   - name: Jeffry
     position: Account Executive
     photo: "/uploads/jeffry.jpg"
@@ -98,8 +99,8 @@ page_sections:
     position: Customer Success
     photo: "/uploads/ddBVxSxm_400x400.jpg"
   - name: Martin
-    position: Professional Services
-    photo: "/uploads/fisa.jpg"
+    position: Art Director
+    photo: "/uploads/13179242_10153543131370205_3174791589622889100_n.jpg"
   - name: Doge
     position: Such wow
     photo: "/uploads/doge-1.jpg"
