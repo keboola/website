@@ -75,7 +75,7 @@ page_sections:
     position: Sales EU
     photo: "/uploads/0.jpeg"
   - name: Martin
-    position: Sales US
+    position: Customer Success
     photo: "/uploads/ddBVxSxm_400x400.jpg"
   - name: John
     position: CEO
