@@ -74,9 +74,9 @@ page_sections:
   - name: Jakub
     position: Sales EU
     photo: "/uploads/0.jpeg"
-  - name: Joana
+  - name: Martin
     position: Sales US
-    photo: "/uploads/dummy-2.png"
+    photo: "/uploads/ddBVxSxm_400x400.jpg"
   - name: John
     position: CEO
     photo: "/uploads/helloBack-1.jpg"
