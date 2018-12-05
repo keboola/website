@@ -69,6 +69,9 @@ page_sections:
   subtitle: The right people make anything possible
   list:
   - name: Ondrej
+    position: Data Scientist
+    photo: "/uploads/1*jBa92FLPeWL9AqV672m1Vw.jpeg"
+  - name: Ondrej
     position: Lead Dev
     photo: "/uploads/najlos.jpg"
   - name: Leonard
