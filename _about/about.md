@@ -77,9 +77,9 @@ page_sections:
   - name: Martin
     position: Customer Success
     photo: "/uploads/ddBVxSxm_400x400.jpg"
-  - name: John
-    position: CEO
-    photo: "/uploads/helloBack-1.jpg"
+  - name: Martin
+    position: Professional Services
+    photo: "/uploads/fisa.jpg"
   - name: Doge
     position: Such wow
     photo: "/uploads/doge-1.jpg"
