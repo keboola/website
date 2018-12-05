@@ -131,6 +131,7 @@ page_sections:
   - name: VANCOUVER
     address: "<p>210 - 1461 Johnston Road <br>White Rock, BC <br>V4B 3Z4 <br>Canada
       <br>(+1 604 560 6333)</p>"
+    mapslink: https://goo.gl/maps/wEF9aDGmuQt
   - name: LONDON
     address: "<p>Work.Life Clerkenwell<br>20 Jerusalem Passage<br>London EC1V 4JP<br>United
       Kingdom<br>(+44 747 626 8512)</p>"
