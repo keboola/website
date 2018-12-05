@@ -71,7 +71,8 @@ page_sections:
   - name: Marcus
     position: Customer Success
     photo: "/uploads/marcus.jpg"
-  - {}
+  - name: Jeffry
+    position: Account Executive
   - {}
   - name: Martin
     position: CTO
