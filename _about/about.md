@@ -101,7 +101,7 @@ page_sections:
   - name: Martin
     position: Art Director
     photo: "/uploads/13179242_10153543131370205_3174791589622889100_n.jpg"
-  - name: Doge
+  - name: Data Dog
     position: Such wow
     photo: "/uploads/doge-1.jpg"
 - template: ask-demo
