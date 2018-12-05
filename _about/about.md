@@ -68,6 +68,8 @@ page_sections:
   title: meet the people behind the best data platform
   subtitle: The right people make anything possible
   list:
+  - name: Martin
+    position: Art Director
   - name: Ondrej
     position: Data Scientist
     photo: "/uploads/1*jBa92FLPeWL9AqV672m1Vw.jpeg"
