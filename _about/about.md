@@ -69,8 +69,8 @@ page_sections:
   subtitle: The right people make anything possible
   list:
   - name: Martin
-    position: Art Director
-    photo: "/uploads/dummy.png"
+    position: CTO
+    photo: "/uploads/903531.jpeg"
   - name: Thomas
     position: CFO
     photo: "/uploads/dummy-1.png"
