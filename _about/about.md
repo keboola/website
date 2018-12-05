@@ -65,7 +65,7 @@ page_sections:
   block: hr
 - template: article-about-team
   block: article-about-team
-  title: meet the people behind the best data platform
+  title: Meet the people behind the best data platform
   subtitle: The right people make anything possible
   list:
   - name: Marcus
