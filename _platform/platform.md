@@ -18,7 +18,8 @@ page_sections:
   content: Do you have a fascinating AI product? Need to connect to a new source or
     run packaged machine learning models across a whole organization? Use our platform
     and extend it with your functionality. The whole platform is well documented.
-    Click here for user groups support for starting developers.
+    Click <a href="https://developers.keboola.com">here</a> for user groups support
+    for starting developers.
   headlinesmall: false
 - template: article-list-img
   block: article-list-img
