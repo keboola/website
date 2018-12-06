@@ -14,3 +14,5 @@ fields:
 - type: text
   name: subtitle
   label: sub title
+pages:
+- terms-conditions.md
