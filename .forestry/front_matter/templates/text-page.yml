@@ -1,0 +1,13 @@
+---
+label: Text page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  hidden: true
+  label: layout
+  name: layout
+  default: text-page
+- type: text
+  name: title
+  label: title
