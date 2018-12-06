@@ -30,7 +30,7 @@ page_sections:
   - photo: "/uploads/photo2.jpg"
   - photo: "/uploads/photo3.jpg"
   - photo: "/uploads/photo5.jpg"
-  - photo: "/uploads/photo1.jpg"
+  - photo: "/uploads/about-dog.jpg"
 - template: article-full
   block: article-full
   subheadline: do it keboola way
