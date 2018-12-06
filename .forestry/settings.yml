@@ -8,6 +8,7 @@ sections:
   label: Pages
   create: all
   templates:
+  - text-page
   - page-builder
 - type: directory
   path: _product
