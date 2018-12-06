@@ -35,7 +35,7 @@ page_sections:
 - template: article-full
   block: article-full
   subheadline: do it keboola way
-  headline: Here are some values that we live by
+  headline: Here are the values that we live by
   content: Keboola exists to help employees live rich lives, grow, and prosper in
     future endeavours inside or outside of Keboola. Keboola exists to help our customers
     build better businesses, increase profitability, and make better decisions. Keboola
