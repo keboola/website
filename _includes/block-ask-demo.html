@@ -9,6 +9,6 @@
 		<p class="p-margin">{{ section.content }}</p>
 	{% endif %}
 	<div class="ask-for-demo-content">
-		<a href="{{ section.ctalink }}" class="btn btn-big btn-blue">{{ section.ctaname }}</a>
+		<a href="{{ section.ctalink }}" class="btn btn-big btn-blue"{% if section.newwindow %} target="_blank" rel=“noopener“{% endif %}>{{ section.ctaname }}</a>
 	</div>
 </div></div>
