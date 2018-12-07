@@ -1,7 +1,7 @@
 ---
 title: Security Whitepaper
 layout: text-page
-date: 2018-12-06 14:00:17 +0100
+date: 2018-12-06 13:00:17 +0000
 subtitle: Your data, our concern
 
 ---
@@ -12,14 +12,11 @@ subtitle: Your data, our concern
 _Figure 1: High level overview of Keboola environment and data flows_
 
 * **Customer**   
-  Denotes customer’s infrastructure on customer’s premise. In this infrastructure there should be a specific data storage where data extracts are prepared for upload to Keboola.  
-   
+  Denotes customer’s infrastructure on customer’s premise. In this infrastructure there should be a specific data storage where data extracts are prepared for upload to Keboola.
 * **Uploader**  
-  is a code provided by Keboola that runs on customer’s infrastructure and manages authentication, connectivity and upload of data from extracts to Keboola. This piece of software is open source to be scrutinized, built and deployed by customers.  
-   
+  is a code provided by Keboola that runs on customer’s infrastructure and manages authentication, connectivity and upload of data from extracts to Keboola. This piece of software is open source to be scrutinized, built and deployed by customers.
 * **Keboola** (Keboola Connection)  
-  denotes all software components of the Keboola Connection solution  
-   
+  denotes all software components of the Keboola Connection solution
 * **Workers**  
   are components processing your data, let it be transformations, enrichment or analytics.
 
@@ -138,8 +135,7 @@ The following applies to ensure that client access to other client environments 
 * On the database level every customer has a dedicated Redshift database. Amazon RDS is a cheaper shared database option.
 * On the S3 storage level (import/export area) every customer has a dedicated folder. Folders are not accessible directly, API manages access to the folders based on tokens in the API call.
 
-####   
-Data loss prevention
+#### Data loss prevention
 
 All data payloads are stored in Amazon AWS S3 with 99.999999999% durability. See “Data Protection” here [**https://aws.amazon.com/s3/faqs/**](https://aws.amazon.com/s3/faqs/ "https://aws.amazon.com/s3/faqs/")  for more details and [**https://aws.amazon.com/s3/sla/**](https://aws.amazon.com/s3/sla/ "https://aws.amazon.com/s3/sla/")   for SLA description
 
