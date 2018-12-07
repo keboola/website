@@ -15,6 +15,6 @@ fields:
   name: subtitle
   label: sub title
 pages:
-- terms-conditions.md
 - master-software-subscription-agreement.md
 - security-whitepaper.md
+- terms-conditions.md
