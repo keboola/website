@@ -1,12 +1,13 @@
 ---
 title: Request demo
 layout: contact-form
-date: 2018-12-10 21:31:23 +0100
+date: 2018-12-10 20:31:23 +0000
 page_sections:
 - template: form
   block: form
   subheadline: This is how we do it
   headline: Experience you can trust
+  formtype: request-demo
 - template: references
   block: references
   list:
