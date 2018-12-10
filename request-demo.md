@@ -9,6 +9,9 @@ page_sections:
   headline: Experience you can trust
 - template: references
   block: references
+  list:
+  - name: bata
+    image: "/uploads/bata_logo.svg"
 - template: review
   block: review
   list:
