@@ -13,3 +13,5 @@ fields:
   name: page_sections
   template_types:
   - review
+pages:
+- request-demo.md
