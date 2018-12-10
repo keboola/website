@@ -1,17 +1,11 @@
+{% assign reviewsize = section.list | size %}
 <article class="article-reviews"><div class="in">
-	<div class="article-reviews-content">
-		<ul class="article-reviews-list">
-			{% for list in section.list %}
-				<li><div class="item-desc">
-					<h2>“{{ list.desc }}”</h2>
-					<h3>{{ list.name }}</h3>
-				</div></li>
-			{% endfor %}
-		</ul>
-		<div class="article-reviews-pages-content">
-			<span class="btn-prevpage">prev</span>
-			<ul class="article-reviews-pages"></ul>
-			<span class="btn-nextpage">next</span>
-		</div>
+	<div class="article-reviews-content{% if reviewsize == 1 %} article-reviews-content-one{% endif %}">
+		{% for list in section.list %}
+			<div class="article-reviews-item">
+				<h2>“{{ list.desc }}”</h2>
+				<h3>{{ list.name }}</h3>
+			</div>
+		{% endfor %}
 	</div>
 </div></article>

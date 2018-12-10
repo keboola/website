@@ -72,7 +72,7 @@
         r4.cache.window.on('scroll', function(){
             var pos = $(window).scrollTop();
             
-            if (pos > 100){
+            if (pos > 50){
                 r4.cache.html.addClass('show-home-header');
             } else {
                 r4.cache.html.removeClass('show-home-header');
@@ -187,6 +187,7 @@
 
 
 
+
     // GALLERY LIST - SLIDER
     r4.utils.galleryslider = function(w){
 
@@ -240,9 +241,36 @@
 
 
 
+    // HP MAIN GOALS - SLIDER
+    r4.utils.hpgoalsslider = function(w){
+
+        $('.hp-main-goals-content').slick({
+            arrows: false,
+            dots: true,
+            infinite: true,
+            speed: 500,
+            fade: true,
+            verticalSwiping: true,
+            //autoplay: true,
+            cssEase: 'linear'
+        });
+
+    };
+
+
+
     // REVIEW - SLIDER
     r4.utils.reviewslider = function(w){
 
+        $('.article-reviews-content').slick({
+            arrows: false,
+            dots: true,
+            infinite: true,
+            speed: 500,
+            fade: true,
+            autoplay: true,
+            cssEase: 'linear'
+        });
 
     };
 
@@ -294,6 +322,12 @@
         // GALLERY LIST - SLIDER
         if ($('.gallery-list').length){
             r4.utils.galleryslider();
+        }
+
+
+        // HP MAIN GOALS - SLIDER
+        if ($('.hp-main-goals').length){
+            r4.utils.hpgoalsslider();
         }
 
 

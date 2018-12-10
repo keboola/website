@@ -1,12 +1,14 @@
-<div class="hp-main-goals"><div class="in"><ul>
+<div class="hp-main-goals"><div class="in">
+	<div class="hp-main-goals-content">
 	{% for list in section.list %}
-		<li>
+		<div class="hp-main-goals-item">
 			<div class="iten-desc"><div class="iten-desc-content">
 				<h1 class="h1-middle">{{ list.title }}</h1>
 				{{ list.desc }}
 				<p><a href="{{ list.link }}">Learn more</a></p>
 			</div></div>
 			<div class="item-img"><i style="background-image:url({{ list.background }});"></i></div>
-		</li>
+		</div>
 	{% endfor %}
+	</div>
 </ul></div></div>
