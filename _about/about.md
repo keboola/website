@@ -25,7 +25,7 @@ page_sections:
 - template: gallery-list
   block: gallery-list
   list:
-  - photo: "/uploads/about-dog-1.jpg"
+  - photo: "/uploads/about7-2.jpg"
   - photo: "/uploads/photo4.jpg"
   - photo: "/uploads/photo0.jpg"
   - photo: "/uploads/photo2.jpg"
