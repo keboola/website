@@ -84,6 +84,9 @@ a:hover{
   height:60px;
   .font-size(20, 60px);
 }
+.btn-full{
+  width:100%;
+}
 .btn-strong{
   letter-spacing:1px;
 }
@@ -3641,12 +3644,55 @@ section{
   margin:0 0 70px 0;
 }
 .contact-form-content{
-  padding:40px 30px;
+  padding:40px 30px 60px 30px;
   width:100%;
   border:2px solid #EAF0F6;
   text-align:center;
   .box-shadow(0 10px 30px 0 rgba(234,240,246,0.80));
+
+  .form{
+    margin:0 auto 0;
+    width:100%;
+    max-width:780px;
+  }
+  .form-row{
+    margin:0 -10px;
+    .c;
+  }
+  .form-item-half,
+  .form-item-full{
+    margin:0 0 20px 0;
+    padding:0 10px;
+  }
+  .form-item-half{
+    float:left;
+    width:50%;
+  }
+  .form-item-full{
+    width:100%;
+  }
+  label{
+    display:block;
+    width:100%;
+    height:auto;
+  }
+  input{
+    padding:15px 20px;
+    width:100%;
+    height:auto;
+    border:2px solid #EAF0F6;
+    #font > #family > .sans-serif();
+    .font-size(20, 30px);
+    color:#233141;
+    outline:0;
+
+    &:focus{
+      outline:0;
+    }
+  }
+  .placeholder(#A7ADB3);
 }
+
 
 
 

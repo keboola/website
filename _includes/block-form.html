@@ -1,15 +1,36 @@
 <div class="contact-form"><div class="in"><div class="contact-form-content">
-	<div class="item-desc">
-		{% if section.subheadline != "" and section.subheadline != nil %}
-			<p class="p-perex">{{ section.subheadline }}</p>
-		{% endif %}
-		{% if section.headline != "" and section.headline != nil %}
-			<h1 class="h1-middle">{{ section.headline }}</h1>
-		{% endif %}
-	</div>
-	<div class="form">
-		form form form form form form form form
-		<br><br>
-		{{ section.formtype }}
+	{% if section.subheadline != "" and section.subheadline != nil %}
+		<p class="p-perex">{{ section.subheadline }}</p>
+	{% endif %}
+	{% if section.headline != "" and section.headline != nil %}
+		<h1 class="h1-middle">{{ section.headline }}</h1>
+	{% endif %}
+	<div class="form form-{{ section.formtype }}">
+		<div class="form-row">
+			<div class="form-item-half"><label for="">
+				<input type="text" placeholder="First name">
+			</label></div>
+			<div class="form-item-half"><label for="">
+				<input type="text" placeholder="Last name">
+			</label></div>
+		</div>
+		<div class="form-row">
+			<div class="form-item-half"><label for="">
+				<input type="text" placeholder="Company name">
+			</label></div>
+			<div class="form-item-half"><label for="">
+				<input type="text" placeholder="Company name">
+			</label></div>
+		</div>
+		<div class="form-row">
+			<div class="form-item-full"><label for="">
+				<input type="text" placeholder="Business E-mail">
+			</label></div>
+		</div>
+		<div class="form-row">
+			<div class="form-item-full">
+				<button type="submit" class="btn btn-big btn-full btn-blue"><strong>Request the free demo</strong></button>
+			</div>
+		</div>
 	</div>
 </div></div></div>
