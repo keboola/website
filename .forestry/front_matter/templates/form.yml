@@ -1,0 +1,16 @@
+---
+label: form
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  default: form
+  hidden: true
+- type: text
+  name: subheadline
+  label: subheadline
+- type: text
+  label: headline
+  name: headline
