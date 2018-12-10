@@ -10,6 +10,7 @@ sections:
   templates:
   - text-page
   - page-builder
+  - contact-form
 - type: directory
   path: _product
   label: Product
