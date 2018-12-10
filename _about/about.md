@@ -82,7 +82,7 @@ page_sections:
     position: Professional Services
     photo: "/uploads/fisa.jpg"
   - name: Ondrej
-    position: Lead Developer
+    position: Full Stack Tinkerer
     photo: "/uploads/najlos.jpg"
   - name: Jeffry
     position: Account Executive
