@@ -127,8 +127,9 @@ page_sections:
   block: article-about-office
   list:
   - name: CHICAGO
-    address: "<p>210 - 1461 Johnston Road <br>White Rock, BC <br>V4B 3Z4 <br>Canada
-      <br>(+1 604 560 6333)</p>"
+    address: "<p>20 W Kinzie St <br>Chicago, IL <br>60610 <br>USA <br>(+1 604 560
+      6333)</p>"
+    mapslink: https://goo.gl/maps/LjyCU54VZ592
   - name: VANCOUVER
     address: "<p>210 - 1461 Johnston Road <br>White Rock, BC <br>V4B 3Z4 <br>Canada
       <br>(+1 604 560 6333)</p>"
