@@ -3,6 +3,12 @@ title: Request demo
 layout: contact-form
 date: 2018-12-10 21:31:23 +0100
 page_sections:
+- template: form
+  block: form
+  subheadline: This is how we do it
+  headline: Experience you can trust
+- template: references
+  block: references
 - template: review
   block: review
   list:
