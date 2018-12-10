@@ -14,3 +14,12 @@ fields:
 - type: text
   label: headline
   name: headline
+- type: select
+  name: formtype
+  config:
+    source:
+      type: simple
+    options:
+    - request-demo
+    - contact-form
+  label: form type
