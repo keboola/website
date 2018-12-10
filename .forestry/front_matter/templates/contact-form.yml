@@ -13,6 +13,7 @@ fields:
   name: page_sections
   template_types:
   - form
+  - references
   - review
 pages:
 - request-demo.md
