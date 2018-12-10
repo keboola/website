@@ -2,4 +2,14 @@
 label: Contact form
 hide_body: true
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: contact-form
+  hidden: true
+- type: blocks
+  label: Page Sections
+  name: page_sections
+  template_types:
+  - review
