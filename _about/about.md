@@ -46,9 +46,8 @@ page_sections:
   list:
   - name: Pavel Doležal
     position: CEO
-    desc: Pavel is the CEO and co-founder of Keboola! He’s from the Czech Republic
-      and his responsibilities mainly revolve around global business development and
-      global marketing.
+    desc: CEO and co-founder of Keboola! He’s from the Czech Republic and his responsibilities
+      mainly revolve around global business development and global marketing.
     photo: "/uploads/pavel.jpg"
   - name: Petr Šimeček
     position: Co-founder & Product Owner
