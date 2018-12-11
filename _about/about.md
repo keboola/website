@@ -52,9 +52,9 @@ page_sections:
     photo: "/uploads/pavel.jpg"
   - name: Petr Šimeček
     position: Co-founder & Product Owner
-    desc: Mauris elit erat, convallis id cursus hendrerit, vestibulum non elit. Maecenas
-      interdum porttitor libero, facilisis auctor libero sollicitudin ut. NLorem ipsum
-      dolor sit amet, consectetur adipiscing elit.
+    desc: Petr lives in Prague and is responsible for all things Keboola. He works
+      mostly on product development and ensuring that Keboola continues to provide
+      cutting edge technology for clients.
     photo: "/uploads/petr-1.jpg"
   - name: Milan Veverka
     position: Co-founder
