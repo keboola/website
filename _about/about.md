@@ -58,10 +58,9 @@ page_sections:
     photo: "/uploads/petr-1.jpg"
   - name: Milan Veverka
     position: Co-founder
-    desc: Currently lives in Vancouver but travels all around the world to speak at
-      events and speak to clients. With his experience in business development, data
-      analytics and technology, he is responsible for all things business processes
-      and business development.
+    desc: Milan travels all around the world to speak at events and speak to clients.
+      With his experience in business development, data analytics and technology,
+      he is responsible for all things business processes and business development.
     photo: "/uploads/milan.jpg"
 - template: horizontal-rule
   block: hr
