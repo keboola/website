@@ -58,9 +58,10 @@ page_sections:
     photo: "/uploads/petr-1.jpg"
   - name: Milan Veverka
     position: Co-founder
-    desc: Mauris elit erat, convallis id cursus hendrerit, vestibulum non elit. Maecenas
-      interdum porttitor libero, facilisis auctor libero sollicitudin ut. NLorem ipsum
-      dolor sit amet, consectetur adipiscing elit.
+    desc: Originally from the Czech Republic, he currently lives in Vancouver but
+      travels all around the world to speak at events and speak to clients. With his
+      experience in business development, data analytics and technology, Milan is
+      responsible for all things business processes and business development.
     photo: "/uploads/milan.jpg"
 - template: horizontal-rule
   block: hr
