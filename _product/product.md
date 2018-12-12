@@ -61,28 +61,6 @@ page_sections:
     img: "/uploads/awsLogo-1.png"
   - name: Azure
     img: "/uploads/azureLogo-1.png"
-- template: article-list-table
-  block: article-list-table
-  tablehead:
-    name: Comparison
-    valueold: OLD WAY
-    valuenew: KEBOOLA WAY
-  tablerow:
-  - valueold: 2-3 months
-    valuenew: 1 click
-    name: Connecting data sources
-  - name: Team size
-    valueold: 10+
-    valuenew: '1'
-  - name: Price
-    valueold: "$100K"
-    valuenew: "$1K"
-  - name: Changes
-    valueold: Days or weeks
-    valuenew: Minutes
-  - name: Elasticity
-    valueold: 'No'
-    valuenew: 'Yes'
 - template: horizontal-rule
   block: hr
 - template: article-full
@@ -109,6 +87,37 @@ page_sections:
   - name: THOMAS YOUNG, CFO PAPERS AND CO. INC
     desc: Keboola team really knows how to work with data, eget arcu velit. Pellentesque
       habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+- template: article-full
+  block: article-full
+  content: With Keboola you can support different roles across the organization from
+    data engineers, data scientists to advanced users in business and their ever changing
+    requirements for tools, setup and data without the need to change the underlaying
+    infrastructure or deploy significant new IT resources to handle demands of DataScientist
+    and “Citizen” data users across your organisation.
+  headline: Bringing data to users across your organisation
+  subheadline: business based on data
+- template: article-list-table
+  block: article-list-table
+  tablehead:
+    name: Comparison
+    valueold: OLD WAY
+    valuenew: KEBOOLA WAY
+  tablerow:
+  - valueold: 2-3 months
+    valuenew: 1 click
+    name: Connecting data sources
+  - name: Team size
+    valueold: 10+
+    valuenew: '1'
+  - name: Price
+    valueold: "$100K"
+    valuenew: "$1K"
+  - name: Changes
+    valueold: Days or weeks
+    valuenew: Minutes
+  - name: Elasticity
+    valueold: 'No'
+    valuenew: 'Yes'
 - template: faq
   block: faq
   headline: Still have a questions?
