@@ -5,8 +5,8 @@ date: 2018-12-10 20:31:23 +0000
 page_sections:
 - template: form
   block: form
-  subheadline: This is how we do it
-  headline: Experience you can trust
+  subheadline: Learn how to do it Keboola way!
+  headline: We would love to show you around
   formtype: request-demo
 - template: references
   block: references
