@@ -52,6 +52,10 @@ page_sections:
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns. You see every single line of code, each transition
       and data stream.
+- template: article-list-img
+  block: article-list-img
+- template: horizontal-rule
+  block: hr
 - template: review
   block: review
   list:
