@@ -61,6 +61,12 @@ page_sections:
     img: "/uploads/awsLogo-1.png"
   - name: Azure
     img: "/uploads/azureLogo-1.png"
+- template: article-list-table
+  block: article-list-table
+  tablehead:
+    name: Comparison
+    valueold: OLD WAY
+    valuenew: KEBOOLA WAY
 - template: horizontal-rule
   block: hr
 - template: article-full
