@@ -65,5 +65,12 @@ page_sections:
 - template: recent-list
   block: recent-list
   headline: Case Study Articles
+- template: black-panel
+  block: black-panel
+  headline: Keboola Tech Blog
+  content: Internal Server Error - Product and Engineering team blog
+  img: "/uploads/500logo.png"
+  ctaname: See articles
+  ctalink: https://500.keboola.com
 
 ---
