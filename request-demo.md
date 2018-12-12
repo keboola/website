@@ -15,8 +15,10 @@ page_sections:
     image: "/uploads/bata_logo.svg"
   - name: goodyear
     image: "/uploads/goodyear_logo-1.svg"
-  - {}
-  - {}
+  - name: zendesk
+    image: "/uploads/zendesk-logo-2.svg"
+  - name: erste
+    image: "/uploads/Erste_Logo-1.svg"
 - template: review
   block: review
   list:
