@@ -32,7 +32,10 @@ page_sections:
       them with data from industry-leading solutions. Keboola is a facilitator to
       the business in our quest to gain market intelligence.I see Keboola as an extension
       of our team.
-  - {}
+  - name: Danny Walsh, VP of Reporting and Analytics at Firehouse Subs
+    desc: Working with Keboola has changed how we look at data. By giving franchisees
+      access to operational and sales performance data in one location, we are empowering
+      them to make the decisions that are best for their business.
   - {}
 
 ---
