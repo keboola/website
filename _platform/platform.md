@@ -62,9 +62,6 @@ page_sections:
   ctaname: See how to get the same solution
   img: "/uploads/geneeaLogo.png"
   ctalink: https://components.keboola.com
-- template: recent-list
-  block: recent-list
-  headline: Case Study Articles
 - template: black-panel
   block: black-panel
   headline: Keboola Tech Blog
@@ -72,5 +69,8 @@ page_sections:
   img: "/uploads/500logo.png"
   ctaname: See articles
   ctalink: https://500.keboola.com
+- template: recent-list
+  block: recent-list
+  headline: Case Study Articles
 
 ---
