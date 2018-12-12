@@ -74,7 +74,9 @@ page_sections:
   - name: Team size
     valueold: 10+
     valuenew: '1'
-  - {}
+  - name: Price
+    valueold: "$100K"
+    valuenew: "$1K"
   - {}
   - {}
 - template: horizontal-rule
