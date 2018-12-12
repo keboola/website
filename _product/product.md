@@ -13,7 +13,7 @@ page_sections:
   headline: Keboola puts you in control of your data
   content: Bringing Data Engineering and Data Analytics together in one single platform
     that anyone can use via UI or API. One click managed infrastructure, all people
-    provisioning, process automation - one platform.ML based solutions that provide
+    provisioning, process automation - one platform. ML based solutions that provide
     predictive support, automatic data set ..., one click scaffolding and much more.
 - template: ask-demo
   block: ask-demo
