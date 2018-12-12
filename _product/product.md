@@ -71,7 +71,9 @@ page_sections:
   - valueold: 2-3 months
     valuenew: 1 click
     name: Connecting data sources
-  - {}
+  - name: Team size
+    valueold: 10+
+    valuenew: '1'
   - {}
   - {}
   - {}
