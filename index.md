@@ -59,7 +59,7 @@ page_sections:
 - template: hp-main-goals
   block: hp-main-goals
   list:
-  - title: 'All the tools you need       in one place'
+  - title: "All the tools you need \Lin one place"
     desc: "<p>At Keboola, we have solved the procurement and administration nightmare
       that businesses usually face when searching for and implementing new tools.
       Now you can instantly get access to dozens of data analytics tools, data warehouses,
