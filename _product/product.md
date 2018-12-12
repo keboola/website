@@ -15,29 +15,21 @@ page_sections:
     that anyone can use via UI or API. One click managed infrastructure, all people
     provisioning, process automation - one platform.ML based solutions that provide
     predictive support, automatic data set ..., one click scaffolding and much more.
-- template: horizontal-rule
-  block: hr
-- template: article-list-one-row
-  block: article-list-one-row
+- template: ask-demo
+  block: ask-demo
+  ctaname: Ask for a demo
+- template: article-list-two-row
+  block: article-list-two-row
   subheadline: All in one container based data platform you can add to
   headline: A new approach to embedded analytics
-  content: We've handled all the security, provisioning, governance, audit trails,
-    payloads...everything. You are in control with your data.
   list:
-  - icotype: blueright
-    desc: Get the data and the best tools to create adhoc analyses right in your department
-      to improve your campaigns, sales tactic and more. The information is approachable
-      and easily accessible with a click of a button.
+  - icotype: blue
     title: No More Complex ETLs
-  - icotype: yellowright
-    desc: You know what works best for you and why would we doubt that? Embed in whatever
-      way you want to!
-    title: Embed Your Way
-  - icotype: black
-    title: Accelerate analytics with ready-to-query schemas
-    desc: We build the best schemas around, ensuring you get all the data you need,
-      with no duplicates. And our documented ERDs show you exactly what you’re working
-      with.
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
 - template: review
   block: review
   list:
@@ -72,9 +64,6 @@ page_sections:
       vitae iaculis egestas, velit dui imperdiet quam, mattis interdum arcu est ut
       dui.
     name: Do I need to lorem ipsum dolor sit amet?
-- template: ask-demo
-  block: ask-demo
-  ctaname: Ask for a demo
 - template: recent-list
   block: recent-list
   headline: "<strong>Case Study</strong> Articles"
