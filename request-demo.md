@@ -13,6 +13,10 @@ page_sections:
   list:
   - name: bata
     image: "/uploads/bata_logo.svg"
+  - name: goodyear
+    image: "/uploads/goodyear_logo-1.svg"
+  - {}
+  - {}
 - template: review
   block: review
   list:
