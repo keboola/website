@@ -43,7 +43,10 @@ page_sections:
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns. You see every single line of code, each transition
       and data stream.
-  - {}
+  - title: Secure and stable sandbox
+    desc: Get the data and the best tools to create adhoc analyses right in your department
+      to improve your campaigns. You see every single line of code, each transition
+      and data stream.
   - {}
 - template: review
   block: review
