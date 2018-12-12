@@ -22,8 +22,10 @@ page_sections:
 - template: review
   block: review
   list:
-  - name: THOMAS YOUNG, CFO PAPERS AND CO. INC
-    desc: Keboola team really knows how to work with data, eget arcu velit. Pellentesque
-      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+  - name: Jeff Miller, VP of Technology at Roti Modern Mediterranean
+    desc: Keboola’s Business Data Model has transformed the way Roti thinks about
+      its data.  Our BDM has allowed us to elevate conversations from the tactical
+      to the strategic helping us provide a scalable platform and greater business
+      value.
 
 ---
