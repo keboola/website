@@ -27,5 +27,12 @@ page_sections:
       its data.  Our BDM has allowed us to elevate conversations from the tactical
       to the strategic helping us provide a scalable platform and greater business
       value.
+  - name: Vinh Buu, Manager of Shopper Data at Ivanhoe Cambridge
+    desc: Keboola allows us to integrate data from proprietary platforms and correlate
+      them with data from industry-leading solutions. Keboola is a facilitator to
+      the business in our quest to gain market intelligence.I see Keboola as an extension
+      of our team.
+  - {}
+  - {}
 
 ---
