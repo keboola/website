@@ -77,7 +77,9 @@ page_sections:
   - name: Price
     valueold: "$100K"
     valuenew: "$1K"
-  - {}
+  - name: Changes
+    valueold: Days or weeks
+    valuenew: Minutes
   - {}
 - template: horizontal-rule
   block: hr
