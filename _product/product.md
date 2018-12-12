@@ -118,6 +118,17 @@ page_sections:
   - name: Elasticity
     valueold: 'No'
     valuenew: 'Yes'
+- template: article-gray-box
+  block: article-gray-box
+  content: In response to demand for out of the box NLP, Keboola turned to Geneea
+    for help. Geneea has integrated their powerful NLP software into Keboola’s platform
+    making it possible for customers to easily add a large amount of text, process
+    it and visualize the results.
+  subheadline: BETTER AND FASTER RESULTS
+  headline: Natural Language Processing
+  ctaname: See how to get the same solution
+  ctalink: https://components.keboola.com
+  img: "/uploads/geneeaLogo-1.png"
 - template: faq
   block: faq
   headline: Still have a questions?
