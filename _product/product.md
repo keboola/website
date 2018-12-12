@@ -63,6 +63,24 @@ page_sections:
     img: "/uploads/azureLogo.png"
 - template: horizontal-rule
   block: hr
+- template: article-full
+  block: article-full
+  subheadline: no more procurement night mare
+  headline: One contract/one invoice <span>over 50 technologies</span>
+  content: From SQL, RStudio, Python, Spark, Snowflake, S3...all in one contract and
+    single environment provisioned just for you as a service. New scenario and configuration
+    is just <a href=""><strong>one click away</strong></a>. Setup a separate project
+    for each use case. Solving the use case at hand, but having the flexibility to
+    use the results and pipes in other use cases and workflows - flexibility.
+  list:
+  - descleft: "<strong>Procurement</strong>. Once you buy you have access to all the
+      tools in the platform. No need for additional security or procurement permissions.
+      New use case doesn’t mean new round of IT/Security/Procurement talks and weeks
+      spent."
+    descright: "<strong>Flexible environment</strong>. Us the tools you know from
+      desktop environment in cloud with the professional support just one click away
+      and the knowledge of thousands of users empowering our machine learning and
+      helping you with mundane tasks."
 - template: review
   block: review
   list:
