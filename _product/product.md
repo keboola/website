@@ -55,6 +55,12 @@ page_sections:
       and data stream.
 - template: article-list-img
   block: article-list-img
+  headline: Keboola works with the world’s best!
+  list:
+  - name: AWS
+    img: "/uploads/awsLogo.png"
+  - name: Azure
+    img: "/uploads/azureLogo.png"
 - template: horizontal-rule
   block: hr
 - template: review
@@ -65,12 +71,6 @@ page_sections:
       habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
   - name: JEREMY OLD, CFO PAPERS AND CO. INC
     desc: Keboola is just awesome.
-- template: black-panel
-  block: black-panel
-  headline: Netflix Case Study
-  content: Reduction of operational costs through predictive maintenance.
-  img: "/uploads/netflixLogo.png"
-  ctaname: Deliver to your e-mail
 - template: faq
   block: faq
   headline: Still have a questions?
@@ -91,6 +91,8 @@ page_sections:
       vitae iaculis egestas, velit dui imperdiet quam, mattis interdum arcu est ut
       dui.
     name: Do I need to lorem ipsum dolor sit amet?
+- template: horizontal-rule
+  block: hr
 - template: recent-list
   block: recent-list
   headline: "<strong>Case Study</strong> Articles"
