@@ -80,7 +80,9 @@ page_sections:
   - name: Changes
     valueold: Days or weeks
     valuenew: Minutes
-  - {}
+  - name: Elasticity
+    valueold: 'No'
+    valuenew: 'Yes'
 - template: horizontal-rule
   block: hr
 - template: article-full
