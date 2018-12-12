@@ -36,6 +36,9 @@ page_sections:
     desc: Working with Keboola has changed how we look at data. By giving franchisees
       access to operational and sales performance data in one location, we are empowering
       them to make the decisions that are best for their business.
-  - {}
+  - name: Simon Vostry, Founder & CEO at ZOOM International
+    desc: Keboola Connection allowed us to start super quickly building our analytics
+      offering and focus on our strengths rather than building the underlying data
+      processing infrastructure from scratch.
 
 ---
