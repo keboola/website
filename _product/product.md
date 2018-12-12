@@ -7,18 +7,14 @@ page_sections:
   block: header-product
   subheadline: End to end Solution
   headline: "<strong>Data Analytics Stack can be easy</strong>"
-- template: article-with-perex
-  block: article-with-perex
-  sub_headline: sub head
-  headline: Grow you business with precise data and open access
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pharetra
-    orci et justo sollicitudin lacinia. Donec suscipit leo quis laoreet elementum.
-    Maecenas ac hendrerit felis. Aliquam a ligula tempor, rhoncus eros non, maximus
-    sem. Proin ut elit aliquam, congue quam auctor, congue arcu. Mauris elit erat,
-    convallis id cursus hendrerit, vestibulum non elit. Maecenas interdum porttitor
-    libero, facilisis auctor libero sollicitudin ut. Nullam tincidunt id dictu.
-  subheadline: Use data to drive your decissions
-  headlinesmall: false
+- template: article-full
+  block: article-full
+  subheadline: No setup! One click and you work!
+  headline: Keboola puts you in control of your data
+  content: Bringing Data Engineering and Data Analytics together in one single platform
+    that anyone can use via UI or API. One click managed infrastructure, all people
+    provisioning, process automation - one platform.ML based solutions that provide
+    predictive support, automatic data set ..., one click scaffolding and much more.
 - template: horizontal-rule
   block: hr
 - template: article-list-one-row
