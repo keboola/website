@@ -67,6 +67,14 @@ page_sections:
     name: Comparison
     valueold: OLD WAY
     valuenew: KEBOOLA WAY
+  tablerow:
+  - valueold: 2-3 months
+    valuenew: 1 click
+    name: Connecting data sources
+  - {}
+  - {}
+  - {}
+  - {}
 - template: horizontal-rule
   block: hr
 - template: article-full
