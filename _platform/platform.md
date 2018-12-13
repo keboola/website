@@ -55,6 +55,7 @@ page_sections:
       of components
     title: Developer support
     link: https://components.keboola.com/components
+    pictogram: "/uploads/black2.svg"
 - template: article-gray-box
   block: article-gray-box
   subheadline: better and faster results
