@@ -14,3 +14,9 @@ fields:
 - type: text
   label: headline
   name: headline
+- type: text
+  name: subheadlinesecond
+  label: sub headline second
+- type: text
+  name: headlinesecond
+  label: headline second
