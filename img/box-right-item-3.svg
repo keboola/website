@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="125px" viewBox="0 0 106 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>box</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-13.3%" y="-26.7%" width="126.7%" height="153.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product-main" transform="translate(-1303.000000, -489.000000)">
+            <g id="Group-2" transform="translate(920.000000, 446.000000)">
+                <g id="box" transform="translate(391.000000, 43.000000)">
+                    <polygon id="Rectangle-11-Copy" fill="#000000" opacity="0.1" filter="url(#filter-1)" points="45 71.0142857 90 93.5142857 45 116.014286 0 93.5142857"></polygon>
+                    <polygon id="Rectangle-11" fill="#F2F8FC" points="45 0 90 22.5 45 55 0 22.5"></polygon>
+                    <polygon id="Rectangle-11-Copy-2" fill="#85C0FE" points="45.3 8.1 75.3 23.1 45.3 38.1 15.3 23.1"></polygon>
+                    <polygon id="Rectangle-11-Copy-3" fill="#228DFF" points="45.3 8.1 75.3 23.1 45.3 38.1"></polygon>
+                    <polygon id="Rectangle-3" fill="#D9EAF7" points="0 22.8 45 45.3 45 103.157143 0 80.6571429"></polygon>
+                    <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(67.500000, 62.978571) scale(-1, 1) translate(-67.500000, -62.978571) " points="45 22.8 90 45.3 90 103.157143 45 80.6571429"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
