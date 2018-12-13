@@ -66,10 +66,12 @@ page_sections:
   - icotype: blue
     title: Slevomat.cz
     desc: From company operations to data driven customer experience and marketing.
+    pictogram: "/uploads/quote.svg"
   - title: Lékárna.cz
     desc: From our daily operations to our marketing campaigns, we know how to grow
       again. We work in a transparent way that everyone respects and trusts.
     icotype: blueright
+    pictogram: "/uploads/quote-1.svg"
   - icotype: yellow
     title: McPen
     desc: Data Driven Management means each and every employee has the right information
