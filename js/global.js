@@ -85,10 +85,9 @@
     // PRODUCT - HEADER
     r4.utils.productheader = function() {
         r4.cache.window.on('scroll', function(){
-            var pos = $(window).scrollTop(),
-                el = $('.product-header').offset().top;
+            var pos = $(window).scrollTop();
             
-            if (pos > el){
+            if (pos > 50){
                 r4.cache.html.addClass('show-product-header');
             } else {
                 r4.cache.html.removeClass('show-product-header');

@@ -97,13 +97,19 @@ a:hover{
 
   &:hover{
     color:@white;
-    background:#3CA0FF;
+    //background:#3CA0FF;
+    background:#228DFF;
+    .box-shadow(0 14px 28px 0 rgba(34,141,255,0.70));
   }
 }
 .btn-white{
   color:#228DFF;
   background:@white;
   .box-shadow(0 10px 20px 0 rgba(34,141,255,0.50));
+
+  &:hover{
+    .box-shadow(0 14px 28px 0 rgba(34,141,255,0.80));
+  }
 }
 .btn-red{
   font-weight:300;
@@ -2586,7 +2592,7 @@ section{
     .transition(all .2s ease-in-out);
 
     &:hover{
-      .box-shadow(0 10px 30px 0 rgba(234,240,246,0.80));
+      .box-shadow(0 15px 40px 0 rgba(234,240,246,0.90));
     }
   }
   .item-li-foot{
@@ -2939,7 +2945,7 @@ section{
 }
 .article-download-list{
   width:100%;
-  overflow:hidden;
+  .c;
   
   ul{
     margin:0 -15px;
@@ -2958,8 +2964,12 @@ section{
     position:relative;
     display:block;
     width:100%;
-    
     padding-bottom:135.1%;
+    .transition(all .2s ease-in-out);
+
+    &:hover{
+      .box-shadow(0 15px 40px 0 rgba(24,141,255,0.80));
+    }
   }
   .item-img{
     position:absolute;
