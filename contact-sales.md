@@ -40,6 +40,5 @@ page_sections:
     desc: Keboola Connection allowed us to start super quickly building our analytics
       offering and focus on our strengths rather than building the underlying data
       processing infrastructure from scratch.
-published: false
 
 ---
