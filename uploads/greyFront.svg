@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="137px" viewBox="0 0 116 137" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>greyFront</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="boxes" transform="translate(-402.000000, -85.000000)">
+            <g id="greyFront" transform="translate(410.000000, 85.000000)">
+                <g id="box">
+                    <polygon id="Rectangle-11-Copy" fill="#000000" opacity="0.1" filter="url(#filter-1)" points="50 78.9047619 100 103.904762 50 128.904762 0 103.904762"></polygon>
+                    <polygon id="Rectangle-11" fill="#F2F8FC" points="50 0.333333333 100 25.3333333 50 50.3333333 0 25.3333333"></polygon>
+                    <polygon id="Rectangle-3" fill="#D9EAF7" points="0 25.3333333 50 50.3333333 50 114.619048 0 89.6190476"></polygon>
+                    <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(75.000000, 69.976190) scale(-1, 1) translate(-75.000000, -69.976190) " points="50 25.3333333 100 50.3333333 100 114.619048 50 89.6190476"></polygon>
+                </g>
+                <g id="box-copy" transform="translate(25.000000, 25.000000)">
+                    <polygon id="Rectangle-11" fill="#D4DEE5" points="25 0.166666667 50 12.6666667 25 25.1666667 0 12.6666667"></polygon>
+                    <polygon id="Rectangle-3" fill="#AEBFCC" points="0 12.6666667 25 25.1666667 25 57.3095238 0 44.8095238"></polygon>
+                    <polygon id="Rectangle-3-Copy-2" fill="#CCD7DE" transform="translate(37.500000, 34.988095) scale(-1, 1) translate(-37.500000, -34.988095) " points="25 12.6666667 50 25.1666667 50 57.3095238 25 44.8095238"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
