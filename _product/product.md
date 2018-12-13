@@ -20,6 +20,7 @@ page_sections:
 - template: ask-demo
   block: ask-demo
   ctaname: Ask for a demo
+  ctalink: "/request-demo"
 - template: article-list-two-row
   block: article-list-two-row
   subheadline: All in one container based data platform you can add to
