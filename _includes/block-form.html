@@ -5,11 +5,11 @@
 	{% if section.headline != "" and section.headline != nil %}
 		<h1 class="h1-middle">{{ section.headline }}</h1>
 	{% endif %}
-	<div class="form form-{{ section.formtype }}">
+	<div class="form">
 		<script>
 		hbspt.forms.create({
 			portalId: "756003",
-			formId: "1f8b74f0-3eda-4d1d-8fdd-1a625d4a00cb"
+			formId: "{{ section.formid }}"
 		});
 		</script>
 	</form></div>

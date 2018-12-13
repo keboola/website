@@ -7,7 +7,6 @@ page_sections:
   block: form
   subheadline: Learn how to do it Keboola way!
   headline: Let us show you what we can do for your business
-  formtype: contact-form
   formid: 1f8b74f0-3eda-4d1d-8fdd-1a625d4a00cb
 - template: references
   block: references
