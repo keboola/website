@@ -24,6 +24,9 @@ fields:
   - type: text
     name: link
     label: link
+  - type: file
+    name: pictogram
+    label: pictogram
   - type: select
     name: icotype
     config:
