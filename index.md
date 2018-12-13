@@ -4,8 +4,8 @@ title: Keboola – Let’s Dive into Data
 page_sections:
 - template: header-hp
   block: header-hp
-  headlineleft: Business people <strong>Never</strong> Do data
-  headlineright: Data people <strong>Never</strong> Make money
+  headlineleft: Business people <strong>never</strong> do data
+  headlineright: Data people <strong>never</strong> make money
   headlineend: 'Keboola brings people together     <br><strong>from Excel to AI</strong> with lightning speed. '
 - template: article-with-perex
   block: article-with-perex
