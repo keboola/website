@@ -40,6 +40,7 @@ page_sections:
       portal access
     icotype: blue
     link: https://components.keboola.com
+    pictogram: "/uploads/blue1.svg"
   - title: Automatic platform scaling
     desc: You write the advanced logic app. We take care of automatic infrastructure
       provisioning and scaling
