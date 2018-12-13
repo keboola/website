@@ -6,7 +6,7 @@ page_sections:
 - template: form
   block: form
   subheadline: Learn how to do it Keboola way!
-  headline: We would love to show you around
+  headline: Request a Demo
   formtype: request-demo
 - template: references
   block: references
