@@ -6,7 +6,7 @@ page_sections:
 - template: form
   block: form
   subheadline: Learn how to do it Keboola way!
-  headline: We would love to show you around
+  headline: Get in touch and let us show you what we can do for your business
   formtype: contact-form
 - template: references
   block: references
