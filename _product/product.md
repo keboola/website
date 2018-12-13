@@ -5,8 +5,10 @@ permalink: "/product/"
 page_sections:
 - template: header-product
   block: header-product
-  subheadline: End to end Solution
-  headline: "<strong>Data Analytics Stack can be easy</strong>"
+  subheadline: It is complicated to take care of it and distribute it to the users
+  headline: "<strong>Data Analytics Stack is always chaging</strong>"
+  headlinesecond: "<strong>Data Analytics Stack can be easy</strong>"
+  subheadlinesecond: End to end Solution
 - template: article-full
   block: article-full
   subheadline: No setup! One click and you work!
