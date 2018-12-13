@@ -31,11 +31,13 @@ page_sections:
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns. You see every single line of code, each transition
       and data stream.
+    pictogram: "/uploads/blue1-1.svg"
   - icotype: blueright
     title: No Blackbox
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns. You see every single line of code, each transition
       and data stream.
+    pictogram: "/uploads/black3.svg"
   - icotype: yellow
     title: Automation
     desc: Get the data and the best tools to create adhoc analyses right in your department
