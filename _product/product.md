@@ -49,11 +49,13 @@ page_sections:
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns. You see every single line of code, each transition
       and data stream.
+    pictogram: "/uploads/greyFront.svg"
   - title: Secure and stable sandbox
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns. You see every single line of code, each transition
       and data stream.
     icotype: gray
+    pictogram: "/uploads/aqua.svg"
   - icotype: black
     title: Serverless
     desc: Get the data and the best tools to create adhoc analyses right in your department
