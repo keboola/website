@@ -45,6 +45,7 @@ page_sections:
     desc: You write the advanced logic app. We take care of automatic infrastructure
       provisioning and scaling
     icotype: yellow
+    pictogram: "/uploads/blueSide.svg"
   - desc: Your application get listed in our appstore with automatic billing.
     title: AppStore
     icotype: blueright
