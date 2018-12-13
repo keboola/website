@@ -102,6 +102,7 @@ page_sections:
   subheadline: Classic corporate BI tools would be  financial suicide for us
   ctaname: See how they used Keboola
   img: "/uploads/hello_logo.png"
+  ctalink: https://components.keboola.com
 - template: recent-list
   block: recent-list
   headline: More success stories
