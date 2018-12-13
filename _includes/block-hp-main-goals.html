@@ -5,7 +5,7 @@
 			<div class="iten-desc"><div class="iten-desc-content">
 				<h1 class="h1-middle">{{ list.title }}</h1>
 				{{ list.desc }}
-				<p><a href="{{ list.link }}">Learn more</a></p>
+				{% if list.link %}<p><a href="{{ list.link }}" class="btn-more">Learn more</a></p>{% endif %}
 			</div></div>
 			<div class="item-img"><i style="background-image:url({{ list.background }});"></i></div>
 		</div>
