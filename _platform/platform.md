@@ -49,6 +49,7 @@ page_sections:
   - desc: Your application get listed in our appstore with automatic billing.
     title: AppStore
     icotype: blueright
+    pictogram: "/uploads/yellow2.svg"
   - icotype: gray
     desc: Reach Keboola customers and become part of our growing community. See list
       of components
