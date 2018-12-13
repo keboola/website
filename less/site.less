@@ -1298,6 +1298,33 @@ section{
     position:static;
     height:940px;
   }
+  .arrow-bottom{
+    position:absolute;
+    left:0;
+    bottom:180px;
+    width:100%;
+    height:auto;
+    .font-size(20, 24px);
+    color:#228DFF;
+    text-align:center;
+    text-decoration:none;
+    z-index:5;
+    .transition(all .2s ease-in-out);
+
+    .show-home-header &{
+      visibility:hidden;
+      .opacity(0);
+    }
+
+    i{
+      display:inline-block;
+      margin:10px 0 0 0;
+      width:100%;
+      height:32px;
+      background:url(../img/ico-arrow-bottom-blue.svg) center center no-repeat;
+      vertical-align:top;
+    }
+  }
   .white-box-bottom{
     position:absolute;
     left:50%;
@@ -1346,7 +1373,8 @@ section{
   width:800px;
   height:100%;
   z-index:4;
-  .transition(all .2s ease-in-out);
+  -webkit-transform:translate3d(0,0,0);
+  .transition(all .4s .2s cubic-bezier(.28,0,.16,1));
 
   .show-home-header &{
     bottom:120px;
@@ -1360,23 +1388,20 @@ section{
     width:100%;
     height:auto;
     padding-bottom:50.75%;
-    background-image:url(../img/hp-home-img-start.svg);
+    background-image:url(../img/hp-home-img-start.png);
     background-size:100% auto;
     background-position:center center;
     background-repeat:no-repeat;
     z-index:2;
-    .transition(all .2s ease-in-out);
-  }
-  .img-start{
-    //.transition(all .2s ease-in-out);
   }
   .img{
     bottom:-20px;
     padding-bottom:85.375%;
-    background-image:url(../img/hp-home-img.svg);
+    background-image:url(../img/hp-home-img.png);
     z-index:1;
     .opacity(0);
     visibility:hidden;
+    .transition(all .3s cubic-bezier(.28,0,.16,1));
 
     .show-home-header &{
       bottom:0;
