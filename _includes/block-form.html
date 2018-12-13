@@ -5,7 +5,7 @@
 	{% if section.headline != "" and section.headline != nil %}
 		<h1 class="h1-middle">{{ section.headline }}</h1>
 	{% endif %}
-	<div class="form form-{{ section.formtype }}">
+	<div class="form form-{{ section.formtype }}"><form action="">
 		<div class="form-row">
 			<div class="form-item-half"><label for="">
 				<input type="text" placeholder="First name">
@@ -32,5 +32,13 @@
 				<button type="submit" class="btn btn-big btn-full btn-blue"><strong>Request the free demo</strong></button>
 			</div>
 		</div>
-	</div>
+	</form></div>
 </div></div></div>
+
+
+<script>
+  hbspt.forms.create({
+	portalId: "756003",
+	formId: "1f8b74f0-3eda-4d1d-8fdd-1a625d4a00cb"
+});
+</script>
