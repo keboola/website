@@ -43,6 +43,7 @@ page_sections:
     desc: Get the data and the best tools to create adhoc analyses right in your department
       to improve your campaigns. You see every single line of code, each transition
       and data stream.
+    pictogram: "/uploads/grey.svg"
   - title: Data Lake & DwH
     icotype: yellowright
     desc: Get the data and the best tools to create adhoc analyses right in your department
