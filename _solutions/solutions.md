@@ -52,6 +52,7 @@ page_sections:
 - template: ask-demo
   block: ask-demo
   ctaname: Take 7 day challenge!
+  ctalink: "/request-demo"
 - template: article-list-two-row
   block: article-list-two-row
   headline: Retail
