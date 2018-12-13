@@ -16,4 +16,5 @@ fields:
   - references
   - review
 pages:
+- contact-sales.md
 - request-demo.md
