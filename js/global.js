@@ -283,6 +283,20 @@
         });
 
 
+        // BTN SCROLL - TO
+        $('.btn-scroll-to').on('click', function(e){
+            e.preventDefault();
+
+            var a = $(this),
+                el = a.attr('href'),
+                pos = $(el).offset().top;
+
+            $('html, body').animate({
+                scrollTop: pos
+            }, 500);
+        });
+
+
         $('.nav-item-sub').on('mouseenter mouseleave', function(e){
             e.preventDefault();
 
