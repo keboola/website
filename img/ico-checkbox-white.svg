@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="15px" viewBox="0 0 22 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FOOTER" transform="translate(-1392.000000, -294.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="input" transform="translate(1050.000000, 274.000000)">
+                <path d="M350.266581,32.180163 L362.020283,20.3421036 C362.473171,19.8859655 363.207447,19.8859655 363.660334,20.3421036 C364.113222,20.7982417 364.113222,21.5377877 363.660334,21.9939258 L351.086607,34.6578964 C350.633719,35.1140345 349.899443,35.1140345 349.446555,34.6578964 L342.339666,27.5 C341.886778,27.0438619 341.886778,26.3043159 342.339666,25.8481778 C342.792553,25.3920396 343.526829,25.3920396 343.979717,25.8481778 L350.266581,32.180163 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

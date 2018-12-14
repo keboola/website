@@ -1222,6 +1222,23 @@ footer{
   .hs_error_rollup{
     display:none;
   }
+  .submitted-message{
+    &:after{
+      content:'';
+      position:absolute;
+      right:4px;
+      top:4px;
+      .border-radius(2px);
+      .sq(46px);
+      background:url(../img/ico-checkbox-white.svg) center center no-repeat #00C900;
+    }
+    p{
+      margin:0;
+      padding-left:16px;
+      .font-size(16, 46px);
+      color:@white;
+    }
+  }
 }
 
 
@@ -3849,7 +3866,28 @@ section{
     width:100%;
     max-width:780px;
   }
-
+  .submitted-message{
+    margin:80px 0 0 0;
+    
+    &:before{
+      content:'';
+      display:inline-block;
+      margin:0 auto 30px;
+      width:100%;
+      max-width:200px;
+      height:60px;
+      .border-radius(2px);
+      background:url(../img/ico-checkbox-white.svg) center center no-repeat #00C900;
+      vertical-align:top;
+    }
+    p{
+      margin:0 auto 0;
+      max-width:470px;
+      .font-size(24, 32px);
+      font-weight:400;
+      color:#00C900;
+    }
+  }
   .hs_error_rollup{
     display:none;
   }
