@@ -2551,7 +2551,7 @@ section{
       width:100%;
       height:auto;
     }
-  }
+  }/*
   .ico-blue{
     background-image:url(../img/ico-box-1.svg);
   }
@@ -2569,7 +2569,7 @@ section{
   }
   .ico-black{
     background-image:url(../img/ico-box-6.svg);
-  }
+  }*/
 }
 
 // ARTICLE LIST - HALF
@@ -3162,6 +3162,58 @@ section{
   width:75%;
 }
 
+
+// ARTICLE - PLATFORm IMAGE
+// ---------
+.article-product-image{
+  margin:90px 0;
+
+  .item-img{
+    float:left;
+    padding-right:55px;
+    width:50%;
+    .c;
+
+    img{
+      float:left;
+      width:100%;
+      height:auto;
+    }
+  }
+  .item-desc{
+    float:right;
+    width:50%;
+    
+    ul{
+      padding-left:150px;
+    }
+    li{
+      position:relative;
+      margin:0 0 40px 0;
+      width:100%;
+      max-width:370px;
+      
+      &:nth-child(2),
+      &:nth-child(4){
+        &:before{
+          width:70px;
+          height:26px;
+          background-image:url(../img/ico-arrow-platform-second.svg);
+        }
+      }
+      &:before{
+        content:'';
+        position:absolute;
+        top:6px;
+        left:-150px;
+        width:66px;
+        height:16px;
+        background:url(../img/ico-arrow-platform.svg) 0 0 no-repeat;
+        background-size:100% auto;
+      }
+    }
+  }
+}
 
 
 
