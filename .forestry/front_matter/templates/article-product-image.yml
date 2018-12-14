@@ -1,0 +1,10 @@
+---
+label: article-product-image
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  default: article-product-image
+  hidden: true
