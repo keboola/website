@@ -21,11 +21,8 @@ page_sections:
     Click <a href="https://developers.keboola.com">here</a> for user groups support
     for starting developers.
   headlinesmall: false
-- template: article-list-img
-  block: article-list-img
-  list:
-  - img: "/uploads/platform-2.svg"
-    name: Extend our platform freely
+- template: article-product-image
+  block: article-product-image
 - template: ask-demo
   block: ask-demo
   ctaname: Ask for demo
