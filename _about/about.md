@@ -117,6 +117,7 @@ page_sections:
   - title: Brand Assets
     ctaname: Download
     background: "/uploads/assets-1.jpg"
+    ctalink: "/files/brand-assets.zip"
   - title: Brand Guidelines
     ctaname: Download
     background: "/uploads/guide.jpg"
