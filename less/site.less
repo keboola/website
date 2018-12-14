@@ -262,6 +262,20 @@ a:hover{
 
 
 
+// UI - CUBES
+// ---------
+.ico-cubes{
+  position:absolute;
+  width:116px;
+  height:137px;
+  background-position:center center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  pointer-events:none;
+  z-index:50;
+}
+
+
 
 
 .hr{
@@ -1777,6 +1791,39 @@ section{
     width:100%;
     max-width:980px;
   }
+  .ico-cubes-left{
+    top:80px;
+    left:-35px;
+    background-image:url(../img/cubes/section-header-left.svg);
+  }
+  .ico-cubes-right{
+    right:-20px;
+    top:220px;
+    width:70px;
+    height:84px;
+    background-image:url(../img/cubes/section-header-right.svg);
+  }
+  .ico-cubes-bottom{
+    bottom:-60px;
+    left:50%;
+    width:100px;
+    height:123px;
+    background-image:url(../img/cubes/section-header-bottom.svg);
+  }
+  .ico-cubes-top{
+    top:-25px;
+    left:28%;
+    width:60px;
+    height:71px;
+    background-image:url(../img/cubes/section-header-top.svg);
+  }
+  .ico-cubes-center{
+    top:80px;
+    right:28%;
+    width:40px;
+    height:40px;
+    background-image:url(../img/cubes/section-header-right.svg);
+  }
 }
 
 // SECTION - HEADER - SEARCH
@@ -2190,6 +2237,32 @@ section{
     background-image: -o-linear-gradient(bottom right, #228DFF 0%, #A4D0FF 100%);
     background-image: linear-gradient(to top left, #228DFF 0%, #A4D0FF 100%);
     text-align:center;
+  }
+  .ico-cubes-left{
+    top:80px;
+    left:-35px;
+    background-image:url(../img/cubes/section-header-right.svg);
+  }
+  .ico-cubes-right{
+    right:-20px;
+    top:220px;
+    width:70px;
+    height:84px;
+    background-image:url(../img/cubes/section-header-right.svg);
+  }
+  .ico-cubes-bottom{
+    bottom:-30px;
+    left:40%;
+    width:50px;
+    height:50px;
+    background-image:url(../img/cubes/section-header-right.svg);
+  }
+  .ico-cubes-top{
+    top:-25px;
+    left:28%;
+    width:60px;
+    height:71px;
+    background-image:url(../img/cubes/section-header-top.svg);
   }
   .desc{
     position:relative;
@@ -3242,6 +3315,12 @@ section{
 // ---------
 .article-reviews{
   margin:60px 0;
+
+  .ico-cubes-left{
+    top:80px;
+    left:95px;
+    background-image:url(../img/cubes/article-reviews.svg);
+  }
 }
 .article-reviews-content{
   padding:30px 0;
@@ -3868,7 +3947,7 @@ section{
   }
   .submitted-message{
     margin:80px 0 0 0;
-    
+
     &:before{
       content:'';
       display:inline-block;

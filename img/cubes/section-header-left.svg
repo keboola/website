@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="161px" viewBox="0 0 120 161" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>box</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-10.9%" y="-21.8%" width="121.8%" height="143.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="platform" transform="translate(-85.000000, -308.000000)">
+            <g id="TOP" transform="translate(90.000000, 95.000000)">
+                <g id="box" transform="translate(0.000000, 213.000000)">
+                    <polygon id="Rectangle-11-Copy" fill-opacity="0.1" fill="#233141" filter="url(#filter-1)" points="55 98.8952381 110 126.395238 55 153.895238 0 126.395238"></polygon>
+                    <polygon id="Rectangle-11" fill="#F2F8FC" points="55 12.4666667 110 39.9666667 55 77.4666667 0 39.9666667"></polygon>
+                    <polygon id="Rectangle-11-Copy-4" fill="#FFBB00" points="55.3666667 22 92.0333333 40.3333333 55.3666667 58.6666667 18.7 40.3333333"></polygon>
+                    <polygon id="Rectangle-11-Copy-5" fill="#FFCB3E" points="55 11 91.6666667 29.3333333 55 47.6666667 18.3333333 29.3333333"></polygon>
+                    <polygon id="Rectangle-11-Copy-2" fill="#FFD870" points="55 0 91.6666667 18.3333333 55 36.6666667 18.3333333 18.3333333"></polygon>
+                    <polygon id="Rectangle-3" fill="#D9EAF7" points="0 39.9666667 55 67.4666667 55 138.180952 0 110.680952"></polygon>
+                    <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(82.500000, 89.073810) scale(-1, 1) translate(-82.500000, -89.073810) " points="55 39.9666667 110 67.4666667 110 138.180952 55 110.680952"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

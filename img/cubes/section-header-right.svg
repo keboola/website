@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="84px" viewBox="0 0 70 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>box</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-20.0%" y="-40.0%" width="140.0%" height="180.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="platform" transform="translate(-1510.000000, -338.000000)">
+            <g id="TOP" transform="translate(90.000000, 95.000000)">
+                <g id="box" transform="translate(1425.000000, 243.000000)">
+                    <polygon id="Rectangle-11-Copy" fill-opacity="0.1" fill="#233141" filter="url(#filter-1)" points="30 47.3428571 60 62.3428571 30 77.3428571 0 62.3428571"></polygon>
+                    <polygon id="Rectangle-11" fill="#F2F8FC" points="30 0.2 60 15.2 30 36.2 0 15.2"></polygon>
+                    <polygon id="Rectangle-3" fill="#D9EAF7" points="0 15.2 30 30.2 30 68.7714286 0 53.7714286"></polygon>
+                    <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(45.000000, 41.985714) scale(-1, 1) translate(-45.000000, -41.985714) " points="30 15.2 60 30.2 60 68.7714286 30 53.7714286"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
