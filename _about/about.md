@@ -121,6 +121,7 @@ page_sections:
   - title: Brand Guidelines
     ctaname: Download
     background: "/uploads/guide.jpg"
+    ctalink: "/files/brand-guidelines.zip"
   - title: Press Kit
     ctaname: Download
     background: "/uploads/pressKit-1.jpg"
