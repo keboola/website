@@ -2,7 +2,7 @@
 title: 'Sklizeno: Making purchasing, sales and management more effective'
 layout: post-case-study
 date: 2018-11-29 10:45:53 +0000
-author: ''
+author: Fenek PR
 background-image: "/uploads/sklizenoBack.jpg"
 logo: "/uploads/sklizeno_logo.jpg"
 
