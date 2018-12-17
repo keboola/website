@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="149px" viewBox="0 0 120 149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-10.9%" y="-21.8%" width="121.8%" height="143.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="resourcesArticle" transform="translate(-1298.000000, -446.000000)">
+            <g id="TOP" transform="translate(81.000000, 105.000000)">
+                <g id="Group-Copy-2" transform="translate(1222.000000, 341.000000)">
+                    <g id="box">
+                        <polygon id="Rectangle-11-Copy" fill-opacity="0.1" fill="#000000" filter="url(#filter-1)" points="55 86.7952381 110 114.295238 55 141.795238 0 114.295238"></polygon>
+                        <polygon id="Rectangle-11" fill="#F2F8FC" points="55 0.366666667 110 27.8666667 55 65.3666667 0 27.8666667"></polygon>
+                        <polygon id="Rectangle-3" fill="#D9EAF7" points="0 27.8666667 55 55.3666667 55 126.080952 0 98.5809524"></polygon>
+                        <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(82.500000, 76.973810) scale(-1, 1) translate(-82.500000, -76.973810) " points="55 27.8666667 110 55.3666667 110 126.080952 55 98.5809524"></polygon>
+                    </g>
+                    <g id="box-copy" transform="translate(27.500000, 27.500000)">
+                        <polygon id="Rectangle-11" fill="#D4DEE5" points="27.5 0.183333333 55 13.9333333 27.5 27.6833333 0 13.9333333"></polygon>
+                        <polygon id="Rectangle-3" fill="#AEBFCC" points="0 13.9333333 27.5 27.6833333 27.5 63.0404762 0 49.2904762"></polygon>
+                        <polygon id="Rectangle-3-Copy-2" fill="#CCD7DE" transform="translate(41.250000, 38.486905) scale(-1, 1) translate(-41.250000, -38.486905) " points="27.5 13.9333333 55 27.6833333 55 63.0404762 27.5 49.2904762"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
