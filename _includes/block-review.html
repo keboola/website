@@ -3,8 +3,8 @@
 	<div class="article-reviews-content{% if reviewsize == 1 %} article-reviews-content-one{% endif %}">
 		{% for list in section.list %}
 			<div class="article-reviews-item">
-				<h2>“{{ list.desc }}”</h2>
-				<h3>{{ list.name }}</h3>
+				<h2 class="h2-big">“{{ list.desc }}”</h2>
+				<h3 class="h3-reviews">{{ list.name }}</h3>
 			</div>
 		{% endfor %}
 	</div>
