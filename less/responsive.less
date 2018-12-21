@@ -1781,6 +1781,9 @@
   // ---------
   // GALLERY LIST
   // ---------
+  .gallery-list{
+    margin:40px 0;
+  }
   .gallery-list-content{
     height:180px;
 
@@ -2142,6 +2145,75 @@
 
 
 
+
+
+  // CASE STUDY - CONTENT
+  // ---------
+  .article-detail-content{
+    h2,h3,h4,h5,h6,p,blockquote,ul,ol{
+      margin:0 auto 20px;
+    }
+    h2,h3,h4,h5,h6{
+      margin-top:30px;
+      margin-bottom:15px;
+      .font-size(26, 1.3em);
+    }
+    h3,h4,h5,h6{
+      margin-bottom:10px;
+    }
+    h3{
+      .font-size(22, 1.3em);
+    }
+    h4{
+      .font-size(20, 1.3em);
+    }
+    h5{
+      .font-size(18, 1.3em);
+    }
+    h6{
+      .font-size(16, 1.3em);
+    }
+    p{
+      .font-size(14, 1.6em);
+    }
+    li{
+      padding-left:30px;
+      .font-size(14, 1.6em);
+    }
+    ul{
+      li{
+        &:before{
+          content:'';
+          position:absolute;
+          left:12px;
+          top:12px;
+          .sq(3px);
+          .border-radius(2px);
+          background:@black;
+        }
+      }
+    }
+    ol{
+      li{
+        &:before{
+          width:30px;
+          .font-size(14, 1.6em);
+        }
+      }
+    }
+    .p-date{
+      margin-bottom:30px;
+    }
+    blockquote{
+      p{
+        .font-size(24, 1.5em);
+      }
+    }
+  }
+
+
+
+
 }
 
 
@@ -2197,6 +2269,21 @@
       }
     }
   }
+  .header-home{
+    .nav-list{
+      padding-top:15px;
+    }
+    .nav-item{
+      &> a{
+        color:#7B838D;
+
+        &.item-act,
+        &:hover{
+          color:#228DFF;
+        }
+      }
+    }
+  }
 
 
   // HEADER - BTN MENU
@@ -2219,24 +2306,33 @@
     top:100%;
     width:100%;
     background:@white;
+    .box-shadow(0 10px 20px 0 rgba(34,141,255,0.30));
 
     .show-menu &{
       display:block;
     }
-    ul{
-      padding:0 0 10px 0;
-      width:100%;
-      text-align:center;
-    }
-    li{
-      float:none;
-      margin:0 15px 10px;
-      display:inline-block;
-      text-align:center;
-      vertical-align:top;
-    }
-    a{
-      .font-size(16, 34px);
+  }
+  .nav-list{
+    float:none;
+    padding-bottom:15px;
+    width:100%;
+    text-align:center;
+  }
+  .nav-item{
+    position:relative;
+    display:inline-block;
+    float:none;
+    //margin:0 60px 0 0;
+    margin:0 0 10px 0;
+    height:40px;
+    text-align:center;
+    vertical-align:top;
+
+    &> a{
+      height:auto;
+      padding:0;
+      padding:10px 15px;
+      .font-size(14, 28px);
     }
   }
 
@@ -2295,14 +2391,77 @@
       bottom:120px;
     }
   }
+  
+
+  .hp-main-goals{
+    padding:0 20px;
+  }
 
 
 
+  
+
+
+  // ARTICLE - OFFICES
+  // ---------
+  .article-offices-footer-left,
+  .article-offices-footer-right{
+    p{
+      .font-size(14, 1.4em);
+    }
+  }
 
 
 
+  // ARTICLE - PLATFORm IMAGE
+  // ---------
+  .article-product-image{
+    .item-img{
+      float:none;
+      padding-right:0;
+      width:100%;
+      text-align:center;
+
+      img{
+        float:none;
+        margin:0 auto 0;
+        max-width:300px;
+      }
+    }
+    .item-desc{
+      float:none;
+      padding-top:30px;
+      width:100%;
+      
+      ul{
+        margin:0 -10px;
+        padding-left:0;
+        .font-size(0,0);
+      }
+      li{
+        display:inline-block;
+        padding:0 10px;
+        width:50%;
+        vertical-align:top;
+        
+        &:before{
+          display:none;
+        }
+      }
+    }
+  }
 
 
+  
+
+
+
+  // CASE STUDY - CONTENT
+  // ---------
+  .article-detail-content{
+    padding-left:20px;
+    padding-right:20px;
+  }
 
 
 
@@ -2338,6 +2497,210 @@
     }
   }
 
+  
+
+
+  // FOOTER - CONTENT
+  // ---------
+  .footer-content{
+    .in{
+      padding-top:80px;
+      padding-bottom:0;
+    }
+    .ico-pict{
+      //left:124px;
+      top:-48px;
+      .size(90px, 120px);
+      background-size:100% auto;
+    }
+  }
+
+
+
+
+
+  // ---------
+  // HOME
+  // ---------
+  .hp-home-header{
+    .in{
+      height:560px;
+    }
+    .white-box-bottom{
+      bottom:-80px;
+    }
+  }
+  .hp-home-header-img{
+    bottom:0px;
+    margin-left:-240px;
+    width:480px;
+
+    .show-home-header &{
+      bottom:50px;
+
+      .img-start{
+        bottom:130px;
+      }
+    }
+    .img-start{
+      bottom:100px;
+    }
+  }
+
+
+
+
+  // HOME - MAIN GOALS
+  // ---------
+  .hp-main-goals{
+    .in{
+      overflow:visible;
+    }
+  }
+  .hp-main-goals-content{
+    min-height:0;
+    border:2px solid #EAF0F6;
+
+    .slick-dots{
+      bottom:-20px;
+    }
+  }
+  .hp-main-goals-item{
+    .iten-desc{
+      height:auto;
+      border:0;
+      line-height:1em;
+    }
+    .iten-desc-content{
+      padding:20px 20px 25px 20px;
+      max-width:100%;
+    }
+    .item-img{
+      display:none;
+    }
+  }
+  
+
+
+
+  // ARTICLE LIST - HALF
+  // TWO COLUMN
+  // ---------
+  .article-list-content-half{
+    li{
+      padding-top:10px;
+      padding-right:0;
+      width:100%;
+      min-height:90px;
+    }
+  }
+
+
+  // ARTICLE LIST - HALF
+  // THREE COLUMN
+  // ---------
+  .article-list-content-three{
+    margin:0 -10px;
+    background:none;
+
+    li{
+      padding:0 10px;
+    }
+  }
+
+
+
+
+  // ARTICLE LIST - TABLE
+  // THREE COLUMN
+  // ---------
+  .article-list-content-table{
+    .item-li-company{
+      //padding-bottom:100px;
+
+      h2{
+        max-height:96px;
+        .font-size(18, 24px);
+      }
+    }
+    .item-company{
+      max-width:160px;
+    }
+  }
+
+
+  
+
+
+  // ARTICLE - ABOUT - TEAM
+  // ---------
+  .article-team-list{
+    li{
+      width:20%;
+    }
+  }
+
+  
+
+  // ARTICLE - OFFICES
+  // ---------
+  .article-offices-list{
+    li{
+      width:50%;
+    }
+  }
+  .article-offices-footer-left,
+  .article-offices-footer-right{
+    float:none;
+    padding:0;
+    width:100%;
+  }
+
+
+
+
+  // ---------
+  // REVIEWS
+  // ---------
+  .article-reviews-item{
+    padding:20px 30px 10px;
+  }
+
+
+  
+
+  // ---------
+  // STUDY PANEL
+  // ---------
+  .article-study-panel-content{
+    padding:20px 160px 20px 20px;
+
+    .item-img{
+      width:80px;
+    }
+    .item-desc{
+      margin-left:100px;
+    }
+    .btn{
+      right:20px;
+    }
+  }
+
+
+
+
+
+  // ---------
+  // ARTICLE GRAY WITH IMG
+  // ---------
+  .article-gray-content{
+    .item-desc{
+      width:100%;
+    }
+    .item-img{
+      display:none;
+    }
+  }
 
 
 
@@ -2352,22 +2715,114 @@
 
 
 @media screen and (max-width: 540px){
-  
+
+
+
 
   // ---------
-  // HEADER
+  // BODY TEXT
   // ---------
-  header{
-    padding:15px 0;
-
-    h1{
-      a{
-        .size(160px, 100%);
-      }
-    }
+  .p-perex-dark{
+    .font-size(14, 1.5em);
   }
-  
+  .p-head{
+    .font-size(14, 1.5em);
+  }
+  .p-perex-light{
+    .font-size(14, 1.5em);
+  }
 
+
+
+  // ---------
+  // HEADINGS
+  // ---------
+  h1{
+    margin:0 0 15px 0;
+    .font-size(24, 1.3em);
+  }
+  .h1-head{
+    .font-size(24, 1.3em);
+  }
+  .h1-middle{
+    .font-size(20, 1.3em);
+  }
+  .h1-small{
+    .font-size(18, 1.3em);
+  }
+
+  h2{
+    margin:0 0 5px 0;
+    .font-size(16, 1.2em);
+  }
+  .h2-big{
+    margin:0 0 15px 0;
+    .font-size(18, 1.3em);
+  }
+  .h2-middle{
+    .font-size(14, 1.3em);
+  }
+
+  h3{
+    margin:0 0 5px 0;
+    .font-size(14, 1.3em);
+  }
+  .h3-middle{
+    .font-size(14, 1.3em);
+  }
+  .h3-reviews{
+    margin:0;
+    .font-size(14, 1.3em);
+    letter-spacing:1px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // ---------
+  // UI
+  // ---------
+
+  // UI - BTN
+  // ---------
+  .btn{
+    padding:0 10px;
+    height:28px;
+    .font-size(12, 28px);
+  }
+  .btn-middle{
+    padding:0 12px;
+    height:38px;
+    .font-size(14, 38px);
+  }
+  .btn-big{
+    padding:0 15px;
+    height:40px;
+    .font-size(14, 40px);
+  }
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
   // ---------
@@ -2382,6 +2837,10 @@
     padding:0 10px 30px 0;
     width:48%;
     vertical-align:top;
+
+    &:nth-child(4){
+      width:90%;
+    }
   }
   .footer-action{
     padding:0;
@@ -2426,6 +2885,146 @@
 
 
 
+  // ---------
+  // CALL TO ACTION
+  // ---------
+  .call-to-action{
+    padding-top:30px;
+
+    h1{
+      .font-size(20, 1.3em);
+    }
+  }
+
+
+
+
+
+  // ---------
+  // ARTICLE - TEXT
+  // ---------
+  .article-text{
+    .item-head{
+      float:none;
+      width:100%;
+      padding-right:0;
+      text-align:center;
+    }
+    .item-desc{
+      float:none;
+      width:100%;
+      text-align:center;
+    }
+  }
+
+  
+
+
+
+  // ARTICLE LIST - TABLE
+  // THREE COLUMN
+  // ---------
+  .article-list-content-table{
+    li{
+      display:block;
+      width:100%;
+    }
+    .item-company{
+      max-width:180px;
+    }
+  }
+
+
+
+  // ARTICLE - ABOUT - FOUNDER
+  // ---------
+  .article-founder-list{
+    li{
+      display:block;
+      margin:0 0 40px 0;
+      width:100%;
+
+      &:last-child{
+        margin-bottom:0;
+      }
+    }
+    .item-img{
+      margin-bottom:15px;
+    }
+  }
+
+
+  // ARTICLE - ABOUT - TEAM
+  // ---------
+  .article-team-list{
+    li{
+      width:25%;
+    }
+  }
+
+
+
+  // ARTICLE - DOWNLOAD
+  // ---------
+  .article-download-list{
+    li{
+      margin-bottom:20px;
+      width:50%;
+    }
+  }
+
+  
+
+  
+
+  // ---------
+  // STUDY PANEL
+  // ---------
+  .article-study-panel-content{
+    .item-img{
+      display:none;
+    }
+    .item-desc{
+      margin-left:0;
+    }
+  }
+
+
+  // ---------
+  // ARTICLE GRAY WITH IMG
+  // ---------
+  .article-gray-content{
+    padding:18px 20px;
+  }
+
+
+
+
+
+  // CASE STUDY - CONTENT
+  // ---------
+  .article-detail-content{
+    h2,h3,h4,h5,h6{
+      .font-size(22, 1.3em);
+    }
+    h3{
+      .font-size(18, 1.3em);
+    }
+    h4{
+      .font-size(16, 1.3em);
+    }
+    h5{
+      .font-size(16, 1.3em);
+    }
+    h6{
+      .font-size(16, 1.3em);
+    }
+  }
+
+
+
+
+
 
 }
 
@@ -2433,26 +3032,118 @@
 
 
 @media screen and (max-width: 440px){
-  
+
+
+
+  // ---------
+  // HEADER
+  // ---------
 
   // HEADER - BTN MENU
   // ---------
   .btn-show-menu{
-    margin-right:0;
+    margin-right:10px;
   }
 
   // HEADER - NAV
   // ---------
   .header-nav{
+    float:right;
+    .c;
+
     .btn{
-      //display:none;
+      top:18px;
+      height:32px;
+      padding:0 8px;
+      .font-size(12, 32px);
     }
   }
-  nav{
-    .item-btn{
-      display:inline-block;
+  
+
+
+
+
+
+
+  // ---------
+  // SECTION - HEADER
+  // ---------
+  .section-header{
+    .in{
+      padding-top:30px;
+      padding-bottom:20px;
     }
   }
+
+
+
+  // SECTION - HEADER - LEARNING
+  // ---------
+  .section-header-learning-list-small{
+    a{
+      height:40px;
+    }
+    p{
+      height:40px;
+      .font-size(14, 40px);
+    }
+  }
+
+
+
+  // SECTION - HEADER - RECENT SLIDER
+  // ---------
+  .section-header-recent{
+    .in{
+      padding-bottom:170px;
+    }
+  }
+
+
+
+
+  // ARTICLE - ABOUT - TEAM
+  // ---------
+  .article-team-list{
+    li{
+      width:33.3333%;
+    }
+  }
+
+
+  
+  // ARTICLE - PLATFORm IMAGE
+  // ---------
+  .article-product-image{
+    .item-desc{
+      li{
+        display:block;
+        width:100%;
+      }
+    }
+  }
+
+
+
+
+  // ---------
+  // STUDY PANEL
+  // ---------
+  .article-study-panel-content{
+    padding-right:20px;
+
+    .item-desc{
+      margin-bottom:20px;
+      margin-left:0;
+    }
+    .btn{
+      position:relative;
+      left:0;
+      margin:0;
+    }
+  }
+
+
 
 
 
@@ -2487,83 +3178,34 @@
 
 
 
+@media screen and (max-width: 350px){
 
 
 
+  
+  // ---------
+  // HEADER
+  // ---------
+  header{
+    h1{
+      a{
+        .size(88px, 30px);
+      }
+    }
+  }
 
 
+  // HEADER - BTN MENU
+  // ---------
+  .btn-show-menu{
+    margin-right:0;
+    .font-size(12, 38px);
+  }
 
+  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
 
 
 

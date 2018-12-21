@@ -5975,6 +5975,9 @@ section:after {
   .article-text-full .item-desc-list .item-right {
     padding: 0 20px;
   }
+  .gallery-list {
+    margin: 40px 0;
+  }
   .gallery-list-content {
     height: 180px;
   }
@@ -6212,6 +6215,91 @@ section:after {
   .post-casestudy-header h1 {
     margin-bottom: 25px;
   }
+  .article-detail-content h2,
+  .article-detail-content h3,
+  .article-detail-content h4,
+  .article-detail-content h5,
+  .article-detail-content h6,
+  .article-detail-content p,
+  .article-detail-content blockquote,
+  .article-detail-content ul,
+  .article-detail-content ol {
+    margin: 0 auto 20px;
+  }
+  .article-detail-content h2,
+  .article-detail-content h3,
+  .article-detail-content h4,
+  .article-detail-content h5,
+  .article-detail-content h6 {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-size: 26px;
+    font-size: 2.6rem;
+    line-height: 1.3em;
+  }
+  .article-detail-content h3,
+  .article-detail-content h4,
+  .article-detail-content h5,
+  .article-detail-content h6 {
+    margin-bottom: 10px;
+  }
+  .article-detail-content h3 {
+    font-size: 22px;
+    font-size: 2.2rem;
+    line-height: 1.3em;
+  }
+  .article-detail-content h4 {
+    font-size: 20px;
+    font-size: 2rem;
+    line-height: 1.3em;
+  }
+  .article-detail-content h5 {
+    font-size: 18px;
+    font-size: 1.8rem;
+    line-height: 1.3em;
+  }
+  .article-detail-content h6 {
+    font-size: 16px;
+    font-size: 1.6rem;
+    line-height: 1.3em;
+  }
+  .article-detail-content p {
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 1.6em;
+  }
+  .article-detail-content li {
+    padding-left: 30px;
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 1.6em;
+  }
+  .article-detail-content ul li:before {
+    content: '';
+    position: absolute;
+    left: 12px;
+    top: 12px;
+    width: 3px;
+    height: 3px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    background: #000;
+  }
+  .article-detail-content ol li:before {
+    width: 30px;
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 1.6em;
+  }
+  .article-detail-content .p-date {
+    margin-bottom: 30px;
+  }
+  .article-detail-content blockquote p {
+    font-size: 24px;
+    font-size: 2.4rem;
+    line-height: 1.5em;
+  }
 }
 @media screen and (max-width: 750px) {
   .most-recent-list-content li {
@@ -6235,6 +6323,16 @@ section:after {
     height: 30px;
     background-size: 100% auto;
   }
+  .header-home .nav-list {
+    padding-top: 15px;
+  }
+  .header-home .nav-item > a {
+    color: #7B838D;
+  }
+  .header-home .nav-item > a.item-act,
+  .header-home .nav-item > a:hover {
+    color: #228DFF;
+  }
   .btn-show-menu {
     display: block;
   }
@@ -6248,26 +6346,35 @@ section:after {
     top: 100%;
     width: 100%;
     background: #fff;
+    -webkit-box-shadow: 0 10px 20px 0 rgba(34, 141, 255, 0.3);
+    -moz-box-shadow: 0 10px 20px 0 rgba(34, 141, 255, 0.3);
+    box-shadow: 0 10px 20px 0 rgba(34, 141, 255, 0.3);
   }
   .show-menu nav {
     display: block;
   }
-  nav ul {
-    padding: 0 0 10px 0;
+  .nav-list {
+    float: none;
+    padding-bottom: 15px;
     width: 100%;
     text-align: center;
   }
-  nav li {
-    float: none;
-    margin: 0 15px 10px;
+  .nav-item {
+    position: relative;
     display: inline-block;
+    float: none;
+    margin: 0 0 10px 0;
+    height: 40px;
     text-align: center;
     vertical-align: top;
   }
-  nav a {
-    font-size: 16px;
-    font-size: 1.6rem;
-    line-height: 34px;
+  .nav-item > a {
+    height: auto;
+    padding: 0;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 28px;
   }
   .footer-content .ico-pict {
     left: 16px;
@@ -6302,6 +6409,51 @@ section:after {
   .hp-home-header-img .img-start {
     bottom: 120px;
   }
+  .hp-main-goals {
+    padding: 0 20px;
+  }
+  .article-offices-footer-left p,
+  .article-offices-footer-right p {
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 1.4em;
+  }
+  .article-product-image .item-img {
+    float: none;
+    padding-right: 0;
+    width: 100%;
+    text-align: center;
+  }
+  .article-product-image .item-img img {
+    float: none;
+    margin: 0 auto 0;
+    max-width: 300px;
+  }
+  .article-product-image .item-desc {
+    float: none;
+    padding-top: 30px;
+    width: 100%;
+  }
+  .article-product-image .item-desc ul {
+    margin: 0 -10px;
+    padding-left: 0;
+    font-size: 0px;
+    font-size: 0rem;
+    line-height: 0;
+  }
+  .article-product-image .item-desc li {
+    display: inline-block;
+    padding: 0 10px;
+    width: 50%;
+    vertical-align: top;
+  }
+  .article-product-image .item-desc li:before {
+    display: none;
+  }
+  .article-detail-content {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 }
 @media screen and (max-width: 680px) {
   .most-recent-list-content li {
@@ -6316,14 +6468,206 @@ section:after {
     font-size: 1.4rem;
     line-height: 20px;
   }
+  .footer-content .in {
+    padding-top: 80px;
+    padding-bottom: 0;
+  }
+  .footer-content .ico-pict {
+    top: -48px;
+    width: 90px;
+    height: 120px;
+    background-size: 100% auto;
+  }
+  .hp-home-header .in {
+    height: 560px;
+  }
+  .hp-home-header .white-box-bottom {
+    bottom: -80px;
+  }
+  .hp-home-header-img {
+    bottom: 0px;
+    margin-left: -240px;
+    width: 480px;
+  }
+  .show-home-header .hp-home-header-img {
+    bottom: 50px;
+  }
+  .show-home-header .hp-home-header-img .img-start {
+    bottom: 130px;
+  }
+  .hp-home-header-img .img-start {
+    bottom: 100px;
+  }
+  .hp-main-goals .in {
+    overflow: visible;
+  }
+  .hp-main-goals-content {
+    min-height: 0;
+    border: 2px solid #EAF0F6;
+  }
+  .hp-main-goals-content .slick-dots {
+    bottom: -20px;
+  }
+  .hp-main-goals-item .iten-desc {
+    height: auto;
+    border: 0;
+    line-height: 1em;
+  }
+  .hp-main-goals-item .iten-desc-content {
+    padding: 20px 20px 25px 20px;
+    max-width: 100%;
+  }
+  .hp-main-goals-item .item-img {
+    display: none;
+  }
+  .article-list-content-half li {
+    padding-top: 10px;
+    padding-right: 0;
+    width: 100%;
+    min-height: 90px;
+  }
+  .article-list-content-three {
+    margin: 0 -10px;
+    background: none;
+  }
+  .article-list-content-three li {
+    padding: 0 10px;
+  }
+  .article-list-content-table .item-li-company h2 {
+    max-height: 96px;
+    font-size: 18px;
+    font-size: 1.8rem;
+    line-height: 24px;
+  }
+  .article-list-content-table .item-company {
+    max-width: 160px;
+  }
+  .article-team-list li {
+    width: 20%;
+  }
+  .article-offices-list li {
+    width: 50%;
+  }
+  .article-offices-footer-left,
+  .article-offices-footer-right {
+    float: none;
+    padding: 0;
+    width: 100%;
+  }
+  .article-reviews-item {
+    padding: 20px 30px 10px;
+  }
+  .article-study-panel-content {
+    padding: 20px 160px 20px 20px;
+  }
+  .article-study-panel-content .item-img {
+    width: 80px;
+  }
+  .article-study-panel-content .item-desc {
+    margin-left: 100px;
+  }
+  .article-study-panel-content .btn {
+    right: 20px;
+  }
+  .article-gray-content .item-desc {
+    width: 100%;
+  }
+  .article-gray-content .item-img {
+    display: none;
+  }
 }
 @media screen and (max-width: 540px) {
-  header {
-    padding: 15px 0;
+  .p-perex-dark {
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 1.5em;
   }
-  header h1 a {
-    width: 160px;
-    height: 100%;
+  .p-head {
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 1.5em;
+  }
+  .p-perex-light {
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 1.5em;
+  }
+  h1 {
+    margin: 0 0 15px 0;
+    font-size: 24px;
+    font-size: 2.4rem;
+    line-height: 1.3em;
+  }
+  .h1-head {
+    font-size: 24px;
+    font-size: 2.4rem;
+    line-height: 1.3em;
+  }
+  .h1-middle {
+    font-size: 20px;
+    font-size: 2rem;
+    line-height: 1.3em;
+  }
+  .h1-small {
+    font-size: 18px;
+    font-size: 1.8rem;
+    line-height: 1.3em;
+  }
+  h2 {
+    margin: 0 0 5px 0;
+    font-size: 16px;
+    font-size: 1.6rem;
+    line-height: 1.2em;
+  }
+  .h2-big {
+    margin: 0 0 15px 0;
+    font-size: 18px;
+    font-size: 1.8rem;
+    line-height: 1.3em;
+  }
+  .h2-middle {
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 1.3em;
+  }
+  h3 {
+    margin: 0 0 5px 0;
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 1.3em;
+  }
+  .h3-middle {
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 1.3em;
+  }
+  .h3-reviews {
+    margin: 0;
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 1.3em;
+    letter-spacing: 1px;
+  }
+  .btn {
+    padding: 0 10px;
+    height: 28px;
+    font-size: 12px;
+    font-size: 1.2rem;
+    line-height: 28px;
+  }
+  .btn-middle {
+    padding: 0 12px;
+    height: 38px;
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 38px;
+  }
+  .btn-big {
+    padding: 0 15px;
+    height: 40px;
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 40px;
   }
   .footer-list {
     display: inline-block;
@@ -6331,6 +6675,9 @@ section:after {
     padding: 0 10px 30px 0;
     width: 48%;
     vertical-align: top;
+  }
+  .footer-list:nth-child(4) {
+    width: 90%;
   }
   .footer-action {
     padding: 0;
@@ -6366,19 +6713,161 @@ section:after {
   .footer-copyright .hr {
     width: 30px;
   }
+  .call-to-action {
+    padding-top: 30px;
+  }
+  .call-to-action h1 {
+    font-size: 20px;
+    font-size: 2rem;
+    line-height: 1.3em;
+  }
+  .article-text .item-head {
+    float: none;
+    width: 100%;
+    padding-right: 0;
+    text-align: center;
+  }
+  .article-text .item-desc {
+    float: none;
+    width: 100%;
+    text-align: center;
+  }
+  .article-list-content-table li {
+    display: block;
+    width: 100%;
+  }
+  .article-list-content-table .item-company {
+    max-width: 180px;
+  }
+  .article-founder-list li {
+    display: block;
+    margin: 0 0 40px 0;
+    width: 100%;
+  }
+  .article-founder-list li:last-child {
+    margin-bottom: 0;
+  }
+  .article-founder-list .item-img {
+    margin-bottom: 15px;
+  }
+  .article-team-list li {
+    width: 25%;
+  }
+  .article-download-list li {
+    margin-bottom: 20px;
+    width: 50%;
+  }
+  .article-study-panel-content .item-img {
+    display: none;
+  }
+  .article-study-panel-content .item-desc {
+    margin-left: 0;
+  }
+  .article-gray-content {
+    padding: 18px 20px;
+  }
+  .article-detail-content h2,
+  .article-detail-content h3,
+  .article-detail-content h4,
+  .article-detail-content h5,
+  .article-detail-content h6 {
+    font-size: 22px;
+    font-size: 2.2rem;
+    line-height: 1.3em;
+  }
+  .article-detail-content h3 {
+    font-size: 18px;
+    font-size: 1.8rem;
+    line-height: 1.3em;
+  }
+  .article-detail-content h4 {
+    font-size: 16px;
+    font-size: 1.6rem;
+    line-height: 1.3em;
+  }
+  .article-detail-content h5 {
+    font-size: 16px;
+    font-size: 1.6rem;
+    line-height: 1.3em;
+  }
+  .article-detail-content h6 {
+    font-size: 16px;
+    font-size: 1.6rem;
+    line-height: 1.3em;
+  }
 }
 @media screen and (max-width: 440px) {
   .btn-show-menu {
-    margin-right: 0;
+    margin-right: 10px;
   }
-  nav .item-btn {
-    display: inline-block;
+  .header-nav {
+    float: right;
+  }
+  .header-nav:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .header-nav .btn {
+    top: 18px;
+    height: 32px;
+    padding: 0 8px;
+    font-size: 12px;
+    font-size: 1.2rem;
+    line-height: 32px;
+  }
+  .section-header .in {
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+  .section-header-learning-list-small a {
+    height: 40px;
+  }
+  .section-header-learning-list-small p {
+    height: 40px;
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 40px;
+  }
+  .section-header-recent .in {
+    padding-bottom: 170px;
+  }
+  .article-team-list li {
+    width: 33.3333%;
+  }
+  .article-product-image .item-desc li {
+    display: block;
+    width: 100%;
+  }
+  .article-study-panel-content {
+    padding-right: 20px;
+  }
+  .article-study-panel-content .item-desc {
+    margin-bottom: 20px;
+    margin-left: 0;
+  }
+  .article-study-panel-content .btn {
+    position: relative;
+    left: 0;
+    margin: 0;
   }
 }
 @media screen and (max-width: 400px) {
   .footer-copyright .hr {
     display: block;
     width: 0;
+  }
+}
+@media screen and (max-width: 350px) {
+  header h1 a {
+    width: 88px;
+    height: 30px;
+  }
+  .btn-show-menu {
+    margin-right: 0;
+    font-size: 12px;
+    font-size: 1.2rem;
+    line-height: 38px;
   }
 }
 /*
