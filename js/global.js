@@ -312,6 +312,14 @@
         });
 
 
+        // SHOW / HIDE MENU
+        $('.btn-show-menu').on('click', function(e){
+            e.preventDefault();
+
+            r4.cache.html.toggleClass('show-menu');
+        });
+
+
 
 
         // HOME

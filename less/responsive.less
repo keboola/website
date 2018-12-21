@@ -1693,6 +1693,51 @@
   // ---------
   .product-header{
     margin:0 0 40px 0;
+
+    .in{
+      height:360px;
+    }
+    .desc{
+      padding-top:40px;
+    }
+    .desc-second{
+      padding-top:40px;
+    }
+  }
+  .product-header-content-start,
+  .product-header-content{
+    padding-top:100px;
+  }
+  .product-header-content-start{
+    background-position:center 120px;
+  }
+  .product-header-content{
+    background-position:center 120px;
+
+    .box-head{
+      top:110px;
+    }
+    .box-left,
+    .box-right{
+      padding-top:80px;
+
+      p{
+        margin:0;
+        .font-size(12, 1.2em);
+      }
+    }
+    .box-left-item,
+    .box-right-item{
+      i{
+        //width:80px;
+        height:100px;
+        background-size:70px auto;
+      }
+      span{
+        top:0;
+        .font-size(12, 1.2em);
+      }
+    }
   }
   
 
@@ -2126,7 +2171,7 @@
 
 
 
-  
+
   
   // ---------
   // LAYOUT
@@ -2141,6 +2186,18 @@
   // ---------
   // HEADER
   // ---------
+  header{
+    h1{
+      .size(auto, 70px);
+      line-height:64px;
+
+      a{
+        .size(100px, 30px);
+        background-size:100% auto;
+      }
+    }
+  }
+
 
   // HEADER - BTN MENU
   // ---------
@@ -2150,6 +2207,11 @@
 
   // HEADER - NAV
   // ---------
+  .header-nav{
+    .btn{
+      top:15px;
+    }
+  }
   nav{
     display:none;
     position:absolute;
@@ -2191,6 +2253,59 @@
       left:16px;
     }
   }
+
+
+
+
+
+
+  // ---------
+  // HOME
+  // ---------
+  .hp-home-header{
+    .in{
+      height:640px;
+    }
+    .arrow-bottom{
+      bottom:110px;
+      .font-size(14, 20px);
+
+      i{
+        height:28px;
+        background-size:16px auto;
+      }
+    }
+    .white-box-bottom{
+      bottom:-40px;
+    }
+  }
+  .hp-home-header-img{
+    bottom:0px;
+    margin-left:-300px;
+    width:600px;
+
+    .show-home-header &{
+      bottom:30px;
+
+      .img-start{
+        bottom:160px;
+      }
+    }
+    .img-start{
+      bottom:120px;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
 
 
 

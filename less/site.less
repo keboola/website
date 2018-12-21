@@ -858,6 +858,17 @@ header{
       }
     }
   }
+  .btn-show-menu{
+    color:@white;
+
+    &:before,
+    &:after{
+      background:@white;
+    }
+    i{
+      background:@white;
+    }
+  }
 }
 .header-detail{
   border-bottom:1px solid #F1F2F3;
@@ -882,12 +893,13 @@ header{
 .btn-show-menu{
   display:none;
   position:relative;
+  top:15px;
   float:left;
   margin-right:20px;
   padding-left:26px;
   height:37px;
   .font-size(14, 38px);
-  color:#233141;
+  color:#228DFF;
   text-transform:uppercase;
   text-decoration:none;
   z-index:12;
@@ -900,7 +912,7 @@ header{
     left:0;
     width:17px;
     height:2px;
-    background:#233141;
+    background:#228DFF;
     .transition(all .2s ease-in-out);
   }
   &:before{
@@ -932,7 +944,7 @@ header{
     margin-top:-1px;
     width:17px;
     height:2px;
-    background:#233141;
+    background:#228DFF;
     text-indent:0;
     .transition(all .2s ease-in-out);
 
@@ -951,9 +963,9 @@ header{
 
   .btn{
     position:relative;
+    float:right;
     top:38px;
     margin-left:30px;
-    float:right;
   }
 }
 nav{
