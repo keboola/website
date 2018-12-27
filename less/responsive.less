@@ -2399,6 +2399,29 @@
 
 
 
+  // PRODUCT - HEADER
+  // ---------
+  .product-header-content-start{
+    background-size:900px auto;
+  }
+  .product-header-content{
+    .box-left,
+    .box-right{
+      padding-top:70px;
+
+      p{
+        margin:0 auto 0;
+        max-width:200px;
+      }
+    }
+    .box-left{
+      padding-right:40px;
+    }
+    .box-right{
+      padding-left:40px;
+    }
+  }
+
   
 
 
@@ -2529,6 +2552,9 @@
     .white-box-bottom{
       bottom:-80px;
     }
+    .arrow-bottom{
+      bottom:80px;
+    }
   }
   .hp-home-header-img{
     bottom:0px;
@@ -2579,7 +2605,37 @@
       display:none;
     }
   }
-  
+
+
+
+
+  // PRODUCT - HEADER
+  // ---------
+  .product-header-content-start{
+    background-size:700px auto;
+    background-position:center 160px;
+  }
+  .product-header-content{
+    padding-left:0;
+    padding-right:0;
+    
+    .box-head{
+      margin-left:-40px;
+      width:80px;
+    }
+    .box-left{
+      padding-right:20px;
+    }
+    .box-right{
+      padding-left:20px;
+    }
+    .box-left-item,
+    .box-right-item{
+      span{
+        .font-size(10, 1.3em);
+      }
+    }
+  }
 
 
 
@@ -2630,6 +2686,17 @@
 
 
   
+  // ARTICLE LOGO LIST
+  // ---------
+  .article-logo-list{
+    p{
+      img{
+        width:auto;
+        height:24px;
+      }
+    }
+  }
+
 
 
   // ARTICLE - ABOUT - TEAM
@@ -2895,6 +2962,37 @@
       .font-size(20, 1.3em);
     }
   }
+  
+
+
+
+
+
+  // PRODUCT - HEADER
+  // ---------
+  .product-header-content-start{
+    background-size:570px auto;
+  }
+  .product-header-content{
+    .box-left,
+    .box-right{
+      padding-top:10px;
+
+      p{
+        margin-bottom:6px;
+      }
+    }
+    .box-left-item,
+    .box-right-item{
+      width:80px;
+
+      i{
+        height:80px;
+        background-size:60px auto;
+      }
+    }
+  }
+
 
 
 
@@ -2989,6 +3087,61 @@
     }
   }
 
+  
+
+
+  // ---------
+  // FAQ
+  // ---------
+
+  // FAQ - ITEM
+  // --------
+  .faq-item{
+    margin:15px 0 0 0;
+  }
+  .faq-item-head{
+    a{
+      padding:14px 50px 14px 15px;
+
+      &:before,
+      &:after{
+        .scale(0.8);
+      }
+    }
+  }
+  .faq-item-desc{
+    padding:0 15px;
+  }
+
+
+
+
+  // ---------
+  // COMPARISON TABLE
+  // ---------
+  .comparison-table-content{
+    padding:0 15px 5px 15px;
+  }
+  .comparison-table-head{
+    .comparison-table-name{
+      .font-size(14, 40px);
+    }
+    .comparison-table-value{
+      .font-size(12, 40px);
+    }
+  }
+  .comparison-table-item{
+    //margin:20px 0;
+  }
+  .comparison-table-name{
+    .font-size(12, 1.4em);
+  }
+  .comparison-table-value{
+    .font-size(12, 1.4em);
+  }
+
+
+
 
   // ---------
   // ARTICLE GRAY WITH IMG
@@ -3030,6 +3183,67 @@
 
 
 
+@media screen and (max-width: 500px){
+
+
+  // ---------
+  // HOME
+  // ---------
+  .hp-home-header{
+    .in{
+      height:440px;
+    }
+    .white-box-bottom{
+      bottom:-160px;
+    }
+    .arrow-bottom{
+      bottom:30px;
+    }
+    h1{
+      margin:0;
+    }
+  }
+  .hp-home-header-content-start{
+    padding-top:100px;
+  }
+  .hp-home-header-img{
+    margin-left:-200px;
+    width:400px;
+
+    .show-home-header &{
+      bottom:30px;
+
+      .img-start{
+        bottom:110px;
+      }
+    }
+    .img-start{
+      bottom:60px;
+    }
+  }  
+
+
+
+  // ARTICLE LIST - DEFAULT
+  // ONE COLUMN
+  // ---------
+  .article-text-full{
+    .item-desc-list{
+      .item-left,
+      .item-right{
+        float:none;
+        padding:0;
+        width:100%;
+      }
+    }
+  }
+  
+
+
+}
+
+
+
 
 @media screen and (max-width: 440px){
 
@@ -3059,7 +3273,44 @@
     }
   }
   
+  
 
+  // ---------
+  // HOME
+  // ---------
+  .hp-home-header{
+    .in{
+      height:400px;
+    }
+    .white-box-bottom{
+      bottom:-200px;
+    }
+    .arrow-bottom{
+      bottom:30px;
+    }
+    h1{
+      margin:0;
+      .font-size(20, 1.3em);
+    }
+  }
+  .hp-home-header-content-start{
+    padding-top:90px;
+  }
+  .hp-home-header-img{
+    margin-left:-180px;
+    width:360px;
+
+    .show-home-header &{
+      bottom:30px;
+
+      .img-start{
+        bottom:100px;
+      }
+    }
+    .img-start{
+      bottom:60px;
+    }
+  }  
 
 
 
@@ -3100,6 +3351,68 @@
   }
 
 
+
+
+  // PRODUCT - HEADER
+  // ---------
+  .product-header{
+    .in{
+      height:400px;
+    }
+    .desc,
+    .desc-second{
+      padding-top:25px;
+    }
+  }
+  .product-header-content-start{
+    background-size:520px auto;
+  }
+  .product-header-content{
+    background:none;
+
+    .box-head{
+      display:none;
+    }
+    .box-left,
+    .box-right{
+      float:none;
+      padding:25px 0 0 0;
+      width:100%;
+
+      p{
+        margin:0 0 5px 0;
+        max-width:100%;
+      }
+    }
+  }
+
+
+
+  
+
+  // ARTICLE LIST - HALF
+  // THREE COLUMN
+  // ---------
+  .article-list-content-three{
+    li{
+      display:block;
+      width:100%;
+      min-height:0;
+    }
+  }
+
+
+
+  // ARTICLE LOGO LIST
+  // ---------
+  .article-logo-list{
+    p{
+      img{
+        width:auto;
+        height:20px;
+      }
+    }
+  }
 
 
   // ARTICLE - ABOUT - TEAM
@@ -3170,6 +3483,15 @@
       width:0;
     }
   }
+
+
+
+
+  // PRODUCT - HEADER
+  // ---------
+  .product-header-content-start{
+    background-size:490px auto;
+  }
   
 
 
@@ -3202,6 +3524,44 @@
     .font-size(12, 38px);
   }
 
+
+
+
+  // ---------
+  // HOME
+  // ---------
+  .hp-home-header{
+    .in{
+      height:380px;
+    }
+  }
+  .hp-home-header-img{
+    margin-left:-160px;
+    width:320px;
+
+    .show-home-header &{
+      bottom:30px;
+
+      .img-start{
+        bottom:100px;
+      }
+      .img{
+        bottom:30px;
+      }
+    }
+    .img{
+      bottom:0;
+    }
+  }  
+
+
+
+
+  // PRODUCT - HEADER
+  // ---------
+  .product-header-content-start{
+    background-size:420px auto;
+  }
   
 
 

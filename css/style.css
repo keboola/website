@@ -6412,6 +6412,24 @@ section:after {
   .hp-main-goals {
     padding: 0 20px;
   }
+  .product-header-content-start {
+    background-size: 900px auto;
+  }
+  .product-header-content .box-left,
+  .product-header-content .box-right {
+    padding-top: 70px;
+  }
+  .product-header-content .box-left p,
+  .product-header-content .box-right p {
+    margin: 0 auto 0;
+    max-width: 200px;
+  }
+  .product-header-content .box-left {
+    padding-right: 40px;
+  }
+  .product-header-content .box-right {
+    padding-left: 40px;
+  }
   .article-offices-footer-left p,
   .article-offices-footer-right p {
     font-size: 14px;
@@ -6484,6 +6502,9 @@ section:after {
   .hp-home-header .white-box-bottom {
     bottom: -80px;
   }
+  .hp-home-header .arrow-bottom {
+    bottom: 80px;
+  }
   .hp-home-header-img {
     bottom: 0px;
     margin-left: -240px;
@@ -6520,6 +6541,30 @@ section:after {
   .hp-main-goals-item .item-img {
     display: none;
   }
+  .product-header-content-start {
+    background-size: 700px auto;
+    background-position: center 160px;
+  }
+  .product-header-content {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .product-header-content .box-head {
+    margin-left: -40px;
+    width: 80px;
+  }
+  .product-header-content .box-left {
+    padding-right: 20px;
+  }
+  .product-header-content .box-right {
+    padding-left: 20px;
+  }
+  .product-header-content .box-left-item span,
+  .product-header-content .box-right-item span {
+    font-size: 10px;
+    font-size: 1rem;
+    line-height: 1.3em;
+  }
   .article-list-content-half li {
     padding-top: 10px;
     padding-right: 0;
@@ -6541,6 +6586,10 @@ section:after {
   }
   .article-list-content-table .item-company {
     max-width: 160px;
+  }
+  .article-logo-list p img {
+    width: auto;
+    height: 24px;
   }
   .article-team-list li {
     width: 20%;
@@ -6721,6 +6770,26 @@ section:after {
     font-size: 2rem;
     line-height: 1.3em;
   }
+  .product-header-content-start {
+    background-size: 570px auto;
+  }
+  .product-header-content .box-left,
+  .product-header-content .box-right {
+    padding-top: 10px;
+  }
+  .product-header-content .box-left p,
+  .product-header-content .box-right p {
+    margin-bottom: 6px;
+  }
+  .product-header-content .box-left-item,
+  .product-header-content .box-right-item {
+    width: 80px;
+  }
+  .product-header-content .box-left-item i,
+  .product-header-content .box-right-item i {
+    height: 80px;
+    background-size: 60px auto;
+  }
   .article-text .item-head {
     float: none;
     width: 100%;
@@ -6763,6 +6832,46 @@ section:after {
   .article-study-panel-content .item-desc {
     margin-left: 0;
   }
+  .faq-item {
+    margin: 15px 0 0 0;
+  }
+  .faq-item-head a {
+    padding: 14px 50px 14px 15px;
+  }
+  .faq-item-head a:before,
+  .faq-item-head a:after {
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+  .faq-item-desc {
+    padding: 0 15px;
+  }
+  .comparison-table-content {
+    padding: 0 15px 5px 15px;
+  }
+  .comparison-table-head .comparison-table-name {
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 40px;
+  }
+  .comparison-table-head .comparison-table-value {
+    font-size: 12px;
+    font-size: 1.2rem;
+    line-height: 40px;
+  }
+  .comparison-table-name {
+    font-size: 12px;
+    font-size: 1.2rem;
+    line-height: 1.4em;
+  }
+  .comparison-table-value {
+    font-size: 12px;
+    font-size: 1.2rem;
+    line-height: 1.4em;
+  }
   .article-gray-content {
     padding: 18px 20px;
   }
@@ -6796,6 +6905,42 @@ section:after {
     line-height: 1.3em;
   }
 }
+@media screen and (max-width: 500px) {
+  .hp-home-header .in {
+    height: 440px;
+  }
+  .hp-home-header .white-box-bottom {
+    bottom: -160px;
+  }
+  .hp-home-header .arrow-bottom {
+    bottom: 30px;
+  }
+  .hp-home-header h1 {
+    margin: 0;
+  }
+  .hp-home-header-content-start {
+    padding-top: 100px;
+  }
+  .hp-home-header-img {
+    margin-left: -200px;
+    width: 400px;
+  }
+  .show-home-header .hp-home-header-img {
+    bottom: 30px;
+  }
+  .show-home-header .hp-home-header-img .img-start {
+    bottom: 110px;
+  }
+  .hp-home-header-img .img-start {
+    bottom: 60px;
+  }
+  .article-text-full .item-desc-list .item-left,
+  .article-text-full .item-desc-list .item-right {
+    float: none;
+    padding: 0;
+    width: 100%;
+  }
+}
 @media screen and (max-width: 440px) {
   .btn-show-menu {
     margin-right: 10px;
@@ -6816,6 +6961,37 @@ section:after {
     font-size: 1.2rem;
     line-height: 32px;
   }
+  .hp-home-header .in {
+    height: 400px;
+  }
+  .hp-home-header .white-box-bottom {
+    bottom: -200px;
+  }
+  .hp-home-header .arrow-bottom {
+    bottom: 30px;
+  }
+  .hp-home-header h1 {
+    margin: 0;
+    font-size: 20px;
+    font-size: 2rem;
+    line-height: 1.3em;
+  }
+  .hp-home-header-content-start {
+    padding-top: 90px;
+  }
+  .hp-home-header-img {
+    margin-left: -180px;
+    width: 360px;
+  }
+  .show-home-header .hp-home-header-img {
+    bottom: 30px;
+  }
+  .show-home-header .hp-home-header-img .img-start {
+    bottom: 100px;
+  }
+  .hp-home-header-img .img-start {
+    bottom: 60px;
+  }
   .section-header .in {
     padding-top: 30px;
     padding-bottom: 20px;
@@ -6831,6 +7007,42 @@ section:after {
   }
   .section-header-recent .in {
     padding-bottom: 170px;
+  }
+  .product-header .in {
+    height: 400px;
+  }
+  .product-header .desc,
+  .product-header .desc-second {
+    padding-top: 25px;
+  }
+  .product-header-content-start {
+    background-size: 520px auto;
+  }
+  .product-header-content {
+    background: none;
+  }
+  .product-header-content .box-head {
+    display: none;
+  }
+  .product-header-content .box-left,
+  .product-header-content .box-right {
+    float: none;
+    padding: 25px 0 0 0;
+    width: 100%;
+  }
+  .product-header-content .box-left p,
+  .product-header-content .box-right p {
+    margin: 0 0 5px 0;
+    max-width: 100%;
+  }
+  .article-list-content-three li {
+    display: block;
+    width: 100%;
+    min-height: 0;
+  }
+  .article-logo-list p img {
+    width: auto;
+    height: 20px;
   }
   .article-team-list li {
     width: 33.3333%;
@@ -6857,6 +7069,9 @@ section:after {
     display: block;
     width: 0;
   }
+  .product-header-content-start {
+    background-size: 490px auto;
+  }
 }
 @media screen and (max-width: 350px) {
   header h1 a {
@@ -6868,6 +7083,28 @@ section:after {
     font-size: 12px;
     font-size: 1.2rem;
     line-height: 38px;
+  }
+  .hp-home-header .in {
+    height: 380px;
+  }
+  .hp-home-header-img {
+    margin-left: -160px;
+    width: 320px;
+  }
+  .show-home-header .hp-home-header-img {
+    bottom: 30px;
+  }
+  .show-home-header .hp-home-header-img .img-start {
+    bottom: 100px;
+  }
+  .show-home-header .hp-home-header-img .img {
+    bottom: 30px;
+  }
+  .hp-home-header-img .img {
+    bottom: 0;
+  }
+  .product-header-content-start {
+    background-size: 420px auto;
   }
 }
 /*
