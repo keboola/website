@@ -30,7 +30,11 @@ page_sections:
       logic, like SQL sandbox, Python sandbox, R sandbox, etc.; sit in this layer.
       They have standardized API interfaces, UI and are where user to platform interface
       takes place.
-  - {}
+  - title: Meta Layer
+    desc: Every component needs to be registered through Developer portal, then it
+      obtains standardizes treatment and scaling. This includes parallel scaling,
+      all configuration data and changes, auto code versioning, user provisioning,
+      cross project data sharing, etc. This is the “brain” of the platform.
   - {}
   - {}
 - template: ask-demo
