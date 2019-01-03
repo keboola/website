@@ -8,3 +8,17 @@ fields:
   label: block
   default: article-product-image
   hidden: true
+- type: field_group_list
+  name: list
+  label: list
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    config:
+      wysiwyg: true
+      schema:
+        format: html
+    label: desc
+    name: desc
