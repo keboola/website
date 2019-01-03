@@ -35,7 +35,10 @@ page_sections:
       obtains standardizes treatment and scaling. This includes parallel scaling,
       all configuration data and changes, auto code versioning, user provisioning,
       cross project data sharing, etc. This is the “brain” of the platform.
-  - {}
+  - title: Software Orchestration
+    desc: The kernel which allows us to connect infrastructure services with your
+      workflows, code and external applications in one seamless workflow. This layer
+      makes sure everything works together, is flexible, auto scales.
   - title: Infrastructure
     desc: We hand picked the most valuable parts of the infrastructure that are needed
       for integration and analytics journey, wrapped them with our APIs and made them
