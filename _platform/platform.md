@@ -25,8 +25,8 @@ page_sections:
   block: article-product-image
   list:
   - title: Components
-    desc: In our modular “Lego like” platform, all the components that either provide
-      you with their own logic or allow you to write your own logic, sit in this layer.
+    desc: Modular “Lego like” platform, all the components that either provide you
+      with their own logic or allow you to write your own logic, sit in this layer.
   - title: Meta Layer
     desc: "“Brain” of the platform – includes parallel scaling, all configuration
       data and changes, auto code versioning, user provisioning, cross project data
