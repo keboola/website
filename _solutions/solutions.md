@@ -51,7 +51,7 @@ page_sections:
   headline: Get all your data, act on it immediately! Increase profit and market share.
 - template: ask-demo
   block: ask-demo
-  ctaname: Take 7 day challenge!
+  ctaname: Take the 7 day challenge!
   ctalink: "/request-demo"
 - template: article-list-two-row
   block: article-list-two-row
