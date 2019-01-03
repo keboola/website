@@ -4025,7 +4025,7 @@ section{
         margin:0;
       }
       .hs-input{
-        width:100%;
+        width:100% !important;
       }
     }
   }
@@ -4059,7 +4059,9 @@ section{
     .font-size(20, 30px);
     color:#233141;
     outline:0;
-    -webkit-appearance: none;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
 
     &:focus{
       outline:0;
