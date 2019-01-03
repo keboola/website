@@ -40,7 +40,7 @@ page_sections:
       from Keboola to Silverpop, web and online advertising with reported over 20%
       increase in work efficiency.
   - name: OUT OF STOCK REPORTS IN 7 DAYS
-    desc: Pietro Filipi has gone from bunch of odl IT systems to company wide out
+    desc: Pietro Filipi has gone from bunch of old IT systems to company wide out
       off stock reports in 7days!  Increasing profitability by tens of percent!
   - name: GOING BEYOND TRADITIONAL DWH - ENABLING CITIZEN USERS
     desc: "MallGroup Europa’s leading retail in 6 countries has enabled analytics
