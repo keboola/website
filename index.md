@@ -33,8 +33,8 @@ page_sections:
   - link: ''
     icotype: yellowright
     title: ANALYTICS
-    desc: One click, get your personal sandbox with great memory power to run all
-      of your models. Auto model deploy to hybrid infrastructure.
+    desc: Get your personal sandbox, with scalable memory to run all of your models,
+      and deploy to production in just 1 click.
   - link: ''
     icotype: black
     title: AUTOMATION
