@@ -28,8 +28,6 @@ page_sections:
     desc: In our modular “Lego like” platform, all the components that either provide
       you with their own logic (Like NLP from Geneea) or allow you to write your own
       logic, like SQL sandbox, Python sandbox, R sandbox, etc.; sit in this layer.
-      They have standardized API interfaces, UI and are where user to platform interface
-      takes place.
   - title: Meta Layer
     desc: This is the “brain” of the platform – includes parallel scaling, all configuration
       data and changes, auto code versioning, user provisioning, cross project data
