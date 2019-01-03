@@ -1037,17 +1037,20 @@
   // CALL TO ACTION
   // ---------
   .call-to-action{
+    padding-bottom:90px;
+
     h1{
       float:none;
       max-width:100%;
-      text-align:center;
+      //text-align:center;
     }
     .item-desc{
       float:none;
-      text-align:center;
+      text-align:left;
+      //text-align:center;
 
       .btn{
-        margin:0 8px 10px;
+        margin:0 20px 8px 0;
       }
     }
   }
@@ -1281,7 +1284,7 @@
     .font-size(18, 1.5em);
   }
   .p-perex-light{
-    .font-size(14, 1.5em);
+    .font-size(15, 1.5em);
     letter-spacing:1px;
   }
   .p-more_{
@@ -1886,7 +1889,7 @@
     }
     p{
       img{
-        margin:0 10px 8px;
+        margin:0 18px 24px;
         //max-height:20px;
       }
     }
@@ -2174,11 +2177,11 @@
       .font-size(16, 1.3em);
     }
     p{
-      .font-size(14, 1.6em);
+      .font-size(15, 1.6em);
     }
     li{
       padding-left:30px;
-      .font-size(14, 1.6em);
+      .font-size(15, 1.6em);
     }
     ul{
       li{
@@ -2197,7 +2200,7 @@
       li{
         &:before{
           width:30px;
-          .font-size(14, 1.6em);
+          .font-size(15, 1.6em);
         }
       }
     }
@@ -2271,7 +2274,7 @@
   }
   .header-home{
     .nav-list{
-      padding-top:15px;
+      padding-top:5px;
     }
     .nav-item{
       &> a{
@@ -2303,10 +2306,14 @@
     display:none;
     position:absolute;
     left:0;
+    margin-top:-5px;
+    padding:0 20px;
     top:100%;
     width:100%;
-    background:@white;
-    .box-shadow(0 10px 20px 0 rgba(34,141,255,0.30));
+    //background:@white;
+    //.box-shadow(0 10px 20px 0 rgba(34,141,255,0.30));
+    background:none;
+    .box-shadow(none);
 
     .show-menu &{
       display:block;
@@ -2314,25 +2321,36 @@
   }
   .nav-list{
     float:none;
-    padding-bottom:15px;
+    padding:5px 0;
     width:100%;
+    .border-radius(2px);
+    background:@white;
     text-align:center;
+    .box-shadow(0 0 20px 0 rgba(34,141,255,0.30));
   }
   .nav-item{
     position:relative;
-    display:inline-block;
+    display:block;
     float:none;
     //margin:0 60px 0 0;
-    margin:0 0 10px 0;
+    //margin:0 0 10px 0;
+    margin:0;
     height:40px;
-    text-align:center;
+    text-align:left;
     vertical-align:top;
 
     &> a{
       height:auto;
-      padding:0;
-      padding:10px 15px;
-      .font-size(14, 28px);
+      display:block;
+      padding:0 20px;
+      //padding:10px 15px;
+      .font-size(15, 40px);
+
+      span{
+        &:before{
+          display:none;
+        }
+      }
     }
   }
 
@@ -2706,7 +2724,7 @@
     p{
       img{
         width:auto;
-        height:24px;
+        height:30px;
       }
     }
   }
@@ -2757,10 +2775,18 @@
     padding:20px 160px 20px 20px;
 
     .item-img{
-      width:80px;
+      float:none;
+      margin:0 0 10px 0;
+      width:auto;
+      height:24px;
+
+      img{
+        .size(auto, 100%);
+      }
     }
     .item-desc{
-      margin-left:100px;
+      float:none;
+      margin-left:0;
     }
     .btn{
       right:20px;
@@ -2775,11 +2801,17 @@
   // ARTICLE GRAY WITH IMG
   // ---------
   .article-gray-content{
+    position:relative;
+    padding-top:240px;
+
     .item-desc{
       width:100%;
     }
     .item-img{
-      display:none;
+      position:absolute;
+      left:30px;
+      top:30px;
+      width:180px;
     }
   }
 
@@ -2804,13 +2836,13 @@
   // BODY TEXT
   // ---------
   .p-perex-dark{
-    .font-size(14, 1.5em);
+    .font-size(15, 1.5em);
   }
   .p-head{
-    .font-size(14, 1.5em);
+    .font-size(15, 1.5em);
   }
   .p-perex-light{
-    .font-size(14, 1.5em);
+    .font-size(15, 1.5em);
   }
 
 
@@ -2826,10 +2858,10 @@
     .font-size(24, 1.3em);
   }
   .h1-middle{
-    .font-size(20, 1.3em);
+    .font-size(22, 1.3em);
   }
   .h1-small{
-    .font-size(18, 1.3em);
+    .font-size(22, 1.3em);
   }
 
   h2{
@@ -2897,6 +2929,14 @@
 
 
 
+  // ---------
+  // MOST RECENT ARTICLE
+  // ---------
+  .article-reviews-pages-content,
+  .most-recent-pages-content{
+    margin:30px 0 0 0;
+  }
+
 
 
 
@@ -2912,6 +2952,15 @@
 
   // FOOTER - CONTENT
   // ---------
+  .footer-content{
+    .in{
+      padding-top:60px;
+    }
+    .ico-pict{
+      width:70px;
+      height:100px;
+    }
+  }
   .footer-list{
     display:inline-block;
     float:none;
@@ -2971,6 +3020,7 @@
   // ---------
   .call-to-action{
     padding-top:30px;
+    padding-bottom:70px;
 
     h1{
       .font-size(20, 1.3em);
@@ -2984,13 +3034,44 @@
 
   // PRODUCT - HEADER
   // ---------
+  .product-header{
+    .in{
+      height:auto;
+    }
+    .desc-first{
+      display:none;
+    }
+    .desc-second{
+      position:relative;
+      display:block;
+      padding:0;
+      .opacity(100);
+      visibility:visible;
+
+      .h1-head{
+        margin:0;
+      }
+    }
+  }
   .product-header-content-start{
-    background-size:570px auto;
+    display:none;
   }
   .product-header-content{
+    position:relative;
+    display:block;
+    padding-top:0;
+    padding-bottom:40px;
+    background:none;
+    .opacity(100);
+    visibility:visible;
+    .c;
+    
+    .box-head{
+      display:none;
+    }
     .box-left,
     .box-right{
-      padding-top:10px;
+      padding-top:20px;
 
       p{
         margin-bottom:6px;
@@ -3087,19 +3168,7 @@
 
   
 
-  
 
-  // ---------
-  // STUDY PANEL
-  // ---------
-  .article-study-panel-content{
-    .item-img{
-      display:none;
-    }
-    .item-desc{
-      margin-left:0;
-    }
-  }
 
   
 
@@ -3120,6 +3189,13 @@
       &:before,
       &:after{
         .scale(0.8);
+      }
+      &:before{
+        -webkit-transform: rotate(180deg) scale(0.8);
+        -moz-transform: rotate(180deg) scale(0.8);
+        -ms-transform: rotate(180deg) scale(0.8);
+        -o-transform: rotate(180deg) scale(0.8);
+        transform: rotate(180deg) scale(0.8);
       }
     }
   }
@@ -3161,7 +3237,15 @@
   // ARTICLE GRAY WITH IMG
   // ---------
   .article-gray-content{
-    padding:18px 20px;
+    padding:190px 20px 18px 20px;
+
+    .item-img{
+      left:20px;
+      top:20px;
+      width:150px;
+      height:150px;
+      line-height:150px;
+    }
   }
 
 
@@ -3387,18 +3471,6 @@
 
   // PRODUCT - HEADER
   // ---------
-  .product-header{
-    .in{
-      height:400px;
-    }
-    .desc,
-    .desc-second{
-      padding-top:25px;
-    }
-  }
-  .product-header-content-start{
-    background-size:520px auto;
-  }
   .product-header-content{
     background:none;
 
@@ -3426,8 +3498,8 @@
   // THREE COLUMN
   // ---------
   .article-list-content-three{
-    margin:0;
-    
+    margin:0 0 65px 0;
+
     li{
       display:block;
       padding-top:0;
@@ -3448,8 +3520,9 @@
   .article-logo-list{
     p{
       img{
+        margin:0 10px 14px;
         width:auto;
-        height:20px;
+        height:24px;
       }
     }
   }
