@@ -33,7 +33,7 @@ page_sections:
   - title: Meta Layer
     desc: This is the “brain” of the platform – includes parallel scaling, all configuration
       data and changes, auto code versioning, user provisioning, cross project data
-      sharing, etc. This is the “brain” of the platform.
+      sharing, etc.
   - title: Software Orchestration
     desc: The kernel which allows us to connect infrastructure services with your
       workflows, code and external applications in one seamless workflow. This layer
