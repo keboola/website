@@ -36,7 +36,10 @@ page_sections:
       all configuration data and changes, auto code versioning, user provisioning,
       cross project data sharing, etc. This is the “brain” of the platform.
   - {}
-  - {}
+  - title: Infrastructure
+    desc: We hand picked the most valuable parts of the infrastructure that are needed
+      for integration and analytics journey, wrapped them with our APIs and made them
+      ready to be usable via just one API call.
 - template: ask-demo
   block: ask-demo
   ctaname: Ask for demo
