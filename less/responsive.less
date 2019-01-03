@@ -1262,13 +1262,13 @@
   // ---------
   p{
     margin:0 0 15px 0;
-    .font-size(14, 1.5em);
+    .font-size(15, 1.5em);
   }
   .p-margin{
     margin-bottom:30px;
   }
   .p-middle{
-    .font-size(14, 1.5em);
+    .font-size(15, 1.5em);
   }
   .p-perex{
     margin:0;
@@ -2658,9 +2658,23 @@
   .article-list-content-three{
     margin:0 -10px;
     background:none;
-
+    
+    .ico{
+      display:block;
+      left:0;
+      height:100px;
+    }
+    .ico-black{
+      background-image:url(../img/box-three-black.svg);
+    }
+    .ico-blue{
+      background-image:url(../img/box-three-blue.svg);
+    }
+    .ico-yellowright{
+      background-image:url(../img/box-three-yellow.svg);
+    }
     li{
-      padding:0 10px;
+      padding:120px 10px 0 10px;
     }
   }
 
@@ -3186,6 +3200,20 @@
 @media screen and (max-width: 500px){
 
 
+
+  // ---------
+  // HEADINGS
+  // ---------
+  h1, h2, h3, h4, h5, h6 {
+    br{
+      display:none;
+    }
+  }
+
+
+
+
+
   // ---------
   // HOME
   // ---------
@@ -3280,7 +3308,7 @@
   // ---------
   .hp-home-header{
     .in{
-      height:400px;
+      height:460px;
     }
     .white-box-bottom{
       bottom:-200px;
@@ -3290,7 +3318,10 @@
     }
     h1{
       margin:0;
-      .font-size(20, 1.3em);
+      .font-size(22, 1.3em);
+    }
+    .h1-blue{
+      .font-size(24, 1.3em);
     }
   }
   .hp-home-header-content-start{
@@ -3299,9 +3330,10 @@
   .hp-home-header-img{
     margin-left:-180px;
     width:360px;
+    bottom:40px;
 
     .show-home-header &{
-      bottom:30px;
+      bottom:60px;
 
       .img-start{
         bottom:100px;
@@ -3394,10 +3426,18 @@
   // THREE COLUMN
   // ---------
   .article-list-content-three{
+    margin:0;
+    
     li{
       display:block;
+      padding-top:0;
+      padding-right:0;
+      padding-left:110px;
       width:100%;
       min-height:0;
+    }
+    .ico{
+      left:10px;
     }
   }
 
@@ -3527,6 +3567,7 @@
 
 
 
+
   // ---------
   // HOME
   // ---------
@@ -3534,10 +3575,18 @@
     .in{
       height:380px;
     }
+    h1{
+      margin:0;
+      .font-size(20, 1.3em);
+    }
+    .h1-blue{
+      .font-size(20, 1.3em);
+    }
   }
   .hp-home-header-img{
     margin-left:-160px;
     width:320px;
+    bottom:0;
 
     .show-home-header &{
       bottom:30px;
