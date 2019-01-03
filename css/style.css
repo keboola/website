@@ -6772,6 +6772,12 @@ section:after {
     width: 70px;
     height: 100px;
   }
+  .footer-content h2 {
+    margin: 0 0 15px 0;
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 1.2em;
+  }
   .footer-list {
     display: inline-block;
     float: none;
