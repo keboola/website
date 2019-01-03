@@ -76,7 +76,7 @@ page_sections:
       from a shop assistant to a CEO, to read, combine, and use data to improve their
       effectiveness.</p>"
     background: "/uploads/illu2.svg"
-  - title: 'Collaboration breeds       success'
+  - title: "Collaboration breeds \Lsuccess"
     desc: "<p>Keboola allows people to work together on the same code in the same
       pipeline. With our unique system, your team can build on top of each other’s
       successes in real time. Since everything is versioned, nothing gets lost in
