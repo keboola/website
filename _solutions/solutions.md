@@ -9,9 +9,9 @@ page_sections:
   block: header-blue
   subheadline: Get data driven - react fast
   headline: Solutions
-  content: Your customers want everything now, tailored for them and with wow experience.
-    Keboola helps you to provide the best data driven solutions to all of your departments
-    quickly!
+  content: Your customers want everything now, tailored for them and with a "wow"
+    experience. Keboola helps you to provide the best data driven solutions to all
+    of your departments quickly!
 - template: article-full
   block: article-full
   subheadline: According to <a href="https://hbr.org/2018/02/big-companies-are-embracing-analytics-but-most-still-dont-have-a-data-driven-culture">Hbr.org</a>
