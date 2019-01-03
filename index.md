@@ -38,8 +38,8 @@ page_sections:
   - link: ''
     icotype: black
     title: AUTOMATION
-    desc: Connect to any data right away. Create pipelines, automate. Share data catalogues
-      and tools for your teams across the company.
+    desc: Connect to any data right away. Create pipelines, automate, and share data
+      catalogues and tools for your teams across the company.
 - template: article-list-img
   block: article-list-img
   headline: Keboola works with the world’s best!
