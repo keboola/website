@@ -28,9 +28,9 @@ page_sections:
     desc: In our modular “Lego like” platform, all the components that either provide
       you with their own logic or allow you to write your own logic, sit in this layer.
   - title: Meta Layer
-    desc: This is the “brain” of the platform – includes parallel scaling, all configuration
+    desc: "“Brain” of the platform – includes parallel scaling, all configuration
       data and changes, auto code versioning, user provisioning, cross project data
-      sharing, etc.
+      sharing, etc."
   - title: Software Orchestration
     desc: The kernel which allows us to connect infrastructure services with your
       workflows, code and external applications in one seamless workflow. This layer
