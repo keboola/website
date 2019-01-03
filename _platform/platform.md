@@ -36,9 +36,9 @@ page_sections:
       workflows, code and external applications in one seamless workflow. This layer
       makes sure everything works together, is flexible, auto scales.
   - title: Infrastructure
-    desc: We hand picked the most valuable parts of the infrastructure that are needed
-      for integration and analytics journey, wrapped them with our APIs and made them
-      ready to be usable via just one API call.
+    desc: Most valuable parts of the infrastructure that are needed for integration
+      and analytics journey, wrapped with our APIs and made ready to be usable via
+      just one API call.
 - template: ask-demo
   block: ask-demo
   ctaname: Ask for demo
