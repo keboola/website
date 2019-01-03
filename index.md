@@ -83,7 +83,7 @@ page_sections:
       all the changes.</p>"
     background: "/uploads/illu3.svg"
   - background: "/uploads/illu4.svg"
-    title: 'Security means       everything to us'
+    title: "Security means\L everything to us"
     desc: "<p>Your data is valuable, so we guard it very carefully. All data is HIPAA
       grade secured, and we meticulously log all user actions for your complete peace
       of mind.</p>"
