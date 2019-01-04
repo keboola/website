@@ -1,10 +1,10 @@
 ---
 title: Request demo
-layout: contact-form
+layout: contact-form-sf
 date: 2018-12-10 20:31:23 +0000
 page_sections:
 - template: form-sf
-  block: form
+  block: form-sf
   subheadline: Learn how to do it Keboola way!
   headline: Request a Demo
   formid: 00D1t000000uV6j
