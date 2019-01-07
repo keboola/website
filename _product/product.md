@@ -94,14 +94,15 @@ page_sections:
     case. Solve the use case at hand, but have the flexibility to use the results
     and pipes in other use cases and workflows.
   list:
-  - descleft: "<strong>Procurement</strong>. Once you buy you have access to all the
-      tools in the platform. No need for additional security or procurement permissions.
-      New use case doesn’t mean new round of IT/Security/Procurement talks and weeks
-      spent."
-    descright: "<strong>Flexible environment</strong>. Us the tools you know from
-      desktop environment in cloud with the professional support just one click away
-      and the knowledge of thousands of users empowering our machine learning and
-      helping you with mundane tasks."
+  - descleft: "<strong>Procurement</strong>. You get access to all the tools Keboola
+      has to offer the moment you purchase. No need for additional security or procurement
+      permissions. A new use case doesn’t have mean spending weeks on a whole new
+      set of rounds of IT/Security/Procurement talks."
+    descright: "<strong>Promise</strong>. Used by banks and auditors, completely secure,
+      GDPR compliant. We believe so firmly that Keboola is the best that we've set
+      up our system so that if you're ever unsatisfied, you can leave anytime with
+      no hassle. With us, there isn't any vendor lock; we only keep your business
+      if you're happy. "
 - template: review
   block: review
   list:
