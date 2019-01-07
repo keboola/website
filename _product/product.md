@@ -158,10 +158,10 @@ page_sections:
     demands of DataScientist and “Citizen” data users across your organisation.
   headline: Rock star data engineer left. Created great S3->RS + Python ... but now
     we can’t do it ...
+- template: horizontal-rule
+  block: hr
 - template: recent-list
   block: recent-list
   headline: "<strong>Case Study</strong> Articles"
-- template: horizontal-rule
-  block: hr
 
 ---
