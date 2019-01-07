@@ -150,30 +150,14 @@ page_sections:
   ctaname: See how to get the same solution
   ctalink: https://components.keboola.com
   img: "/uploads/geneeaLogo-1.png"
-- template: faq
-  block: faq
-  headline: Still have a questions?
-  list:
-  - name: Is there a minimum I have to buy?
-    desc: Nulla eu ullamcorper nisl. Ut lobortis augue a tortor aliquam ullamcorper.
-      Nam viverra venenatis urna, quis rutrum ipsum congue vitae. Vivamus commodo
-      convallis urna nec sagittis. Curabitur ut posuere justo. Sed pellentesque ipsum
-      quis neque molestie, eu auctor odio scelerisque. Aenean sed elit ex. Suspendisse
-      quis ex hendrerit, scelerisque diam nec, sodales risus. Etiam ornare, tellus
-      vitae iaculis egestas, velit dui imperdiet quam, mattis interdum arcu est ut
-      dui.
-  - desc: Nulla eu ullamcorper nisl. Ut lobortis augue a tortor aliquam ullamcorper.
-      Nam viverra venenatis urna, quis rutrum ipsum congue vitae. Vivamus commodo
-      convallis urna nec sagittis. Curabitur ut posuere justo. Sed pellentesque ipsum
-      quis neque molestie, eu auctor odio scelerisque. Aenean sed elit ex. Suspendisse
-      quis ex hendrerit, scelerisque diam nec, sodales risus. Etiam ornare, tellus
-      vitae iaculis egestas, velit dui imperdiet quam, mattis interdum arcu est ut
-      dui.
-    name: Do I need to lorem ipsum dolor sit amet?
 - template: horizontal-rule
   block: hr
 - template: recent-list
   block: recent-list
   headline: "<strong>Case Study</strong> Articles"
+- template: article-list-hp
+  block: article-list-hp
+  headline: Rock star data engineer left. Created great S3->RS + Python ... but now
+    we can’t do it ...
 
 ---
