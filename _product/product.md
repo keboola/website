@@ -103,6 +103,16 @@ page_sections:
       up our system so that if you're ever unsatisfied, you can leave anytime with
       no hassle. With us, there isn't any vendor lock; we only keep your business
       if you're happy. "
+- template: horizontal-rule
+  block: hr
+- template: article-full
+  block: article-full
+  content: With Keboola, you can support your business' data engineer's and data scientist's
+    ever-changing requirements for tools, setup and data without the need to change
+    the underlying infrastructure or deploy significant new IT resources to handle
+    demands of DataScientist and “Citizen” data users across your organisation.
+  headline: Rock star data engineer left. Created great S3->RS + Python ... but now
+    we can’t do it ...
 - template: review
   block: review
   list:
@@ -150,14 +160,6 @@ page_sections:
   ctaname: See how to get the same solution
   ctalink: https://components.keboola.com
   img: "/uploads/geneeaLogo-1.png"
-- template: article-full
-  block: article-full
-  content: With Keboola, you can support your business' data engineer's and data scientist's
-    ever-changing requirements for tools, setup and data without the need to change
-    the underlying infrastructure or deploy significant new IT resources to handle
-    demands of DataScientist and “Citizen” data users across your organisation.
-  headline: Rock star data engineer left. Created great S3->RS + Python ... but now
-    we can’t do it ...
 - template: horizontal-rule
   block: hr
 - template: recent-list
