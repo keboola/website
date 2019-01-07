@@ -111,11 +111,10 @@ page_sections:
       habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 - template: article-full
   block: article-full
-  content: With Keboola you can support different roles across the organization from
-    data engineers, data scientists to advanced users in business and their ever changing
-    requirements for tools, setup and data without the need to change the underlaying
-    infrastructure or deploy significant new IT resources to handle demands of DataScientist
-    and “Citizen” data users across your organisation.
+  content: Use the tools you know from desktop environments in the cloud with the
+    knowledge of thousands of other users are empowering our machine learning and
+    helping you with mundane tasks. If you ever need help, professional support is
+    just one click away!
   headline: Bringing data to users across your organisation
   subheadline: business based on data
 - template: article-list-table
