@@ -63,9 +63,9 @@ page_sections:
     pictogram: "/uploads/aqua.svg"
   - icotype: black
     title: Serverless
-    desc: Get the data and the best tools to create adhoc analyses right in your department
-      to improve your campaigns. You see every single line of code, each transition
-      and data stream.
+    desc: Built as micro-service, running on AWS. You use only parts that suit your
+      business, including single click services  on/off modules you really need. Total
+      control of performance, efficiency and spend.
     pictogram: "/uploads/whiteHole.svg"
   content: Each company faces their own unique challenges, so why would you go with
     the traditional closed, black box system? Choose Keboola instead. Keboola was
