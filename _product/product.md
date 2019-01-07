@@ -87,12 +87,12 @@ page_sections:
 - template: article-full
   block: article-full
   subheadline: no more procurement night mare
-  headline: One contract/one invoice <span>over 50 technologies</span>
-  content: From SQL, RStudio, Python, Spark, Snowflake, S3...all in one contract and
-    single environment provisioned just for you as a service. New scenario and configuration
-    is just <a href=""><strong>one click away</strong></a>. Setup a separate project
-    for each use case. Solving the use case at hand, but having the flexibility to
-    use the results and pipes in other use cases and workflows - flexibility.
+  headline: "<span>Over 50 technologies</span> in just one contract/one invoice "
+  content: SQL, RStudio, Python, Spark, Snowflake, S3 and more within one contract,
+    in a single environment, provided to you as a service. Any scenarios and configurations
+    you can imagine are just one click away. Set up a separate project for each use
+    case. Solve the use case at hand, but have the flexibility to use the results
+    and pipes in other use cases and workflows.
   list:
   - descleft: "<strong>Procurement</strong>. Once you buy you have access to all the
       tools in the platform. No need for additional security or procurement permissions.
