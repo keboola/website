@@ -31,9 +31,10 @@ page_sections:
   list:
   - icotype: blue
     title: No More Complex ETLs
-    desc: Get the data and the best tools to create adhoc analyses right in your department
-      to improve your campaigns. You see every single line of code, each transition
-      and data stream.
+    desc: No need to define schemas - connect to thousands of sources and create new
+      connectors on the fly. Connect to countless 3rd party systems and integrate
+      them directly into your workflow, and you can access the data stored by Keboola
+      at any time.
     pictogram: "/uploads/blue1-1.svg"
   - icotype: blueright
     title: No Blackbox
