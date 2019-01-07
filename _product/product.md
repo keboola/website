@@ -27,7 +27,7 @@ page_sections:
 - template: article-list-two-row
   block: article-list-two-row
   subheadline: ALL IN ONE DATA ANALYTICS PLATFORM YOU CAN BUILD ON
-  headline: A new approach to embedded analytics
+  headline: A new approach to analytics
   list:
   - icotype: blue
     title: No More Complex ETLs
