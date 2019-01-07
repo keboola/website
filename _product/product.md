@@ -26,7 +26,7 @@ page_sections:
   ctalink: "/request-demo"
 - template: article-list-two-row
   block: article-list-two-row
-  subheadline: All in one container based data platform you can add to
+  subheadline: ALL IN ONE DATA ANALYTICS PLATFORM YOU CAN BUILD ON
   headline: A new approach to embedded analytics
   list:
   - icotype: blue
@@ -65,6 +65,13 @@ page_sections:
       to improve your campaigns. You see every single line of code, each transition
       and data stream.
     pictogram: "/uploads/whiteHole.svg"
+  content: Each company faces their own unique challenges, so why would you go with
+    the traditional closed, black box system? Choose Keboola instead. Keboola was
+    built to be universal, so instead of molding your needs to fit our system, our
+    system adapts to fit your needs. Keboola is the easy way to apply machine learning
+    and AI to automate your tasks, organize your data, and improve your operational
+    efficiency. Our system vast marketplace and network of data partners make all
+    this, and more, possible.
 - template: article-list-img
   block: article-list-img
   headline: Keboola works with the world’s best!
