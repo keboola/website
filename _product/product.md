@@ -150,11 +150,6 @@ page_sections:
   ctaname: See how to get the same solution
   ctalink: https://components.keboola.com
   img: "/uploads/geneeaLogo-1.png"
-- template: horizontal-rule
-  block: hr
-- template: recent-list
-  block: recent-list
-  headline: "<strong>Case Study</strong> Articles"
 - template: article-list-hp
   block: article-list-hp
   headline: Rock star data engineer left. Created great S3->RS + Python ... but now
@@ -165,5 +160,10 @@ page_sections:
     ever-changing requirements for tools, setup and data without the need to change
     the underlying infrastructure or deploy significant new IT resources to handle
     demands of DataScientist and “Citizen” data users across your organisation.
+- template: recent-list
+  block: recent-list
+  headline: "<strong>Case Study</strong> Articles"
+- template: horizontal-rule
+  block: hr
 
 ---
