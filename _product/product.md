@@ -55,9 +55,10 @@ page_sections:
       All user provisioning, no data volume limitations, no expensive maintenance cost.
     pictogram: "/uploads/greyFront.svg"
   - title: Secure and stable sandbox
-    desc: Get the data and the best tools to create adhoc analyses right in your department
-      to improve your campaigns. You see every single line of code, each transition
-      and data stream.
+    desc: 'Personal developer sandboxes and notebooks (SQL, RStudio, Python) with
+      data linked automatically from storage including model versioning.
+
+'
     icotype: gray
     pictogram: "/uploads/aqua.svg"
   - icotype: black
