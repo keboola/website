@@ -156,10 +156,7 @@ page_sections:
     we can’t do it ...
 - template: article-full
   block: article-full
-  content: With Keboola, you can support your business' data engineer's and data scientist's
-    ever-changing requirements for tools, setup and data without the need to change
-    the underlying infrastructure or deploy significant new IT resources to handle
-    demands of DataScientist and “Citizen” data users across your organisation.
+  content: ''
 - template: recent-list
   block: recent-list
   headline: "<strong>Case Study</strong> Articles"
