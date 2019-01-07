@@ -11,12 +11,15 @@ page_sections:
   subheadlinesecond: End to end Solution
 - template: article-full
   block: article-full
-  subheadline: No setup! One click and you work!
-  headline: Keboola puts you in control of your data
-  content: Bringing Data Engineering and Data Analytics together in one single platform
-    that anyone can use via UI or API. One click managed infrastructure, all people
-    provisioning, process automation - one platform. ML based solutions that provide
-    predictive support, automatic data set ..., one click scaffolding and much more.
+  subheadline: Keboola puts you in control of your data.
+  headline: Platform  for your Data Analytics
+  content: 'Keboola brings data engineering and data analytics together on one single
+    platform that anyone can use through UI or API. One click managed infrastructure,
+    data hub, users provisioning, process automation - all rolled into one platform.
+    Machine learning based solutions provide predictive support, one click scaffolding
+    and so much more! No setup required! One click and you ready to go!
+
+'
 - template: ask-demo
   block: ask-demo
   ctaname: Ask for a demo
