@@ -87,9 +87,9 @@ page_sections:
   block: review
   list:
   - name: CIO OF MAJOR FINANCIAL INSTITUTION
-    desc: Keboola connection is visionary product that will standardise in the future
+    desc: Keboola Connection is visionary product that will standardise in the future
       how companies and their employees are accessing and working with data. Data
-      democracy and data driven company = Keboola connection.
+      democracy and data driven company = Keboola Connection.
 - template: article-list-one-row
   block: article-list-one-row
   headline: Finance
