@@ -50,9 +50,9 @@ page_sections:
     pictogram: "/uploads/grey.svg"
   - title: Data Lake & DwH
     icotype: yellowright
-    desc: Get the data and the best tools to create adhoc analyses right in your department
-      to improve your campaigns. You see every single line of code, each transition
-      and data stream.
+    desc: |-
+      Instant API/UX access to Data lake, structured storage, real-time analytical datawarehouses for your teams, processed data storage and data catalogs.
+      All user provisioning, no data volume limitations, no expensive maintenance cost.
     pictogram: "/uploads/greyFront.svg"
   - title: Secure and stable sandbox
     desc: Get the data and the best tools to create adhoc analyses right in your department
