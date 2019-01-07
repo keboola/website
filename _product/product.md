@@ -38,9 +38,9 @@ page_sections:
     pictogram: "/uploads/blue1-1.svg"
   - icotype: blueright
     title: No Blackbox
-    desc: Get the data and the best tools to create adhoc analyses right in your department
-      to improve your campaigns. You see every single line of code, each transition
-      and data stream.
+    desc: Open and fully customizable system. Seriously, we're not kidding. You can
+      see every single line of code, every little job payload, and all the data streams
+      your heart desires. Fully customizable.
     pictogram: "/uploads/black3.svg"
   - icotype: yellow
     title: Automation
