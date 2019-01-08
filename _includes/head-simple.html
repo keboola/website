@@ -7,18 +7,29 @@
 
 	{% if page.url == '/' %}<title>{{ page.title }}</title>
 	{% else %}<title>{{ page.title }} - Keboola</title>{% endif %}
-	<meta name="description" content="">
-	<meta name="author" content="">
+	
+	<meta name="description" content="Keboola brings people together  from Excel to AI with lightning speed.">
+	<meta name="author" content="r4ms3s.cz">
 	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
 
-	<meta property="og:title" content="" />
-	<meta property="og:type" content="website" />
-	<meta property="og:image" content="" />
+	{% if page.url == '/' %}<meta property="og:title" content="Keboola">
+	{% else %}<meta property="og:title" content="{{ page.title }} - Keboola">{% endif %}
+	<meta property="og:url" content="https://www.keboola.com{{ page.url }}">
+	<meta property="og:description" content="Keboola brings people together  from Excel to AI with lightning speed.">
+	<meta property="og:image" content="https://www.keboola.com/img/ogImg.jpg">
+	
+	{% if page.url == '/' %}<meta property="twitter:title" content="Keboola papers">
+	{% else %}<meta property="twitter:title" content="{{ page.title }} - Keboola papers">{% endif %}
+  	<meta name="twitter:url" content="https://www.keboola.com{{ page.url }}"/>
+  	<meta name="twitter:description" content="Keboola brings people together  from Excel to AI with lightning speed."/>
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image" content="https://www.keboola.com/img/ogImg.jpg"/>
+	<meta name="twitter:site" content="@keboola">
 
 	<link rel="stylesheet" href="/css/style.css?v=14">
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,700">
-	{% comment %}<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400">{% endcomment %}
+
+	<script src="/js/libs/modernizr.js"></script>
 
 </head>
 <body>

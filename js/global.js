@@ -257,69 +257,35 @@
             cssEase: 'linear'
         });
 
-        /*hpmaingoal.on('wheel', (function(e) {
-            
-
-            var actslide = $(this).slick('slickCurrentSlide');
-
-            console.log(actslide);
-
-            if (actslide == (count - 1)) {
-                return true;
-
-            } else {
-                e.preventDefault();
+        if (!Modernizr.touchevents) {
+            hpmaingoal.on('wheel', (function(e) {
+                var actslide = $(this).slick('slickCurrentSlide');
 
                 if (e.originalEvent.deltaY < 0) {
-                    //$(this).slick('slickNext');
-                    $(this).slick('slickPrev');
-                } else {
-                    $(this).slick('slickNext');
-                    //$(this).slick('slickPrev');
-                }
-            }
-        }));*/
+                    if (actslide == 0) {
+                        return true;
 
-        hpmaingoal.on('wheel', (function(e) {
-            var actslide = $(this).slick('slickCurrentSlide');
+                    } else {
+                        e.preventDefault();
 
-            if (e.originalEvent.deltaY < 0) {
-                if (actslide == 0) {
-                    return true;
+                        $(this).slick('slickPrev');
+                        return false;
+                    }
 
                 } else {
-                    e.preventDefault();
+                    if (actslide == (count - 1)) {
+                        return true;
 
-                    $(this).slick('slickPrev');
+                    } else {
+                        e.preventDefault();
+
+                        $(this).slick('slickNext');
+                        return false;
+                    }
                 }
-
-            } else {
-                if (actslide == (count - 1)) {
-                    return true;
-
-                } else {
-                    e.preventDefault();
-
-                    $(this).slick('slickNext');
-                }
-            }
-
-            console.log(actslide);
-
-            
-        }));
-
-        /*
-        hpmaingoal.on('beforeChange', function(event, slick, currentSlide, nextSlide){
-            
-            
-            if (nextSlide == 0 || nextSlide == (count - 1)) {
-                //hpmaingoal.off('wheel');
-            } else {
-
-            }
-            
-        });*/
+                
+            }));
+        }
 
     };
 
