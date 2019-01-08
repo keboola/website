@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="541px" viewBox="0 0 1280 541" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#607C9C" offset="0%"></stop>
+            <stop stop-color="#35475B" offset="22.1969385%"></stop>
+            <stop stop-color="#35475B" offset="75.232016%"></stop>
+            <stop stop-color="#212F3F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.3">
+        <g id="404" transform="translate(-200.000000, -423.000000)" fill="url(#linearGradient-1)">
+            <g id="Group" transform="translate(200.000000, 423.000000)">
+                <path d="M341.653742,329.509333 L396.615431,329.509333 L423.65064,426.063652 L341.653742,426.063652 L341.653742,540.814745 L216.504491,540.814745 L216.504491,426.063652 L7.42725526,426.063652 L5.68434189e-14,349.562923 L216.504491,1.22465103 L216.504491,0.110562741 L341.653742,0.110562741 L341.653742,329.509333 Z M119.207447,329.509333 L216.504491,329.509333 L216.504491,163.138816 L208.705873,175.76515 L119.207447,329.509333 Z M1224.35332,329.509333 L1279.31501,329.509333 L1279.31501,426.063652 L1224.35332,426.063652 L1224.35332,540.814745 L1099.20407,540.814745 L1099.20407,426.063652 L876.609229,426.063652 L882.699578,349.562923 L1099.20407,1.22465103 L1099.20407,0.110562741 L1224.35332,0.110562741 L1224.35332,329.509333 Z M1001.90703,329.509333 L1099.20407,329.509333 L1099.20407,163.138816 L1091.40545,175.76515 L1001.90703,329.509333 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
