@@ -86,8 +86,8 @@ page_sections:
   block: hr
 - template: article-full
   block: article-full
-  subheadline: no more procurement night mare
-  headline: "<span>Over 50 technologies</span> in just one contract/one invoice "
+  subheadline: no more procurement nightmare
+  headline: "<span>Over 50 technologies</span> in just one contract"
   content: SQL, RStudio, Python, Spark, Snowflake, S3 and more within one contract,
     in a single environment, provided to you as a service. Any scenarios and configurations
     you can imagine are just one click away. Set up a separate project for each use
