@@ -121,12 +121,12 @@ page_sections:
       habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 - template: article-full
   block: article-full
-  content: Use the tools you know from desktop environments in the cloud with the
-    knowledge of thousands of other users are empowering our machine learning and
-    helping you with mundane tasks. If you ever need help, professional support is
-    just one click away!
-  headline: Bringing data to users across your organisation
-  subheadline: business based on data
+  content: Use the tools you know from desktop environments in the cloud. The knowledge
+    of thousands of other users are empowering our machine learning and helping you
+    with mundane tasks. If you ever need help, professional support is just one click
+    away!
+  headline: Bringing data to users across your organization
+  subheadline: your business based on data
 - template: article-list-table
   block: article-list-table
   tablehead:
