@@ -254,7 +254,15 @@
             fade: true,
             verticalSwiping: true,
             //autoplay: true,
-            cssEase: 'linear'
+            cssEase: 'linear',
+            responsive: [
+                {
+                    breakpoint: 1025,
+                    settings: {
+                        verticalSwiping: false
+                    }
+                }
+            ]
         });
 
         if (!Modernizr.touchevents) {
