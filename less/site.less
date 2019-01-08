@@ -4078,6 +4078,40 @@ section{
   }
   .placeholder(#A7ADB3);
 
+  select{
+    padding:10px;
+    width:100%;
+    border:2px solid #EAF0F6;
+    #font > #family > .sans-serif();
+    .font-size(18, 30px);
+    color:#233141;
+    text-align:center;
+
+    overflow:hidden;
+    overflow-x:hidden;
+    overflow-y:hidden;
+
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    outline:none;
+    cursor:pointer;
+  }
+  option{
+    padding:10px 5px;
+    .font-size(18, 30px);
+    background:@white;
+    
+    &:focus{
+      color:#233141;
+      background:@white;
+    }
+    &:checked{
+      color:#228DFF;
+      background:@white;
+    }
+  }
+
   .hs-submit .actions{
     input{
       display:block;
