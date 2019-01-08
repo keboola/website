@@ -101,8 +101,8 @@ page_sections:
     descright: "<strong>Promise</strong>. Used by banks and auditors, completely secure,
       GDPR compliant. We believe so firmly that Keboola is the best that we've set
       up our system so that if you're ever unsatisfied, you can leave anytime with
-      no hassle. With us, there isn't any vendor lock; we only keep your business
-      if you're happy. "
+      no hassle. With us, there isn't any vendor lock! We only keep your business
+      if you're happy."
 - template: horizontal-rule
   block: hr
 - template: article-full
