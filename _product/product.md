@@ -6,8 +6,8 @@ page_sections:
 - template: header-product
   block: header-product
   subheadline: It is complicated to take care of it and distribute it to the users
-  headline: "<strong>Data Analytics Stacks are always changing</strong>"
-  headlinesecond: "<strong>Data Analytics Stack can be easy</strong>"
+  headline: "<strong>Data analytics stacks are always changing</strong>"
+  headlinesecond: "<strong>Data analytics stacks can be easy</strong>"
   subheadlinesecond: End to end Solution
 - template: article-full
   block: article-full
