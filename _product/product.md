@@ -67,13 +67,12 @@ page_sections:
       business, including single click services  on/off modules you really need. Total
       control of performance, efficiency and spend.
     pictogram: "/uploads/whiteHole.svg"
-  content: Each company faces their own unique challenges, so why would you go with
-    the traditional closed, black box system? Choose Keboola instead. Keboola was
-    built to be universal, so instead of molding your needs to fit our system, our
-    system adapts to fit your needs. Keboola is the easy way to apply machine learning
-    and AI to automate your tasks, organize your data, and improve your operational
-    efficiency. Our system vast marketplace and network of data partners make all
-    this, and more, possible.
+  content: Each company faces unique challenges, so why would you go with the traditional,
+    closed, black box system? Choose Keboola instead! Keboola was built to be universal
+    so instead of molding your needs to fit our system, our system adapts to fit your
+    needs. Keboola is the easy way to apply machine learning and AI to automate your
+    tasks, organize your data, and improve your operational efficiency. Our marketplace
+    and network of data partners make all this, and more, possible.
 - template: article-list-img
   block: article-list-img
   headline: Keboola works with the world’s best!
