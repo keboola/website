@@ -243,7 +243,9 @@
     // HP MAIN GOALS - SLIDER
     r4.utils.hpgoalsslider = function(w){
 
-        $('.hp-main-goals-content').slick({
+        const hpmaingoal = $('.hp-main-goals-content');
+
+        hpmaingoal.slick({
             arrows: false,
             dots: true,
             infinite: true,
@@ -253,6 +255,17 @@
             //autoplay: true,
             cssEase: 'linear'
         });
+        hpmaingoal.on('wheel', (function(e) {
+            e.preventDefault();
+
+            if (e.originalEvent.deltaY < 0) {
+                //$(this).slick('slickNext');
+                $(this).slick('slickPrev');
+            } else {
+                $(this).slick('slickNext');
+                //$(this).slick('slickPrev');
+            }
+        }));
 
     };
 
