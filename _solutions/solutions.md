@@ -76,12 +76,12 @@ page_sections:
     title: McPen
     desc: Data Driven Management means each and every employee has the right information
       to behave effectively and to earn more money.
-    pictogram: "/uploads/quote-2.svg"
+    pictogram: "/uploads/box_mcpen.svg"
   - title: Pietro Filipi
     icotype: black
     desc: Revenue reporting, inventory, basic reports for e-commerce, NPS, logistics,
       and warehouse management within two weeks!
-    pictogram: "/uploads/quote-3.svg"
+    pictogram: "/uploads/box_pietro.svg"
   subheadline: industry
 - template: review
   block: review
