@@ -6,8 +6,7 @@ date: 2018-11-02 15:11:44 +0000
 page_sections:
 - template: header-blue
   block: header-blue
-  subheadline: <a href="https://en.wikipedia.org/wiki/Doge_(meme)#/media/File:Original_Doge_meme.jpg"
-    target="_blank">such DATA, so big, WOW</a>
+  subheadline: such DATA, so big, WOW
   headline: This is Keboola!
   content: ''
 - template: article-with-perex
