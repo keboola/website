@@ -4297,29 +4297,81 @@ section{
   vertical-align:middle;
   .c;
 
+  &:hover{
+    .page-error-moon-content{
+      .rotateY(180deg);
+    }
+  }
   .globe{
     position:relative;
     float:left;
     .sq(100%);
     z-index:5;
   }
-  .moon{
-    position:absolute;
-    left:100%;
-    top:50%;
-    margin-top:-100px;
-    margin-left:-80px;
-    .sq(200px);
-    .rotate(45deg);
-    z-index:10;
-    .c;
+}
 
-    img{
-      float:left;
-      .sq(100%);
-    }
+.page-error-moon{
+  position:absolute;
+  left:100%;
+  top:50%;
+  margin-top:-100px;
+  margin-left:-80px;
+  .sq(200px);
+  .rotate(45deg);
+  perspective:1000px;
+  z-index:10;
+}
+.page-error-moon-content{
+  position:relative;
+  .sq(100%);
+  
+  .transition(0.6s);
+  transform-style: preserve-3d;
+  
+  .moon-content,
+  .space-program{
+    position:absolute;
+    left:0;
+    top:0;
+    .sq(100%);
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:200px 200px;
+    backface-visibility: hidden;
+  }
+  .moon-content{
+    background-image:url(../img/page-error-404-moon.png);
+
+    .rotateY(0deg);
+    z-index: 2;
+  }
+  .space-program{
+    background-image:url(../img/page-error-404-space-program.svg);
+    background-color:#324155;
+
+    .border-radius(100px);
+
+    .rotateY(180deg);
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
