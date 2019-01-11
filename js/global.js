@@ -414,6 +414,15 @@
 
 
 
+        // ERROR 404 - GLOBE 
+        $('.globe-img').on('click', function(e){
+            e.preventDefault();
+
+            $('.globe-img').toggleClass('show-globe');
+        });
+
+
+
         // SHARE FACEBOOK
         $('.share-btn-fb').on('click', function(e){
             e.preventDefault();
