@@ -150,8 +150,6 @@
             },
             sly = new Sly(slider, options);
             sly.init();
-            
-
 
 
         // SLIDER - RESIZE
