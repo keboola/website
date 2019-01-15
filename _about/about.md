@@ -124,6 +124,7 @@ page_sections:
   - title: Press Kit
     ctaname: Download
     background: "/uploads/pressKit-1.jpg"
+    ctalink: "/data/pressKit.zip"
 - template: article-about-office
   block: article-about-office
   list:
