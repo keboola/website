@@ -84,9 +84,9 @@ page_sections:
     background: "/uploads/illu3.svg"
   - background: "/uploads/illu4.svg"
     title: "Security means\L everything to us"
-    desc: "<p>Your data is valuable, so we guard it very carefully. All data is HIPAA
-      grade secured, and we meticulously log all user actions for your complete peace
-      of mind.</p>"
+    desc: "<p>Your data is valuable, so we guard it very carefully. All data is HIPAA-grade
+      secured, and we meticulously log all user actions for your complete peace of
+      mind.</p>"
   - title: "No more \Lvendor lock-in"
     desc: "<p>We intentionally made Keboola completely transparent and open box so
       you can improve and build on top of existing work. We’re so confident that you’ll
