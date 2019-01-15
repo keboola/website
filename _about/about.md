@@ -137,8 +137,8 @@ page_sections:
       <br>(+1 604 560 6333)</p>"
     mapslink: https://goo.gl/maps/wEF9aDGmuQt
   - name: LONDON
-    address: "<p>Work.Life Clerkenwell<br>20 Jerusalem Passage<br>London EC1V 4JP<br>United
-      Kingdom<br>(+44 747 626 8512)</p>"
+    address: "<p>WeWork<br>1 Poultry<br>London EC2R 8EJ<br>United Kingdom<br>(+44
+      747 626 8512)</p>"
     mapslink: https://goo.gl/maps/5dQbZKbtV4z
   - name: PRAGUE
     address: "<p>Křižíkova 488/115 <br>Prague 8 <br>186 00 <br>Czech Republic <br>(+420
