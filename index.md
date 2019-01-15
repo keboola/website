@@ -28,8 +28,8 @@ page_sections:
   - link: ''
     icotype: blue
     title: INTEGRATION
-    desc: Get the data and the best tools to create adhoc analysis right in your department
-      to improve your campaigns.
+    desc: Get the data and the best tools to create ad-hoc analysis right in your
+      department to improve your campaigns.
   - link: ''
     icotype: yellowright
     title: ANALYTICS
