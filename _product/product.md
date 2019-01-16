@@ -45,7 +45,7 @@ page_sections:
   - icotype: yellow
     title: Automation
     desc: Handles complicated processes and trigger actions from other SaaS apps and
-      legacy systems like CRM, mailing, ERP, SupplyChain or BI apps.
+      legacy systems like CRMs, mailing, ERP, SupplyChain or BI apps.
     pictogram: "/uploads/grey.svg"
   - title: Data Lake & DwH
     icotype: yellowright
