@@ -39,7 +39,7 @@ page_sections:
     future endeavours inside or outside of Keboola. Keboola exists to help our customers
     build better businesses, increase profitability, and make better decisions. Keboola
     employees help Keboola, by being honest, entrepreneurial, daring to learn, helping
-    each other prosper, and thus, helping ourselves.
+    each other prosper, and thus, helping themselves.
 - template: article-about-founder
   block: article-about-founder
   list:
