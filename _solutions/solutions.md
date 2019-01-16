@@ -27,9 +27,9 @@ page_sections:
   block: review
   list:
   - name: DYNAMIC PRICING
-    desc: Major EU retailer has used Keboola to integrate data, build metrics and
-      data catalogues and invite external consultancy to collaborate on creation of
-      dynamic pricing models that were deployed within weeks through the same infrastructure.
+    desc: A major EU retailer has used Keboola to integrate data, build metrics and
+      data catalogs and invite external consultants to collaborate on the creation
+      of dynamic pricing models that were deployed within weeks through the same infrastructure.
   - name: LOGISTICS
     desc: Major competitor to Tesco has used Keboola as a datahub and data analytics
       and automation system and is measuring and automating data in the whole chain
