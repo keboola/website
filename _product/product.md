@@ -49,9 +49,8 @@ page_sections:
     pictogram: "/uploads/grey.svg"
   - title: Data Lake & DwH
     icotype: yellowright
-    desc: |-
-      Instant API/UX access to Data lake, structured storage, real-time analytical datawarehouses for your teams, processed data storage and data catalogs.
-      All user provisioning, no data volume limitations, no expensive maintenance cost.
+    desc: Instant API/UI access to your data, structured storage, real-time analytical
+      data warehouses and data catalogs.
     pictogram: "/uploads/greyFront.svg"
   - title: Secure and stable sandbox
     desc: 'Personal developer sandboxes and notebooks (SQL, RStudio, Python) with
