@@ -15,9 +15,8 @@ page_sections:
   content: Today's world is dominated by tech companies like Amazon, Google, and Facebook.
     To succeed in the business world, you have to be faster, cheaper, and more precise
     than the competition. If you could tap into knowledge waiting for you in your
-    underutilized data and use it effectively across all the departments of your business,
-    you could make better, more coordinated decisions in a fraction of the time it
-    used to take.
+    data and use it effectively across departments  you could make better, more coordinated
+    decisions in a fraction of the time it used to take.
 - template: horizontal-rule
   block: hr
 - template: article-list-hp
