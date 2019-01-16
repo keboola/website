@@ -69,8 +69,8 @@ page_sections:
     desc: From company operations to data driven customer experience and marketing.
     pictogram: "/uploads/box_slevomat.svg"
   - title: Lékárna.cz
-    desc: From our daily operations to our marketing campaigns, we know how to grow
-      again. We work in a transparent way that everyone respects and trusts.
+    desc: '"From our daily operations to our marketing campaigns, we know how to grow
+      again. We work in a transparent way that everyone respects and trusts."'
     icotype: blueright
     pictogram: "/uploads/box_lekarna.svg"
   - icotype: yellow
