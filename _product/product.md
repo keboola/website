@@ -5,7 +5,7 @@ permalink: "/product/"
 page_sections:
 - template: header-product
   block: header-product
-  subheadline: It is complicated to take care of it and distribute it to the users
+  subheadline: It is complicated to take care of it and distribute data to the users
   headline: "<strong>Data analytics stacks are always changing</strong>"
   headlinesecond: "<strong>Data analytics stacks can be easy</strong>"
   subheadlinesecond: End to end Solution
