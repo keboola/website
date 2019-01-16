@@ -56,10 +56,10 @@ page_sections:
     pictogram: "/uploads/blue1.svg"
   - title: Automatic platform scaling
     desc: You write the advanced logic app. We take care of automatic infrastructure
-      provisioning and scaling
+      provisioning and scaling.
     icotype: yellow
     pictogram: "/uploads/blueSide.svg"
-  - desc: Your application get listed in our appstore with automatic billing.
+  - desc: Your application gets listed in our app store with automatic billing.
     title: AppStore
     icotype: blueright
     pictogram: "/uploads/yellow2.svg"
