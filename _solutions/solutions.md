@@ -58,11 +58,11 @@ page_sections:
   block: article-list-two-row
   headline: Retail
   content: In the heart of retail is purchase and warehouse management, through store
-    locations sales/same store comparisons, throughput and connection to customized
-    CRM activities in marketing modern retail operations are very data heavy. The
-    challenge is to not only connect all the data from internal system, 3rd party
-    system and create a single view of customer, but allow collaboration through every
-    department and always measure profitability of the whole customer journey.
+    locations sales, same store comparisons, and connection to customized CRM activities,
+    marketing modern retail operations are very data heavy. The challenge is to not
+    only connect all the data from internal system, 3rd party system and create a
+    single view of customer, but allow collaboration through every department and
+    always measure profitability of the whole customer journey.
   list:
   - icotype: blue
     title: Slevomat.cz
