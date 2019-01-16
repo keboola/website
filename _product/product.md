@@ -54,7 +54,7 @@ page_sections:
     pictogram: "/uploads/greyFront.svg"
   - title: Secure and stable sandbox
     desc: 'Personal developer sandboxes and notebooks (SQL, RStudio, Python) with
-      data linked automatically from storage including model versioning.
+      data linked automatically from storage, including model versioning.
 
 '
     icotype: gray
