@@ -103,7 +103,7 @@ page_sections:
   block: hr
 - template: article-full
   block: article-full
-  content: With Keboola, you can support your business' data engineer's and data scientist's
+  content: With Keboola, you can support your business' data engineers and data scientists
     ever-changing requirements for tools, setup and data without the need to change
     the underlying infrastructure or deploy significant new IT resources.
   headline: '"We had a great data pipeline using S3, Redshift, and Python, but our
