@@ -64,8 +64,8 @@ page_sections:
     icotype: blueright
     pictogram: "/uploads/yellow2.svg"
   - icotype: gray
-    desc: Reach Keboola customers and become part of our growing community. See list
-      of components
+    desc: Reach Keboola customers and become part of our growing community. See the
+      list of components.
     title: Developer support
     link: https://components.keboola.com/components
     pictogram: "/uploads/black2.svg"
