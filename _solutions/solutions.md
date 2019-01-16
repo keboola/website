@@ -15,13 +15,14 @@ page_sections:
 - template: article-full
   block: article-full
   subheadline: According to <a href="https://hbr.org/2018/02/big-companies-are-embracing-analytics-but-most-still-dont-have-a-data-driven-culture">Hbr.org</a>
-  headline: DataDriven companies have 30% higher EBITDA!
-  content: Aggregating data from internal dwh, external sources and bringing analytics
-    driven behaviour into every department should be easy! That’s when our complex
-    analytics solution comes in. Using Keboola data analytics platform companies have
-    solved all kinds of challenges from dynamic pricing, KPI reportings available
-    to whole company, same store predictions, predictive restocking, logistic in real
-    time or enabling all departments to work on the same data at the same time.
+  headline: Data Driven companies have 30% higher EBITDA!
+  content: Aggregating data from internal data warehouse, external sources and bringing
+    analytics driven behaviour into every department should be easy! That’s when our
+    complex analytics solution comes in. Using Keboola data analytics platform, companies
+    have solved all kinds of challenges from dynamic pricing, KPI reporting available
+    to the whole company, same store predictions, predictive restocking, logistics
+    in real time or enabling all departments to work on the same data at the same
+    time.
 - template: review
   block: review
   list:
