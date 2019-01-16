@@ -8,9 +8,9 @@ page_sections:
   block: header-blue
   subheadline: Extend Keboola
   headline: Bring your code
-  content: Keboola is a data hub integration and analytics platform packaged as a
-    service! It extracts, transforms and enhances data for machine or analytic consumption
-    by providing an infrastructure for your data science team.
+  content: Keboola provides all the infrastructure you need to do what you want with
+    data. SQL, Python, R, Spark, PHP, Ruby, it doesn't matter! Docker infrastructure
+    is in place for all your data engineers and data scientists.
 - template: article-with-perex
   block: article-with-perex
   subheadline: Power to scale
