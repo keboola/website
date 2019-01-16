@@ -43,9 +43,9 @@ page_sections:
     desc: Pietro Filipi has gone from a bunch of old IT systems to a company wide
       out of stock reports in 7 days!  Increasing profitability by tens of percent!
   - name: GOING BEYOND TRADITIONAL DWH - ENABLING CITIZEN USERS
-    desc: "MallGroup Europa’s leading retail in 6 countries has enabled analytics
-      through Keboola to all departments from logistics to customer success and marketing
-      within two months. \n"
+    desc: MallGroup, Europa’s leading retail, in 6 countries has enabled analytics
+      to all departments from logistics to customer success and marketing within two
+      months.
 - template: article-list-hp
   block: article-list-hp
   headline: Get all your data, act on it immediately! Increase profit and market share.
