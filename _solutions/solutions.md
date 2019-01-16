@@ -31,10 +31,10 @@ page_sections:
       data catalogs and invite external consultants to collaborate on the creation
       of dynamic pricing models that were deployed within weeks through the same infrastructure.
   - name: LOGISTICS
-    desc: Major competitor to Tesco has used Keboola as a datahub and data analytics
-      and automation system and is measuring and automating data in the whole chain
-      from pickers in warehouse, customer response, planing delivery routes to multichannel
-      marketing. Growing hundred percent faster then closest competitors.
+    desc: A major competitor to Tesco has used Keboola as a data hub and is measuring
+      the whole chain from pickers in the warehouse, customer response and planning
+      delivery routes to multichannel marketing. They grew a hundred percent faster
+      than the closest competitors.
   - name: MULTICHANNEL MARKETING
     desc: Major world shoe producer has been using Keboola to integrate all of the
       omnichannel data, created machine learning segmentations and orchestrates campaigns
