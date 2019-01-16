@@ -139,7 +139,7 @@ page_sections:
     valuenew: '1'
   - name: Price
     valueold: "$100K"
-    valuenew: "$1K"
+    valuenew: "$10K"
   - name: Changes
     valueold: Days or weeks
     valuenew: Minutes
