@@ -87,9 +87,8 @@ page_sections:
   headline: "<span>Over 50 technologies</span> in just one contract"
   content: SQL, RStudio, Python, Spark, Snowflake, S3 and more within one contract,
     in a single environment, provided to you as a service. Any scenarios and configurations
-    you can imagine are just one click away. Set up a separate project for each use
-    case. Solve the use case at hand, but have the flexibility to use the results
-    and pipes in other use cases and workflows.
+    you can imagine are just one click away. Solve the use case at hand, but have
+    the flexibility to use the results and pipes in other use cases and workflows.
   list:
   - descleft: "<strong>Procurement</strong>. You get access to all the tools Keboola
       has to offer the moment you purchase. No need for additional security or procurement
