@@ -75,8 +75,8 @@ page_sections:
     pictogram: "/uploads/box_lekarna.svg"
   - icotype: yellow
     title: McPen
-    desc: Data Driven Management means each and every employee has the right information
-      to behave effectively and to earn more money.
+    desc: Each and every employee has the right information to behave effectively
+      to earn more money.
     pictogram: "/uploads/box_mcpen.svg"
   - title: Pietro Filipi
     icotype: black
