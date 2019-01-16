@@ -95,9 +95,9 @@ page_sections:
   block: article-list-one-row
   headline: Finance
   content: From aggregating data from disperse legacy banking systems, to helping
-    your marketing to create single view of customer, drive data driven marketing
-    effort to modern collaboration of your risk department on agile risk assessments,
-    Keboola platform supports you.
+    your marketing to create a single view of customer, drive data driven marketing
+    to modern collaboration of your risk department on agile risk assessments, Keboola
+    platform supports you.
   list: []
   subheadline: industry
 - template: article-gray-box
