@@ -61,9 +61,9 @@ page_sections:
     pictogram: "/uploads/aqua.svg"
   - icotype: black
     title: Serverless
-    desc: Built as a micro-service architecture, running on AWS. You use only parts
-      that suit your business, including single click services  on/off modules you
-      really need. Total control of performance, efficiency and spend.
+    desc: Built as a micro-service architecture running on AWS. You use only parts
+      that suit your business, including single click services you really need. Total
+      control of performance, efficiency and spend.
     pictogram: "/uploads/whiteHole.svg"
   content: Each company faces unique challenges, so why would you go with the traditional,
     closed, black box system? Choose Keboola instead! Keboola was built to be universal
