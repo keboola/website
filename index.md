@@ -103,7 +103,7 @@ page_sections:
   - name: Vinh Buu, Manager of Shopper Data at Ivanhoe Cambridge
     desc: Keboola allows us to integrate data from proprietary platforms and correlate
       them with data from industry-leading solutions. Keboola is a facilitator to
-      the business in our quest to gain market intelligence.I see Keboola as an extension
+      the business in our quest to gain market intelligence. I see Keboola as an extension
       of our team.
   - name: Danny Walsh, VP of Reporting and Analytics at Firehouse Subs
     desc: Working with Keboola has changed how we look at data. By giving franchisees
