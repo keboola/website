@@ -36,10 +36,9 @@ page_sections:
       delivery routes to multichannel marketing. They grew a hundred percent faster
       than the closest competitors.
   - name: MULTICHANNEL MARKETING
-    desc: Major world shoe producer has been using Keboola to integrate all of the
-      omnichannel data, created machine learning segmentations and orchestrates campaigns
-      from Keboola to Silverpop, web and online advertising with reported over 20%
-      increase in work efficiency.
+    desc: A major world shoe producer has been using Keboola to integrate all of the
+      omnichannel data, create machine learning segmentation and orchestrate campaigns
+      from Silverpop. This resulted in 20% increase in work efficiency.
   - name: OUT OF STOCK REPORTS IN 7 DAYS
     desc: Pietro Filipi has gone from bunch of old IT systems to company wide out
       off stock reports in 7days!  Increasing profitability by tens of percent!
