@@ -40,8 +40,8 @@ page_sections:
       omnichannel data, create machine learning segmentation and orchestrate campaigns
       from Silverpop. This resulted in 20% increase in work efficiency.
   - name: OUT OF STOCK REPORTS IN 7 DAYS
-    desc: Pietro Filipi has gone from bunch of old IT systems to company wide out
-      off stock reports in 7days!  Increasing profitability by tens of percent!
+    desc: Pietro Filipi has gone from a bunch of old IT systems to a company wide
+      out of stock reports in 7 days!  Increasing profitability by tens of percent!
   - name: GOING BEYOND TRADITIONAL DWH - ENABLING CITIZEN USERS
     desc: "MallGroup Europa’s leading retail in 6 countries has enabled analytics
       through Keboola to all departments from logistics to customer success and marketing
