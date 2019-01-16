@@ -102,7 +102,7 @@ page_sections:
   subheadline: industry
 - template: article-gray-box
   block: article-gray-box
-  headline: Hello Bank!
+  headline: Hello bank!
   content: When we had all the data aggregated in Excel, we couldn’t continue verifying
     and investigating details and new connections. What’s more, we lacked proper visualization...
   subheadline: Classic corporate BI tools would be  financial suicide for us
