@@ -48,7 +48,8 @@ page_sections:
       months.
 - template: article-list-hp
   block: article-list-hp
-  headline: Get all your data, act on it immediately! Increase profit and market share.
+  headline: Get all your data and act on it immediately! Increase profits and market
+    share.
 - template: ask-demo
   block: ask-demo
   ctaname: Take the 7 day challenge!
