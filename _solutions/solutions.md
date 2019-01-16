@@ -80,8 +80,8 @@ page_sections:
     pictogram: "/uploads/box_mcpen.svg"
   - title: Pietro Filipi
     icotype: black
-    desc: Revenue reporting, inventory, basic reports for e-commerce, NPS, logistics,
-      and warehouse management within two weeks!
+    desc: Revenue reporting, inventory, NPS, logistics, and warehouse management within
+      two weeks!
     pictogram: "/uploads/box_pietro.svg"
   subheadline: industry
 - template: review
