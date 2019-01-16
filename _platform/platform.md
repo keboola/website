@@ -34,7 +34,7 @@ page_sections:
   - title: Software Orchestration
     desc: The kernel which allows us to connect infrastructure services with your
       workflows, code and external applications in one seamless workflow. This layer
-      makes sure everything works together, is flexible, auto scales.
+      makes sure everything works together, is flexible, and auto scales.
   - title: Infrastructure
     desc: Most valuable parts of the infrastructure that are needed for integration
       and analytics journey, wrapped with our APIs and made ready to be usable via
