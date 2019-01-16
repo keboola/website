@@ -72,7 +72,7 @@ page_sections:
     so instead of molding your needs to fit our system, our system adapts to fit your
     needs. Keboola is the easy way to apply machine learning and AI to automate your
     tasks, organize your data, and improve your operational efficiency. Our marketplace
-    and network of data partners make all this, and more, possible.
+    and network of data partners make all this possible.
 - template: article-list-img
   block: article-list-img
   headline: Keboola works with the world’s best!
