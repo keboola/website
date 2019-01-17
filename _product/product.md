@@ -137,7 +137,7 @@ page_sections:
   - name: Team size
     valueold: 10+
     valuenew: '1'
-  - name: Price
+  - name: Cost
     valueold: "$$$"
     valuenew: "$"
   - name: Changes
