@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: blocks
-permalink: "/about/"
+permalink: "/contact/"
 date: 2018-11-02 15:11:44 +0000
 page_sections:
 - template: header-blue
