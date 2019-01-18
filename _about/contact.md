@@ -11,10 +11,10 @@ page_sections:
   content: ''
 - template: ask-demo
   block: ask-demo
-  headline: We appreciate the curious and creative!
-  ctaname: See open positions in Keboola
-  ctalink: https://www.linkedin.com/jobs/search/?f_C=1833529&locationId=OTHERS.worldwide
-  newwindow: true
+  headline: Lets talk right now!
+  ctaname: Contact us!
+  ctalink: https://www.keboola.com/contact-sales
+  newwindow: false
 - template: article-about-office
   block: article-about-office
   list:
