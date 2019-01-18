@@ -1,10 +1,11 @@
 host: 127.0.0.1
 port: 4004
-#url: "https://www.keboola.com"
-url: "https://confident-lovelace-ce6a6c.netlify.com"
+url: "https://www.keboola.com"
+#url: "https://confident-lovelace-ce6a6c.netlify.com"
 permalink: :title
 future: true
 highlighter: true
+include: ['_redirects']
 exclude: ['Rakefile.rb', 'CNAME', 'README.md', 'config.codekit3', 'Gemfile*', 'less', 'js/global.js']
 plugins:
   - jekyll-sitemap
