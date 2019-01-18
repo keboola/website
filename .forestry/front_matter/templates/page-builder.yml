@@ -40,6 +40,7 @@ fields:
   - recent-list
   - hp-main-goals
 pages:
+- _about/contact.md
 - _product/pricing.md
 - _product/keboola-way.md
 - _product/etl-elt.md
