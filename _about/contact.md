@@ -34,6 +34,5 @@ page_sections:
     address: "<p>Křižíkova 488/115 <br>Prague 8 <br>186 00 <br>Czech Republic <br>(+420
       739 632 821)</p>"
     mapslink: https://goo.gl/maps/Kx5yYGMmMhw
-published: false
 
 ---
