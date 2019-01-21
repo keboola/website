@@ -99,7 +99,7 @@ page_sections:
     position: Customer Success
     photo: "/uploads/ddBVxSxm_400x400.jpg"
   - name: Martin
-    position: Art Director
+    position: Creative Director
     photo: "/uploads/13179242_10153543131370205_3174791589622889100_n.jpg"
   - name: Data Dog
     position: Such wow
