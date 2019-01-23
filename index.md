@@ -17,8 +17,10 @@ page_sections:
     than the competition. If you could tap into knowledge waiting for you in your
     data and use it effectively across departments  you could make better, more coordinated
     decisions in a fraction of the time it used to take.
-- template: horizontal-rule
-  block: hr
+- template: ask-demo
+  block: ask-demo
+  ctaname: Ask for a demo
+  ctalink: "/request-demo"
 - template: article-list-hp
   block: article-list-hp
   subheadline: WE PROVIDE A CLOUD OPERATING SYSTEM FOR DATA ANALYTICS.
