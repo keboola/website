@@ -3,7 +3,6 @@ layout: text-page
 title: GDPR
 subtitle: ''
 date: 2019-01-23 11:56:37 +0100
-published: false
 
 ---
 **GDPR is a legal framework, so:**
