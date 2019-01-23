@@ -1,7 +1,7 @@
 ---
 layout: text-page
 title: GDPR
-subtitle: ''
+subtitle: GDPR Compliance with Keboola
 date: 2019-01-23 11:56:37 +0100
 
 ---
