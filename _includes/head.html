@@ -10,7 +10,8 @@
 		{% if page.url contains '/customer-stories/' %}Customer Stories
 		{% elsif page.url contains '/whitepapers/' %}Whitepapers
 		{% elsif page.url contains '/events/' %}Events
-		{% elsif page.url contains '/webinars/' %}Webinars{% endif %} - Keboola</title>
+		{% elsif page.url contains '/webinars/' %}Webinars
+		{% else %}{{ page.title }}{% endif %} - Keboola</title>
 	{% endif %}
 
 	<meta name="description" content="Keboola brings people together  from Excel to AI with lightning speed.">
