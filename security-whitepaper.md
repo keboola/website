@@ -7,7 +7,7 @@ subtitle: Your data, our concern
 ---
 ### Overview
 
-![](https://www.keboola.com/files/overview.png)
+![](/uploads/sw1.png)
 
 _Figure 1: High level overview of Keboola environment and data flows_
 
@@ -30,7 +30,7 @@ Access control within Keboola is based on Amazon IAM and uses two-phase authenti
 
 #### Keboola Architecture
 
-![](https://www.keboola.com/files/architecture.png)
+![](/uploads/sw2.png)
 
 _Figure 2: Keboola architecture components_
 
@@ -58,7 +58,7 @@ Recipes (3rd party applications) run in Keboola environment within dockers and s
 
 Keboola development environment is fully independent of the production environment.
 
-![](https://www.keboola.com/files/components.png)
+![](/uploads/sw3.png)
 
 _Figure 3: Keboola components & structure_
 
@@ -88,7 +88,7 @@ All data in Keboola regardless location (S3 storage, RDS or Redshift) are all en
 
 Customers can verify grade of security configuration Keboola: [**https://www.ssllabs.com/ssltest/analyze.html?d=connection.keboola.com**](https://www.ssllabs.com/ssltest/analyze.html?d=connection.keboola.com "https://www.ssllabs.com/ssltest/analyze.html?d=connection.keboola.com")
 
-![](https://www.keboola.com/files/ssl.png)
+![](/uploads/sw4.png)
 
 _Figure 4: Verification of connection security configuration_
 
@@ -98,7 +98,7 @@ Access control within Keboola is based on Amazon IAM and uses two-phase authenti
 
 **Authorization model**
 
-![](https://www.keboola.com/files/authorization.png)
+![](/uploads/sw5.png)
 
 Top level access management entity is Organisation, typically this denotes a single customer. Administrator(s) have right to manage projects within the organization. Every user is assigned to a project, on the level of projects all users are equal. On the technical level, the access control is much more fine grained. Administrator can create tokens that enable access only to a particular set of data (bucket). Your can also limit read/write operation. Buckets are defined by the customer’s administrator.
 
@@ -159,13 +159,11 @@ All incidents (including identified bugs) are reported immediately at [**https:
 
 #### Access Audit
 
-#### 
-
 Keboola is fully audited on the level of Amazon services. Every operation in Amazon services is executed via Amazon API. All API calls (including any operation performed via administration console of Amazon services) are logged in S3 and available to the customer. These audit logs cannot be altered by Keboola (such an activity would be again logged in the audit trail by Amazon service). Customers have full overview all operations performed over their data.
 
 On the application level Keboola logs all API calls as events in elasticsearch and provides customers with full text search capability. Audit trail is available also programatically via an API ([**https://docs.keboola.apiary.io/#events**](https://docs.keboola.apiary.io/#events "https://docs.keboola.apiary.io/#events")   ).
 
-![](https://www.keboola.com/files/cloud-trail.png)
+![](/uploads/sw6.png)
 
 _Figure 5: Real screenshot from Amazon CloudTrail for Keboola_
 
