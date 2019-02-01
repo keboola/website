@@ -47,7 +47,7 @@ page_sections:
     desc: Handles complicated processes and trigger actions from other SaaS apps and
       legacy systems like CRMs, mailing, ERP, SupplyChain or BI apps.
     pictogram: "/uploads/grey.svg"
-  - title: Data Lake & DwH
+  - title: Data Lake & DWH
     icotype: yellowright
     desc: Instant API/UI access to your data, structured storage, real-time analytical
       data warehouses and data catalogs.
