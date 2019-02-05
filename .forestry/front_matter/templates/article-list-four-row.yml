@@ -1,0 +1,26 @@
+---
+label: article-list-four-row
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  hidden: true
+  default: article-list-four-row
+- type: text
+  name: headline
+  label: headline
+- type: text
+  name: subheadline
+  label: sub headline
+- type: field_group_list
+  name: list
+  label: list
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: file
+    label: img
+    name: img
