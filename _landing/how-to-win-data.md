@@ -80,7 +80,7 @@ page_sections:
     people react, but we know immediately to what or who they react and severity of
     the issues.</p><p class="p1">After just 6 months our whole company runs on data,
     we are doing very sophisticated IoT things, using ai across the company and that
-    thanks to Keboola. And the best thing ? We had to only hire one person internally.
+    thanks to Keboola. And the best thing ?` We had to only hire one person internally.
     Through the collaborative nature of Keboola’s platform we just hire the smartest
     brains per task.</p><p class="p1">My life got …. With Keboola I can really focus
     on what’s important and that’s our people and actions we take. Keboola takes care
@@ -101,28 +101,6 @@ page_sections:
   - title: lorem ipsum dolor sit amet fermentum
     desc: Be flexible. Change POS, ERP, as you need, keep the insights intact and
       processes running!
-- template: article-list-table
-  block: article-list-table
-  tablehead:
-    name: Comparison
-    valueold: OLD WAY
-    valuenew: KEBOOLA WAY
-  tablerow:
-  - valueold: 2-3 months
-    valuenew: 1 click
-    name: Connecting data sources
-  - name: Team size
-    valueold: 10+
-    valuenew: '1'
-  - name: Cost
-    valueold: "$$$"
-    valuenew: "$"
-  - name: Changes
-    valueold: Days or weeks
-    valuenew: Minutes
-  - name: Elasticity
-    valueold: 'No'
-    valuenew: 'Yes'
 - template: article-feature-list
   block: article-feature-list
   subheadline: All tools you love in one place working together seamlessly
@@ -141,7 +119,18 @@ page_sections:
       into it and collaborate in one environment on creating business value no matter
       if we are from Rohlik or some external data partner. It feels like one world”"
     img-left: true
-
+- template: article-checkpoint-list
+  block: article-checkpoint-list
+  subheadline: Use data to drive your decissions
+  headline: Book a demo and Get A Price
+  desc: 'Typical middle sized company solution will range from $5.000 - $12.000 monthly     saving you about $500.000 per year.'
+  checkpoint-list:
+    title: Whats included?
+    list:
+    - item: Turn Key Digital Integration&Analytics
+    - item: Over 200 connectors
+    - item: Automatic materialisation & warehousing
+    - item: Serverless platform with automatic scaling and parallelization
 date: 2019-02-05 09:38:34 +0000
 
 ---
