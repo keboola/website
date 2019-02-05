@@ -22,7 +22,7 @@ page_sections:
   ctaname: Get free white paper how to finally win data
 - template: article-list-img
   block: article-list-img
-  headline: Used by over 3000 happy dataheroes in companies across 4 continents
+  headline: ''
   list:
   - name: roti
     img: "/uploads/roti-logo.png"
@@ -36,6 +36,7 @@ page_sections:
     img: "/uploads/zendesk-logo-1.svg"
   - name: Erste
     img: "/uploads/Erste_Logo.svg"
+  subheadline: Used by over 3000 happy dataheroes in companies across 4 continents
 date: 2019-02-05 09:38:34 +0000
 
 ---
