@@ -1,5 +1,10 @@
 <div class="article-logo-list"><div class="in">
-	<p class="p-perex">{{ section.headline }}</p>
+	{% if section.headline != "" and section.headline != nil %}
+		<p class="p-perex">{{ section.headline }}</p>
+	{% endif %}
+	{% if section.subheadline != "" and section.subheadline != nil %}
+		<h2>{{ section.subheadline }}</h2>
+	{% endif %}
 	<p>{% for list in section.list %}
 		<img src="{{ list.img }}" alt="{{ list.name }}">
 	{% endfor %}</p>
