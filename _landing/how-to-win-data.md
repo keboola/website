@@ -44,6 +44,7 @@ page_sections:
     smartest company in your market.
   list:
   - title: Get one platform for all needs on data journey
+    img: "/uploads/blue1-1.svg"
   - title: Activate your business departments with data
   - title: Automate actions and process based on data
   - title: 'Connect the world best A.I. from our partners '
