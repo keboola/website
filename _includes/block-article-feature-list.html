@@ -1,17 +1,17 @@
-<div class="article-list article-list-half"><div class="in">
+<div class="article-list article-feature-list"><div class="in">
 	<div class="item-desc">
 		{% if section.subheadline != "" and section.subheadline != nil %}
 			<p class="p-perex">{{ section.subheadline }}</p>
 		{% endif %}
 		{% if section.headline != "" and section.headline != nil %}
-			<h1 class="h1-blue">{{ section.headline }}</h1>
+			<h1>{{ section.headline }}</h1>
 		{% endif %}
-	</div>
+	</div></div>
 	{% for list in section.list %}
-		<article class="item">
+		<article class="article-feature-list-item"><div class="in">
 			<div class="img"><img src="{{ list.img }}" alt=""></div>
 			<h2 class="h2-middle">{{ list.title }}</h2>
 			{{ list.desc }}
-		</article>
+		</div></article>
     {% endfor %}
 </div></div>
