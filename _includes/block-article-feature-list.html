@@ -9,9 +9,13 @@
 	</div></div>
 	{% for list in section.list %}
 		<article class="article-feature-list-item"><div class="in">
-			<div class="img"><img src="{{ list.img }}" alt=""></div>
-			<h2 class="h2-middle">{{ list.title }}</h2>
-			{{ list.desc }}
+			<div class="item-img">
+				<div class="img"><img src="{{ list.img }}" alt=""></div>
+			</div>
+			<div class="item-desc">
+				<h2 class="h2-big">{{ list.title }}</h2>
+				{{ list.desc }}
+			</div>
 		</div></article>
     {% endfor %}
 </div></div>
