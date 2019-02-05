@@ -28,3 +28,6 @@ fields:
   - type: file
     name: photo
     label: photo
+- type: boolean
+  label: no margin top
+  name: nomargintop
