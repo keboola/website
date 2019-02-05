@@ -56,6 +56,37 @@ page_sections:
     person while turning your company to smartest in your market. We guarantee that
     if you </span><strong><span class="s1">don’t get results within 3 months, you
     will get Keboola for free</span></strong><span class="s1">.</span>
+- template: quote-long
+  block: quote-long
+  author: Jeff Miller, CTO Roti - LinkedIn
+  desc: <p>Before we started working with Keboola we had over 20 systems internally
+    and externally that we wanted to analyze data for better business decissions and
+    take actions based on those insights.</p><p class="p1">We had dozens and dozens
+    of xls spreadsheets and peopel spent hourse a day to manually retype, clean and
+    report the data. It was never on time and never correct. We were not able to move
+    ahead and become a technology leader as we had always wanted. Part of the reason
+    was that we new from our McDonalds engagement how difficult it is to build an
+    easy enough and intuitive infrastructure for all of your needs of integrating,
+    cleaning and analyzing data. Even harder when you want the business people to
+    use it and self serve analytics and we just didn’t have time and resources to
+    do it. We thought it would take us years and millions of dollars to get the results.</p><p><img
+    src="/uploads/quote-img.jpg"></p><p>After we engaged with Keboola’s platform we
+    had our first project done in 3 days. All the data from user feedback was integrated,
+    stored, cleaned and visualised so everybody saw the results immediately. The whole
+    process was orchestrated to happen several times a day so we’ve always had fresh
+    data from multiple sources together.</p><p class="p1">More over, Keboola 3rd party
+    appstore allowed us to apply sofisticated ai techniques to our unstructured text
+    with just one click! Now we don’t only se where things are happening and how many
+    people react, but we know immediately to what or who they react and severity of
+    the issues.</p><p class="p1">After just 6 months our whole company runs on data,
+    we are doing very sophisticated IoT things, using ai across the company and that
+    thanks to Keboola. And the best thing ?` We had to only hire one person internally.
+    Through the collaborative nature of Keboola’s platform we just hire the smartest
+    brains per task.</p><p class="p1">My life got …. With Keboola I can really focus
+    on what’s important and that’s our people and actions we take. Keboola takes care
+    of the rest. Just imagine during working on the whole process in Keboola we were
+    actually able to change several of the key systems like CRM, POS without the whole
+    flow breaking. That’s really life changing for CTO and the whole business.</p>
 date: 2019-02-05 09:38:34 +0000
 
 ---
