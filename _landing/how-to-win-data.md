@@ -6,16 +6,17 @@ permalink: "/how-to-win-data/"
 page_sections:
 - template: header-landing
   block: header-landing
-  headline: Keboola makes it easy to jump <strong>from Excel to AI</strong><br> with lightning speed in <strong>every department.</strong>
+  headline: Keboola makes it easy to jump <strong>from Excel to AI</strong><br> with
+    lightning speed in <strong>every department.</strong>
   image: "/uploads/landing-bg.svg"
 - template: ask-demo
   block: ask-demo
   ctaname: Get free white paper how to finally win data
   subheadline: Use data to drive your decissions
   headline: "Grow your business with Keboola\L Digital Integration & Analytics Hub"
-  content: Learn how by leveraging serverless data platform that
-    covers all of the steps of data journey and allows departments to collaborate
-    in real time you can leapfrog from xls to ai in no time.
+  content: Learn how by leveraging serverless data platform that covers all of the
+    steps of data journey and allows departments to collaborate in real time you can
+    leapfrog from xls to ai in no time.
 - template: article-list-img
   block: article-list-img
   headline: ''
@@ -33,6 +34,7 @@ page_sections:
   - name: Erste
     img: "/uploads/Erste_Logo.svg"
   subheadline: Used by over 3000 happy dataheroes in companies across 4 continents
+  top-margin: true
 - template: horizontal-rule
   block: hr
 - template: article-list-four-row
@@ -50,41 +52,39 @@ page_sections:
   ctaname: Get price quote
   headline: "Interested to learning how you can turn\L your company in just 3 months
     ?"
-  content: Take 15 minutes &amp; learn how to become your CEOs favourite
-    person while turning your company to smartest in your market. We guarantee that
-    if you <strong>don’t get results within 3 months, you
-    will get Keboola for free</strong>.
+  content: Take 15 minutes &amp; learn how to become your CEOs favourite person while
+    turning your company to smartest in your market. We guarantee that if you <strong>don’t
+    get results within 3 months, you will get Keboola for free</strong>.
 - template: quote-long
   block: quote-long
   author: Jeff Miller, CTO Roti - LinkedIn
   desc: <p>Before we started working with Keboola we had over 20 systems internally
     and externally that we wanted to analyze data for better business decissions and
-    take actions based on those insights.</p><p>We had dozens and dozens
-    of xls spreadsheets and peopel spent hourse a day to manually retype, clean and
-    report the data. It was never on time and never correct. We were not able to move
-    ahead and become a technology leader as we had always wanted. Part of the reason
-    was that we new from our McDonalds engagement how difficult it is to build an
-    easy enough and intuitive infrastructure for all of your needs of integrating,
-    cleaning and analyzing data. Even harder when you want the business people to
-    use it and self serve analytics and we just didn’t have time and resources to
-    do it. We thought it would take us years and millions of dollars to get the results.</p><p><img
-    src="/uploads/quote-img.jpg"></p><p>After we engaged with Keboola’s platform we
-    had our first project done in 3 days. All the data from user feedback was integrated,
-    stored, cleaned and visualised so everybody saw the results immediately. The whole
-    process was orchestrated to happen several times a day so we’ve always had fresh
-    data from multiple sources together.</p><p>More over, Keboola 3rd party
-    appstore allowed us to apply sofisticated ai techniques to our unstructured text
-    with just one click! Now we don’t only se where things are happening and how many
-    people react, but we know immediately to what or who they react and severity of
-    the issues.</p><p>After just 6 months our whole company runs on data,
-    we are doing very sophisticated IoT things, using ai across the company and that
-    thanks to Keboola. And the best thing ? We had to only hire one person internally.
-    Through the collaborative nature of Keboola’s platform we just hire the smartest
-    brains per task.</p><p>My life got …. With Keboola I can really focus
-    on what’s important and that’s our people and actions we take. Keboola takes care
-    of the rest. Just imagine during working on the whole process in Keboola we were
-    actually able to change several of the key systems like CRM, POS without the whole
-    flow breaking. That’s really life changing for CTO and the whole business.</p>
+    take actions based on those insights.</p><p>We had dozens and dozens of xls spreadsheets
+    and peopel spent hourse a day to manually retype, clean and report the data. It
+    was never on time and never correct. We were not able to move ahead and become
+    a technology leader as we had always wanted. Part of the reason was that we new
+    from our McDonalds engagement how difficult it is to build an easy enough and
+    intuitive infrastructure for all of your needs of integrating, cleaning and analyzing
+    data. Even harder when you want the business people to use it and self serve analytics
+    and we just didn’t have time and resources to do it. We thought it would take
+    us years and millions of dollars to get the results.</p><p><img src="/uploads/quote-img.jpg"></p><p>After
+    we engaged with Keboola’s platform we had our first project done in 3 days. All
+    the data from user feedback was integrated, stored, cleaned and visualised so
+    everybody saw the results immediately. The whole process was orchestrated to happen
+    several times a day so we’ve always had fresh data from multiple sources together.</p><p>More
+    over, Keboola 3rd party appstore allowed us to apply sofisticated ai techniques
+    to our unstructured text with just one click! Now we don’t only se where things
+    are happening and how many people react, but we know immediately to what or who
+    they react and severity of the issues.</p><p>After just 6 months our whole company
+    runs on data, we are doing very sophisticated IoT things, using ai across the
+    company and that thanks to Keboola. And the best thing ? We had to only hire one
+    person internally. Through the collaborative nature of Keboola’s platform we just
+    hire the smartest brains per task.</p><p>My life got …. With Keboola I can really
+    focus on what’s important and that’s our people and actions we take. Keboola takes
+    care of the rest. Just imagine during working on the whole process in Keboola
+    we were actually able to change several of the key systems like CRM, POS without
+    the whole flow breaking. That’s really life changing for CTO and the whole business.</p>
 - template: article-list-three-row
   block: article-list-three-row
   subheadline: SERVERLESS DATA ANALYTICS & AUTOMATION
@@ -134,8 +134,7 @@ page_sections:
   headline: Book the demo today and you will get Predictive Support helping to fully
     onboard and support users
   content: Booking the demo with our specialists is no strings attached.<br>After
-    all, <strong>nobody can force you to become CEOs favourite
-    person</strong> :)
+    all, <strong>nobody can force you to become CEOs favourite person</strong> :)
   ctaname: Choose the time slot
 - template: faq
   block: faq
