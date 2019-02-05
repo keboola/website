@@ -52,7 +52,6 @@ pages:
 - _product/integration.md
 - _product/keboola-for-enterprise.md
 - _product/security.md
-- _platform/command-control-api-first.md
 - _platform/developers-portal.md
 - _platform/developers.md
 - _platform/programmable-data-platform.md
@@ -64,4 +63,5 @@ pages:
 - _landing/how-to-win-data.md
 - _platform/3rd-party-ai.md
 - _platform/actions.md
+- _platform/command-control-api-first.md
 - _product/product.md
