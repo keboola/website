@@ -1,0 +1,33 @@
+---
+label: article-checkpoint-list
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  default: article-checkpoint-list
+  hidden: true
+- type: text
+  name: subheadline
+  label: sub headline
+- type: text
+  name: headline
+  label: headline
+- type: text
+  name: desc
+  label: desc
+- type: field_group
+  name: checkpoint-list
+  label: checkpoint list
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: list
+    label: list
+    fields:
+    - type: text
+      name: item
+      label: item
