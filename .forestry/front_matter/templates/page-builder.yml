@@ -54,7 +54,6 @@ pages:
 - _product/security.md
 - _platform/developers-portal.md
 - _platform/developers.md
-- _platform/programmable-data-platform.md
 - index.md
 - _about/about.md
 - _platform/platform.md
@@ -64,4 +63,5 @@ pages:
 - _platform/actions.md
 - _platform/command-control-api-first.md
 - _platform/developer-docs.md
+- _platform/programmable-data-platform.md
 - _product/product.md
