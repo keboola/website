@@ -8,7 +8,9 @@
 	<div class="form">
 		<form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
 			<input type=hidden name="oid" value="{{ section.formid }}">
-			<input type=hidden name="retURL" value="https://confident-lovelace-ce6a6c.netlify.com/success">
+			<input type=hidden name="retURL" value="https://www.keboola.com/success">
+			<input type=hidden name="00N1t00000Kk7PL" value="{{ page.url | replace: "/", "" }}">
+			<input type=hidden name="lead_source" value="Inbound">
 			
 			<div class="form-columns-2">
 				<div class="hs-form-field">
