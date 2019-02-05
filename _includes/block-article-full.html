@@ -1,4 +1,4 @@
-<div class="article-text-full"><div class="in">
+<div class="article-text-full{% if section.nomarginbottom == true %} article-text-full-nomarginbottom{% endif %}"><div class="in">
 	<div class="item-desc">
 		{% if section.subheadline != "" and section.subheadline != nil %}
 			<p class="p-perex">{{ section.subheadline }}</p>

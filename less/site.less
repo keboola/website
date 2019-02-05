@@ -2559,6 +2559,9 @@ section{
     }
   }
 }
+.article-text-full-nomarginbottom{
+  margin-bottom:0;
+}
 
 
 
@@ -3564,6 +3567,7 @@ section{
 
 
 
+
 // ---------
 // FAQ
 // ---------
@@ -3721,6 +3725,54 @@ section{
 }
 .comparison-table-value-blue{
   color:#228DFF;
+}
+
+
+
+
+
+// ---------
+// CHECKPOINT
+// ---------
+.checkpoint-list{
+  margin:0 auto 0;
+  padding:40px 50px 40px 50px;
+  max-width:880px;
+  width:100%;
+  border:2px solid #EAF0F6;
+  text-align:left;
+
+  h2{
+    margin:0 0 32px 0;
+    padding:0 0 38px 0;
+    border-bottom:2px solid #EAF0F6;
+    .font-size(30, 1.2em);
+    color:#233141;
+  }
+  ul{
+    width:100%;
+  }
+  li{
+    position:relative;
+    display:block;
+    margin:0 0 18px 0;
+    padding:0 0 0 60px;
+    width:100%;
+    .font-size(20, 32px);
+    font-weight:400;
+    color:#233141;
+
+    &:before{
+      content:'';
+      position:absolute;
+      left:0;
+      top:0;
+      .sq(32px);
+      background-position:center center;
+      background-repeat:no-repeat;
+      background-image:url(../img/ico-value-yes.svg);
+    }
+  }
 }
 
 

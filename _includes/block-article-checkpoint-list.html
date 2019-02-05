@@ -4,17 +4,18 @@
 			<p class="p-perex">{{ section.subheadline }}</p>
 		{% endif %}
 		{% if section.headline != "" and section.headline != nil %}
-			<h1>{{ section.headline }}</h1>
+			<h1 class="h1-blue">{{ section.headline }}</h1>
 		{% endif %}
-		{% if section.content != "" and section.content != nil %}
-			<p class="p-perex-dark">{{ section.content }}</p>
+		{% if section.desc != "" and section.desc != nil %}
+			<p class="p-perex-dark p-perex-dark-big">{{ section.desc }}</p>
 		{% endif %}
 	</div>
-
-	<h2>{{ section.checkpoint-list.title }}</h2>
-	<ul>
-	{% for list in section.checkpoint-list.list %}
-		<li>{{ list.item }}</li>
-	{% endfor %}
-	</ul>
+	<div class="checkpoint-list">
+		<h2>{{ section.checkpoint-list.title }}</h2>
+		<ul>
+		{% for list in section.checkpoint-list.list %}
+			<li>{{ list.item }}</li>
+		{% endfor %}
+		</ul>
+	</div>
 </div></div>
