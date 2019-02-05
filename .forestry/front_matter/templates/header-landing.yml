@@ -1,0 +1,22 @@
+---
+label: header-landing
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  label: block
+  name: block
+  hidden: true
+  config:
+    required: false
+  default: header-landing
+- type: textarea
+  name: headline
+  label: headline
+  config:
+    wysiwyg: true
+    schema:
+      format: html
+- type: file
+  name: image
+  label: image
