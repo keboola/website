@@ -22,7 +22,7 @@ page_sections:
   ctaname: Get free white paper how to finally win data
 - template: article-list-img
   block: article-list-img
-  headline: Keboola works with the world’s best!
+  headline: Used by over 3000 happy dataheroes in companies across 4 continents
   list:
   - name: roti
     img: "/uploads/roti-logo.png"
