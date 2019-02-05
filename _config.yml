@@ -75,3 +75,6 @@ collections:
    about:
      output: true
      permalink: /:collection/:path/
+   landing:
+     output: true
+     permalink: /:collection/:path/
