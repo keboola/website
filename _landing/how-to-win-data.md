@@ -137,6 +137,7 @@ page_sections:
     desc: "“By using Keboola we could move from focusing on tactical things to really
       focusing on strategic parts of the business. We now provide scalable platform
       and bigger business value.”"
+    img: "/uploads/feature-list-img.png"
   - title: "“Integrate with one click all of your key systems no matter if they are
       internal, Cloud or in your partners infrastructure. Integrate data, processes,
       people and machine learning models using Keboola’s One Digital Integration Hub”"
