@@ -188,6 +188,7 @@ page_sections:
   subheadline: do it keboola way
   headline: Here are the values that we live by
   content: ''
+  nomarginbottom: true
 - template: article-about-founder
   block: article-about-founder
   list:
