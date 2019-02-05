@@ -6,18 +6,16 @@ permalink: "/how-to-win-data/"
 page_sections:
 - template: header-landing
   block: header-landing
-  headline: <span class="s1">Keboola makes it easy to jump</span><span class="s2">
-    </span><strong><span class="s2">from Excel to AI</span></strong><span class="s1"><br>
-    with lightning speed in </span><strong><span class="s1">every department.</span></strong>
+  headline: Keboola makes it easy to jump <strong>from Excel to AI</strong><br> with lightning speed in <strong>every department.</strong>
   image: "/uploads/landing-bg.svg"
 - template: ask-demo
   block: ask-demo
   ctaname: Get free white paper how to finally win data
   subheadline: Use data to drive your decissions
   headline: "Grow your business with Keboola\L Digital Integration & Analytics Hub"
-  content: <span class="s1">Learn how by leveraging serverless data platform that
+  content: Learn how by leveraging serverless data platform that
     covers all of the steps of data journey and allows departments to collaborate
-    in real time you can leapfrog from xls to ai in no time.</span>
+    in real time you can leapfrog from xls to ai in no time.
 - template: article-list-img
   block: article-list-img
   headline: ''
@@ -52,16 +50,16 @@ page_sections:
   ctaname: Get price quote
   headline: "Interested to learning how you can turn\L your company in just 3 months
     ?"
-  content: <span class="s1">Take 15 minutes &amp; learn how to become your CEOs favourite
+  content: Take 15 minutes &amp; learn how to become your CEOs favourite
     person while turning your company to smartest in your market. We guarantee that
-    if you </span><strong><span class="s1">don’t get results within 3 months, you
-    will get Keboola for free</span></strong><span class="s1">.</span>
+    if you <strong>don’t get results within 3 months, you
+    will get Keboola for free</strong>.
 - template: quote-long
   block: quote-long
   author: Jeff Miller, CTO Roti - LinkedIn
   desc: <p>Before we started working with Keboola we had over 20 systems internally
     and externally that we wanted to analyze data for better business decissions and
-    take actions based on those insights.</p><p class="p1">We had dozens and dozens
+    take actions based on those insights.</p><p>We had dozens and dozens
     of xls spreadsheets and peopel spent hourse a day to manually retype, clean and
     report the data. It was never on time and never correct. We were not able to move
     ahead and become a technology leader as we had always wanted. Part of the reason
@@ -74,15 +72,15 @@ page_sections:
     had our first project done in 3 days. All the data from user feedback was integrated,
     stored, cleaned and visualised so everybody saw the results immediately. The whole
     process was orchestrated to happen several times a day so we’ve always had fresh
-    data from multiple sources together.</p><p class="p1">More over, Keboola 3rd party
+    data from multiple sources together.</p><p>More over, Keboola 3rd party
     appstore allowed us to apply sofisticated ai techniques to our unstructured text
     with just one click! Now we don’t only se where things are happening and how many
     people react, but we know immediately to what or who they react and severity of
-    the issues.</p><p class="p1">After just 6 months our whole company runs on data,
+    the issues.</p><p>After just 6 months our whole company runs on data,
     we are doing very sophisticated IoT things, using ai across the company and that
-    thanks to Keboola. And the best thing ?` We had to only hire one person internally.
+    thanks to Keboola. And the best thing ? We had to only hire one person internally.
     Through the collaborative nature of Keboola’s platform we just hire the smartest
-    brains per task.</p><p class="p1">My life got …. With Keboola I can really focus
+    brains per task.</p><p>My life got …. With Keboola I can really focus
     on what’s important and that’s our people and actions we take. Keboola takes care
     of the rest. Just imagine during working on the whole process in Keboola we were
     actually able to change several of the key systems like CRM, POS without the whole
@@ -135,9 +133,9 @@ page_sections:
   block: ask-demo
   headline: Book the demo today and you will get Predictive Support helping to fully
     onboard and support users
-  content: <span class="s1">Booking the demo with our specialists is no strings attached.<br>After
-    all, </span><strong><span class="s1">nobody can force you to become CEOs favourite
-    person</span></strong><span class="s1"> :)</span>
+  content: Booking the demo with our specialists is no strings attached.<br>After
+    all, <strong>nobody can force you to become CEOs favourite
+    person</strong> :)
   ctaname: Choose the time slot
 - template: faq
   block: faq
