@@ -18,6 +18,7 @@ fields:
   label: Page Sections
   name: page_sections
   template_types:
+  - article-checkpoint-list
   - article-feature-list
   - article-list-three-row
   - quote-long
