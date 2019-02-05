@@ -1,6 +1,7 @@
 ---
 layout: blocks
 title: ''
+sitemap: true
 page_sections:
 - template: header-blue
   block: header-blue
