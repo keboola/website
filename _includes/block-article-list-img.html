@@ -1,9 +1,9 @@
-<div class="article-logo-list"><div class="in">
+<div class="article-logo-list{% if section.top-margin == true %} article-logo-list-nomargin{% endif %}"><div class="in">
 	{% if section.headline != "" and section.headline != nil %}
 		<p class="p-perex">{{ section.headline }}</p>
 	{% endif %}
 	{% if section.subheadline != "" and section.subheadline != nil %}
-		<h2>{{ section.subheadline }}</h2>
+		<h2 class="h2-big h2-lightblue"><strong>{{ section.subheadline }}</strong></h2>
 	{% endif %}
 	<p>{% for list in section.list %}
 		<img src="{{ list.img }}" alt="{{ list.name }}">

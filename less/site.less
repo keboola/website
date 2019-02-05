@@ -2302,7 +2302,25 @@ section{
 // SECTION - HEADER - LANDING
 // ---------
 .section-header-landing{
+  .in{
+    padding-top:40px;
+    padding-bottom:40px;
+  }
+  .item-desc{
+    float: left;
+    max-width:40%;
+    text-align:left;
+  }
+  .item-img{
+    float:right;
+    max-width:50%;
+    overflow:hidden;
 
+    img{
+      float:right;
+      max-width:100%;
+    }
+  }
 }
 
 
@@ -2792,6 +2810,38 @@ section{
 }
 
 
+
+// ARTICLE LIST - FOUR
+// FOUR COLUMN
+// ---------
+.article-list-four{
+  margin:90px 0 70px 0;
+
+  .item-list{
+    max-width:100%;
+  }
+}
+.article-list-content-four{
+  margin:0 -30px;
+  .font-size(0,0);
+
+  li{
+    display:inline-block;
+    padding:190px 30px 0 30px;
+    width:25%;
+    vertical-align:top;
+  }
+  .ico{
+    top:0;
+    left:22px;
+  }
+  h2{
+    .font-size(24, 36px);
+    font-weight:700;
+  }
+}
+
+
 // ARTICLE LIST - TABLE
 // THREE COLUMN
 // ---------
@@ -2996,6 +3046,9 @@ section{
       vertical-align:middle;
     }
   }
+}
+.article-logo-list-nomargin{
+  margin-top:0;
 }
 
 
