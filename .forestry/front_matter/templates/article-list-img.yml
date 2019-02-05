@@ -11,6 +11,9 @@ fields:
 - type: text
   name: headline
   label: headline
+- type: text
+  name: subheadline
+  label: sub headline
 - type: field_group_list
   label: list
   name: list
