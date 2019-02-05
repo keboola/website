@@ -55,7 +55,6 @@ pages:
 - _platform/command-control-api-first.md
 - _platform/developers-portal.md
 - _platform/developers.md
-- _platform/actions.md
 - _platform/programmable-data-platform.md
 - _platform/developer-docs.md
 - index.md
@@ -64,4 +63,5 @@ pages:
 - _product/pricing.md
 - _landing/how-to-win-data.md
 - _platform/3rd-party-ai.md
+- _platform/actions.md
 - _product/product.md
