@@ -8,6 +8,9 @@ fields:
   label: block
   name: block
   hidden: true
+- type: boolean
+  name: top-margin
+  label: top margin
 - type: text
   name: headline
   label: headline
