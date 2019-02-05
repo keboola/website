@@ -1,7 +1,8 @@
 ---
 layout: blocks
 title: How to win data
-sitemap: true
+sitemap: false
+permalink: "/how-to-win-data/"
 page_sections:
 - template: header-blue
   block: header-blue
