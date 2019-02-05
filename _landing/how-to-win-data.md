@@ -131,6 +131,14 @@ page_sections:
     - item: Over 200 connectors
     - item: Automatic materialisation & warehousing
     - item: Serverless platform with automatic scaling and parallelization
+- template: ask-demo
+  block: ask-demo
+  headline: Book the demo today and you will get Predictive Support helping to fully
+    onboard and support users
+  content: <span class="s1">Booking the demo with our specialists is no strings attached.<br>After
+    all, </span><strong><span class="s1">nobody can force you to become CEOs favourite
+    person</span></strong><span class="s1"> :)</span>
+  ctaname: Choose the time slot
 date: 2019-02-05 09:38:34 +0000
 
 ---
