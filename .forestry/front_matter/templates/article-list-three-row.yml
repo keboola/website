@@ -1,0 +1,29 @@
+---
+label: article-list-three-row
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  hidden: true
+  default: article-list-three-row
+- type: text
+  name: subheadline
+  label: sub headline
+- type: text
+  name: headline
+  label: headline
+- type: field_group_list
+  name: list
+  label: list
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: desc
+    label: desc
+  - type: file
+    name: img
+    label: img

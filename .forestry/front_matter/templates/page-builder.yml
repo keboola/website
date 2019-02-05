@@ -59,11 +59,11 @@ pages:
 - index.md
 - _about/about.md
 - _platform/platform.md
-- _product/pricing.md
 - _landing/how-to-win-data.md
-- _platform/3rd-party-ai.md
-- _platform/actions.md
+- _product/pricing.md
 - _platform/command-control-api-first.md
-- _platform/developer-docs.md
+- _platform/3rd-party-ai.md
 - _platform/programmable-data-platform.md
+- _platform/developer-docs.md
+- _platform/actions.md
 - _product/product.md
