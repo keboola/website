@@ -20,6 +20,22 @@ page_sections:
 - template: ask-demo
   block: ask-demo
   ctaname: Get free white paper how to finally win data
+- template: article-list-img
+  block: article-list-img
+  headline: Keboola works with the world’s best!
+  list:
+  - name: roti
+    img: "/uploads/roti-logo.png"
+  - name: DXC
+    img: "/uploads/DXC.svg"
+  - img: "/uploads/goodyear_logo.svg"
+    name: Goodyear
+  - img: "/uploads/bata_logo.svg"
+    name: Bata
+  - name: Zendesk
+    img: "/uploads/zendesk-logo-1.svg"
+  - name: Erste
+    img: "/uploads/Erste_Logo.svg"
 date: 2019-02-05 09:38:34 +0000
 
 ---
