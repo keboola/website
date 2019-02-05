@@ -37,13 +37,6 @@ page_sections:
   subheadline: Used by over 3000 happy dataheroes in companies across 4 continents
 - template: horizontal-rule
   block: hr
-- template: article-full
-  block: article-full
-  headline: "Interested to learning how you can turn\L your company in just 3 months
-    ?"
-  content: Take 15 minutes & learn how to become your CEOs favourite person while
-    turning your company to smartest in your market. We guarantee that if you <strong>don’t
-    get results within 3 months, you will get Keboola for free.</strong>
 - template: ask-demo
   block: ask-demo
   ctaname: Get price quote
