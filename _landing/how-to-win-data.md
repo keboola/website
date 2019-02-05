@@ -95,12 +95,15 @@ page_sections:
     desc: All data is warehoused, processes can be automated, everybody gets insights
       to make smart business decisions.
     img: "/uploads/black2.svg"
+    colortype: blue
   - title: One contract. All the tools you love and need.
     desc: Save years and millions in developing in house stack. Learn from our mistakes
       and focus on business instead!
+    colortype: yellow
   - title: lorem ipsum dolor sit amet fermentum
     desc: Be flexible. Change POS, ERP, as you need, keep the insights intact and
       processes running!
+    colortype: black
 - template: article-list-table
   block: article-list-table
   tablehead:
