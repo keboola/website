@@ -21,6 +21,7 @@ fields:
   - header-hp
   - header-blue
   - header-product
+  - header-landing
   - article-with-perex
   - ask-demo
   - article-full
