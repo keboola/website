@@ -87,6 +87,20 @@ page_sections:
     of the rest. Just imagine during working on the whole process in Keboola we were
     actually able to change several of the key systems like CRM, POS without the whole
     flow breaking. That’s really life changing for CTO and the whole business.</p>
+- template: article-list-three-row
+  block: article-list-three-row
+  subheadline: SERVERLESS DATA ANALYTICS & AUTOMATION
+  headline: Get from data to insights within 15 minutes
+  list:
+  - title: Data driven companies have 30% higher EBITDA.
+    desc: All data is warehoused, processes can be automated, everybody gets insights
+      to make smart business decisions.
+  - title: One contract. All the tools you love and need.
+    desc: Save years and millions in developing in house stack. Learn from our mistakes
+      and focus on business instead!
+  - title: lorem ipsum dolor sit amet fermentum
+    desc: Be flexible. Change POS, ERP, as you need, keep the insights intact and
+      processes running!
 date: 2019-02-05 09:38:34 +0000
 
 ---
