@@ -8,6 +8,9 @@ fields:
   label: block
   default: article-about-founder
   hidden: true
+- type: boolean
+  label: no margin top
+  name: nomargintop
 - type: field_group_list
   name: list
   label: list
@@ -28,6 +31,3 @@ fields:
   - type: file
     name: photo
     label: photo
-- type: boolean
-  label: no margin top
-  name: nomargintop

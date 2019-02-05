@@ -210,6 +210,7 @@ page_sections:
       With his experience in business development, data analytics and technology,
       he is responsible for all things business processes and business development.
     photo: "/uploads/milan.jpg"
+  nomargintop: true
 date: 2019-02-05 09:38:34 +0000
 
 ---
