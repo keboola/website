@@ -27,3 +27,13 @@ fields:
   - type: file
     name: img
     label: img
+  - type: select
+    name: colortype
+    config:
+      source:
+        type: simple
+      options:
+      - blue
+      - yellow
+      - black
+    label: color type
