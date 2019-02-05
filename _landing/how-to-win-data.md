@@ -101,6 +101,24 @@ page_sections:
   - title: lorem ipsum dolor sit amet fermentum
     desc: Be flexible. Change POS, ERP, as you need, keep the insights intact and
       processes running!
+- template: article-feature-list
+  block: article-feature-list
+  subheadline: All tools you love in one place working together seamlessly
+  headline: Automate your company with AI
+  list:
+  - title: "“Have enough time for strategic business problems, offload all the problems
+      with running complicated infrastructure for integration & analytics to Keboola’s
+      all-in-one serverless platform.”"
+    desc: "“By using Keboola we could move from focusing on tactical things to really
+      focusing on strategic parts of the business. We now provide scalable platform
+      and bigger business value.”"
+  - title: "“Integrate with one click all of your key systems no matter if they are
+      internal, Cloud or in your partners infrastructure. Integrate data, processes,
+      people and machine learning models using Keboola’s One Digital Integration Hub”"
+    desc: "“The great thing about Keboola is we integrate all of our data and processes
+      into it and collaborate in one environment on creating business value no matter
+      if we are from Rohlik or some external data partner. It feels like one world”"
+    img-left: true
 date: 2019-02-05 09:38:34 +0000
 
 ---
