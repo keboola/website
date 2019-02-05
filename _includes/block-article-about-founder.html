@@ -1,4 +1,4 @@
-<div class="article-founder"><div class="in">
+<div class="article-founder{% if section.nomargintop == true %} article-founder-nomargintop{% endif %}"><div class="in">
 	<div class="article-founder-list"><ul>
 		{% for list in section.list %}
 			<li>
