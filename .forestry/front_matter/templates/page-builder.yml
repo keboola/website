@@ -45,7 +45,6 @@ fields:
   - hp-main-goals
 pages:
 - _about/contact.md
-- _product/pricing.md
 - _product/keboola-way.md
 - _product/etl-elt.md
 - _product/analytical-dwh.md
@@ -63,5 +62,6 @@ pages:
 - index.md
 - _about/about.md
 - _platform/platform.md
+- _product/pricing.md
 - _landing/how-to-win-data.md
 - _product/product.md
