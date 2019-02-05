@@ -46,6 +46,16 @@ page_sections:
     person while turning your company to smartest in your market. We guarantee that
     if you </span><strong><span class="s1">don’t get results within 3 months, you
     will get Keboola for free</span></strong><span class="s1">.</span>
+- template: article-list-four-row
+  block: article-list-four-row
+  subheadline: Use data to drive your decissions
+  headline: We change the way your company takes insight based actions. Become the
+    smartest company in your market.
+  list:
+  - title: Get one platform for all needs on data journey
+  - title: Activate your business departments with data
+  - title: Automate actions and process based on data
+  - title: 'Connect the world best A.I. from our partners '
 date: 2019-02-05 09:38:34 +0000
 
 ---
