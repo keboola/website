@@ -139,6 +139,26 @@ page_sections:
     all, </span><strong><span class="s1">nobody can force you to become CEOs favourite
     person</span></strong><span class="s1"> :)</span>
   ctaname: Choose the time slot
+- template: faq
+  block: faq
+  headline: Still have a questions?
+  list:
+  - name: Is there a minimum I have to buy?
+    desc: Nulla eu ullamcorper nisl. Ut lobortis augue a tortor aliquam ullamcorper.
+      Nam viverra venenatis urna, quis rutrum ipsum congue vitae. Vivamus commodo
+      convallis urna nec sagittis. Curabitur ut posuere justo. Sed pellentesque ipsum
+      quis neque molestie, eu auctor odio scelerisque. Aenean sed elit ex. Suspendisse
+      quis ex hendrerit, scelerisque diam nec, sodales risus. Etiam ornare, tellus
+      vitae iaculis egestas, velit dui imperdiet quam, mattis interdum arcu est ut
+      dui.
+  - desc: Nulla eu ullamcorper nisl. Ut lobortis augue a tortor aliquam ullamcorper.
+      Nam viverra venenatis urna, quis rutrum ipsum congue vitae. Vivamus commodo
+      convallis urna nec sagittis. Curabitur ut posuere justo. Sed pellentesque ipsum
+      quis neque molestie, eu auctor odio scelerisque. Aenean sed elit ex. Suspendisse
+      quis ex hendrerit, scelerisque diam nec, sodales risus. Etiam ornare, tellus
+      vitae iaculis egestas, velit dui imperdiet quam, mattis interdum arcu est ut
+      dui.
+    name: Do I need to lorem ipsum dolor sit amet?
 date: 2019-02-05 09:38:34 +0000
 
 ---
