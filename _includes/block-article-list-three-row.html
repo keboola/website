@@ -7,7 +7,7 @@
 		{% for list in section.list %}
 			<li>
 				<i class="ico-img"><img src="{{ list.img }}" alt=""></i>
-				<h2 class="h2-middle">{{ list.title }}</h2>
+				<h2 class="h2-middle h2-{{ list.colortype }}">{{ list.title }}</h2>
 				<p>{{ list.desc }}</p>
 			</li>
         {% endfor %}
