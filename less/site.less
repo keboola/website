@@ -2814,30 +2814,44 @@ section{
 // ARTICLE LIST - FOUR
 // FOUR COLUMN
 // ---------
-.article-list-four{
+.article-list-four,
+.article-list-three-full{
   margin:90px 0 70px 0;
 
   .item-list{
     max-width:100%;
   }
 }
-.article-list-content-four{
+.article-list-content-four,
+.article-list-content-three-full{
   margin:0 -30px;
   .font-size(0,0);
+  text-align:center;
 
   li{
     display:inline-block;
     padding:190px 30px 0 30px;
     width:25%;
     vertical-align:top;
+    text-align:center;
   }
   .ico{
     top:0;
     left:22px;
   }
+  h2,p{
+    text-align:left;
+  }
   h2{
     .font-size(24, 36px);
-    font-weight:700;
+  }
+}
+.article-list-content-three-full{
+  margin:0;
+
+  li{
+    margin:0;
+    width:33.3333%;
   }
 }
 
@@ -3482,7 +3496,20 @@ section{
 }
 
 
-
+// REVIEWS - QUOTE LONG
+// ---------
+.article-reviews-quote{
+  padding:70px 190px 50px;
+  background:#F4F7FA;
+  text-align:center;
+  
+  .h3-reviews{
+    margin-top:36px;
+  }
+  img{
+    max-width:100%;
+  }
+}
 
 
 

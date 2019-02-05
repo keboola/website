@@ -5,12 +5,11 @@
 	</div>
 	<div class="item-list"><ul class="article-list-content article-list-content-four">
 		{% for list in section.list %}
-			<li>{% if list.link != "" and list.link != nil %}<a href="{{ list.link }}">{% endif %}
-				<i class="ico-img"><img src="{{ list.pictogram }}" alt=""></i>
-				<!--i class="ico ico-{{ list.icotype }}"></i-->
+			<li>
+				<i class="ico-img"><img src="{{ list.img }}" alt=""></i>
 				<h2>{{ list.title }}</h2>
 				<p>{{ list.desc }}</p>
-			{% if list.link != "" and list.link != nil %}</a>{% endif %}</li>
+			</li>
         {% endfor %}
 	</ul></div>
 </div></div>

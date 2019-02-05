@@ -100,6 +100,28 @@ page_sections:
   - title: lorem ipsum dolor sit amet fermentum
     desc: Be flexible. Change POS, ERP, as you need, keep the insights intact and
       processes running!
+- template: article-list-table
+  block: article-list-table
+  tablehead:
+    name: Comparison
+    valueold: OLD WAY
+    valuenew: KEBOOLA WAY
+  tablerow:
+  - valueold: 2-3 months
+    valuenew: 1 click
+    name: Connecting data sources
+  - name: Team size
+    valueold: 10+
+    valuenew: '1'
+  - name: Cost
+    valueold: "$$$"
+    valuenew: "$"
+  - name: Changes
+    valueold: Days or weeks
+    valuenew: Minutes
+  - name: Elasticity
+    valueold: 'No'
+    valuenew: 'Yes'
 - template: article-feature-list
   block: article-feature-list
   subheadline: All tools you love in one place working together seamlessly
@@ -157,6 +179,32 @@ page_sections:
       vitae iaculis egestas, velit dui imperdiet quam, mattis interdum arcu est ut
       dui.
     name: Do I need to lorem ipsum dolor sit amet?
+- template: article-full
+  block: article-full
+  subheadline: do it keboola way
+  headline: Here are the values that we live by
+  content: ""
+- template: article-about-founder
+  block: article-about-founder
+  list:
+  - name: Pavel Doležal
+    position: CEO
+    desc: Pavel is CEO and co-founder of Keboola! He’s from the Czech Republic and
+      his responsibilities mainly revolve around global business development and global
+      marketing.
+    photo: "/uploads/pavel.jpg"
+  - name: Petr Šimeček
+    position: Co-founder & Product Owner
+    desc: Petr lives in Prague and is responsible for all things Keboola. He works
+      mostly on product development and ensuring that Keboola continues to provide
+      cutting edge technology for clients.
+    photo: "/uploads/petr-1.jpg"
+  - name: Milan Veverka
+    position: Co-founder
+    desc: Milan travels all around the world to speak at events and speak to clients.
+      With his experience in business development, data analytics and technology,
+      he is responsible for all things business processes and business development.
+    photo: "/uploads/milan.jpg"
 date: 2019-02-05 09:38:34 +0000
 
 ---
