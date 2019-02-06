@@ -267,6 +267,7 @@ page_sections:
     photo: "/uploads/kathleen.jpg"
   - name: Ryan
     position: Solutions Consultant
+    photo: "/uploads/ryan.jpg"
   - name: Stefan
     position: Solutions Consultant
     photo: "/uploads/stefan.jpeg"
