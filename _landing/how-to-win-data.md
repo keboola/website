@@ -279,6 +279,7 @@ page_sections:
     photo: "/uploads/don.jpeg"
   - name: Filip
     position: Solutions Consultant
+    photo: "/uploads/filip.jpg"
   - name: Michal
     position: Data Consultant
   - name: Marko
