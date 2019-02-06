@@ -152,6 +152,14 @@ page_sections:
       if we are from Rohlik or some external data partner. It feels like one world”"
     img-left: true
     img: "/uploads/feature-list-img.png"
+  - title: Bring rapid innovation to your data science team by leveraging developer
+      environment with personal sandboxes and data directly linked to them.
+    desc: "“With Keboola we were able to give a personal development sandbox to all
+      of our risk modeling data scientists with just one click. We have over 30TB
+      of risk related data and publish over 300 changes to our credit score models
+      in a given day! That is more than in all of the previous X years together!”"
+    author: Michal - Chief of Risk Department HomeCredit VN
+  - {}
 - template: article-checkpoint-list
   block: article-checkpoint-list
   subheadline: Use data to drive your decissions
