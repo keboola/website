@@ -152,6 +152,7 @@ page_sections:
       if we are from Rohlik or some external data partner. It feels like one world”"
     img-left: true
     img: "/uploads/feature-list-img.png"
+    author: Tomas Cupr, founder Slevomat Group and Rohlik
   - title: Bring rapid innovation to your data science team by leveraging developer
       environment with personal sandboxes and data directly linked to them.
     desc: "“With Keboola we were able to give a personal development sandbox to all
