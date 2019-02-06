@@ -159,6 +159,7 @@ page_sections:
       of risk related data and publish over 300 changes to our credit score models
       in a given day! That is more than in all of the previous X years together!”"
     author: Michal - Chief of Risk Department HomeCredit VN
+    img: "/uploads/feature-list-img.png"
   - {}
 - template: article-checkpoint-list
   block: article-checkpoint-list
