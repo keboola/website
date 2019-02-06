@@ -46,7 +46,9 @@ page_sections:
   - title: Get one platform for all needs on data journey
     img: "/uploads/lp1.svg"
   - title: Activate your business departments with data
+    img: "/uploads/lp2.svg"
   - title: Automate actions and process based on data
+    img: "/uploads/lp3.svg"
   - title: 'Connect the world best A.I. from our partners '
 - template: ask-demo
   block: ask-demo
