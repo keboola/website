@@ -93,7 +93,7 @@ page_sections:
     position: CTO
     photo: "/uploads/903531.jpeg"
   - name: Jakub
-    position: Sales EU
+    position: Head of Sales
     photo: "/uploads/0.jpeg"
   - name: Martin
     position: Customer Success
