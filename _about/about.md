@@ -79,7 +79,7 @@ page_sections:
     photo: "/uploads/ihfpjqzags88p0uiyv7k_400x400.jpeg"
   - name: Martin
     position: Head of Professional Services
-    photo: "/uploads/fisa.jpg"
+    photo: "/uploads/fisa-1.jpg"
   - name: Ondrej
     position: Full Stack Tinkerer
     photo: "/uploads/najlos.jpg"
