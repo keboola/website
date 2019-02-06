@@ -96,7 +96,7 @@ page_sections:
     position: Head of Sales
     photo: "/uploads/0.jpeg"
   - name: Martin
-    position: Customer Success
+    position: Head of Customer Success
     photo: "/uploads/ddBVxSxm_400x400.jpg"
   - name: Martin
     position: Creative Director
