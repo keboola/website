@@ -253,8 +253,8 @@ page_sections:
   title: Meet the people behind the best data platform
   subtitle: The right people make anything possible
   list:
-  - name: Michal
-    position: Data Consultant
+  - name: Marko
+    position: Customer Success Manager
   - name: Jakub
     position: Head of Sales
     photo: "/uploads/0.jpeg"
@@ -277,6 +277,8 @@ page_sections:
     position: Solutions Consultant
   - name: Filip
     position: Solutions Consultant
+  - name: Michal
+    position: Data Consultant
   - name: Marcus
     position: Customer Success Manager
     photo: "/uploads/marcus.jpg"
