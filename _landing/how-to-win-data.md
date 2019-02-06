@@ -223,7 +223,7 @@ page_sections:
   block: article-full
   nomarginbottom: true
   subheadline: do it keboola way
-  headline: Our data delivery team
+  headline: The right people make anything possible
 - template: article-about-founder
   block: article-about-founder
   list:
@@ -246,12 +246,10 @@ page_sections:
       he is responsible for all things business processes and business development.
     photo: "/uploads/milan.jpg"
   nomargintop: true
-- template: horizontal-rule
-  block: hr
 - template: article-about-team
   block: article-about-team
-  title: Meet the people behind the best data platform
-  subtitle: The right people make anything possible
+  title: ''
+  subtitle: ''
   list:
   - name: Jakub
     position: Head of Sales
