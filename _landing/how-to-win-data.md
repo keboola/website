@@ -184,6 +184,13 @@ page_sections:
     - item: Over 200 connectors
     - item: Automatic materialisation & warehousing
     - item: Serverless platform with automatic scaling and parallelization
+    - item: Data exploration
+    - {}
+    - {}
+    - {}
+    - {}
+    - {}
+    - {}
 - template: ask-demo
   block: ask-demo
   headline: Book the demo today and you will get Predictive Support helping to fully
