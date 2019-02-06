@@ -104,6 +104,7 @@ page_sections:
     desc: Save years and millions in developing in house stack. Learn from our mistakes
       and focus on business instead!
     colortype: yellow
+    img: "/uploads/yellow3.svg"
   - title: lorem ipsum dolor sit amet fermentum
     desc: Be flexible. Change POS, ERP, as you need, keep the insights intact and
       processes running!
