@@ -105,10 +105,11 @@ page_sections:
       and focus on business instead!
     colortype: yellow
     img: "/uploads/yellow3.svg"
-  - title: lorem ipsum dolor sit amet fermentum
+  - title: Get all about data with Keboola
     desc: Be flexible. Change POS, ERP, as you need, keep the insights intact and
       processes running!
     colortype: black
+    img: "/uploads/box.svg"
 - template: article-list-table
   block: article-list-table
   tablehead:
