@@ -88,7 +88,7 @@ page_sections:
     photo: "/uploads/jeffry.jpg"
   - position: Account Executive
     name: Kathleen
-    photo: "/uploads/0 (1).jpeg"
+    photo: "/uploads/kathleen.jpg"
   - name: Martin
     position: CTO
     photo: "/uploads/903531.jpeg"
