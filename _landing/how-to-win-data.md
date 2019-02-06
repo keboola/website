@@ -246,23 +246,49 @@ page_sections:
       he is responsible for all things business processes and business development.
     photo: "/uploads/milan.jpg"
   nomargintop: true
+- template: horizontal-rule
+  block: hr
 - template: article-about-team
   block: article-about-team
+  title: Meet the people behind the best data platform
+  subtitle: The right people make anything possible
   list:
+  - name: Marcus
+    position: Customer Success Manager
+    photo: "/uploads/marcus.jpg"
+  - name: Ondrej
+    position: Data Scientist
+    photo: "/uploads/1*jBa92FLPeWL9AqV672m1Vw.jpeg"
+  - name: Leonard
+    position: Account Executive
+    photo: "/uploads/ihfpjqzags88p0uiyv7k_400x400.jpeg"
+  - name: Martin
+    position: Head of Professional Services
+    photo: "/uploads/fisa-1.jpg"
+  - name: Ondrej
+    position: Full Stack Tinkerer
+    photo: "/uploads/najlos.jpg"
+  - name: Jeffry
+    position: Account Executive
+    photo: "/uploads/jeffry.jpg"
+  - position: Account Executive
+    name: Kathleen
+    photo: "/uploads/kathleen.jpg"
+  - name: Martin
+    position: CTO
+    photo: "/uploads/903531.jpeg"
   - name: Jakub
-    photo: "/uploads/0.jpeg"
     position: Head of Sales
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
+    photo: "/uploads/0.jpeg"
+  - name: Martin
+    position: Head of Customer Success
+    photo: "/uploads/ddBVxSxm_400x400.jpg"
+  - name: Martin
+    position: Creative Director
+    photo: "/uploads/13179242_10153543131370205_3174791589622889100_n.jpg"
+  - name: Data Dog
+    position: Such wow
+    photo: "/uploads/doge-1.jpg"
 date: 2019-02-05 09:38:34 +0000
 
 ---
