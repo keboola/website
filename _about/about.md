@@ -78,7 +78,7 @@ page_sections:
     position: Account Executive
     photo: "/uploads/ihfpjqzags88p0uiyv7k_400x400.jpeg"
   - name: Martin
-    position: Professional Services
+    position: Head of Professional Services
     photo: "/uploads/fisa.jpg"
   - name: Ondrej
     position: Full Stack Tinkerer
