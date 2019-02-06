@@ -69,7 +69,7 @@ page_sections:
   subtitle: The right people make anything possible
   list:
   - name: Marcus
-    position: Customer Success
+    position: Customer Success Manager
     photo: "/uploads/marcus.jpg"
   - name: Ondrej
     position: Data Scientist
