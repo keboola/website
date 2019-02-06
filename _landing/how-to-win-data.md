@@ -218,6 +218,11 @@ page_sections:
       vitae iaculis egestas, velit dui imperdiet quam, mattis interdum arcu est ut
       dui.
     name: Do I need to lorem ipsum dolor sit amet?
+- template: article-full
+  block: article-full
+  nomarginbottom: true
+  subheadline: do it keboola way
+  headline: Our data delivery team
 - template: article-about-founder
   block: article-about-founder
   list:
@@ -240,11 +245,11 @@ page_sections:
       he is responsible for all things business processes and business development.
     photo: "/uploads/milan.jpg"
   nomargintop: true
-- template: article-full
-  block: article-full
-  nomarginbottom: true
-  subheadline: do it keboola way
-  headline: Our data delivery team
+- template: article-about-team
+  block: article-about-team
+  list:
+  - name: Jakub
+    photo: "/uploads/0.jpeg"
 date: 2019-02-05 09:38:34 +0000
 
 ---
