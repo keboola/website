@@ -151,6 +151,7 @@ page_sections:
       into it and collaborate in one environment on creating business value no matter
       if we are from Rohlik or some external data partner. It feels like one world”"
     img-left: true
+    img: "/uploads/feature-list-img.png"
 - template: article-checkpoint-list
   block: article-checkpoint-list
   subheadline: Use data to drive your decissions
