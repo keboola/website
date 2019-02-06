@@ -176,7 +176,8 @@ page_sections:
   block: article-checkpoint-list
   subheadline: Use data to drive your decissions
   headline: Book a demo and Get A Price
-  desc: 'Typical middle sized company solution will range from $5.000 - $12.000 monthly     saving you about $500.000 per year.'
+  desc: "Typical middle sized company solution will range from $5.000 - $12.000 monthly
+    \Lsaving you about $500.000 per year."
   checkpoint-list:
     title: Whats included?
     list:
