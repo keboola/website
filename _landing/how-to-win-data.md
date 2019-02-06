@@ -276,6 +276,7 @@ page_sections:
     photo: "/uploads/liam.jpg"
   - name: Don
     position: Solutions Consultant
+    photo: "/uploads/don.jpeg"
   - name: Filip
     position: Solutions Consultant
   - name: Michal
