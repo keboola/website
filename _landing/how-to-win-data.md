@@ -250,6 +250,18 @@ page_sections:
   list:
   - name: Jakub
     photo: "/uploads/0.jpeg"
+    position: Head of Sales
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
 date: 2019-02-05 09:38:34 +0000
 
 ---
