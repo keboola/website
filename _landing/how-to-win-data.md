@@ -185,12 +185,12 @@ page_sections:
     - item: Automatic materialisation & warehousing
     - item: Serverless platform with automatic scaling and parallelization
     - item: Data exploration
-    - {}
-    - {}
-    - {}
-    - {}
-    - {}
-    - {}
+    - item: Personal dev sandboxes with enough GPUs and auto scaling
+    - item: Automatic versioning of code
+    - item: Collaboration layer
+    - item: User management and full user actions audit trail
+    - item: All roles access - Data Engineers, Data Scientists, Analysts, Citizen
+        users
 - template: ask-demo
   block: ask-demo
   headline: Book the demo today and you will get Predictive Support helping to fully
