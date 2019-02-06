@@ -50,6 +50,7 @@ page_sections:
   - title: Automate actions and process based on data
     img: "/uploads/lp3.svg"
   - title: 'Connect the world best A.I. from our partners '
+    img: "/uploads/lp4.svg"
 - template: ask-demo
   block: ask-demo
   ctaname: Get price quote
