@@ -8,13 +8,15 @@
 		{% endif %}
 	</div></div>
 	{% for list in section.list %}
-		<article class="article-feature-list-item"><div class="in">
-			<div class="item-img">
-				<div class="img"><img src="{{ list.img }}" alt=""></div>
-			</div>
-			<div class="item-desc">
-				<h2 class="h2-big">{{ list.title }}</h2>
-				<p>{{ list.desc }}</p>
+		<article class="article-feature-list-item{% if list.img-left == true %} article-feature-list-item-right{% endif %}"><div class="in">
+			<div class="article-feature-list-item-content">
+				<div class="item-img">
+					<div class="img"><img src="{{ list.img }}" alt=""></div>
+				</div>
+				<div class="item-desc">
+					<h2 class="h2-big">{{ list.title }}</h2>
+					<p>{{ list.desc }}</p>
+				</div>
 			</div>
 		</div></article>
     {% endfor %}
