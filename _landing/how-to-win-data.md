@@ -255,6 +255,7 @@ page_sections:
   list:
   - name: Marko
     position: Customer Success Manager
+    photo: "/uploads/marko.jpeg"
   - name: Jakub
     position: Head of Sales
     photo: "/uploads/0.jpeg"
