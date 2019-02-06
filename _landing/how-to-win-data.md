@@ -161,7 +161,17 @@ page_sections:
       in a given day! That is more than in all of the previous X years together!”"
     author: Michal - Chief of Risk Department HomeCredit VN
     img: "/uploads/feature-list-img.png"
-  - {}
+  - title: Materialize and store all of the new data with Keboola’s auto storage
+    desc: "“I’m always surprised by how smart Keboola’s data acquisition and warehousing
+      is. Keboola automatically connects to source of data, stores the JSON file in
+      data lake, then automatically converts it into managed dwh and materializes
+      the JSON on the flie to be instantly ready in relational dwh and ready to be
+      queried right away. I don’t have to setup my schemas everytime, it recognizes
+      it on the fly! This totally boosts our productivity and allows us to build scalable
+      solutions”"
+    author: Nick Folger - 4Mile.io
+    img-left: true
+    img: "/uploads/feature-list-img.png"
 - template: article-checkpoint-list
   block: article-checkpoint-list
   subheadline: Use data to drive your decissions
