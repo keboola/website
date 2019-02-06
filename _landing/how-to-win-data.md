@@ -282,6 +282,7 @@ page_sections:
     photo: "/uploads/filip.jpg"
   - name: Michal
     position: Data Consultant
+    photo: "/uploads/michal.jpg"
   - name: Marko
     position: Customer Success Manager
     photo: "/uploads/marko.jpeg"
