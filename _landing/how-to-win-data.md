@@ -256,7 +256,8 @@ page_sections:
   - {}
   - {}
   - {}
-  - {}
+  - name: Stefan
+    position: Solutions Consultant
   - name: Jakub
     position: Head of Sales
     photo: "/uploads/0.jpeg"
