@@ -24,6 +24,9 @@ fields:
   - type: text
     name: desc
     label: desc
+  - type: text
+    name: author
+    label: author
   - type: boolean
     name: img-left
     label: img left
