@@ -13,7 +13,8 @@ page_sections:
   block: ask-demo
   ctaname: Get free white paper how to finally win data
   subheadline: Use data to drive your decissions
-  headline: "Grow your business with Keboola\L Digital Integration & Analytics Hub"
+  headline: "Grow your business with Keboola\L </br>Digital Integration & Analytics
+    Hub"
   content: Learn how by leveraging serverless data platform that covers all of the
     steps of data journey and allows departments to collaborate in real time you can
     leapfrog from xls to ai in no time.
