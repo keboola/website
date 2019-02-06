@@ -55,8 +55,8 @@ page_sections:
 - template: ask-demo
   block: ask-demo
   ctaname: Get price quote
-  headline: "Interested to learning how you can turn\L your company in just 3 months
-    ?"
+  headline: "Interested to learning how you can </br>turn\L your company in just 3
+    months ?"
   content: Take 15 minutes &amp; learn how to become your CEOs favourite person while
     turning your company to smartest in your market. We guarantee that if you <strong>don’t
     get results within 3 months, you will get Keboola for free</strong>.
