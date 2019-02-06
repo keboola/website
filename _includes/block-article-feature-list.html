@@ -16,6 +16,9 @@
 				<div class="item-desc">
 					<h2 class="h2-big">{{ list.title }}</h2>
 					<p>{{ list.desc }}</p>
+					{% if list.author != "" and list.author != nil %}
+						<h3 class="h3-author">{{ list.author }}</h3>
+					{% endif %}
 				</div>
 			</div>
 		</div></article>
