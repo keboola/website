@@ -86,7 +86,7 @@ page_sections:
   - name: Jeffry
     position: Account Executive
     photo: "/uploads/jeffry.jpg"
-  - position: Solutions Consultant
+  - position: Account Executive
     name: Kathleen
     photo: "/uploads/0 (1).jpeg"
   - name: Martin
