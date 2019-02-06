@@ -8,7 +8,7 @@ page_sections:
   block: header-landing
   headline: Keboola makes it easy to jump <strong>from Excel to AI</strong><br> with
     lightning speed in <strong>every department.</strong>
-  image: "/uploads/landing-bg.svg"
+  image: "/uploads/headerWinData.svg"
 - template: ask-demo
   block: ask-demo
   ctaname: Get free white paper how to finally win data
