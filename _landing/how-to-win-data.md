@@ -98,7 +98,7 @@ page_sections:
   - title: Data driven companies have 30% higher EBITDA.
     desc: All data is warehoused, processes can be automated, everybody gets insights
       to make smart business decisions.
-    img: "/uploads/black2.svg"
+    img: "/uploads/blue1-1.svg"
     colortype: blue
   - title: One contract. All the tools you love and need.
     desc: Save years and millions in developing in house stack. Learn from our mistakes
