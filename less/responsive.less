@@ -480,6 +480,21 @@
 
 
 
+  // SECTION - HEADER - LANDING
+  // ---------
+  .section-header-landing{
+    .in{
+      padding-top:40px;
+      padding-bottom:40px;
+    }
+    .item-img{
+      img{
+        max-width:90%;
+      }
+    }
+  }
+
+
 
 
 
@@ -533,6 +548,23 @@
     background-size:110% auto;
   }
 
+
+  
+
+
+
+  // ARTICLE LIST - FOUR
+  // FOUR COLUMN
+  // ---------
+  .article-list-content-four,
+  .article-list-content-three-full{
+    li{
+      padding-top:180px;
+    }
+    h2{
+      .font-size(20, 30px);
+    }
+  }
 
 
 
@@ -630,6 +662,19 @@
   }
   .article-reviews-item{
     padding:20px 80px 10px;
+  }
+
+  
+
+  // REVIEWS - QUOTE LONG
+  // ---------
+  .article-reviews-quote{
+    padding:50px 130px;
+
+    p{
+      margin:0 0 35px 0;
+      .font-size(20, 40px);
+    }
   }
 
 
@@ -731,6 +776,17 @@
 
 
 @media screen and (max-width: 1100px){
+  
+
+
+
+  // SECTION - HEADER - LANDING
+  // ---------
+  .section-header-landing{
+    .item-desc{
+      padding-right:4%;
+    }
+  }
 
 
 
@@ -748,7 +804,33 @@
   .gallery-list-pages-content{
     margin:30px 0 0 0;
   }
+  
 
+
+
+
+  // ARTICLE LIST - FOUR
+  // FOUR COLUMN
+  // ---------
+  .article-list-content-four,
+  .article-list-content-three-full{
+    margin:0 -10px;
+
+    li{
+      padding:170px 10px 0 10px;
+    }
+    h2{
+      .font-size(18, 26px);
+    }
+  }
+  .article-list-content-three-full{
+    margin:0 -20px;
+
+    li{
+      padding-left:20px;
+      padding-right:20px;
+    }
+  }
 
   
 
@@ -1096,6 +1178,18 @@
 
 
 
+  // SECTION - HEADER - LANDING
+  // ---------
+  .section-header-landing{
+    .item-desc{
+      //padding-right:10%;
+      width:55%;
+    }
+    .item-img{
+      width:45%;
+    }
+  }
+
 
 
   // PRODUCT - HEADER
@@ -1176,7 +1270,16 @@
   }
 
 
+  
 
+  // ARTICLE LIST - FEATURE
+  // ---------
+  .article-feature-list-item{
+    .in{
+      padding-top:40px;
+      padding-bottom:30px;
+    }
+  }
 
 
   // ---------
@@ -1740,8 +1843,35 @@
     }
   }
 
+  // ARTICLE LIST - FOUR
+  // FOUR COLUMN
+  // ---------
+  .article-list-content-four,
+  .article-list-content-three-full{
+    li{
+      padding-top:120px;
+    }
+  }
 
 
+
+  // ARTICLE LIST - FEATURE
+  // ---------
+  .article-feature-list-item{
+    .article-feature-list-item-content{
+      .item-desc{
+        margin:0;
+        padding-right:4%;
+        padding-left:0;
+      }
+    }
+    .article-feature-list-item-content-right{
+      .item-desc{
+        padding-right:0;
+        padding-left:4%;
+      }
+    }
+  }
 
 
 
@@ -1838,7 +1968,14 @@
     }
   }
 
-
+  
+  // ARTICLE LIST - FEATURE
+  // ---------
+  .article-feature-list{
+    .item-desc{
+      margin:0;
+    }
+  }
 
 
 
@@ -1857,6 +1994,9 @@
         //max-height:20px;
       }
     }
+  }
+  .article-logo-list-nomargin{
+    margin-top:0;
   }
 
 
@@ -1961,6 +2101,16 @@
   }
 
   
+  // REVIEWS - QUOTE LONG
+  // ---------
+  .article-reviews-quote{
+    padding:40px 60px;
+
+    p{
+      margin:0 0 30px 0;
+      .font-size(18, 1.6em);
+    }
+  }
 
 
 
@@ -2065,6 +2215,34 @@
   .comparison-table-value{
     .font-size(14, 22px);
   }
+
+
+
+  // ---------
+  // CHECKPOINT
+  // ---------
+  .checkpoint-list{
+    padding:20px 30px 20px 30px;
+
+    h2{
+      margin:0 0 22px 0;
+      padding:0 0 18px 0;
+      .font-size(22, 1.2em);
+    }
+    li{
+      margin:0 0 10px 0;
+      padding:0 0 0 48px;
+      .font-size(18, 26px);
+
+      &:before{
+        .sq(26px);
+        background-size:100%;
+      }
+    }
+  }
+
+
+
 
 
 
@@ -2455,6 +2633,17 @@
 
 
 
+  // SECTION - HEADER - LANDING
+  // ---------
+  .section-header-landing{
+    .in{
+      padding-top:20px;
+      padding-bottom:20px;
+    }
+  }
+
+
+
   // PRODUCT - HEADER
   // ---------
   .product-header-content-start{
@@ -2492,6 +2681,38 @@
 
 
 
+
+  // ARTICLE LIST - FOUR
+  // FOUR COLUMN
+  // ---------
+  .article-list-content-four,
+  .article-list-content-three-full{
+    li{
+      padding:0 10px 0 110px;
+      width:50%;
+      min-height:120px;
+    }
+    .ico-img{
+      height:120px;
+    }
+    .ico{
+      top:0;
+      left:22px;
+    }
+  }
+  .article-list-content-four{
+    h2{
+      padding-top:15px;
+    }
+  }
+  .article-list-content-three-full{
+    margin:0 -20px;
+
+    li{
+      padding:120px 20px 0;
+      width:33.3333%;
+    }
+  }
   
 
 
@@ -2777,6 +2998,12 @@
   }
 
 
+  // REVIEWS - QUOTE LONG
+  // ---------
+  .article-reviews-quote{
+    padding:40px;
+  }
+
   
 
   // ---------
@@ -2916,7 +3143,77 @@
 
 
 
+@media screen and (max-width: 650px){
 
+  // SECTION - HEADER - LANDING
+  // ---------
+  .section-header-landing{
+    h1{
+      .font-size(22, 1.3em);
+    }
+  }
+
+
+
+  // ARTICLE LIST - FOUR
+  // FOUR COLUMN
+  // ---------
+  .article-list-content-four,
+  .article-list-content-three-full{
+    margin:0;
+
+    li{
+      display:block;
+      padding:0 0 0 110px;
+      width:100%;
+      min-height:100px;
+    }
+  }
+
+
+
+
+
+  // ARTICLE LIST - FEATURE
+  // ---------
+  .article-feature-list-item{
+    .in{
+      padding-top:30px;
+    }
+    .article-feature-list-item-content{
+      display: block;
+      text-align:center;
+
+      .item-desc{
+        margin:0 auto 0;
+        padding-right:0;
+        padding-left:0;
+        max-width:500px;
+        width:100%;
+      }
+      .item-img{
+        margin:0 auto 20px;
+        width:100%;
+        max-width:300px;
+      }
+    }
+    .article-feature-list-item-content-right{
+      .item-desc{
+        margin:0 auto 0;
+        padding-right:0;
+        padding-left:0;
+      }
+    }
+  }
+  
+
+
+
+
+
+
+
+}
 
 
 
@@ -3185,6 +3482,40 @@
     }
   }
 
+  
+
+
+
+
+  // SECTION - HEADER - LANDING
+  // ---------
+  .section-header-landing{
+    .in{
+      padding-top:20px;
+      padding-bottom:30px;
+
+      display: block;
+      text-align:center;
+    }
+    .item-desc{
+      margin:0 auto 20px;
+      padding-right:0;
+      width:100%;
+      max-width:300px;
+      text-align:center;
+    }
+    .item-img{
+      margin:0 auto 0;
+      max-width:220px;
+      width:100%;
+      overflow:hidden;
+    }
+    h1{
+      br{
+        display:none;
+      }
+    }
+  }
 
 
 
@@ -3267,6 +3598,17 @@
 
 
 
+  // REVIEWS - QUOTE LONG
+  // ---------
+  .article-reviews-quote{
+    padding:20px;
+
+    p{
+      margin:0 0 20px 0;
+      .font-size(15, 1.5em);
+    }
+  }
+
   
 
 
@@ -3325,6 +3667,15 @@
   }
   .comparison-table-value{
     .font-size(12, 1.4em);
+  }
+
+
+
+  // ---------
+  // CHECKPOINT
+  // ---------
+  .checkpoint-list{
+    padding:20px;
   }
 
 
@@ -3477,6 +3828,20 @@
       }
     }
   }
+
+
+
+
+  // ARTICLE LIST - FEATURE
+  // ---------
+  .article-feature-list-item{
+    .article-feature-list-item-content{
+      .item-img{
+        max-width:240px;
+      }
+    }
+  }
+  
 
 
 
