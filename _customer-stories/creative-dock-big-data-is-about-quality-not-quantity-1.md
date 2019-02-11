@@ -8,50 +8,26 @@ logo: "/uploads/dock_logo.jpg"
 published: false
 
 ---
-_Creative Dock is a Czech startup studio where ideas for new businesses are born, and under their management these ideas become fully-fledged companies. As a client Creative Dock, therefore, represents several clients from different sectors with different needs. A client like this can be a tough nut to crack. When we won the proposal for Creative Dock it meant implementing several tools at a time, and we knew we were in for a rough ride. But we like a challenge. As we want you to give you a glimpse into that process, we spoke to Mirek Esser, Head of IT at Czech Creative Dock, about how they use data and Keboola Connection to run their business of bringing new companies to life._ 
+### Ivanhoé Cambridge develops and invests in high-quality real estate properties, projects and companies that are shaping the urban fabric in dynamic cities around the world.
 
-**Mirek, what exactly is your IT department’s work at Creative Dock?** 
+It does so responsibly, with a long-term view to generate optimal, risk-adjusted returns. Ivanhoé Cambridge is committed to creating living spaces that foster the well-being of people and communities, while reducing its environmental footprint.
 
-Our domain is data science. Everything from processing sensory data from phones in order to provide usage-based insurance, to calculating the cost of solar panels just from one photograph of the roof in question. We often set up fraud detection as well. These services are both sold to outside customers and used in our internal projects, and the process is highly autonomous. We are there for them when they want us, but they have the freedom to make their own decisions. 
+Ivanhoé Cambridge held more than C$60 billion in assets as of December 31, 2017, and is a real estate subsidiary of the Caisse de dépôt et placement du Québec ([cdpq.com](http://cdpq.com/)), one of Canada’s leading institutional fund managers.
 
-The implementation of Keboola has helped a lot with internal sales, as people are understandably interested in automating their reports. We began to notice a trend: as soon as people within a project saw the potential of what we could offer using Keboola, they found greater cause to calculate & evaluate much more data by themselves with the technology. We were able to add in new metrics that, in turn, increased the value of our service for further projects in Creative Dock.
+#### **The Problem**
 
-**When did you first hear about Keboola?**
+While there is an abundance of availability around tools and strategies for deploying digital marketing initiatives, the same availability is missing within the data analytics side of the initiative. Ivanhoé Cambridge required a tool that enabled its digital marketing initiatives the ability to not only maintain its growth, but scale throughout continued growth. It required a solution that was future-proofed in its ability to be flexible from the digital marketing organization’s infancy.
 
-We heard about Keboola through [Roman Pichlík](https://www.linkedin.com/in/romanpichlik/), when he joined Zonky (one of the first companies on the Czech market providing peer-to-peer loans). At that time we were dealing with ETL for Cofidis (European financial company specializing in long-distance online loans) and Roman recommended Keboola to me for the project. It was not long before we were using it with Zonky as well.
+Ivanhoé Cambridge nation wide marketing team of 50 professionals had a variety of digital marketing tools, not all of them common or even marquee brands, therefore creating issue with other ETL solutions that could not provide a solution for Ivanhoé Cambridge’s unique mix of standard and proprietary data sources. Preparing data for consumption from the various solutions required laborious manual labor, leaving little to no energy to spend time creating value within the data itself.
 
-We were mainly interested in automating reports, particularly acquisition reports. So we announced a tender and Keboola won it. The fact that the group are from Karlin was a major factor in our choice – we could easily call them or just go there and meet face-to-face. They are nice guys and I find them great to work with. Setting it all up took a mere three weeks and although initially there were some stumbling blocks, the reports delivered from the very beginning. 
+#### **The Solution**
 
-**How had you dealt with ETL until then?**
+Ivanhoé Cambridge went shopping for solutions at the Tableau Conference and encountered Keboola. After going through the sales process with other providers, Keboola’s extensibility allowed them to be the single vendor to commit to a POC that proved its custom integration framework for its own API.
 
-In the traditional, old-school way: data was cast into some server or another, I adjusted it via the client, used SQL, and produced a data mart table. I then moved this over to Excel and made final adjustments before presenting it to the client, voilà. The report came out either weekly or fortnightly. 
+#### **The Result**
 
-We knew that we wanted this process automated. After Zonky and ETL, it only made sense to implement this throughout the whole of Creative Dock. 
+> _“Keboola allowed us to focus on being innovative and not worry about whether our toolset would be able to keep up with us.” – Vinh Buu, Manager of Shopping Data_
 
-**Home Credit bought Zonky in the autumn. Do they still use Keboola?**
+What started as a Digital Marketing reporting tool has expanded into multi-purpose solution. Not only does Ivanhoé Cambridge use Keboola to track marketing campaigns and activities, but it’s on the forefront of the company’s experimental and R&D projects for the future of Ivanhoé Cambridge sites. Tableau is not the only consumption point of data now, as data also flows to other systems, all within one Keboola instance.
 
-I’m not sure. I presume so because as soon as you begin there is no reason to go elsewhere!
-
-I began to lobby for us to employ Keboola for other projects we develop here at Creative Dock, such as [HoppyGo](https://www.hoppygo.cz/en) and [ActivePass](https://www.activepass.cz/#). Our internal projects benefited hugely from automated reporting and these benefits could expand across the board. I liked the way it had worked at Zonky and I trust Keboola; I know it has a future and that the group are by no means resting on their laurels. These are concerns I have had about other tools. I have the peace of mind with Keboola that if I have a problem, I can simply pick up the phone and call Petr Šimeček, for example, and he will deal with it. I have had no major issues yet but I know the quality of their support & reliability. I do not have to worry that the company has checked out after making the sale. 
-
-**How specifically do you work with Keboola?**
-
-Our data team uses and modifies the actual interface to create operative reports, typically with new customers, average earnings from a customer, data about use, churn rate, etc. Above all, Keboola suits us for reporting the cost of acquisition from online campaigns. We actually apply this throughout all the projects that we have – meaning 15, maybe 20 projects. 
-
-We load data from GA, from the servers on which the services run, from the individual databases of actual projects, from MySQL databases and from Facebook. We also use manual input from Google Sheets, which we connect through Google Data Studio. This process used to be awful, but has recently greatly improved and is now optimized to work with.
-
-We gather all of this data through Keboola and, after simple transformation, we publish it in a place where it can be easily analyzed by the business users, e.g. marketing departments, project leaders, etc.
-
-Eventually, I hope that the data input stage will also be automated, and all we will have to do is add or delete projects once completed or handed over. We’re not quite there yet, though.
-
-**Is there anything else you would like to improve, optimise?**
-
-It goes without saying that, initially, it was not quite perfected. When I opened Keboola for the first time there were things that exasperated me, some things seemed poorly thought out. Keboola had to customize components to satisfy our needs and everything has now been sorted out or is in the process of. 
-
-Together we have made a massive improvement on how data management works at Creative Dock. I truly enjoy working with Jakub Turner from Keboola and he makes great efforts outwith the business as well. He has linked me with other people, we have even done a Hackathon together.
-
-**One last question: How do you see the role of data in business?**
-
-I always say that big data is only important if it has a big impact on the actual business of a particular company. There is no need to go overboard. If the data is relevant to the core upon which the company is built, and is necessary for business to work, then it is big data. I really don’t care if I can pour in terabytes or petabytes in milliseconds. What is important is what I can produce as output from such data. That is what makes it indispensable to the company. 
-
-**Thank you for talking to us. We hope everything goes well at Creative Dock!**
+> _“Along the way when we encountered problems with some of our tools, we realized that we could use Keboola to tackle the problems. Tools that had integrations and connectors that should have worked didn’t, or was really hard. We realized we can use Keboola to push and pull data to those tools.” – Vinh Buu, Manager of Shopping Data._
