@@ -2,7 +2,7 @@
 title: 'Ivanhoé Cambridge: Focus on being innovative and not worry about our toolset '
 layout: post-case-study
 date: 2018-11-29 10:50:46 +0000
-author: Fenek PR
+author: Jiri Vicherek
 background-image: "/uploads/ivanhoeBackWebsite.jpg"
 logo: "/uploads/ivanhoeLogo.jpg"
 
