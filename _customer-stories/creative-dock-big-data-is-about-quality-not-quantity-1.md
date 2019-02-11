@@ -3,9 +3,8 @@ title: 'Ivanhoé Cambridge: Focus on being innovative and not worry about our to
 layout: post-case-study
 date: 2018-11-29 10:50:46 +0000
 author: Fenek PR
-background-image: "/uploads/crativeBack.jpg"
-logo: "/uploads/dock_logo.jpg"
-published: false
+background-image: "/uploads/ivanhoeBackWebsite.jpg"
+logo: "/uploads/ivanhoeLogo.jpg"
 
 ---
 ### Ivanhoé Cambridge develops and invests in high-quality real estate properties, projects and companies that are shaping the urban fabric in dynamic cities around the world.
