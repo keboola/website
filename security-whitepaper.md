@@ -1,5 +1,5 @@
 ---
-title: Whitepaper
+title: Security Whitepaper
 layout: text-page
 date: 2018-12-06 13:00:17 +0000
 subtitle: Your data, our concern
