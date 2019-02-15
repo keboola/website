@@ -1,7 +1,7 @@
 ---
 title: 'Slevomat: Data helps us to speed up our day-to-day decisions'
 layout: post-case-study
-date: 2018-11-29 11:44:00 +0100
+date: 2018-11-29 11:54:00 +0100
 author: Jiri Vicherek
 background-image: "/uploads/slevomatBack.jpg"
 logo: "/uploads/slevomat_logo.jpg"
