@@ -73,8 +73,7 @@ page_sections:
     intuitive infrastructure for all of your needs of integrating, cleaning and analyzing
     data. Even harder when you want the business people to use it and self serve analytics
     and we just didn’t have time and resources to do it. We thought it would take
-    us years and millions of dollars to get the results.</p><p>{{% tip %}} VwzVI13W0ew
-    {{% /tip %}}</p><p>After we engaged with Keboola’s platform we had our first project
+    us years and millions of dollars to get the results.</p><p>{% youtube_tag VwzVI13W0ew %}</p><p>After we engaged with Keboola’s platform we had our first project
     done in 3 days. All the data from user feedback was integrated, stored, cleaned
     and visualised so everybody saw the results immediately. The whole process was
     orchestrated to happen several times a day so we’ve always had fresh data from
