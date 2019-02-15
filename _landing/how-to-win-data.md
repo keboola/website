@@ -142,6 +142,7 @@ page_sections:
     to easily add a large amount of text, process it and visualize the results.
   ctaname: See how Rohlik is working with data
   img: "/uploads/cupr_rohlik-1.jpg"
+  ctalink: https://www.youtube.com/watch?v=VjefaqTFJQg&t=643s
 - template: article-feature-list
   block: article-feature-list
   subheadline: All tools you love in one place working together seamlessly
