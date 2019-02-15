@@ -1,7 +1,7 @@
 <article class="article-reviews"><div class="in"><i class="ico-cubes ico-cubes-left"></i>
 	<div class="article-reviews-quote">
 		{% if section.youtubeid != "" and section.youtubeid != nil %}
-			<div class="youtube-content"><iframe src="https://www.youtube.com/embed/{{ section.youtubeid }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+			<div class="youtube-content"><div class="youtube-content-in"><iframe src="https://www.youtube.com/embed/{{ section.youtubeid }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
 		{% endif %}
 		{{ section.desc }}
 		<h3 class="h3-reviews">{{ section.author }}</h3>
