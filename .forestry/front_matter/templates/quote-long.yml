@@ -13,6 +13,10 @@ fields:
 - type: text
   name: author
   label: author
+- type: text
+  name: youtubeid
+  label: youtube id
+  description: VwzVI13W0ew
 - type: textarea
   config:
     wysiwyg: true
