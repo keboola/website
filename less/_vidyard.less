@@ -1,0 +1,527 @@
+/*!
+ *
+ *  Project:  KEBOOLA - vidyard custom CSS
+ *  Author:   Petr Urbanek - www.r4ms3s.cz
+ *  Twitter:  @r4ms3scz
+ *
+ */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+@import "mixins.less";
+
+
+// UI - BTN
+// ---------
+.btn{
+  display:inline-block;
+  padding:0 25px;
+  height:60px;
+  border:0;
+  .border-radius(2px);
+  .font-size(20, 60px);
+  font-weight:400;
+  color:#fff;
+  background:#228DFF;
+  vertical-align:top;
+  text-decoration:none;
+  cursor:pointer;
+  outline:0;
+  .box-shadow(0 10px 20px 0 rgba(34,141,255,0.50));
+  .transition(all .2s ease-in-out);
+  
+  &:focus{
+    outline:0;
+  }
+  &:hover{
+    color:#fff;
+    background:#228DFF;
+    .box-shadow(0 14px 28px 0 rgba(34,141,255,0.70));
+  }
+}
+
+// LAYOUT
+// ---------
+.in{
+  position:relative;
+  margin:0 auto 0;
+  padding-left:130px;
+  padding-right:130px;
+  max-width:1440px;
+  text-align:left;
+  .c;
+}
+
+// HEADER
+// ---------
+header{
+  margin:0 0 38px 0;
+  width:100%;
+
+  h1{
+    margin:0;
+    .size(100%, 110px);
+    line-height:100px;
+    border-bottom:2px solid #F1F5F9;
+    text-align:center;
+
+    a{
+      position:relative;
+      display:inline-block;
+      .size(130px, 42px);
+      background:url(https://www.keboola.com/img/logo.svg) 0 center no-repeat;
+      text-indent:-9999px;
+      vertical-align:middle;
+      text-align:center;
+    }
+  }
+}
+#sharing-stage #name-header h1.text-center{
+  margin:0 0 20px 0;
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  .font-size(38, 1.2em);
+  font-weight:400;
+  color:#233141;
+}
+
+// MAIN CONTENT
+// ---------
+#main-content{
+  padding-left:30px;
+  padding-right:30px;
+}
+
+// ASK FOR DEMO
+// ---------
+.ask-for-demo{
+  position:relative;
+  margin:45px 0 50px 0;
+  text-align:center;
+
+  &:before{
+    content:'';
+    position:absolute;
+    left:0;
+    top:50%;
+    margin-top:-1px;
+    .size(100%, 2px);
+    background:#F1F5F9;
+  }
+  .btn{
+    position:relative;
+    z-index:2;
+  }
+}
+
+// ARTICLE LOGO LIST
+// ---------
+.article-logo-list{
+  margin:0 0 40px 0;
+  text-align:center;
+
+  h2{
+    margin:0 0 24px 0;
+    .font-size(24, 1.2em);
+    font-weight:400;
+    color:#AFC4D7;
+  }
+  p{
+    margin:0 -15px;
+
+    img{
+      display:inline-block;
+      margin:0 20px 15px;
+      vertical-align:middle;
+    }
+  }
+}
+
+// ARTICLE LIST
+// ---------
+.article-list{
+  margin:0 0 30px 0;
+
+  ul{
+    margin:0 -13px;
+    padding:0;
+    .font-size(0,0);
+    list-style: none;
+  }
+  li{
+    display:inline-block;
+    margin:0;
+    padding:0 13px;
+    width:33.3333%;
+    vertical-align:top;
+    list-style: none;
+  }
+  a{
+    display:block;
+    .size(100%, auto);
+    padding:25px 35px 0 35px;
+    .border-radius(2px);
+    border:2px solid #EAF0F6;
+    background:#fff;
+    text-decoration:none;
+    .transition(all .2s ease-in-out);
+
+    &:hover{
+      .box-shadow(0 15px 40px 0 rgba(234,240,246,0.90));
+    }
+  }
+  .item-li-1{
+    h2{
+      color:#228DFF;
+    }
+  }
+  .item-li-2{
+    h2{
+      color:#FFC306;
+    }
+  }
+  .item-li-3{
+    h2{
+      color:#233141;
+    }
+  }
+  h2{
+    margin:0 0 16px 0;
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    .font-size(20, 34px);
+    font-weight:400;
+    text-transform:uppercase;
+  }
+  p{
+    min-height:150px;
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    .font-size(18, 30px);
+    font-weight:400;
+    color:#9198A0;
+  }
+  .item-li-foot{
+    position:relative;
+    padding:30px 0;
+    width:100%;
+    border-top:2px solid #EAF0F6;
+    
+    &:after{
+      content:'';
+      position:absolute;
+      right:0;
+      top:50%;
+      margin-top:-10px;
+      .size(32px, 20px);
+      background:url(https://www.keboola.com/img/ico-arrow-right.svg) right center no-repeat;
+    }
+    strong{
+      display:block;
+      .font-size(16, 20px);
+      font-weight:700;
+      color:#233141;
+      text-transform:uppercase;
+    }
+  }
+}
+
+// FOOTER COPY
+// ---------
+.footer-copy{
+  padding:40px 0;
+  text-align:center;
+
+  p{
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    .font-size(13, 1.4em);
+    font-weight:400;
+    color:#BACEE1;
+    text-align:center;
+
+    span{
+      margin:0 15px 0 0;
+    }
+    a{
+      margin:0 0 0 15px;
+      color:#BACEE1;
+      text-decoration:none;
+      .transition(all .2s ease-in-out);
+
+      &:hover{
+        color:#233141;
+        text-decoration:none;
+      }
+    }
+  }
+}
+
+
+@media screen and (max-width: 1400px){
+
+  // LAYOUT
+  // ---------
+  .in{
+    padding-left:80px;
+    padding-right:80px;
+  }
+
+}
+
+@media screen and (max-width: 1280px){
+
+  
+  // HEADER
+  // ---------
+  header{
+    margin:0 0 20px 0;
+
+    h1{
+      height:80px;
+      line-height:70px;
+    }
+  }
+
+}
+
+@media screen and (max-width: 1250px){
+
+  // ARTICLE LOGO LIST
+  // ---------
+  .article-logo-list{
+    h2{
+      margin:0 0 20px 0;
+      .font-size(20, 1.2em);
+    }
+    p{
+      img{
+        margin:0 12px 8px;
+        max-height:30px;
+        vertical-align:top;
+      }
+    }
+  }
+
+  // ARTICLE LIST
+  // ---------
+  .article-list{
+    margin:0 0 20px 0;
+
+    a{
+      padding:15px 20px 0 20px;
+    }
+    h2{
+      margin:0 0 12px 0;
+      .font-size(18, 30px);
+    }
+    p{
+      min-height:120px;
+      .font-size(16, 1.5em);
+    }
+    .item-li-foot{
+      padding:20px 0;
+
+      strong{
+        .font-size(14, 20px);
+      }
+    }
+  }
+
+}
+
+@media screen and (max-width: 1080px){
+
+  // UI - BTN
+  // ---------
+  .btn{
+    padding:0 20px;
+    height:48px;
+    .font-size(16, 48px);
+  }
+
+
+  // LAYOUT
+  // ---------
+  .in{
+    padding-left:40px;
+    padding-right:40px;
+  }
+
+  #sharing-stage #name-header h1.text-center{
+    margin:0 0 14px 0;
+    .font-size(30, 1.2em);
+  }
+
+
+  // ARTICLE LOGO LIST
+  // ---------
+  .article-logo-list{
+    p{
+      img{
+        max-height:25px;
+      }
+    }
+  }
+
+
+  // ARTICLE LIST
+  // ---------
+  .article-list{
+    h2{
+      margin:0 0 8px 0;
+      .font-size(16, 22px);
+    }
+    p{
+      min-height:100px;
+      .font-size(14, 1.5em);
+    }
+  }
+
+  // FOOTER COPY
+  // ---------
+  .footer-copy{
+    padding:20px 0;
+  }
+
+}
+
+@media screen and (max-width: 880px){
+
+  // ARTICLE LIST
+  // ---------
+  .article-list{
+    ul{
+      margin:0 -8px;
+    }
+    li{
+      padding:0 8px;
+    }
+  }
+
+}
+
+@media screen and (max-width: 800px){
+
+  // ARTICLE LOGO LIST
+  // ---------
+  .article-logo-list{
+    h2{
+      margin:0 0 20px 0;
+      .font-size(18, 1.3em);
+    }
+  }
+
+}
+
+@media screen and (max-width: 750px){
+  
+  // LAYOUT
+  // ---------
+  .in{
+    padding-left:30px;
+    padding-right:30px;
+  }
+
+  // ASK FOR DEMO
+  // ---------
+  .ask-for-demo{
+    margin:30px 0;
+  }
+
+}
+
+
+@media screen and (max-width: 700px){
+
+  // ARTICLE LIST
+  // ---------
+  .article-list{
+    li{
+      display:block;
+      margin:0 0 20px 0;
+      width:100%;
+    }
+    a{
+      padding:25px 35px 0 35px;
+    }
+    h2{
+      margin:0 0 10px 0;
+      .font-size(20, 34px);
+    }
+    p{
+      padding:0 0 20px 0;
+      min-height:0;
+      .font-size(18, 30px);
+    }
+    .item-li-foot{
+      padding:24px 0;
+
+      strong{
+        .font-size(16, 20px);
+      }
+    }
+  }
+
+}
+
+@media screen and (max-width: 500px){
+
+  // ARTICLE LIST
+  // ---------
+  .article-list{
+    margin:0 0 20px 0;
+
+    a{
+      padding:15px 20px 0 20px;
+    }
+    h2{
+      margin:0 0 12px 0;
+      .font-size(18, 30px);
+    }
+    p{
+      .font-size(16, 1.5em);
+    }
+    .item-li-foot{
+      padding:20px 0;
+
+      strong{
+        .font-size(14, 20px);
+      }
+    }
+  }
+
+}
+
+@media screen and (max-width: 450px){
+
+  // LAYOUT
+  // ---------
+  .in{
+    padding-left:20px;
+    padding-right:20px;
+  }
+
+  // MAIN CONTENT
+  // ---------
+  #main-content{
+    padding-left:20px;
+    padding-right:20px;
+  }
+
+  // ARTICLE LIST
+  // ---------
+  .article-list{
+    h2{
+      margin:0 0 8px 0;
+      .font-size(16, 22px);
+    }
+    p{
+      .font-size(14, 1.5em);
+    }
+  }
+
+}
+
+
+
+
+
+
+
+
+
