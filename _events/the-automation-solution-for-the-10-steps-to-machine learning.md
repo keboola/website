@@ -1,6 +1,6 @@
 ---
 layout: post-events
-date-time: 2019-07-10 00:00:00 +0200
+date-time: 2019-07-10 04:00:00 +0200
 title: 'The automation solution for the 10 Steps to Machine   Learning'
 timezone: CET
 subtitle: LIMITED seats available join now
