@@ -74,25 +74,24 @@ page_sections:
     data. Even harder when you want the business people to use it and self serve analytics
     and we just didn’t have time and resources to do it. We thought it would take
     us years and millions of dollars to get the results.</p><p>&lt;iframe width="560"
-    height="315" src="<a href="https://www.youtube.com/embed/VwzVI13W0ew" title="https://www.youtube.com/embed/VwzVI13W0ew">https://www.youtube.com/embed/VwzVI13W0ew</a>"
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen&gt;&lt;/iframe&gt;</p><p>After we engaged with Keboola’s platform
-    we had our first project done in 3 days. All the data from user feedback was integrated,
-    stored, cleaned and visualised so everybody saw the results immediately. The whole
-    process was orchestrated to happen several times a day so we’ve always had fresh
-    data from multiple sources together.</p><p>More over, Keboola 3rd party app store
-    allowed us to apply sophisticated AI techniques to our unstructured text with
-    just one click! Now we don’t only see where things are happening and how many
-    people react, but we know immediately to what or who they react and severity of
-    the issues.</p><p>After just 6 months our whole company runs on data. We are doing
-    very sophisticated IoT things, using AI across the company and that's thanks to
-    Keboola. And the best thing? We had to only hire one person internally. Through
-    the collaborative nature of Keboola’s platform we just hire the smartest brains
-    per task.</p><p>With Keboola I can really focus on what’s important and that’s
-    our people and actions we take. Keboola takes care of the rest. Just imagine working
-    on the whole process in Keboola we were actually able to change several of the
-    key systems like CRM, POS without the whole flow breaking. That’s really life
-    changing for CTO and the whole business.</p>
+    height="315" src="https://www.youtube.com/embed/VwzVI13W0ew" frameborder="0" allow="accelerometer;
+    autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</p><p>After
+    we engaged with Keboola’s platform we had our first project done in 3 days. All
+    the data from user feedback was integrated, stored, cleaned and visualised so
+    everybody saw the results immediately. The whole process was orchestrated to happen
+    several times a day so we’ve always had fresh data from multiple sources together.</p><p>More
+    over, Keboola 3rd party app store allowed us to apply sophisticated AI techniques
+    to our unstructured text with just one click! Now we don’t only see where things
+    are happening and how many people react, but we know immediately to what or who
+    they react and severity of the issues.</p><p>After just 6 months our whole company
+    runs on data. We are doing very sophisticated IoT things, using AI across the
+    company and that's thanks to Keboola. And the best thing? We had to only hire
+    one person internally. Through the collaborative nature of Keboola’s platform
+    we just hire the smartest brains per task.</p><p>With Keboola I can really focus
+    on what’s important and that’s our people and actions we take. Keboola takes care
+    of the rest. Just imagine working on the whole process in Keboola we were actually
+    able to change several of the key systems like CRM, POS without the whole flow
+    breaking. That’s really life changing for CTO and the whole business.</p>
 - template: article-list-three-row
   block: article-list-three-row
   subheadline: SERVERLESS DATA ANALYTICS & AUTOMATION
