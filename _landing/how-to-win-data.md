@@ -90,6 +90,7 @@ page_sections:
     of the rest. Just imagine working on the whole process in Keboola we were actually
     able to change several of the key systems like CRM, POS without the whole flow
     breaking. That’s really life changing for CTO and the whole business.</p>"
+  youtubeid: VwzVI13W0ew
 - template: article-list-three-row
   block: article-list-three-row
   subheadline: SERVERLESS DATA ANALYTICS & AUTOMATION
