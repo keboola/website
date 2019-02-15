@@ -322,6 +322,12 @@
         });
 
 
+        // SWIPEBOX
+        if ($('.swipebox').length) {
+            $('.swipebox').swipebox();
+        }
+
+
         // BTN SCROLL - TO
         $('.btn-scroll-to').on('click', function(e){
             e.preventDefault();
