@@ -39,14 +39,11 @@ fields:
   name: ctalink
   label: cta link
 - type: text
-  name: author
-  label: author
+  name: presenter
+  label: presenter
 - type: text
   name: location
   label: location
-- type: file
-  name: backgroundimage
-  label: background image
 - type: select
   name: country
   config:
@@ -57,3 +54,6 @@ fields:
     - uk
     - eu
   label: country
+- type: file
+  name: backgroundimage
+  label: background image
