@@ -25,9 +25,9 @@ fields:
       type: simple
     options:
     - CET
-    - GTM
     - EST
     - PST
+    - GMT
   label: timezone
 - type: text
   name: subtitle
