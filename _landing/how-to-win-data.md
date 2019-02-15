@@ -133,6 +133,15 @@ page_sections:
   - name: Elasticity
     valueold: 'No'
     valuenew: 'Yes'
+- template: article-gray-box
+  block: article-gray-box
+  subheadline: running company based on data
+  headline: Rohlik & Data
+  content: In response to these demands, Keboola turned to Geneea for help. We integrated
+    our powerful NLP software into Keboola’s platform making it possible for customers
+    to easily add a large amount of text, process it and visualize the results.
+  ctaname: See how Rohlik is working with data
+  img: "/uploads/cupr_rohlik.jpg"
 - template: article-feature-list
   block: article-feature-list
   subheadline: All tools you love in one place working together seamlessly
