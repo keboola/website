@@ -54,3 +54,5 @@ fields:
 - type: file
   name: backgroundimage
   label: background image
+pages:
+- _events/the-automation-solution-for-the-10-steps-to-machine learning.md
