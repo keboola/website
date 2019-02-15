@@ -16,6 +16,19 @@ fields:
   label: date time
   config:
     time_format: h:mm A
+    display_utc: false
+  default: 2019-02-07 00:00:00 +0100
+- type: select
+  name: timezone
+  config:
+    source:
+      type: simple
+    options:
+    - CET
+    - GTM
+    - EST
+    - PST
+  label: timezone
 - type: text
   name: subtitle
   label: sub title
