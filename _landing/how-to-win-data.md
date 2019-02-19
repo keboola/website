@@ -214,6 +214,8 @@ page_sections:
   content: Booking the demo with our specialists is no strings attached.<br>After
     all, <strong>nobody can force you to become CEOs favourite person</strong> :)
   ctaname: Choose the time slot
+  ctalink: https://calendly.com/jeffrycape/30min
+  newwindow: true
 - template: faq
   block: faq
   headline: Still have a questions?
