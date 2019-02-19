@@ -62,6 +62,8 @@ page_sections:
   content: Take 15 minutes &amp; learn how to become your CEOs favourite person while
     turning your company to smartest in your market. We guarantee that if you <strong>don’t
     get results within 3 months, you will get Keboola for free</strong>.
+  ctalink: https://calendly.com/jeffrycape/30min
+  newwindow: true
 - template: quote-long
   block: quote-long
   author: Jeff Miller, CTO Roti - LinkedIn
