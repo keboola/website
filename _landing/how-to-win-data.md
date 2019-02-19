@@ -11,13 +11,15 @@ page_sections:
   image: "/uploads/headerWinData.svg"
 - template: ask-demo
   block: ask-demo
-  ctaname: Get free white paper how to finally win data
+  ctaname: Get price quote
   subheadline: Use data to drive your decissions
   headline: "Grow your business with Keboola\L </br>Digital Integration & Analytics
     Hub"
   content: Learn how by leveraging serverless data platform that covers all of the
     steps of data journey and allows departments to collaborate in real time you can
     leapfrog from xls to ai in no time.
+  ctalink: https://calendly.com/jeffrycape/30min
+  newwindow: true
 - template: article-list-img
   block: article-list-img
   headline: ''
