@@ -55,7 +55,7 @@ fields:
     - eu
   label: country
 - type: file
-  name: backgroundimage
+  name: background-image
   label: background image
 pages:
 - _events/the-automation-solution-for-the-10-steps-to-machine learning.md
