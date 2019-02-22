@@ -12,12 +12,15 @@ fields:
   name: title
   label: title
 - type: datetime
+  name: date
+  label: date
+- type: datetime
   name: date-time
   label: date time
   config:
     time_format: h:mm A
     display_utc: false
-  default: 2019-02-07 00:00:00 +0100
+  default: ''
 - type: select
   name: timezone
   config:
