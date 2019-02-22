@@ -13,7 +13,7 @@ fields:
   label: title
 - type: datetime
   name: date
-  label: date (created)
+  label: date (sorted)
 - type: datetime
   name: date-time
   label: date time
