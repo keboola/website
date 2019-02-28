@@ -24,6 +24,7 @@ fields:
   name: background-image
   label: background image
 pages:
+- _customer-stories/firehouse-subs-tracks-and-improves-the-performance-of-more-than-1-000-franchisees-thanks-to-keboola.md
 - _customer-stories/slevomat-data-helps-us-to-speed-up-our-day-to-day-decisions.md
 - _customer-stories/hello-bank.md
 - _customer-stories/creative-dock-big-data-is-about-quality-not-quantity-1.md
