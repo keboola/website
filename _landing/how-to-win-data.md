@@ -66,7 +66,7 @@ page_sections:
   newwindow: true
 - template: quote-long
   block: quote-long
-  author: Jeff Miller, CTO Roti - LinkedIn
+  author: Jeff Miller, CTO Roti
   desc: "<p></p>"
   youtubeid: NHif5nL44Z4
 - template: article-list-three-row
