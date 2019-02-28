@@ -7,7 +7,9 @@ logo: "/uploads/firehouseLogo.jpg"
 background-image: "/uploads/firehouseBack.jpg"
 
 ---
-Firehouse Subs is fast casual restaurant chain selling sandwiches. Established in Florida in 1994, today, in 2018, the company has more than 1,135 outlets, in 44 US states, Puerto Rico and Canada. The brand is growing, thanks to a franchising business model, recognised by Forbes in 2018 as a “Best Franchise to Buy”. Managing all these branches ‒ and such growth ‒ is no easy task, so Firehouse Subs teamed up with Keboola to create an analytics platform called Station Pulse.
+### Firehouse Subs is fast casual restaurant chain selling sandwiches. Established in Florida in 1994, today, in 2018, the company has more than 1,135 outlets, in 44 US states, Puerto Rico and Canada. 
+
+The brand is growing, thanks to a franchising business model, recognised by Forbes in 2018 as a “Best Franchise to Buy”. Managing all these branches ‒ and such growth ‒ is no easy task, so Firehouse Subs teamed up with Keboola to create an analytics platform called Station Pulse.
 
 Powered by Keboola Connection, this platform brings together data from the point of sale system, customer experience platform, call centre feedback, Yelp ratings, and weather, all by zip code, and feeds all the information into a single easily-accessible location.
 
