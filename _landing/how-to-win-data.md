@@ -89,6 +89,10 @@ page_sections:
       processes running!
     colortype: black
     img: "/uploads/box.svg"
+- template: quote-long
+  block: quote-long
+  author: Tomas Cupr, CEO Rohlik
+  youtubeid: 9v--lgeAaEk
 - template: article-list-table
   block: article-list-table
   tablehead:
@@ -271,10 +275,6 @@ page_sections:
   - name: Martin
     position: Head of Customer Success
     photo: "/uploads/ddBVxSxm_400x400.jpg"
-- template: quote-long
-  block: quote-long
-  author: Tomas Cupr, CEO Rohlik
-  youtubeid: 9v--lgeAaEk
 date: 2019-02-05 09:38:34 +0000
 
 ---
