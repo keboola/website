@@ -273,7 +273,7 @@ page_sections:
     photo: "/uploads/ddBVxSxm_400x400.jpg"
 - template: quote-long
   block: quote-long
-  author: Tomas Cupr – Rohlik
+  author: Tomas Cupr, CEO Rohlik
   youtubeid: 9v--lgeAaEk
 date: 2019-02-05 09:38:34 +0000
 
