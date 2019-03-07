@@ -1,7 +1,6 @@
 ---
 label: Article - icons 2 columns
 hide_body: false
-is_partial: true
 fields:
 - type: text
   name: block

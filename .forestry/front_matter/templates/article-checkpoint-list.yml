@@ -1,7 +1,6 @@
 ---
 label: article-checkpoint-list
 hide_body: true
-is_partial: true
 fields:
 - type: text
   name: block

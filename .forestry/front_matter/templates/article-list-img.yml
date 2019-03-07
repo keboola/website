@@ -1,7 +1,6 @@
 ---
 label: List image
 hide_body: false
-is_partial: true
 fields:
 - type: text
   default: article-list-img

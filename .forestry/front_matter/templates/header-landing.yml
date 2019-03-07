@@ -1,7 +1,6 @@
 ---
 label: header-landing
 hide_body: true
-is_partial: true
 fields:
 - type: text
   label: block

@@ -1,8 +1,8 @@
 ---
 layout: post-case-study
 title: Firehouse Subs tracks and improves the performance of more than 1,000 franchisees
-date: 2019-02-28 00:00:00 +0100
-author: ''
+date: 2019-02-27 23:00:00 +0000
+author: JIRI VICHEREK
 logo: "/uploads/firehouseLogo.jpg"
 background-image: "/uploads/firehouseBack.jpg"
 

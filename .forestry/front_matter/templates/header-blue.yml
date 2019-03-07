@@ -1,7 +1,6 @@
 ---
 label: Header - subpage
 hide_body: false
-is_partial: true
 fields:
 - type: text
   label: block

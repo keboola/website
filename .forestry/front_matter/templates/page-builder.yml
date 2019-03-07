@@ -1,7 +1,6 @@
 ---
 label: Page builder
 hide_body: true
-is_partial: false
 fields:
 - type: text
   name: layout
@@ -49,13 +48,13 @@ fields:
   - recent-list
   - hp-main-goals
 pages:
+- _landing/how-to-win-data.md
 - _platform/actions.md
 - _platform/developer-docs.md
 - _platform/programmable-data-platform.md
 - _platform/3rd-party-ai.md
 - _platform/command-control-api-first.md
 - _product/pricing.md
-- _landing/how-to-win-data.md
 - _about/contact.md
 - _product/product.md
 - _platform/platform.md

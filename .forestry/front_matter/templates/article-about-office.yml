@@ -1,7 +1,6 @@
 ---
 label: Article - about office
 hide_body: false
-is_partial: true
 fields:
 - type: text
   label: block
