@@ -11,7 +11,7 @@ page_sections:
   block: article-with-perex
   subheadline: THAT'S WHERE WE COME IN
   headlinesmall: false
-  headline: "Grow your business \Lwith precise data and  qualified decisions"
+  headline: Grow your business with precise data and  qualified decisions
   content: Today's world is dominated by tech companies like Amazon, Google, and Facebook.
     To succeed in the business world, you have to be faster, cheaper, and more precise
     than the competition. If you could tap into knowledge waiting for you in your
