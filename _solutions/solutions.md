@@ -52,7 +52,7 @@ page_sections:
     share.
 - template: ask-demo
   block: ask-demo
-  ctaname: Take the 7 day challenge!
+  ctaname: Ask for a demo
   ctalink: "/request-demo"
 - template: article-list-two-row
   block: article-list-two-row
