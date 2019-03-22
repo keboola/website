@@ -1,22 +1,72 @@
 {% include head.html %}
-<article class="article-detail-header"><div class="in">
-	<div class="article-header-desc">
-		<h2>{% for category in page.categories limit:1 %}
-			<a href="/{{ category }}">{{ category | downcase | replace:"-"," " }}</a>
-			{% unless forloop.last %}, {% endunless %}{% endfor %}</h2>
-		<h1>{{ page.title }}</h1>
+
+{% assign events = site.events %}
+{% assign webinars = site.webinars %}
+
+{% assign contest = events | concat: webinars %}
+{% assign sortedcontest = contest | sort: 'date' | reverse %}
+<article class="events-header"><div class="in">
+	<i class="ico-cubes ico-cubes-left"></i>
+	<i class="ico-cubes ico-cubes-right"></i>
+	<i class="ico-cubes ico-cubes-bottom"></i>
+	<div class="events-header-desc">
 		<h2>{{ page.subtitle }}</h2>
-		<p>{{ page.perex }}</p>
-		<p>{{ page.date-time }}</p>
-		<a href="{{ page.ctalink }}" class="btn btn-big btn-blue">{{ page.ctaname }}</a>
+		<h1 class="h1-head h1-white">{{ page.title }}</h1>
+		<a href="{{ page.ctalink }}" class="btn btn-big btn-white">Save your seat</a>
+	</div>
+	<div class="events-header-info">
+		<h2>Presenter</h2>
+		<p><strong>{{ page.presenter }}</strong></p>
+		{% if page.location != "" and page.location != nil %}
+			<h2>Location</h2>
+			<p><strong>{{ page.location }}</strong></p>
+		{% endif %}
+		<h2>Date</h2>
+		<p><strong>{{ page.date-time | date: "%A, %B %d %Y %R%p" }} {{ page.timezone }}</strong></p>
 	</div>
 </div></article>
 <article class="article-detail-content">
 	{{ content }}
 
-	<div class="article-detail-share">
+	{% comment %}<div class="article-detail-share">
 		<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" data-url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" class="share-btn-fb"><i></i></a>
 		<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}" data-text="{{ page.title }}" data-url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" class="share-btn-tw"><i></i></a>
-	</div>
+	</div>{% endcomment %}
 </article>
+<div class="most-recent-header"><div class="in">
+	<h1 class="h1-small h1-blue">Upcoming Events & Webinars</h1>
+</div></div>
+<div class="most-recent-content"><div class="most-recent-list">
+	<ul class="most-recent-list-content">
+		<li class="li-placeholder"></li>
+		{% for post in sortedcontest %}
+			{% if post.title != page.title %}
+				<li><a href="{{ post.url }}"{% if post.background-image != "" and post.background-image != nil %}{% else %} class="item-noimg"{% endif %}>
+					{% if post.background-image != "" and post.background-image != nil %}
+						<div class="img"><img src="{{ post.background-image }}" alt="{{ post.title }}"></div>
+					{% else %}
+						{% if post.url contains '/events/' or post.url contains '/webinars/' %}
+							<div class="item-event-info">
+								<i class="ico-country-{{ post.country }}">{{ post.country }}</i>
+								<strong class="month">{{ post.date-time | date: "%-d" }}</strong>
+								<strong class="day">{{ post.date-time | date: "%b" }}</strong>
+								<strong class="time">{{ post.date-time | date: "%R" }} {{ post.timezone }}</strong>
+							</div>
+						{% endif %}
+						<div class="img img-bg-blue"></div>
+					{% endif %}
+					<div class="item-desc"><h2>{{ post.title }}</h2><p>
+						{% if post.url contains '/events/' %}Get a ticket
+						{% elsif post.url contains '/webinars/' %}Save your seat{% endif %}
+					</p></div>
+				</a></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+	<div class="most-recent-pages-content">
+		<span class="btn-prevpage">prev</span>
+		<ul class="most-recent-pages"></ul>
+		<span class="btn-nextpage">next</span>
+	</div>
+</div></div>
 {% include foot.html %}

@@ -1,9 +1,7 @@
 {% assign customerstories = site.customer-stories %}
 {% assign whitepapers = site.whitepapers %}
-{% assign events = site.events %}
-{% assign webinars = site.webinars %}
 
-{% assign learning = customerstories | concat: whitepapers | concat: events | concat: webinars %}
+{% assign learning = customerstories | concat: whitepapers %}
 {% assign sortedlearning = learning | sort: 'date' | reverse %}
 
 <div class="most-recent-header"><div class="in">

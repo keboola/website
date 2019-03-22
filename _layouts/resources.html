@@ -1,11 +1,18 @@
 {% include head.html %}
+
+{% comment %}<!-- ALL LAST RESOURCES (customer stories + whitepapers) -->{% endcomment %}
 {% assign customerstories = site.customer-stories %}
 {% assign whitepapers = site.whitepapers %}
+
+{% assign learning = customerstories | concat: whitepapers %}
+{% assign sortedlearning = learning | sort: 'date' | reverse %}
+
+{% comment %}<!-- ALL LAST RESOURCES with EVENTS & WEBINARS -->{% endcomment %}
 {% assign events = site.events %}
 {% assign webinars = site.webinars %}
 
-{% assign learning = customerstories | concat: whitepapers | concat: events | concat: webinars %}
-{% assign sortedlearning = learning | sort: 'date' | reverse %}
+{% assign contest = events | concat: webinars | concat: customerstories | concat: whitepapers %}
+{% assign sortedcontest = contest | sort: 'date' | reverse %}
 
 <article class="section-header section-header-recent"><div class="in">
 	<i class="ico-cubes ico-cubes-left"></i>
@@ -16,12 +23,12 @@
 		<p class="p-perex p-perex-dark">Helpful assets to maximaze your success</p>
 		<h1 class="h1-head h1-white"><strong>Featured resources</strong></h1>
 		<div class="section-header-learning-list">
-			{% comment %}<div class="section-header-learning-list-big"><ul>
+			<div class="section-header-learning-list-big"><ul>
 				<li><a href="/customer-stories/"><i class="ico-customer"></i><p>Customer  Stories</p></a></li>
-				<li><a href="/whitepapers/"><i class="ico-papers"></i><p>Whitepapers</p></a></li>
+				{% comment %}<li><a href="/whitepapers/"><i class="ico-papers"></i><p>Whitepapers</p></a></li>{% endcomment %}
 				<li><a href="/events/"><i class="ico-events"></i><p>Events</p></a></li>
 				<li><a href="/webinars/"><i class="ico-webinars"></i><p>Webinars</p></a></li>
-			</ul></div>{% endcomment %}
+			</ul></div>
 			<div class="section-header-learning-list-small"><ul>
 				<li><a href="https://blog.keboola.com/"><p>Blog</p><i class="ico-arrow"></i></a></li>
 				<li><a href="http://wiki.keboola.com/"><p>Wiki</p><i class="ico-arrow"></i></a></li>
@@ -33,17 +40,35 @@
 	<div class="most-recent-list">
 		<ul class="most-recent-list-content">
 			<li class="li-placeholder"></li>
-			{% for post in sortedlearning %}
+			{% for post in sortedcontest %}
 				{% if post.background-image != "" and post.background-image != nil %}
+				      {% assign resourcelist = true %}
+				{% endif %}
+				{% if post.url contains '/events/' or post.url contains '/webinars/' %}
+				      {% assign resourcelist = true %}
+				{% endif %}
+				{% if resourcelist %}
 					{% assign postcountingin = postcountingin | plus: 1 %}
 					{% if postcountingin < 7 %}
-						<li><a href="{{ post.url }}">
-							<div class="img"><img src="{{ post.background-image }}" alt="{{ post.title }}"></div>{% comment %}<i class="bg-img"></i>{% endcomment %}
+						<li><a href="{{ post.url }}"{% if post.background-image != "" and post.background-image != nil %}{% else %} class="item-noimg"{% endif %}>
+							{% if post.background-image != "" and post.background-image != nil %}
+								<div class="img"><img src="{{ post.background-image }}" alt="{{ post.title }}"></div>
+							{% else %}
+								{% if post.url contains '/events/' or post.url contains '/webinars/' %}
+									<div class="item-event-info">
+										<i class="ico-country-{{ post.country }}">{{ post.country }}</i>
+										<strong class="month">{{ post.date-time | date: "%-d" }}</strong>
+										<strong class="day">{{ post.date-time | date: "%b" }}</strong>
+										<strong class="time">{{ post.date-time | date: "%R" }} {{ post.timezone }}</strong>
+									</div>
+								{% endif %}
+								<div class="img img-bg-blue"></div>
+							{% endif %}
 							<div class="item-desc"><h2>{{ post.title }}</h2><p>
 								{% if post.url contains '/customer-stories/' %}View story
 								{% elsif post.url contains '/whitepapers/' %}View whitepaper
-								{% elsif post.url contains '/events/' %}events
-								{% elsif post.url contains '/webinars/' %}webinars{% endif %}
+								{% elsif post.url contains '/events/' %}Get a ticket
+								{% elsif post.url contains '/webinars/' %}Save your seat{% endif %}
 							</p></div>
 						</a></li>
 					{% endif %}

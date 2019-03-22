@@ -8,9 +8,8 @@ ctalink: https://www.eventbrite.com/e/unreal-fest-europe-2019-tickets-5453357138
 presenter: Pavel Doležal
 location: WeWork London, Salisburry Road 321, LFC18
 country: uk
-backgroundimage: ''
-date: 2019-02-15 16:53:52 +0100
-published: false
+background-image: ''
+date: 2018-10-29 16:53:52 +0100
 
 ---
 We recently had a customer who asked for a basic recommendation as a part of proof of concept, whether Keboola Connection is the right fit for them. The dataset we got to work with came from a CRM system, and contained a few thousand anonymized rows (4600-ish, actually) of won opportunities which effectively represented product-customer relations (what customers had purchased which products). So, pretty much ready-to-go data for the Basket Analysis app, which has been waiting for just this opportunity in the Keboola App Store. Sounded like good challenge - how can we turn this into a basic recommendation engine?

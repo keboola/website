@@ -1,43 +1,106 @@
 {% include head.html %}
-<article class="section-header"><div class="in">
+<article class="section-header{% if page.url contains '/events/' or page.url contains '/webinars/' %} section-header-recent{% endif %}"><div class="in">
 	<i class="ico-cubes ico-cubes-left"></i>
 	<i class="ico-cubes ico-cubes-right"></i>
 	<i class="ico-cubes ico-cubes-top"></i>
 	<i class="ico-cubes ico-cubes-center"></i>
 	<div class="section-desc">
+		{% if page.url contains '/events/' %}
+		<p class="p-perex p-perex-dark">LETS GET TOGETHER AND HAVE SOME FUN (AND DRINKS)</p>
+		{% else %}
 		<p class="p-perex p-perex-dark">Helpful assets to maximaze your success</p>
+		{% endif %}
 		<h1 class="h1-head h1-white"><strong>{% if page.url contains '/customer-stories/' %}Customer Stories
 			{% elsif page.url contains '/whitepapers/' %}Whitepapers
-			{% elsif page.url contains '/events/' %}Events
+			{% elsif page.url contains '/events/' %}Upcoming Events
 			{% elsif page.url contains '/webinars/' %}Webinars{% endif %}</strong></h1>
 	</div>
 </div></article>
-<div class="article-list article-list-table"><div class="in">
-	<div class="item-list"><ul class="article-list-content-table">
-		{% for post in paginator.posts %}
-			<li><a href="{{ post.url }}" class="item-li">
-				<div class="item-li-company">
-					<div class="item-company"><img src="{{ post.logo }}" alt=""></div>
-					<h2>{{ post.title }}</h2>
-				</div>
-				<div class="item-li-foot"><strong>
-					{% if post.url contains '/customer-stories/' %}customer stories
-					{% elsif post.url contains '/whitepapers/' %}whitepapers
-					{% elsif post.url contains '/events/' %}events
-					{% elsif post.url contains '/webinars/' %}webinars{% endif %}
-				</strong></div>
-			</a></li>
-		{% endfor %}
-	</ul></div>
-
-	{% if paginator.page_trail %}
-		<div class="pagination-list"><ul>
-		{% for trail in paginator.page_trail %}
-		<li {% if page.url == trail.path %}class="selected"{% endif %}>
-			<a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
-		</li>
-		{% endfor %}
+{% if page.url contains '/events/' or page.url contains '/webinars/' %}
+	<div class="section-header-recent-content">
+		<div class="most-recent-list">
+			<ul class="most-recent-list-content">
+				<li class="li-placeholder"></li>
+				{% for post in paginator.posts %}
+					<li><a href="{{ post.url }}"{% if post.background-image != "" and post.background-image != nil %}{% else %} class="item-noimg"{% endif %}>
+						{% if post.background-image != "" and post.background-image != nil %}
+							<div class="img"><img src="{{ post.background-image }}" alt="{{ post.title }}"></div>
+						{% else %}
+							{% if post.url contains '/events/' or post.url contains '/webinars/' %}
+								<div class="item-event-info">
+									<i class="ico-country-{{ post.country }}">{{ post.country }}</i>
+									<strong class="month">{{ post.date-time | date: "%-d" }}</strong>
+									<strong class="day">{{ post.date-time | date: "%b" }}</strong>
+									<strong class="time">{{ post.date-time | date: "%R" }} {{ post.timezone }}</strong>
+								</div>
+							{% endif %}
+							<div class="img img-bg-blue"></div>
+						{% endif %}
+						<div class="item-desc"><h2>{{ post.title }}</h2><p>
+							{% if post.url contains '/events/' %}Get a ticket
+							{% elsif post.url contains '/webinars/' %}Save your seat{% endif %}
+						</p></div>
+					</a></li>
+				{% endfor %}
+			</ul>
+			<div class="most-recent-pages-content">
+				<span class="btn-prevpage">prev</span>
+				<ul class="most-recent-pages"></ul>
+				<span class="btn-nextpage">next</span>
+			</div>
+		</div>
+	</div>
+	<article class="article-text"><div class="in">
+		<div class="item-head">
+			<p class="p-perex">experience you can trust</p>
+			<h1 class="h1-small">Throughout the years we have helped a lot of companies and have become one big data family. Ready to join a bunch of amazing smart people?</h1>
+		</div>
+		<div class="item-desc"><p>At Keboola, we embrace the startup vibe of having a fast-paced, challenging, yet still fun environment. We have created a workplace where you can expect a steep learning curve, grow your career, be creative, and have your voice heard. Ready to meet the engineers, consultants, marketers, designers, sales extraordinaires, accountants, administrators that all live for data? We see value in all forms of data, so come join us on our awesome data journey.</p></div>
+	</div></article>
+	<div class="gallery-list">
+		<ul class="gallery-list-content">
+			<li class="active"><div class="item"><img src="/uploads/about7-2.jpg" alt=""></div></li>
+			<li><div class="item"><img src="/uploads/photo4.jpg" alt=""></div></li>
+			<li><div class="item"><img src="/uploads/photo0.jpg" alt=""></div></li>
+			<li><div class="item"><img src="/uploads/photo2.jpg" alt=""></div></li>
+			<li><div class="item"><img src="/uploads/photo3.jpg" alt=""></div></li>
+			<li><div class="item"><img src="/uploads/photo5.jpg" alt=""></div></li>
+			<li><div class="item"><img src="/uploads/about-dog.jpg" alt=""></div></li>
+	    </ul>
+		<div class="gallery-list-pages-content">
+			<span class="btn-prevpage">prev</span>
+			<ul class="gallery-list-pages"></ul>
+			<span class="btn-nextpage">next</span>
+		</div>
+	</div>
+{% else %}
+	<div class="article-list article-list-table"><div class="in">
+		<div class="item-list"><ul class="article-list-content-table">
+			{% for post in paginator.posts %}
+				<li><a href="{{ post.url }}" class="item-li">
+					<div class="item-li-company">
+						<div class="item-company"><img src="{{ post.logo }}" alt=""></div>
+						<h2>{{ post.title }}</h2>
+					</div>
+					<div class="item-li-foot"><strong>
+						{% if post.url contains '/customer-stories/' %}customer stories
+						{% elsif post.url contains '/whitepapers/' %}whitepapers
+						{% elsif post.url contains '/events/' %}events
+						{% elsif post.url contains '/webinars/' %}webinars{% endif %}
+					</strong></div>
+				</a></li>
+			{% endfor %}
 		</ul></div>
-	{% endif %}
-</div></div>
+
+		{% if paginator.page_trail %}
+			<div class="pagination-list"><ul>
+			{% for trail in paginator.page_trail %}
+			<li {% if page.url == trail.path %}class="selected"{% endif %}>
+				<a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
+			</li>
+			{% endfor %}
+			</ul></div>
+		{% endif %}
+	</div></div>
+{% endif %}
 {% include foot.html %}

@@ -145,8 +145,8 @@
                 clickBar: 1,
                 //cycleBy: 'items',
                 //cycleInterval: 2500,
-                prevPage: wrap.find('.btn-prevpage'),
-                nextPage: wrap.find('.btn-nextpage')
+                prevPage: slider.find('.btn-prevpage'),
+                nextPage: slider.find('.btn-nextpage')
             },
             sly = new Sly(slider, options);
             sly.init();
@@ -212,8 +212,8 @@
                     dragHandle: 1,
                     dynamicHandle: 1,
                     clickBar: 1,
-                    prevPage: wrap.find('.btn-prevpage'),
-                    nextPage: wrap.find('.btn-nextpage')
+                    prevPage: slider.find('.btn-prevpage'),
+                    nextPage: slider.find('.btn-nextpage')
                 },
                 sly = new Sly(slider, options);
                 sly.init();

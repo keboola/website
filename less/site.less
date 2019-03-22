@@ -398,6 +398,13 @@ hr{
       }
     }
   }
+  .item-noimg{
+    background:#228DFF;
+
+    .item-desc{
+      background:none;
+    }
+  }
   .img{
     position:relative;
     //padding-bottom:108.69%;
@@ -425,6 +432,64 @@ hr{
     opacity: 0.5;
     //z-index:2;
   }*/
+  .item-event-info{
+    position:absolute;
+    left:60px;
+    top:60px;
+    padding:14px 10px 0 10px;
+    .border-radius(2px);
+    width:100px;
+    height:100px;
+    background:@white;
+    text-align:center;
+    
+    .ico-country-usa,
+    .ico-country-uk,
+    .ico-country-eu{
+      position:absolute;
+      left:100%;
+      bottom:100%;
+      margin:0 0 -20px -20px;
+      .border-radius(20px);
+      .sq(40px);
+      background-size:100% auto;
+      background-position:center center;
+      background-repeat:no-repeat;
+      text-indent:-9999px;
+      overflow:hidden;
+    }
+    .ico-country-usa{
+      background-image:url(../img/country-ico-usa.jpg);
+    } 
+    .ico-country-uk{
+      background-image:url(../img/country-ico-uk.jpg);
+    }
+    .ico-country-eu{
+      background-image:url(../img/country-ico-eu.jpg);
+    }
+    .month,
+    .day,
+    .time{
+      display:block;
+    }
+    .month{
+      .font-size(28);
+      font-weight:700;
+      color:#228DFF;
+    }
+    .day{
+      margin:0 0 14px 0;
+      .font-size(16);
+      font-weight:700;
+      color:#228DFF;
+      text-transform:uppercase;
+    }
+    .time{
+      .font-size(16);
+      font-weight:700;
+      color:#233141;
+    }
+  }
   .item-desc{
     position:absolute;
     left:0;
@@ -1950,7 +2015,7 @@ section{
 // SECTION - HEADER - LEARNING
 // ---------
 .section-header-learning-list{
-  margin:0 auto 50px;
+  margin:0 auto 20px;
   width:100%;
   max-width:800px;
 }
@@ -1964,7 +2029,8 @@ section{
   }
   li{
     float:left;
-    width:25%;
+    //width:25%;
+    width:33.3333%;
     margin:0 0 20px 0;
     padding:0 10px;
     text-align:center;
@@ -3939,9 +4005,6 @@ section{
 
 
 
-
-
-
 /*
 // ---------
 // ARTICLE NEXT
@@ -4259,6 +4322,105 @@ section{
     }
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+// ---------
+// EVENTS + WEBINARS
+// ---------
+.events-header{
+  margin:0 0 70px 0;
+
+  .in{
+    padding-top:130px;
+    padding-bottom:170px;
+    background:url(../img/events-header-bg.jpg) center center no-repeat #228DFF;
+    background-size:cover;
+  }
+  .ico-cubes-left{
+    top:68px;
+    left:-30px;
+    width:50px;
+    height:65px;
+    background-image:url(../img/cubes/post-casestudy-header-left.svg);
+  }
+  .ico-cubes-right{
+    top:-20px;
+    right:75px;
+    width:50px;
+    height:65px;
+    background-image:url(../img/cubes/section-header-right.svg);
+  }
+  .ico-cubes-bottom{
+    bottom:-68px;
+    right:10%;
+    width:110px;
+    height:142px;
+    background-image:url(../img/cubes/post-casestudy-header-bottom.svg);
+  }
+}
+.events-header-desc{
+  float:left;
+  width:100%;
+  max-width:640px;
+  text-align:left;
+
+  h1{
+    margin-bottom:35px;
+    font-weight:700;
+  }
+  h2{
+    margin:0 0 15px 0;
+    .font-size(20, 1.2em);
+    font-weight:400;
+    color:#B3D8FF;
+    letter-spacing:2.2px;
+    text-transform:uppercase;
+
+    a{
+      color:#B3D8FF;
+      text-decoration:none;
+      .transition(all .2s ease-in-out);
+
+      &:hover{
+        color:#3CA0FF;
+      }
+    }
+  }
+}
+.events-header-info{
+  float:right;
+  padding:30px 0 0 0;
+  width:315px;
+  text-align:left;
+
+  h2{
+    margin:15px 0 0 0;
+    .font-size(15, 22px);
+    font-weight:200;
+    color:@white;
+    letter-spacing:1px;
+  }
+  p{
+    margin:0;
+    .font-size(18, 22px);
+    color:@white;
+    letter-spacing:1px;
+  }
+}
+
+
+
+
+
 
 
 
