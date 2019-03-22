@@ -23,3 +23,6 @@ fields:
   - type: file
     label: img
     name: img
+  - type: text
+    name: yt_video
+    label: yt video
