@@ -9,6 +9,9 @@
 				<i class="ico-img"><img src="{{ list.img }}" alt=""></i>
 				<h2>{{ list.title }}</h2>
 				<p>{{ list.desc }}</p>
+				{% if list.yt_video != "" and list.yt_video != nil %}
+					<p class="p-more-play"><a href="{{ list.yt_video }}" class="swipebox" rel="youtube"><i></i>Play video</a></p>
+				{% endif %}
 			</li>
         {% endfor %}
 	</ul></div>
