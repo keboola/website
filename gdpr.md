@@ -2,12 +2,12 @@
 layout: text-page
 title: GDPR
 subtitle: GDPR Compliance with Keboola
-date: 2019-01-23 11:56:37 +0100
+date: 2019-01-23 10:56:37 +0000
 
 ---
 **GDPR is a legal framework, so:**
 
-[Full GDPR text](FULL TEXT: http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32016R0679)
+[Full GDPR text](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32016R0679)
 
 1. Keboola "KBC" is “just” a technology - same as your harddrive => the client is controlling what is going on, we have no access to the data until we are invited into a project (Keboola operates KBC without access to data)
 2. KBC implements some principles which are handy for GDPR: data takeout, regionality (everything sits in EU if you have KBC EU project), transparency (data format, configurations, source code…), auditability…
