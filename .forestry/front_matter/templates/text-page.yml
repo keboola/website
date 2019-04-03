@@ -14,6 +14,7 @@ fields:
   name: subtitle
   label: sub title
 pages:
+- dpa.md
 - terms-and-conditions.md
 - gdpr.md
 - security-whitepaper.md
