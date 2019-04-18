@@ -45,8 +45,7 @@ page_sections:
   block: article-list-img
   headline: Keboola works with the world’s best!
   list:
-  - name: nivea
-    img: "/uploads/niveaLogo.svg"
+  - name: volkswagen
   - img: "/uploads/goodyear_logo.svg"
     name: Goodyear
   - name: Erste
@@ -61,6 +60,8 @@ page_sections:
     img: "/uploads/avastLogo.svg"
   - name: homeCredit
     img: "/uploads/homeCreditLogo.svg"
+  - name: nivea
+    img: "/uploads/niveaLogo.svg"
 - template: hp-main-goals
   block: hp-main-goals
   list:
