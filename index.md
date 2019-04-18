@@ -45,18 +45,18 @@ page_sections:
   block: article-list-img
   headline: Keboola works with the world’s best!
   list:
-  - name: roti
-    img: "/uploads/roti-logo.png"
-  - name: DXC
-    img: "/uploads/DXC.svg"
+  - name: avast
+    img: "/uploads/avastLogo.svg"
   - img: "/uploads/goodyear_logo.svg"
     name: Goodyear
+  - name: Erste
+    img: "/uploads/Erste_Logo.svg"
+  - name: DXC
+    img: "/uploads/DXC.svg"
   - img: "/uploads/bata_logo.svg"
     name: Bata
   - name: Zendesk
     img: "/uploads/zendesk-logo-1.svg"
-  - name: Erste
-    img: "/uploads/Erste_Logo.svg"
 - template: hp-main-goals
   block: hp-main-goals
   list:
