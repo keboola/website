@@ -46,6 +46,7 @@ page_sections:
   headline: Keboola works with the world’s best!
   list:
   - name: homeCredit
+    img: "/uploads/homeCreditLogo.svg"
   - img: "/uploads/goodyear_logo.svg"
     name: Goodyear
   - name: Erste
