@@ -45,7 +45,7 @@ page_sections:
   block: article-list-img
   headline: Keboola works with the world’s best!
   list:
-  - name: volkswagen
+  - name: makro
   - img: "/uploads/goodyear_logo.svg"
     name: Goodyear
   - name: Erste
