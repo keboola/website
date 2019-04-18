@@ -45,8 +45,7 @@ page_sections:
   block: article-list-img
   headline: Keboola works with the world’s best!
   list:
-  - name: avast
-    img: "/uploads/avastLogo.svg"
+  - name: homeCredit
   - img: "/uploads/goodyear_logo.svg"
     name: Goodyear
   - name: Erste
@@ -57,6 +56,8 @@ page_sections:
     name: Bata
   - name: Zendesk
     img: "/uploads/zendesk-logo-1.svg"
+  - name: avast
+    img: "/uploads/avastLogo.svg"
 - template: hp-main-goals
   block: hp-main-goals
   list:
