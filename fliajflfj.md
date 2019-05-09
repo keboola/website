@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: fliajflfj
-permalink: fisovastranka
+permalink: https://www.keboola.com/platform/fisovastranka
 page_sections:
 - template: article-about-team
   block: article-about-team
