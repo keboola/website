@@ -11,6 +11,5 @@ page_sections:
     photo: ''
   subtitle: FOjalf
   title: lfajflkaf
-published: false
 
 ---
