@@ -5,7 +5,6 @@ date: 2019-02-27T23:00:00.000+00:00
 author: JIRI VICHEREK
 logo: "/uploads/firehouseLogo.jpg"
 background-image: "/uploads/firehouseBack.jpg"
-published: false
 
 ---
 ### Firehouse Subs is fast casual restaurant chain selling sandwiches. Established in Florida in 1994, today, in 2018, the company has more than 1,135 outlets, in 44 US states, Puerto Rico and Canada.
