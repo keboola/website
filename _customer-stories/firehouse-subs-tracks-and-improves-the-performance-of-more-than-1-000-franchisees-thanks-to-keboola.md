@@ -5,6 +5,7 @@ date: 2019-02-27T23:00:00.000+00:00
 author: JIRI VICHEREK
 logo: "/uploads/firehouseLogo.jpg"
 background-image: "/uploads/firehouseBack.jpg"
+published: false
 
 ---
 ### Firehouse Subs is fast casual restaurant chain selling sandwiches. Established in Florida in 1994, today, in 2018, the company has more than 1,135 outlets, in 44 US states, Puerto Rico and Canada.
@@ -35,7 +36,6 @@ Firehouse Subs also won Breakthrough Award winner in the category of Enterprise 
 
 In addition, the firm has been recognized for its commitment to community service and public safety as well through the Firehouse Subs Public Safety Foundation®, created in 2005. Such recognition, together with the crucial involvement of Keboola, are testament to the company’s success.
 
-##### **_Interested in opinions and experience of people who have successfully transformed their business with data-driven approach? Subscribe to our_** [**_newsletter_**](http://eepurl.com/ghgjp5)**_, where we pick inspiring case studies and news from Keboola… or tune up_** [**_DataHeroes_**](https://itunes.apple.com/gb/podcast/dataheroes/id1442313148?mt=2) **_to find out more about corporate culture in data-driven and fast growing companies. Guests of our CEO Pavel Dolezal share their experience and know-how.   
-If you are excited to try our tool Keboola Connection, learn more on our_** [**_website_**](http://keboola.com) **_or ask for_** [**_demo_**](https://www.keboola.com/request-demo) **_straight away._**
+##### **_Interested in opinions and experience of people who have successfully transformed their business with data-driven approach? Subscribe to our_** [**_newsletter_**](http://eepurl.com/ghgjp5)**_, where we pick inspiring case studies and news from Keboola… or tune up_** [**_DataHeroes_**](https://itunes.apple.com/gb/podcast/dataheroes/id1442313148?mt=2) **_to find out more about corporate culture in data-driven and fast growing companies. Guests of our CEO Pavel Dolezal share their experience and know-how. If you are excited to try our tool Keboola Connection, learn more on our_** [**_website_**](http://keboola.com) **_or ask for_** [**_demo_**](https://www.keboola.com/request-demo) **_straight away._**
 
 ***
