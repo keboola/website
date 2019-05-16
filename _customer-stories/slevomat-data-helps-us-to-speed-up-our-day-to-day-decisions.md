@@ -1,7 +1,7 @@
 ---
 title: 'Slevomat: Data helps us to speed up our day-to-day decisions'
 layout: post-case-study
-date: 2018-11-29 11:54:00 +0100
+date: 2018-11-29T10:54:00.000+00:00
 author: Jiri Vicherek
 background-image: "/uploads/slevomatBack.jpg"
 logo: "/uploads/slevomat_logo.jpg"
@@ -46,3 +46,5 @@ It’s simple. Introducing a new way of working with data and reporting has help
 I don’t think it would be an exaggeration to say that data helps us to improve and speed up our day-to-day business and strategic decisions. And that in turn helps us to stay a step ahead of our rivals and maintain our market lead in experiences and city and country break holidays.
 
 **Thanks for the inspiring conversation. We hope that you continue to easily meet and exceed your targets in the future!**
+
+##### **_Interested in opinions and experience of people who have successfully transformed their business with data-driven approach? Subscribe to our_** [**_newsletter_**](http://eepurl.com/ghgjp5)**_, where we pick inspiring case studies and news from Keboola… or tune up_** [**_DataHeroes_**](https://itunes.apple.com/gb/podcast/dataheroes/id1442313148?mt=2) **_to find out more about corporate culture in data-driven and fast growing companies. Guests of our CEO Pavel Dolezal share their experience and know-how. If you are excited to try our tool Keboola Connection, learn more on our_** [**_website_**](http://keboola.com) **_or ask for_** [**_demo_**](https://www.keboola.com/request-demo) **_straight away._**
