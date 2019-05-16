@@ -1,13 +1,13 @@
 ---
 layout: post-case-study
 title: Firehouse Subs tracks and improves the performance of more than 1,000 franchisees
-date: 2019-02-27 23:00:00 +0000
+date: 2019-02-27T23:00:00.000+00:00
 author: JIRI VICHEREK
 logo: "/uploads/firehouseLogo.jpg"
 background-image: "/uploads/firehouseBack.jpg"
 
 ---
-### Firehouse Subs is fast casual restaurant chain selling sandwiches. Established in Florida in 1994, today, in 2018, the company has more than 1,135 outlets, in 44 US states, Puerto Rico and Canada. 
+### Firehouse Subs is fast casual restaurant chain selling sandwiches. Established in Florida in 1994, today, in 2018, the company has more than 1,135 outlets, in 44 US states, Puerto Rico and Canada.
 
 The brand is growing, thanks to a franchising business model, recognised by Forbes in 2018 as a “Best Franchise to Buy”. Managing all these branches ‒ and such growth ‒ is no easy task, so Firehouse Subs teamed up with Keboola to create an analytics platform called Station Pulse.
 
@@ -34,3 +34,9 @@ The whole project provides a very useful case study of terms of return on invest
 Firehouse Subs also won Breakthrough Award winner in the category of Enterprise Innovator for Hospitality Technology (HT) Magazine. The company has won multiple awards including from Technomic's Chain Restaurant Consumers' Choice Awards in various categories, such as overall brand (2017), food quality (2016), and service (2015).
 
 In addition, the firm has been recognized for its commitment to community service and public safety as well through the Firehouse Subs Public Safety Foundation®, created in 2005. Such recognition, together with the crucial involvement of Keboola, are testament to the company’s success.
+
+**_Interested in opinions and experience of people who have successfully transformed their business with data-driven approach? Subscribe to our_** [**_newsletter_**](http://eepurl.com/ghgjp5)**_, where we pick inspiring case studies and news from Keboola… or tune up_** [**_DataHeroes_**](https://itunes.apple.com/gb/podcast/dataheroes/id1442313148?mt=2) **_to find out more about corporate culture in data-driven and fast growing companies. Guests of our CEO Pavel Dolezal share their experience and know-how._**
+
+**_If you are excited to try our tool Keboola Connection, learn more on our_** [**_website_**](http://keboola.com) **_or ask for_** [**_demo_**](https://www.keboola.com/request-demo) **_straight away._**
+
+****
