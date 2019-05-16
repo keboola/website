@@ -33,6 +33,8 @@ At the very beginning, we needed to capture customers‘ feedback and put it all
 
 To compete these days, we don‘t want to just analyze and react. We need to anticipate and act. Keboola as a data hub has accelerated us closer to our future vision. I’ve got data that is stuck in artificial silos, and I need to create insights that my business partners are asking for at the senior leader level. We needed to go from nothing to something really quickly. Our previous data management sounds like from a different world today – Excel and email.
 
+[![](/uploads/podcast_quote_2.png)](https://directory.libsyn.com/episode/index/show/dataheroes/id/7559798)
+
 **You combine Keboola with Looker. What are the major benefits of using the Keboola/Looker stack?**
 
 Keboola’s Business Data Model (BDM) is a critical differentiator in the space. It allows us to map out the flow of our business data to easily answer current and future business questions (agnostic to the source of the data required to generate insights and action). As for Looker, it‘s really the usability. It‘s the flexibility and scalability, and the power that it puts in the hands of my team and our power users on the business side. Technology is becoming the language of the business.
