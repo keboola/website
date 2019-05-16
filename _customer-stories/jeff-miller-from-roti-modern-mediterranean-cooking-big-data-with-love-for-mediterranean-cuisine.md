@@ -13,9 +13,9 @@ published: false
 
 [![](/uploads/rollover-food2.jpg)](https://roti.com/)
 
-Roti is the proof that restaurants can use insight and technology to make their customers happier. With the help of Keboola, they are able to ask questions, analyze customer preferences, and get a competitive advantage against other restaurant chains. To find out why they chose Keboola and how they use its tools, we turned to Jeff Miller, VP of Technology at Roti.
+_Roti is the proof that restaurants can use insight and technology to make their customers happier. With the help of Keboola, they are able to ask questions, analyze customer preferences, and get a competitive advantage against other restaurant chains. To find out why they chose Keboola and how they use its tools, we turned to Jeff Miller, VP of Technology at Roti._
 
-Jeff has a long history of combining his passion for technology and innovation at the intersection of customer experience and business. Before Roti, he was Director of Technology Innovation & Seed Stores at McDonald’s. He takes relevant technology innovations and applies them in the food industry. For him, it is the new normal.
+_Jeff has a long history of combining his passion for technology and innovation at the intersection of customer experience and business. Before Roti, he was Director of Technology Innovation & Seed Stores at McDonald’s. He takes relevant technology innovations and applies them in the food industry. For him, it is the new normal._
 
 **Jeff, can you please tell us what were the first challenges you had to deal with when you stepped into ROTI?**
 
