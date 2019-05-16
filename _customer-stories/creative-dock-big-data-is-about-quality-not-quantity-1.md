@@ -1,7 +1,7 @@
 ---
 title: 'Ivanhoé Cambridge: Focus on being innovative and not worry about our toolset '
 layout: post-case-study
-date: 2018-11-29 10:50:46 +0000
+date: 2018-11-29T10:50:46.000+00:00
 author: Jiri Vicherek
 background-image: "/uploads/ivanhoeBackWebsite.jpg"
 logo: "/uploads/ivanhoeLogo.jpg"
@@ -30,3 +30,5 @@ Ivanhoé Cambridge went shopping for solutions at the Tableau Conference and enc
 What started as a Digital Marketing reporting tool has expanded into multi-purpose solution. Not only does Ivanhoé Cambridge use Keboola to track marketing campaigns and activities, but it’s on the forefront of the company’s experimental and R&D projects for the future of Ivanhoé Cambridge sites. Tableau is not the only consumption point of data now, as data also flows to other systems, all within one Keboola instance.
 
 > _“Along the way when we encountered problems with some of our tools, we realized that we could use Keboola to tackle the problems. Tools that had integrations and connectors that should have worked didn’t, or was really hard. We realized we can use Keboola to push and pull data to those tools.” – Vinh Buu, Manager of Shopping Data._
+
+##### **_Interested in opinions and experience of people who have successfully transformed their business with data-driven approach? Subscribe to our_** [**_newsletter_**](http://eepurl.com/ghgjp5)**_, where we pick inspiring case studies and news from Keboola… or tune up_** [**_DataHeroes_**](https://itunes.apple.com/gb/podcast/dataheroes/id1442313148?mt=2) **_to find out more about corporate culture in data-driven and fast growing companies. Guests of our CEO Pavel Dolezal share their experience and know-how. If you are excited to try our tool Keboola Connection, learn more on our_** [**_website_**](http://keboola.com) **_or ask for_** [**_demo_**](https://www.keboola.com/request-demo) **_straight away._**
