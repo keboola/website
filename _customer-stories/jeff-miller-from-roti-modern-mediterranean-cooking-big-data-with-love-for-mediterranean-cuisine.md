@@ -6,7 +6,6 @@ date: 2019-04-18 00:00:00 +0200
 author: JIRI VICHEREK
 logo: "/uploads/footer-roti-registered.png"
 background-image: "/uploads/JAM Headshot.JPG"
-published: false
 
 ---
 ### Don‘t let the "fast casual" label fool you. Roti‘s purpose is to serve Food that Loves You Back. They encourage you to completely personalize your meal from a choice of fresh, wholesome ingredients and serve it just the way you like it. What‘s more, to stay ahead of the competition, Roti became a data oriented company, data driven if you want. Having their decisions rooted in data has helped them to thrive in the quickly growing and changing hospitality environment.
