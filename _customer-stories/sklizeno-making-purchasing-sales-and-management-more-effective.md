@@ -5,6 +5,7 @@ date: 2018-11-29T10:45:53.000+00:00
 author: Jiri Vicherek
 background-image: "/uploads/sklizenoBack.jpg"
 logo: "/uploads/sklizeno_logo.jpg"
+published: false
 
 ---
 _In the Czech Republic, Sklizeno needs no introduction to healthy living enthusiasts and fans of local, organic products. The chain of grocery stores stocks mostly Czech but also imported food, with clearly marked origins and guaranteed quality. The first store opened in Brno in 2011; today, Sklizeno Foods, together with the Náš Grunt chain, which the company acquired, operates 46 grocery stores in total._
