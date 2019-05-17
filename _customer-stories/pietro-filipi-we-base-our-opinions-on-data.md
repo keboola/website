@@ -5,7 +5,6 @@ date: 2018-11-29T10:42:23.000+00:00
 author: Jiri Vicherek
 background-image: "/uploads/pietroBack.jpg"
 logo: "/uploads/pietro_logo.jpg"
-published: false
 
 ---
 ## **A data-driven approach behind the company’s transformation: how Pietro Filipi found a way out of their insolvency.**
