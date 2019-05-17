@@ -5,6 +5,7 @@ date: 2018-11-29T10:50:46.000+00:00
 author: Jiri Vicherek
 background-image: "/uploads/crativeBack.jpg"
 logo: "/uploads/dock_logo.jpg"
+published: false
 
 ---
 _Creative Dock is a Czech startup studio where ideas for new businesses are born, and under their management these ideas become fully-fledged companies. As a client Creative Dock, therefore, represents several clients from different sectors with different needs. A client like this can be a tough nut to crack. When we won the proposal for Creative Dock it meant implementing several tools at a time, and we knew we were in for a rough ride. But we like a challenge. As we want you to give you a glimpse into that process, we spoke to Mirek Esser, Head of IT at Czech Creative Dock, about how they use data and Keboola Connection to run their business of bringing new companies to life._
