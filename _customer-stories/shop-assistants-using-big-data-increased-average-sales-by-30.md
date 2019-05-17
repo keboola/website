@@ -5,6 +5,7 @@ date: 2018-11-29T10:47:26.000+00:00
 author: Jiri Vicherek
 background-image: ''
 logo: "/uploads/mcPen_logo.jpg"
+published: false
 
 ---
 **Business intelligence is not about how sophisticated tools you use to manage your data. On the contrary, pen and pencil were the only tools you needed in the past to run your business. Everyone had that, but the key ingredient for growing your business is knowing what information you need to make better decisions. That means everyone in your company needs access to that data. Everyone needs to understand what they can do to succeed. That is why the most successful companies are the ones where data is used by anyone making decisions. MCPen is a company where shop assistants once given the access to data in the form they can easily read, approach and search through helped to raise the average purchase by 30%. How was that possible?**
