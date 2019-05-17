@@ -1,7 +1,7 @@
 ---
 title: 'Pietro Filipi: We base our opinions on data'
 layout: post-case-study
-date: 2018-11-29 10:42:23 +0000
+date: 2018-11-29T10:42:23.000+00:00
 author: Jiri Vicherek
 background-image: "/uploads/pietroBack.jpg"
 logo: "/uploads/pietro_logo.jpg"
@@ -68,3 +68,5 @@ Here we have to say something like Pietro at Kara, which we recently bought. In 
 Some sales plans for individual stores and months versus real results are processed in their own system, but it can’t be accessed, printed, or even exported to Excel. So, we have 50 branches times 12 months, which is 600 numbers, and the only thing we can do with it is to manually rewrite it. People aren’t used to that. It’s a completely different world! So, we must put in place some reporting there so we can figure out what’s going on in the company, because right now we have no idea.
 
 **We’re keeping our fingers crossed for you in all the data and other challenges. Thank very much for your time!  We hope that under your leadership, Czech fashion flourishes!**
+
+##### **_Interested in opinions and experience of people who have successfully transformed their business with data-driven approach? Subscribe to our_** [**_newsletter_**](http://eepurl.com/ghgjp5)**_, where we pick inspiring case studies and news from Keboola… or tune up_** [**_DataHeroes_**](https://itunes.apple.com/gb/podcast/dataheroes/id1442313148?mt=2) **_to find out more about corporate culture in data-driven and fast growing companies. Guests of our CEO Pavel Dolezal share their experience and know-how. If you are excited to try our tool Keboola Connection, learn more on our_** [**_website_**](http://keboola.com) **_or ask for_** [**_demo_**](https://www.keboola.com/request-demo) **_straight away._**

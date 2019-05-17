@@ -1,7 +1,7 @@
 ---
 title: 'McPen: Shop Assistants Using Big Data Increased Average Sales by 30 %'
 layout: post-case-study
-date: 2018-11-29 10:47:26 +0000
+date: 2018-11-29T10:47:26.000+00:00
 author: Jiri Vicherek
 background-image: ''
 logo: "/uploads/mcPen_logo.jpg"
@@ -28,3 +28,5 @@ To be really effective, do not expect someone else to just copy and paste a solu
 Start small. **Concentrate on one issue.** The most crucial question you need an answer for to grow your business (as was true for MCPen: Which products should I offer for upsell?). Then you need to make sure that people who read the report have the capacity to make sensible decisions and feel responsible for their work. This is the moment when you need the second report category that **describes how successful the individual is in comparison with others.**
 
 Thanks to cloud technologies, "Big Data" and "Business Intelligence" are no longer services that are available solely to large corporations or data engineers with a certain skill set. You can collect data about your own business, make it accessible to your employees and have a qualified team that will be able to use this information to bring about positive changes in your company. What are you waiting for?
+
+##### **_Interested in opinions and experience of people who have successfully transformed their business with data-driven approach? Subscribe to our_** [**_newsletter_**](http://eepurl.com/ghgjp5)**_, where we pick inspiring case studies and news from Keboola… or tune up_** [**_DataHeroes_**](https://itunes.apple.com/gb/podcast/dataheroes/id1442313148?mt=2) **_to find out more about corporate culture in data-driven and fast growing companies. Guests of our CEO Pavel Dolezal share their experience and know-how. If you are excited to try our tool Keboola Connection, learn more on our_** [**_website_**](http://keboola.com) **_or ask for_** [**_demo_**](https://www.keboola.com/request-demo) **_straight away._**
