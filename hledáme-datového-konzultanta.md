@@ -1,7 +1,7 @@
 ---
 layout: text-page
-title: Hledáme datového konzultanta
-subtitle: Pridej se k nám
+title: Data konzultant v Keboole
+subtitle: Přidej se k nám
 
 ---
 ### Keboola nabízí cloudovou platformu pro datovou analytiku, která propojuje data a lidi v nejrůznějších situacích. Hledáme někoho, kdo umí dělat totéž.
