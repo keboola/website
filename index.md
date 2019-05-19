@@ -4,8 +4,8 @@ title: Keboola – Let’s Dive into Data
 page_sections:
 - template: header-hp
   block: header-hp
-  headlineleft: Business people <strong>never</strong> do data
-  headlineright: Data people <strong>never</strong> make money
+  headlineleft: Keboola connects data, systems and people
+  headlineright: to do their best work.
   headlineend: 'Keboola brings people together     <br> <strong>from Excel to AI</strong> with lightning speed. '
 - template: article-with-perex
   block: article-with-perex
@@ -21,6 +21,10 @@ page_sections:
   block: ask-demo
   ctaname: Ask for a demo
   ctalink: "/request-demo"
+  subheadline: ''
+  headline: ''
+  content: ''
+  newwindow: false
 - template: article-list-hp
   block: article-list-hp
   subheadline: WE PROVIDE A CLOUD OPERATING SYSTEM FOR DATA ANALYTICS.
@@ -63,6 +67,8 @@ page_sections:
     img: "/uploads/niveaLogo.svg"
   - name: makro
     img: "/uploads/makro-logo.svg"
+  top-margin: false
+  subheadline: ''
 - template: hp-main-goals
   block: hp-main-goals
   list:
@@ -74,6 +80,7 @@ page_sections:
       having everything they need available to them. You’ll have access to multiple
       clouds dealing with everything from Excel to AI.</p>"
     background: "/uploads/illu1.svg"
+    link: ''
   - title: Comprehensive data infrastructure
     desc: "<p>Keboola provides on-demand access to all the tools, servers, and data
       warehouses you need to help your business succeed in a scalable environment.
@@ -83,23 +90,27 @@ page_sections:
       from a shop assistant to a CEO, to read, combine, and use data to improve their
       effectiveness.</p>"
     background: "/uploads/illu2.svg"
+    link: ''
   - title: "Collaboration breeds \Lsuccess"
     desc: "<p>Keboola allows people to work together on the same code in the same
       pipeline. With our unique system, your team can build on top of each other’s
       successes in real time. Since everything is versioned, nothing gets lost in
       all the changes.</p>"
     background: "/uploads/illu3.svg"
+    link: ''
   - background: "/uploads/illu4.svg"
     title: "Security means\L everything to us"
     desc: "<p>Your data is valuable, so we guard it very carefully. All data is HIPAA-grade
       secured, and we meticulously log all user actions for your complete peace of
       mind.</p>"
+    link: ''
   - title: "No more \Lvendor lock-in"
     desc: "<p>We intentionally made Keboola completely transparent and open box so
       you can improve and build on top of existing work. We’re so confident that you’ll
       love Keboola that we give you the option to cancel anytime and take all your
       data with you with just one click.</p>"
     background: "/uploads/illu5.svg"
+    link: ''
 - template: review
   block: review
   list:
