@@ -14,7 +14,6 @@ fields:
   name: subtitle
   label: sub title
 pages:
-- hledáme-datového-konzultanta.md
 - terms-and-conditions.md
 - gdpr.md
 - security-whitepaper.md
