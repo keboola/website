@@ -4,8 +4,8 @@ title: Keboola – Let’s Dive into Data
 page_sections:
 - template: header-hp
   block: header-hp
-  headlineleft: Keboola connects data, systems and people
-  headlineright: to do their best work.
+  headlineleft: to do their best work.
+  headlineright: Keboola connects data, systems and people
   headlineend: 'Keboola brings people together     <br> <strong>from Excel to AI</strong> with lightning speed. '
 - template: article-with-perex
   block: article-with-perex
