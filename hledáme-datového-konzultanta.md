@@ -14,8 +14,6 @@ Jedná se o pozici na plný úvazek. Stanete se součástí našeho globálního
 
 * Řešit reálné obchodní problémy s měřitelnými výsledky, které by přinášely obchodní hodnotu
 * Konzultovat s klienty z různých průmyslových odvětví jejich data v kontextu jejich firem, potřeb a problémů
-
-
 * Tvořit datové modely pro mapování informací, které jste získali od klientů
 * Spolupracovat s naším konzultačním týmem na nalezení nových řešení a osvědčených postupů
 * Strategizovat a extrahovat data z více datových zdrojů, jako např. Salesforce, Google Analytics a cokoliv dalšího, co vás napadne!
@@ -51,8 +49,9 @@ _Velmi nám na této pozici, této firmě a její kultuře záleží. Přijímac
 
 Přijímací řízení se skládá z několika fází a pouze úspěšní kandidáti postoupí dále:
 
-* 1. kolo – úvodní dotazník
-* 1. kolo – rychlý SQL test – krátký test SQL dovedností (1–2 dny na dokončení)
-* 1. kolo – screeningový pohovor – 30minutový pohovor na Google Hangouts (nebo podobném webovém nástroji)
-* 2. kolo – osobní pohovor nebo pohovor na Google Hangouts (v závislosti na vaší lokalitě) s vedoucím týmu a HR
-* Poslední kolo – konečný pohovor – ověření referencí z předchozího zaměstnání
+1. kolo – úvodní dotazník
+2. kolo – rychlý SQL test – krátký test SQL dovedností (1–2 dny na dokončení)
+3. kolo – screeningový pohovor – 30minutový pohovor na Google Hangouts (nebo podobném webovém nástroji)
+4. kolo – osobní pohovor nebo pohovor na Google Hangouts (v závislosti na vaší lokalitě) s vedoucím týmu a HR
+
+Poslední kolo – konečný pohovor – ověření referencí z předchozího zaměstnání
