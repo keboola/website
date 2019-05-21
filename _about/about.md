@@ -2,7 +2,7 @@
 title: About
 layout: blocks
 permalink: "/about/"
-date: 2018-11-02 15:11:44 +0000
+date: '2018-11-02T15:11:44.000+00:00'
 page_sections:
 - template: header-blue
   block: header-blue
@@ -25,12 +25,26 @@ page_sections:
   block: gallery-list
   list:
   - photo: "/uploads/about7-2.jpg"
+    link: ''
+    video: false
   - photo: "/uploads/photo4.jpg"
+    link: ''
+    video: false
   - photo: "/uploads/photo0.jpg"
+    link: ''
+    video: false
   - photo: "/uploads/photo2.jpg"
+    link: ''
+    video: false
   - photo: "/uploads/photo3.jpg"
+    link: ''
+    video: false
   - photo: "/uploads/photo5.jpg"
+    link: ''
+    video: false
   - photo: "/uploads/about-dog.jpg"
+    link: ''
+    video: false
 - template: article-full
   block: article-full
   subheadline: do it keboola way
@@ -40,6 +54,8 @@ page_sections:
     build better businesses, increase profitability, and make better decisions. Keboola
     employees help Keboola, by being honest, entrepreneurial, daring to learn, helping
     each other prosper, and thus, helping themselves.
+  nomarginbottom: false
+  list: []
 - template: article-about-founder
   block: article-about-founder
   list:
@@ -61,6 +77,7 @@ page_sections:
       With his experience in business development, data analytics and technology,
       he is responsible for all things business processes and business development.
     photo: "/uploads/milan.jpg"
+  nomargintop: false
 - template: horizontal-rule
   block: hr
 - template: article-about-team
@@ -83,9 +100,6 @@ page_sections:
   - name: Ondrej
     position: Full Stack Tinkerer
     photo: "/uploads/najlos.jpg"
-  - name: Jeffry
-    position: Account Executive
-    photo: "/uploads/jeffry.jpg"
   - position: Account Executive
     name: Kathleen
     photo: "/uploads/kathleen.jpg"
@@ -110,6 +124,8 @@ page_sections:
   ctaname: See open positions in Keboola
   ctalink: https://www.linkedin.com/jobs/search/?f_C=1833529&locationId=OTHERS.worldwide
   newwindow: true
+  subheadline: ''
+  content: ''
 - template: article-download-list
   block: article-download-list
   list:
