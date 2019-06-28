@@ -48,7 +48,7 @@ page_sections:
 - template: ask-demo
   block: ask-demo
   headline: Try Keboola for free for first three months
-  subheadline: Use the code "trymeout" to start your 3 months for free.
+  subheadline: ''
   content: 'Get the power of whole FlowHub and automation under one roof. Comes together
     with a detailed "Interactive user guide". Go to <a href="https://try.keboola.com"
     title="">try.keboola.com</a> and use the code "trymeout" to start your 3 months
