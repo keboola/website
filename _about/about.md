@@ -55,7 +55,7 @@ page_sections:
     for free.<br>Disclaimer: Limitations apply. You can consume upto 100 project power
     units/month. Keboola reserves the right to cancel your trial at any moment without
     given the reason.'
-  ctaname: try.keboola.com
+  ctaname: Try Keboola for free
   ctalink: https://try.keboola.com
   newwindow: true
 - template: article-full
