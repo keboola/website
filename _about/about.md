@@ -45,6 +45,18 @@ page_sections:
   - photo: "/uploads/about-dog.jpg"
     link: ''
     video: false
+- template: ask-demo
+  block: ask-demo
+  headline: Try Keboola for free for first three months. Get the power of whole FlowHub
+    and automation under one roof. Comes together with a detailed "Interactive user
+    guide".
+  subheadline: Use the code "trymeout" to start your 3 months for free.
+  content: 'Disclaimer: Limitations apply. You can consume upto 100 project power
+    units/month. Keboola reserves the right to cancel your trial at any moment without
+    given the reason.'
+  ctaname: try.keboola.com
+  ctalink: https://try.keboola.com
+  newwindow: true
 - template: article-full
   block: article-full
   subheadline: do it keboola way
