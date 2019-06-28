@@ -48,6 +48,7 @@ fields:
   - recent-list
   - hp-main-goals
 pages:
+- _about/contact.md
 - _product/product.md
 - _platform/actions.md
 - _platform/developer-docs.md
@@ -58,7 +59,6 @@ pages:
 - _platform/developers-portal.md
 - _platform/developers.md
 - _product/serverless-data-analytics.md
-- _about/contact.md
 - _landing/how-to-win-data.md
 - _product/pricing.md
 - _about/about.md

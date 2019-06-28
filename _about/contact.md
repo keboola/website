@@ -2,7 +2,7 @@
 title: Contact
 layout: blocks
 permalink: "/contact/"
-date: 2018-11-02 15:11:44 +0000
+date: '2018-11-02T15:11:44.000+00:00'
 page_sections:
 - template: header-blue
   block: header-blue
@@ -11,10 +11,17 @@ page_sections:
   content: ''
 - template: ask-demo
   block: ask-demo
-  headline: Lets talk right now!
-  ctaname: Contact us!
-  ctalink: https://www.keboola.com/contact-sales
-  newwindow: false
+  headline: Try Keboola for free for first three months
+  ctaname: Try Keboola for free
+  ctalink: https://try.keboola.com
+  newwindow: true
+  subheadline: ''
+  content: 'Get the power of whole FlowHub and automation under one roof. Comes together
+    with a detailed "Interactive user guide". Go to <a href="https://try.keboola.com"
+    title="">try.keboola.com</a> and use the code "trymeout" to start your 3 months
+    for free.<br>Disclaimer: Limitations apply. You can consume upto 100 project power
+    units/month. Keboola reserves the right to cancel your trial at any moment without
+    given the reason.'
 - template: article-about-office
   block: article-about-office
   list:
