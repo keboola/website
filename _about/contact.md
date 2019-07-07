@@ -11,7 +11,7 @@ page_sections:
   content: ''
 - template: ask-demo
   block: ask-demo
-  headline: Try Keboola for free for first three months
+  headline: Try Keboola free for 3 months
   ctaname: Try Keboola for free
   ctalink: https://try.keboola.com
   newwindow: true
