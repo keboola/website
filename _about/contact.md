@@ -6,8 +6,8 @@ date: '2018-11-02T15:11:44.000+00:00'
 page_sections:
 - template: header-blue
   block: header-blue
-  subheadline: Looking forward to meet you
-  headline: How we can help you?
+  subheadline: Looking forward to meeting you
+  headline: How can we help you?
   content: ''
 - template: ask-demo
   block: ask-demo
