@@ -18,10 +18,10 @@ page_sections:
   subheadline: ''
   content: 'Get the power of whole FlowHub and automation under one roof. Comes together
     with a detailed "Interactive user guide". Go to <a href="https://try.keboola.com"
-    title="">try.keboola.com</a> and use the code "trymeout" to start your 3 months
-    for free.<br>Disclaimer: Limitations apply. You can consume upto 100 project power
-    units/month. Keboola reserves the right to cancel your trial at any moment without
-    given the reason.'
+    title="">try.keboola.com</a> and use the code "<strong>trymeout</strong>" to start
+    your 3 months for free.<br>Disclaimer: Limitations apply. You can consume upto
+    100 project power units/month. Keboola reserves the right to cancel your trial
+    at any moment without given the reason.'
 - template: article-about-office
   block: article-about-office
   list:
