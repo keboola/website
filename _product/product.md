@@ -20,10 +20,16 @@ page_sections:
     No setup required, one click and you are ready to go!
 
 '
+  nomarginbottom: false
+  list: []
 - template: ask-demo
   block: ask-demo
   ctaname: Ask for a demo
   ctalink: "/request-demo"
+  subheadline: ''
+  headline: ''
+  content: ''
+  newwindow: false
 - template: article-list-two-row
   block: article-list-two-row
   subheadline: ALL IN ONE DATA ANALYTICS PLATFORM YOU CAN BUILD ON
@@ -36,22 +42,26 @@ page_sections:
       them directly into your workflow, and you can access the data stored by Keboola
       at any time.
     pictogram: "/uploads/blue1-1.svg"
+    link: ''
   - icotype: blueright
     title: No Blackbox
     desc: Open and fully customizable system. Seriously, we're not kidding. You can
       see every single line of code, every little job payload, and all the data streams
       your heart desires. Fully customizable.
     pictogram: "/uploads/black3.svg"
+    link: ''
   - icotype: yellow
     title: Automation
     desc: Handles complicated processes and trigger actions from other SaaS apps and
       legacy systems like CRMs, mailing, ERP, SupplyChain or BI apps.
     pictogram: "/uploads/grey.svg"
+    link: ''
   - title: Data Lake & DWH
     icotype: yellowright
     desc: Instant API/UI access to your data, structured storage, real-time analytical
       data warehouses and data catalogs.
     pictogram: "/uploads/greyFront.svg"
+    link: ''
   - title: Secure and stable sandbox
     desc: 'Personal developer sandboxes and notebooks (SQL, RStudio, Python) with
       data linked automatically from storage, including model versioning.
@@ -59,12 +69,14 @@ page_sections:
 '
     icotype: gray
     pictogram: "/uploads/aqua.svg"
+    link: ''
   - icotype: black
     title: Serverless
     desc: Built as a micro-service architecture running on AWS. You use only parts
       that suit your business, including single click services you really need. Total
       control of performance, efficiency and spend.
     pictogram: "/uploads/whiteHole.svg"
+    link: ''
   content: Each company faces unique challenges, so why would you go with the traditional,
     closed, black box system? Choose Keboola instead! Keboola was built to be universal
     so instead of molding your needs to fit our system, our system adapts to fit your
@@ -79,8 +91,20 @@ page_sections:
     img: "/uploads/awsLogo-1.png"
   - name: Azure
     img: "/uploads/azureLogo-1.png"
-- template: horizontal-rule
-  block: hr
+  top-margin: false
+  subheadline: ''
+- template: ask-demo
+  block: ask-demo
+  headline: Try Keboola free for 3 months
+  content: 'Get the power of whole FlowHub and automation under one roof. Comes together
+    with a detailed "Interactive user guide". Go to<span class="Apple-converted-space">
+    </span><a href="https://try.keboola.com/" title=""><span style="text-decoration:
+    underline;">try.keboola.com</span></a><span class="Apple-converted-space"> </span>and
+    use the code "trymeout" to start your 3 months for free.'
+  ctalink: https://try.keboola.com
+  ctaname: Try Keboola for free
+  newwindow: true
+  subheadline: ''
 - template: article-full
   block: article-full
   subheadline: no more procurement nightmare
@@ -99,6 +123,7 @@ page_sections:
       set up our system so that if you're ever unsatisfied, you can leave anytime
       with no hassle. With us, there isn't any vendor lock! We only keep your business
       if you're happy."
+  nomarginbottom: false
 - template: horizontal-rule
   block: hr
 - template: article-full
@@ -108,6 +133,9 @@ page_sections:
     the underlying infrastructure or deploy significant new IT resources.
   headline: '"We had a great data pipeline using S3, Redshift, and Python, but our
     data engineer has left and now we have to pick up the pieces"'
+  subheadline: ''
+  nomarginbottom: false
+  list: []
 - template: review
   block: review
   list:
@@ -124,6 +152,8 @@ page_sections:
     away!
   headline: Bringing data to users across your organization
   subheadline: your business based on data
+  nomarginbottom: false
+  list: []
 - template: article-list-table
   block: article-list-table
   tablehead:
@@ -136,7 +166,7 @@ page_sections:
     name: Connecting data sources
   - name: Team size
     valueold: 10+
-    valuenew: '1'
+    valuenew: "1"
   - name: Cost
     valueold: "$$$"
     valuenew: "$"

@@ -48,7 +48,6 @@ fields:
   - recent-list
   - hp-main-goals
 pages:
-- "./keboola-let-s-dive-into-data.md"
 - _about/contact.md
 - _product/product.md
 - _platform/actions.md
