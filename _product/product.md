@@ -93,6 +93,8 @@ page_sections:
     img: "/uploads/azureLogo-1.png"
   top-margin: false
   subheadline: ''
+- template: horizontal-rule
+  block: hr
 - template: ask-demo
   block: ask-demo
   headline: Try Keboola free for 3 months
@@ -105,8 +107,6 @@ page_sections:
   ctaname: Try Keboola for free
   newwindow: true
   subheadline: ''
-- template: horizontal-rule
-  block: hr
 - template: article-full
   block: article-full
   subheadline: no more procurement nightmare
