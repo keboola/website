@@ -105,6 +105,8 @@ page_sections:
   ctaname: Try Keboola for free
   newwindow: true
   subheadline: ''
+- template: horizontal-rule
+  block: hr
 - template: article-full
   block: article-full
   subheadline: no more procurement nightmare
