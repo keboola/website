@@ -2,7 +2,7 @@
 title: Platform
 layout: blocks
 permalink: "/platform/"
-date: 2018-11-01 09:41:24 +0000
+date: '2018-11-01T09:41:24.000+00:00'
 page_sections:
 - template: header-blue
   block: header-blue
@@ -41,8 +41,16 @@ page_sections:
       just one API call.
 - template: ask-demo
   block: ask-demo
-  ctaname: Ask for demo
-  ctalink: "/request-demo"
+  ctaname: Try Keboola for free
+  ctalink: https://try.keboola.com
+  subheadline: ''
+  headline: Try Keboola free for 3 months
+  content: 'Get the power of whole FlowHub and automation under one roof. Comes together
+    with a detailed "Interactive user guide". Go to<a href="https://try.keboola.com/"
+    title=""><span style="text-decoration: underline;">try.keboola.com</span></a><span
+    class="Apple-converted-space"> </span>and use the code "<strong>trymeout</strong>"
+    to start your 3 months for free.'
+  newwindow: true
 - template: article-list-two-row
   block: article-list-two-row
   subheadline: All in one container based data platform you can add to
@@ -59,16 +67,19 @@ page_sections:
       provisioning and scaling.
     icotype: yellow
     pictogram: "/uploads/blueSide.svg"
+    link: ''
   - desc: Your application gets listed in our app store with automatic billing.
     title: AppStore
     icotype: blueright
     pictogram: "/uploads/yellow2.svg"
+    link: ''
   - icotype: gray
     desc: Reach Keboola customers and become part of our growing community. See the
       list of components.
     title: Developer support
     link: https://components.keboola.com/components
     pictogram: "/uploads/black2.svg"
+  content: ''
 - template: article-gray-box
   block: article-gray-box
   subheadline: better and faster results
