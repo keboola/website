@@ -46,7 +46,7 @@ page_sections:
   subheadline: ''
   headline: Try Keboola free for 3 months
   content: 'Get the power of whole FlowHub and automation under one roof. Comes together
-    with a detailed "Interactive user guide". Go to<a href="https://try.keboola.com/"
+    with a detailed "Interactive user guide". Go to <a href="https://try.keboola.com/"
     title=""><span style="text-decoration: underline;">try.keboola.com</span></a><span
     class="Apple-converted-space"> </span>and use the code "<strong>trymeout</strong>"
     to start your 3 months for free.'

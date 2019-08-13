@@ -14,8 +14,8 @@ fields:
   name: subtitle
   label: sub title
 pages:
-- data-konzultant-v-keboole.md
 - terms-and-conditions.md
+- data-konzultant-v-keboole.md
 - gdpr.md
 - security-whitepaper.md
 - dpa.md

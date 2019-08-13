@@ -50,14 +50,14 @@ fields:
 pages:
 - _platform/platform.md
 - _about/contact.md
-- _product/product.md
-- _platform/actions.md
 - _platform/developer-docs.md
-- _platform/programmable-data-platform.md
-- _platform/3rd-party-ai.md
-- _platform/command-control-api-first.md
 - _platform/developers-portal.md
 - _platform/developers.md
+- _platform/command-control-api-first.md
+- _platform/actions.md
+- _product/product.md
+- _platform/programmable-data-platform.md
+- _platform/3rd-party-ai.md
 - _product/serverless-data-analytics.md
 - _landing/how-to-win-data.md
 - _product/pricing.md
