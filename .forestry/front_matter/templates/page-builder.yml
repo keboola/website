@@ -48,6 +48,7 @@ fields:
   - recent-list
   - hp-main-goals
 pages:
+- _product/product.md
 - _about/about.md
 - _about/contact.md
 - index.md
@@ -62,7 +63,6 @@ pages:
 - _product/serverless-data-analytics.md
 - _platform/3rd-party-ai.md
 - _platform/programmable-data-platform.md
-- _product/product.md
 - _platform/actions.md
 - _platform/command-control-api-first.md
 - _platform/developers.md
