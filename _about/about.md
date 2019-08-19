@@ -47,12 +47,12 @@ page_sections:
     video: false
 - template: ask-demo
   block: ask-demo
-  headline: Try Keboola free for 3 months
+  headline: Try Keboola free for 2 weeks
   subheadline: ''
   content: Get the power of whole FlowHub and automation under one roof. Comes together
     with a detailed "Interactive user guide". Go to <a href="https://try.keboola.com"
     title="">try.keboola.com</a> and use the code "<strong>trymeout</strong>" to start
-    your 3 months for free.
+    your 2 weeks for free.
   ctaname: Try Keboola for free
   ctalink: https://try.keboola.com
   newwindow: true
