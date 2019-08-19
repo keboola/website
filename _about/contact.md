@@ -11,7 +11,7 @@ page_sections:
   content: ''
 - template: ask-demo
   block: ask-demo
-  headline: Try Keboola free for 3 months
+  headline: Try Keboola free for 2 weeks
   ctaname: Try Keboola for free
   ctalink: https://try.keboola.com
   newwindow: true
@@ -19,7 +19,7 @@ page_sections:
   content: 'Get the power of whole FlowHub and automation under one roof. Comes together
     with a detailed "Interactive user guide". Go to <a href="https://try.keboola.com"
     title="">try.keboola.com</a> and use the code "<strong>trymeout</strong>" to start
-    your 3 months for free.<br>Disclaimer: Limitations apply. You can consume upto
+    your 2 weeks for free.<br>Disclaimer: Limitations apply. You can consume upto
     100 project power units/month. Keboola reserves the right to cancel your trial
     at any moment without given the reason.'
 - template: article-about-office
