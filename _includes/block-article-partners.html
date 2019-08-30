@@ -1,15 +1,17 @@
 <div class="article-partners{% if section.blue-background == true %} article-partners-blue{% endif %}"><div class="in">
-	<div class="item-desc">
-		<h1>{{ section.headline }}</h1>
-		{% if section.content != "" and section.content != nil %}
-			<p>{{ section.content }}</p>
-		{% endif %}
+	<div class="article-partners-content">
+		<div class="item-desc">
+			<h1>{{ section.headline }}</h1>
+			{% if section.content != "" and section.content != nil %}
+				<p>{{ section.content }}</p>
+			{% endif %}
+		</div>
+		<div class="article-partners-list"><ul>
+			{% for list in section.list %}
+				<li><div class="item-desc">
+					<img src="{{ list.photo }}" alt="{{ list.name }}">
+				</div></li>
+	        {% endfor %}
+		</ul></div>
 	</div>
-	<div class="article-partners-list"><ul>
-		{% for list in section.list %}
-			<li><div class="item-desc">
-				<img src="{{ list.photo }}" alt="{{ list.name }}">
-			</div></li>
-        {% endfor %}
-	</ul></div>
 </div></div>
