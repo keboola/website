@@ -24,8 +24,9 @@ page_sections:
   list: []
 - template: article-partners
   block: article-partners
-  headline: ''
-  content: ''
+  headline: Solution Partners
+  content: We work with trusted consultants and solution partners to streamline and
+    maximize your data stack.
   blue-background: false
   list: []
 
