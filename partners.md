@@ -28,6 +28,5 @@ page_sections:
   content: ''
   blue-background: false
   list: []
-published: false
 
 ---
