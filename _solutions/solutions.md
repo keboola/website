@@ -2,7 +2,7 @@
 title: Solutions
 layout: blocks
 permalink: "/solutions/"
-date: 2018-09-30 21:57:37 +0000
+date: '2018-09-30T21:57:37.000+00:00'
 type: Solutions by industries page
 page_sections:
 - template: header-blue
@@ -112,5 +112,11 @@ page_sections:
 - template: recent-list
   block: recent-list
   headline: More success stories
+- template: article-partners
+  headline: Technology Partners
+  content: We work with
+  list:
+  - name: AWS
+    photo: "/uploads/awsLogo.png"
 
 ---
