@@ -28,8 +28,8 @@ page_sections:
     photo: "/uploads/snowflake.png"
   - name: looker
     photo: "/uploads/looker.png"
-  - name: ''
-    photo: ''
+  - name: tableau
+    photo: "/uploads/tableau.png"
   - name: ''
     photo: ''
   - name: ''
