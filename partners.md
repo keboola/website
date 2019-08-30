@@ -12,8 +12,9 @@ page_sections:
   block: ask-demo
   subheadline: ''
   headline: ''
-  content: ''
-  ctaname: ''
+  content: We bring together the best technologies and solutions in business intelligence,
+    data warehousing and data integrations.
+  ctaname: Become a Partner
   ctalink: ''
   newwindow: false
 - template: article-partners
