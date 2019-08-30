@@ -16,6 +16,9 @@ fields:
     schema:
       format: html
   label: content
+- name: blue-background
+  type: boolean
+  label: blue-background
 - name: list
   type: field_group_list
   fields:
