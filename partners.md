@@ -33,7 +33,7 @@ page_sections:
   - name: goodData
     photo: "/uploads/goodData.png"
   - name: periscope
-    photo: ''
+    photo: "/uploads/periscope.png"
   - name: ''
     photo: ''
   - name: ''
