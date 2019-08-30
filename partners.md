@@ -26,6 +26,18 @@ page_sections:
   list:
   - name: snowflake
     photo: "/uploads/snowflake.png"
+  - name: looker
+    photo: "/uploads/looker.png"
+  - name: ''
+    photo: ''
+  - name: ''
+    photo: ''
+  - name: ''
+    photo: ''
+  - name: ''
+    photo: ''
+  - name: ''
+    photo: ''
 - template: article-partners
   block: article-partners
   headline: Solution Partners
