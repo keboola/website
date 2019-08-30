@@ -109,13 +109,6 @@ page_sections:
   ctaname: See how they used Keboola
   img: "/uploads/hello_logo.png"
   ctalink: https://components.keboola.com
-- template: article-partners
-  block: article-partners
-  headline: Partners
-  content: We work with...
-  list:
-  - name: aws
-    photo: "/uploads/awsLogo.png"
 - template: recent-list
   block: recent-list
   headline: More success stories
