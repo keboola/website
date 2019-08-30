@@ -51,21 +51,21 @@ page_sections:
     photo: "/uploads/decesiveData.png"
   - name: das42
     photo: "/uploads/das42.png"
-  - name: ''
-    photo: ''
-  - name: ''
-    photo: ''
-  - name: ''
-    photo: ''
-  - name: ''
-    photo: ''
-  - name: ''
-    photo: ''
-  - name: ''
-    photo: ''
-  - name: ''
-    photo: ''
-  - name: ''
-    photo: ''
+  - name: interworks
+    photo: "/uploads/interworks.png"
+  - name: 4mile
+    photo: "/uploads/4mile.png"
+  - name: bizztreat
+    photo: "/uploads/bizztreat.png"
+  - name: billigence
+    photo: "/uploads/billigence.png"
+  - name: revoltBI
+    photo: "/uploads/revoltBI.png"
+  - name: bytecodeIO
+    photo: "/uploads/bytecodeIO.png"
+  - name: BQ
+    photo: "/uploads/BQ.png"
+  - name: aLook
+    photo: "/uploads/alook.png"
 
 ---
