@@ -5,8 +5,9 @@ page_sections:
 - template: header-blue
   block: header-blue
   subheadline: ''
-  headline: ''
-  content: ''
+  headline: Partners
+  content: Keboola partners are an extension of our team to help you build your complete
+    data stack and connect with business insights that matter.
 - template: ask-demo
   block: ask-demo
   subheadline: ''
