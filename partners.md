@@ -30,8 +30,8 @@ page_sections:
     photo: "/uploads/looker.png"
   - name: tableau
     photo: "/uploads/tableau.png"
-  - name: ''
-    photo: ''
+  - name: goodData
+    photo: "/uploads/goodData.png"
   - name: ''
     photo: ''
   - name: ''
