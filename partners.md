@@ -34,10 +34,12 @@ page_sections:
     photo: "/uploads/goodData.png"
   - name: periscope
     photo: "/uploads/periscope.png"
-  - name: ''
-    photo: ''
-  - name: ''
-    photo: ''
+  - name: aws
+    photo: "/uploads/aws.png"
+  - name: chartio
+    photo: "/uploads/chartio.png"
+  - name: mode
+    photo: "/uploads/mode.png"
 - template: article-partners
   block: article-partners
   headline: Solution Partners
