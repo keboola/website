@@ -1,4 +1,4 @@
-<div class="article-partners"><div class="in">
+<div class="article-partners{% if section.blue-background == true %} article-partners-blue{% endif %}"><div class="in">
 	<div class="item-desc">
 		<h1>{{ section.headline }}</h1>
 		{% if section.content != "" and section.content != nil %}
