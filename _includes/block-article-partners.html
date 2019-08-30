@@ -1,0 +1,15 @@
+<div class="article-partners"><div class="in">
+	<div class="item-desc">
+		<h1>{{ section.headline }}</h1>
+		{% if section.content != "" and section.content != nil %}
+			<p>{{ section.content }}</p>
+		{% endif %}
+	</div>
+	<div class="article-partners-list"><ul>
+		{% for list in section.list %}
+			<li><div class="item-desc">
+				<img src="{{ list.photo }}" alt="">
+			</div></li>
+        {% endfor %}
+	</ul></div>
+</div></div>
