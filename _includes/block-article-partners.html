@@ -8,7 +8,7 @@
 	<div class="article-partners-list"><ul>
 		{% for list in section.list %}
 			<li><div class="item-desc">
-				<img src="{{ list.photo }}" alt="">
+				<img src="{{ list.photo }}" alt="{{ list.name }}">
 			</div></li>
         {% endfor %}
 	</ul></div>
