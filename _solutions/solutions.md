@@ -109,20 +109,6 @@ page_sections:
   ctaname: See how they used Keboola
   img: "/uploads/hello_logo.png"
   ctalink: https://components.keboola.com
-- template: article-partners
-  block: article-partners
-  headline: Technology Partners
-  content: We work with
-  list:
-  - name: Ivanhoe Cambridge
-    photo: "/uploads/ivanhoeLogo.jpg"
-  - name: roti
-    photo: "/uploads/footer-roti-registered.png"
-  - name: Hello bank!
-    photo: "/uploads/helloBank_logo.jpg"
-  - name: aws
-    photo: "/uploads/awsLogo.png"
-  blue-background: true
 - template: recent-list
   block: recent-list
   headline: More success stories
