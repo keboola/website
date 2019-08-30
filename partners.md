@@ -23,7 +23,9 @@ page_sections:
   content: We work with a variety of trusted data warehouses, business intelligence
     providers and more so our customers can create their perfect data stack.
   blue-background: true
-  list: []
+  list:
+  - name: snowflake
+    photo: "/uploads/snowflake.png"
 - template: article-partners
   block: article-partners
   headline: Solution Partners
