@@ -116,6 +116,7 @@ page_sections:
   list:
   - name: aws
     photo: "/uploads/awsLogo.png"
+  blue-background: true
 - template: recent-list
   block: recent-list
   headline: More success stories
