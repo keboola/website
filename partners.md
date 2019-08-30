@@ -46,6 +46,26 @@ page_sections:
   content: We work with trusted consultants and solution partners to streamline and
     maximize your data stack.
   blue-background: false
-  list: []
+  list:
+  - name: decisiveData
+    photo: "/uploads/decesiveData.png"
+  - name: das42
+    photo: "/uploads/das42.png"
+  - name: ''
+    photo: ''
+  - name: ''
+    photo: ''
+  - name: ''
+    photo: ''
+  - name: ''
+    photo: ''
+  - name: ''
+    photo: ''
+  - name: ''
+    photo: ''
+  - name: ''
+    photo: ''
+  - name: ''
+    photo: ''
 
 ---
