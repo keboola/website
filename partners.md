@@ -8,15 +8,6 @@ page_sections:
   headline: Partners
   content: Keboola partners are an extension of our team to help you build your complete
     data stack and connect with business insights that matter.
-- template: ask-demo
-  block: ask-demo
-  subheadline: ''
-  headline: ''
-  content: We bring together the best technologies and solutions in business intelligence,
-    data warehousing and data integrations.
-  ctaname: Become a Partner
-  ctalink: ''
-  newwindow: false
 - template: article-partners
   block: article-partners
   headline: Technology Partners
