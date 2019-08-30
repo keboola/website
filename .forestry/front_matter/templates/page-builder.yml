@@ -49,6 +49,7 @@ fields:
   - hp-main-goals
   - article-partners
 pages:
+- partners.md
 - _about/contact.md
 - _about/about.md
 - _platform/platform.md
