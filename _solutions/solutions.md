@@ -112,11 +112,5 @@ page_sections:
 - template: recent-list
   block: recent-list
   headline: More success stories
-- template: article-partners
-  headline: Technology Partners
-  content: We work with
-  list:
-  - name: AWS
-    photo: "/uploads/awsLogo.png"
 
 ---
