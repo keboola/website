@@ -114,6 +114,12 @@ page_sections:
   headline: Technology Partners
   content: We work with
   list:
+  - name: Ivanhoe Cambridge
+    photo: "/uploads/ivanhoeLogo.jpg"
+  - name: roti
+    photo: "/uploads/footer-roti-registered.png"
+  - name: Hello bank!
+    photo: "/uploads/helloBank_logo.jpg"
   - name: aws
     photo: "/uploads/awsLogo.png"
   blue-background: true
