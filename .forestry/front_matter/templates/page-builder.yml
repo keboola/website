@@ -47,6 +47,7 @@ fields:
   - gallery-list
   - recent-list
   - hp-main-goals
+  - article-partners
 pages:
 - _about/contact.md
 - _about/about.md
