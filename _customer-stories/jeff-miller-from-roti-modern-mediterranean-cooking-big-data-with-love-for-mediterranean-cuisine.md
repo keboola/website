@@ -9,9 +9,9 @@ background-image: "/uploads/JAM Headshot.JPG"
 ---
 ### Don‘t let the "fast casual" label fool you. Roti‘s purpose is to serve Food that Loves You Back. They encourage you to completely personalise your meal from a choice of fresh, wholesome ingredients and serve it just the way you like it. What‘s more, to stay ahead of the competition, Roti became a data oriented company, data driven if you want. Having their decisions rooted in data has helped them to thrive in the quickly growing and changing hospitality environment.
 
-[![](/uploads/rollover-food2.jpg)](https://roti.com/)
-
 _Roti is the proof that restaurants can use insight and technology to make their customers happier. With the help of Keboola, they are able to ask questions, analyze customer preferences, and get a competitive advantage against other restaurant chains. To find out why they chose Keboola and how they use its tools, we turned to Jeff Miller, VP of Technology at Roti._
+
+[![](/uploads/rollover-food2.jpg)](https://roti.com/)
 
 _Jeff has a long history of combining his passion for technology and innovation at the intersection of customer experience and business. Before Roti, he was Director of Technology Innovation & Seed Stores at McDonald’s. He takes relevant technology innovations and applies them in the food industry. For him, it is the new normal._
 
