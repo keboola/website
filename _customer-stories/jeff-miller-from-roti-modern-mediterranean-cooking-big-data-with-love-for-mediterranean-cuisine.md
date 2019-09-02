@@ -1,10 +1,9 @@
 ---
 layout: post-case-study
-title: " Jeff Miller from Roti Modern Mediterranean: Cooking big data with love for
-  Mediterranean cuisine"
-date: 2019-04-18 00:00:00 +0200
+title: Cooking big data with love for Mediterranean cuisine
+date: 2019-04-17T22:00:00.000+00:00
 author: JIRI VICHEREK
-logo: "/uploads/footer-roti-registered.png"
+logo: "/uploads/rotiLogoResource.jpg"
 background-image: "/uploads/JAM Headshot.JPG"
 
 ---
