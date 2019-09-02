@@ -35,8 +35,8 @@ page_sections:
 - template: article-partners
   block: article-partners
   headline: Solution Partners
-  content: We work with trusted consultants and solution partners to streamline and
-    maximize your data stack.
+  content: We work with trusted consultants and solution partners who have innovation
+    at their core so our customers can maximize business intelligence and analytics.
   blue-background: false
   list:
   - name: decisiveData
