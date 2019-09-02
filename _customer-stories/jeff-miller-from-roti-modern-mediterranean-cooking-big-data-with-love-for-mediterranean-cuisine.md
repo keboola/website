@@ -31,7 +31,7 @@ At the very beginning, we needed to capture customers‘ feedback and put it all
 
 To compete these days, we don‘t want to just analyze and react. We need to anticipate and act. Keboola as a data hub has accelerated us closer to our future vision. I’ve got data that is stuck in artificial silos, and I need to create insights that my business partners are asking for at the senior leader level. We needed to go from nothing to something really quickly. Our previous data management sounds like from a different world today – Excel and email.
 
-> [![](/uploads/podcast_quote_2.png)](https://directory.libsyn.com/episode/index/show/dataheroes/id/7559798 "DataHeroes: Jeff Miller (Roti) - Using Technology For Connecting With Customers And Running Great Restaurants")
+[![](/uploads/podcast_quote_2.png)](https://directory.libsyn.com/episode/index/show/dataheroes/id/7559798 "DataHeroes: Jeff Miller (Roti) - Using Technology For Connecting With Customers And Running Great Restaurants")
 
 **You combine Keboola with Looker. What are the major benefits of using the Keboola/Looker stack?**
 
