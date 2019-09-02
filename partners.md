@@ -12,8 +12,8 @@ page_sections:
 - template: article-partners
   block: article-partners
   headline: Technology Partners
-  content: We work with a variety of trusted data warehouses, business intelligence
-    providers and more so our customers can create their perfect data stack.
+  content: We work with industry leading data warehouses, business intelligence providers
+    and more so our customers can build their seamless, all-in-one data stack.
   blue-background: true
   list:
   - name: snowflake
