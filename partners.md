@@ -6,8 +6,9 @@ page_sections:
   block: header-blue
   subheadline: ''
   headline: Partners
-  content: Keboola partners are an extension of our team to help you build your complete
-    data stack and connect with business insights that matter.
+  content: Keboola partners are an extension of our team. We work with the best technology
+    and solution partners that believe in the transforming power of data that is accessible,
+    secure, and actionable to all users.
 - template: article-partners
   block: article-partners
   headline: Technology Partners
