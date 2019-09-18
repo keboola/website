@@ -102,6 +102,14 @@ page_sections:
     desc: Keboola Connection allowed us to start super quickly building our analytics
       offering and focus on our strengths rather than building the underlying data
       processing infrastructure from scratch.
+- template: ask-demo
+  block: ask-demo
+  ctalink: https://keboola.drift.click/88e6ae2f-18d0-4872-9250-183cbe01eba8
+  ctaname: Talk to a Data Expert
+  subheadline: ''
+  headline: ''
+  content: ''
+  newwindow: false
 - template: article-list-one-row
   block: article-list-one-row
   list:
