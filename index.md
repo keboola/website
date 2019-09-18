@@ -113,7 +113,7 @@ page_sections:
       scale your business to the next level, Keboola’s all-in-one integrated platform
       will set you up for business growth.
   - link: ''
-    pictogram: ''
+    pictogram: "/uploads/box-left-item-2.svg"
     icotype: blueright
     title: Organizations ready to unlock data flow between business and IT to access
       insights in real time.
