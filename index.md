@@ -65,17 +65,17 @@ page_sections:
 - template: article-full
   block: article-full
   list:
-  - descleft: "&lt;strong&gt;All the tools you need in one place.&lt;/strong&gt; At
-      Keboola we have solved the procurement and administration nightmare that businesses
-      usually face when searching for and implementing new tools. Now you can get
-      instant access to dozens of your favorite data analytics tools, servers, and
-      data warehouses all in one place in our app store."
-    descright: "&lt;strong&gt;Collaboration breeds success.&lt;/strong&gt; Keboola
-      allows people to work together on the same code in the same pipeline. Your team
-      can build on top of each other’s successes in real-time. Since everything is
-      versioned, nothing gets lost. We also make integration easier by allowing your
-      tools to run in parallel, so each user has their own environment with access
-      to all the relevant data they need in just one click."
+  - descleft: "<strong>All the tools you need in one place. </strong>At Keboola we
+      have solved the procurement and administration nightmare that businesses usually
+      face when searching for and implementing new tools. Now you can get instant
+      access to dozens of your favorite data analytics tools, servers, and data warehouses
+      all in one place in our app store."
+    descright: "<strong>Collaboration breeds success.</strong> Keboola allows people
+      to work together on the same code in the same pipeline. Your team can build
+      on top of each other’s successes in real-time. Since everything is versioned,
+      nothing gets lost. We also make integration easier by allowing your tools to
+      run in parallel, so each user has their own environment with access to all the
+      relevant data they need in just one click."
   - descleft: ''
     descright: ''
   headline: How does it work?
