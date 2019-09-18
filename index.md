@@ -133,7 +133,7 @@ page_sections:
   content: ''
 - template: article-gray-box
   block: article-gray-box
-  img: "/uploads/boxFull.svg"
+  img: "/uploads/fullBoxPNG.png"
   headline: You are three steps away from your data goals
   content: Talk to an expert about your data vision and what you would like to do
     with data. Get a custom demo that walks you through how to solve your current
