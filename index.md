@@ -106,7 +106,7 @@ page_sections:
   block: article-list-one-row
   list:
   - link: ''
-    pictogram: ''
+    pictogram: "/uploads/box-left-item-1.svg"
     icotype: blue
     title: Companies just getting started on their data journey.
     desc: If you want to build a data driven team and data infrastructure that will
