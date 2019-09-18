@@ -60,15 +60,22 @@ page_sections:
     img: "/uploads/makro-logo.svg"
   top-margin: false
   subheadline: ''
-- template: article-with-perex
-  block: article-with-perex
-  headlinesmall: false
-  headline: 'How does it work? '
+- template: horizontal-rule
+  block: hr
+- template: article-full
+  block: article-full
+  list:
+  - descleft: ''
+    descright: ''
+  - descleft: ''
+    descright: ''
+  headline: How does it work?
   content: Whether you are a startup ready to build your data strategy, an organization
     that needs to unblock data to flow from IT to business, or a company ready to
     innovate and pilot your next big project, Keboola will get you where you want
     to go.
   subheadline: ''
+  nomarginbottom: false
 - template: review
   block: review
   list:
