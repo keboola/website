@@ -20,7 +20,7 @@ page_sections:
       and unlocks the value that is sitting within your systems in hours, not days.
   - link: ''
     icotype: yellowright
-    title: AUTOMATE HOW YOUR COMPANY'S WORK FLOWS
+    title: AUTOMATE HOW YOUR WORK FLOWS
     desc: We help you analyse your organisational work flows and automate manual tasks
       using Machine Learning, AI or 3rd party apps so your teams can focus on innovation.
   - link: ''
