@@ -28,14 +28,6 @@ page_sections:
     title: OUT-OF-THE-BOX ENTERPRISE GRADE SECURITY
     desc: The most regulated companies love our platform because we are obsessed with
       providing the highest security, governance and metadata with a full audit trail.
-- template: ask-demo
-  block: ask-demo
-  ctaname: Talk to a Data Expert
-  ctalink: https://keboola.drift.click/88e6ae2f-18d0-4872-9250-183cbe01eba8
-  subheadline: ''
-  headline: ''
-  content: ''
-  newwindow: true
 - template: article-list-img
   block: article-list-img
   headline: You are in great company.
@@ -60,8 +52,14 @@ page_sections:
     img: "/uploads/makro-logo.svg"
   top-margin: false
   subheadline: ''
-- template: horizontal-rule
-  block: hr
+- template: ask-demo
+  block: ask-demo
+  ctaname: Talk to a Data Expert
+  ctalink: https://keboola.drift.click/88e6ae2f-18d0-4872-9250-183cbe01eba8
+  subheadline: ''
+  headline: ''
+  content: ''
+  newwindow: true
 - template: article-full
   block: article-full
   list:
