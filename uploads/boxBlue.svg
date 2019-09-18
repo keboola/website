@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="148px" viewBox="0 0 116 148" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>box</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-12.0%" y="-24.0%" width="124.0%" height="148.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing" transform="translate(-282.000000, -4770.000000)">
+            <g id="Group-21" transform="translate(290.000000, 4616.000000)">
+                <g id="Group-20" transform="translate(0.000000, 154.000000)">
+                    <g id="box">
+                        <polygon id="Rectangle-11-Copy" fill="#E7F1F9" filter="url(#filter-1)" points="50 89.9047619 100 114.904762 50 139.904762 0 114.904762"></polygon>
+                        <polygon id="Rectangle-11" fill="#F2F8FC" points="50 11.3333333 100 36.3333333 50 125.619048 0 36.3333333"></polygon>
+                        <polygon id="Rectangle-11-Copy-4" fill="#228DFF" points="50.3333333 20 83.6666667 36.6666667 50.3333333 53.3333333 17 36.6666667"></polygon>
+                        <polygon id="Rectangle-11-Copy-5" fill="#51B1FE" points="50 10 83.3333333 26.6666667 50 43.3333333 16.6666667 26.6666667"></polygon>
+                        <polygon id="Rectangle-11-Copy-2" fill="#8BD3FF" points="50 0 83.3333333 16.6666667 50 33.3333333 16.6666667 16.6666667"></polygon>
+                        <polygon id="Rectangle-3" fill="#D9EAF7" points="0 36.3333333 50 61.3333333 50 125.619048 0 100.619048"></polygon>
+                        <polygon id="Rectangle-3-Copy-2" fill="#EAF5FD" transform="translate(75.000000, 80.976190) scale(-1, 1) translate(-75.000000, -80.976190) " points="50 36.3333333 100 61.3333333 100 125.619048 50 100.619048"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

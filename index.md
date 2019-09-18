@@ -4,50 +4,33 @@ title: Keboola – Let’s Dive into Data
 page_sections:
 - template: header-hp
   block: header-hp
-  headlineleft: and <strong>people</strong> to do their best work.
+  headlineleft: "</strong> to do their best work all in one place."
   headlineright: Keboola connects <strong>data</strong>, <strong>systems</strong>
-  headlineend: 'Keboola brings people together     <br> <strong>from Excel to AI</strong> with lightning speed. '
-- template: article-with-perex
-  block: article-with-perex
-  subheadline: THAT'S WHERE WE COME IN
-  headlinesmall: false
-  headline: Grow your business with precise data and  qualified decisions
-  content: Today's world is dominated by tech companies like Amazon, Google, and Facebook.
-    To succeed in the business world, you have to be faster, cheaper, and more precise
-    than the competition. If you could tap into knowledge waiting for you in your
-    data and use it effectively across departments  you could make better, more coordinated
-    decisions in a fraction of the time it used to take.
-- template: ask-demo
-  block: ask-demo
-  ctaname: Ask for a demo
-  ctalink: "/request-demo"
-  subheadline: ''
-  headline: ''
-  content: ''
-  newwindow: false
+    and <strong>people
+  headlineend: 'Keboola is a simple and scalable     all-in-one cloud </br> environment for your data needs.'
 - template: article-list-hp
   block: article-list-hp
-  subheadline: WE PROVIDE A CLOUD OPERATING SYSTEM FOR DATA ANALYTICS.
-  headline: 'Keboola is a simple and scalable     <br> all-in-one cloud environment.'
+  subheadline: ''
+  headline: ''
   list:
   - link: ''
     icotype: blue
-    title: INTEGRATION
-    desc: Get the data and the best tools to create ad-hoc analysis right in your
-      department to improve your decision making.
+    title: MAXIMIZE EXISTING INVESTEMENTS
+    desc: Our open architecture seamlessly plugs into your existing infrastructure
+      and unlocks the value that is sitting within your systems in hours, not days.
   - link: ''
     icotype: yellowright
-    title: ANALYTICS
-    desc: Get your personal sandbox, with scalable memory to run all of your models,
-      and deploy to production in just 1 click.
+    title: AUTOMATE HOW YOUR COMPANY'S WORK FLOWS
+    desc: We help you analyse your organisational work flows and automate manual tasks
+      using Machine Learning, AI or 3rd party apps so your teams can focus on innovation.
   - link: ''
     icotype: black
-    title: AUTOMATION
-    desc: Connect to any data right away. Create pipelines, automate, and share data
-      catalogs and tools for your teams across the company.
+    title: OUT-OF-THE-BOX ENTERPRISE GRADE SECURITY
+    desc: The most regulated companies love our platform because we are obsessed with
+      providing the highest security, governance and metadata with a full audit trail.
 - template: article-list-img
   block: article-list-img
-  headline: Keboola works with the world’s best!
+  headline: You are in great company.
   list:
   - img: "/uploads/goodyear_logo.svg"
     name: Goodyear
@@ -69,48 +52,35 @@ page_sections:
     img: "/uploads/makro-logo.svg"
   top-margin: false
   subheadline: ''
-- template: hp-main-goals
-  block: hp-main-goals
+- template: ask-demo
+  block: ask-demo
+  ctaname: Talk to a Data Expert
+  ctalink: https://keboola.drift.click/88e6ae2f-18d0-4872-9250-183cbe01eba8
+  subheadline: ''
+  headline: ''
+  content: ''
+  newwindow: true
+- template: article-full
+  block: article-full
   list:
-  - title: "All the tools you need \Lin one place"
-    desc: "<p>At Keboola, we have solved the procurement and administration nightmare
-      that businesses usually face when searching for and implementing new tools.
-      Now you can instantly get access to dozens of data analytics tools, and data
-      warehouses in one place. Your team will only be a click and a login away from
-      having everything they need available to them. You’ll have access to multiple
-      clouds dealing with everything from Excel to AI.</p>"
-    background: "/uploads/illu1.svg"
-    link: ''
-  - title: Comprehensive data infrastructure
-    desc: "<p>Keboola provides on-demand access to all the tools, servers, and data
-      warehouses you need to help your business succeed in a scalable environment.
-      We also make integration easier by allowing your tools to run in parallel, so
-      each user has their own environment with access to all the relevant data they
-      need in just one click. Keboola makes it easy for everyone in your company,
-      from a shop assistant to a CEO, to read, combine, and use data to improve their
-      effectiveness.</p>"
-    background: "/uploads/illu2.svg"
-    link: ''
-  - title: "Collaboration breeds \Lsuccess"
-    desc: "<p>Keboola allows people to work together on the same code in the same
-      pipeline. With our unique system, your team can build on top of each other’s
-      successes in real time. Since everything is versioned, nothing gets lost in
-      all the changes.</p>"
-    background: "/uploads/illu3.svg"
-    link: ''
-  - background: "/uploads/illu4.svg"
-    title: "Security means\L everything to us"
-    desc: "<p>Your data is valuable, so we guard it very carefully. All data is HIPAA-grade
-      secured, and we meticulously log all user actions for your complete peace of
-      mind.</p>"
-    link: ''
-  - title: "No more \Lvendor lock-in"
-    desc: "<p>We intentionally made Keboola completely transparent and open box so
-      you can improve and build on top of existing work. We’re so confident that you’ll
-      love Keboola that we give you the option to cancel anytime and take all your
-      data with you with just one click.</p>"
-    background: "/uploads/illu5.svg"
-    link: ''
+  - descleft: "<strong>All the tools you need in one place. </strong>At Keboola we
+      have solved the procurement and administration nightmare that businesses usually
+      face when searching for and implementing new tools. Now you can get instant
+      access to dozens of your favorite data analytics tools, servers, and data warehouses
+      all in one place in our app store."
+    descright: "<strong>Collaboration breeds success.</strong> Keboola allows people
+      to work together on the same code in the same pipeline. Your team can build
+      on top of each other’s successes in real-time. Since everything is versioned,
+      nothing gets lost. We also make integration easier by allowing your tools to
+      run in parallel, so each user has their own environment with access to all the
+      relevant data they need in just one click."
+  headline: How does it work?
+  content: Whether you are a startup ready to build your data strategy, an organization
+    that needs to unblock data to flow from IT to business, or a company ready to
+    innovate and pilot your next big project, Keboola will get you where you want
+    to go.
+  subheadline: ''
+  nomarginbottom: false
 - template: review
   block: review
   list:
@@ -132,8 +102,37 @@ page_sections:
     desc: Keboola Connection allowed us to start super quickly building our analytics
       offering and focus on our strengths rather than building the underlying data
       processing infrastructure from scratch.
+- template: article-list-one-row
+  block: article-list-one-row
+  list:
+  - link: ''
+    pictogram: "/uploads/box-left-item-1.svg"
+    icotype: blue
+    title: Companies just getting started on their data journey.
+    desc: If you want to build a data driven team and data infrastructure that will
+      scale your business to the next level, Keboola’s all-in-one integrated platform
+      will set you up for business growth.
+  - link: ''
+    pictogram: "/uploads/box-left-item-2.svg"
+    icotype: blueright
+    title: Organizations ready to unlock data flow between business and IT to access
+      insights in real time.
+    desc: If you want to unlock the value that is sitting in your existing data silos
+      and systems and scale it through your teams. Keboola’s flow automation will
+      get you there in days, not months.
+  - link: ''
+    pictogram: "/uploads/box-left-item-3.svg"
+    icotype: yellow
+    title: 'Corporations who are ready to innovate and pilot with their favorite apps
+      and brands. '
+    desc: If you have been wanting to pilot a project  but don’t want to build something
+      custom, our digital sandbox gives you the ability to innovate with data and
+      test your ideas in a secure environment.
+  subheadline: ''
+  headline: Who is Keboola for?
+  content: ''
 - template: recent-list
   block: recent-list
-  headline: Success Stories
+  headline: Customer Stories
 
 ---

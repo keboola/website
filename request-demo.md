@@ -1,12 +1,12 @@
 ---
 title: Request demo
 layout: contact-form
-date: 2018-12-10 20:31:23 +0000
+date: '2018-12-10T20:31:23.000+00:00'
 page_sections:
 - template: form
   block: form
   subheadline: Learn how to do it Keboola way!
-  headline: Request a Demo
+  headline: Get a free trial!
   formid: 00D1t000000uV6j
 - template: references
   block: references
