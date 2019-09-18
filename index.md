@@ -7,7 +7,8 @@ page_sections:
   headlineleft: "</strong> to do their best work all in one place."
   headlineright: Keboola connects <strong>data</strong>, <strong>systems</strong>
     and <strong>people
-  headlineend: 'Keboola brings people together     <br> <strong>from Excel to AI</strong> with lightning speed. '
+  headlineend: "Keboola is a simple and scalable\L all-in-one cloud environment for
+    your data needs."
 - template: article-list-hp
   block: article-list-hp
   subheadline: ''
