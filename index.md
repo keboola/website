@@ -115,9 +115,12 @@ page_sections:
       between business and IT to access insights in real time. '
   - link: ''
     pictogram: ''
-    icotype: ''
+    icotype: blueright
     title: ''
-    desc: ''
+    desc: 'If you want to unlock the value that is sitting in your existing data silos
+      and systems and scale it through your teams. Keboola’s flow automation will
+      get you there in days, not months. Corporations who are ready to innovate and
+      pilot with their favorite apps and brands. '
   - link: ''
     pictogram: ''
     icotype: ''
