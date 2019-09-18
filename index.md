@@ -12,7 +12,7 @@ page_sections:
 - template: article-list-hp
   block: article-list-hp
   subheadline: ''
-  headline: 'Keboola is a simple and scalable     <br> all-in-one cloud environment for your data needs.'
+  headline: ''
   list:
   - link: ''
     icotype: blue
