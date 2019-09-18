@@ -123,8 +123,11 @@ page_sections:
   - link: ''
     pictogram: ''
     icotype: ''
-    title: ''
-    desc: ''
+    title: 'Corporations who are ready to innovate and pilot with their favorite apps
+      and brands. '
+    desc: If you have been wanting to pilot a project  but don’t want to build something
+      custom, our digital sandbox gives you the ability to innovate with data and
+      test your ideas in a secure environment.
   subheadline: ''
   headline: Who is Keboola for?
   content: ''
