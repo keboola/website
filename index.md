@@ -8,24 +8,6 @@ page_sections:
   headlineright: Keboola connects <strong>data</strong>, <strong>systems</strong>
     and <strong>people
   headlineend: 'Keboola brings people together     <br> <strong>from Excel to AI</strong> with lightning speed. '
-- template: article-with-perex
-  block: article-with-perex
-  subheadline: THAT'S WHERE WE COME IN
-  headlinesmall: false
-  headline: Grow your business with precise data and  qualified decisions
-  content: Today's world is dominated by tech companies like Amazon, Google, and Facebook.
-    To succeed in the business world, you have to be faster, cheaper, and more precise
-    than the competition. If you could tap into knowledge waiting for you in your
-    data and use it effectively across departments  you could make better, more coordinated
-    decisions in a fraction of the time it used to take.
-- template: ask-demo
-  block: ask-demo
-  ctaname: Talk to a Data Expert
-  ctalink: https://keboola.drift.click/88e6ae2f-18d0-4872-9250-183cbe01eba8
-  subheadline: ''
-  headline: ''
-  content: ''
-  newwindow: true
 - template: article-list-hp
   block: article-list-hp
   subheadline: ''
@@ -46,6 +28,14 @@ page_sections:
     title: OUT-OF-THE-BOX ENTERPRISE GRADE SECURITY
     desc: The most regulated companies love our platform because we are obsessed with
       providing the highest security, governance and metadata with a full audit trail.
+- template: ask-demo
+  block: ask-demo
+  ctaname: Talk to a Data Expert
+  ctalink: https://keboola.drift.click/88e6ae2f-18d0-4872-9250-183cbe01eba8
+  subheadline: ''
+  headline: ''
+  content: ''
+  newwindow: true
 - template: article-list-img
   block: article-list-img
   headline: You are in great company.
