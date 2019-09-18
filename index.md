@@ -28,8 +28,8 @@ page_sections:
   newwindow: true
 - template: article-list-hp
   block: article-list-hp
-  subheadline: WE PROVIDE A CLOUD OPERATING SYSTEM FOR DATA ANALYTICS.
-  headline: 'Keboola is a simple and scalable     <br> all-in-one cloud environment.'
+  subheadline: ''
+  headline: 'Keboola is a simple and scalable     <br> all-in-one cloud environment for your data needs.'
   list:
   - link: ''
     icotype: blue
