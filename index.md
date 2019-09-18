@@ -121,7 +121,7 @@ page_sections:
       and systems and scale it through your teams. Keboola’s flow automation will
       get you there in days, not months.
   - link: ''
-    pictogram: ''
+    pictogram: "/uploads/boxBlue.svg"
     icotype: yellow
     title: 'Corporations who are ready to innovate and pilot with their favorite apps
       and brands. '
