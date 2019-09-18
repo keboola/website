@@ -43,9 +43,9 @@ page_sections:
       using Machine Learning, AI or 3rd party apps so your teams can focus on innovation.
   - link: ''
     icotype: black
-    title: AUTOMATION
-    desc: Connect to any data right away. Create pipelines, automate, and share data
-      catalogs and tools for your teams across the company.
+    title: OUT-OF-THE-BOX ENTERPRISE GRADE SECURITY
+    desc: The most regulated companies love our platform because we are obsessed with
+      providing the highest security, governance and metadata with a full audit trail.
 - template: article-list-img
   block: article-list-img
   headline: Keboola works with the world’s best!
