@@ -33,9 +33,9 @@ page_sections:
   list:
   - link: ''
     icotype: blue
-    title: INTEGRATION
-    desc: Get the data and the best tools to create ad-hoc analysis right in your
-      department to improve your decision making.
+    title: MAXIMIZE EXISTING INVESTEMENTS
+    desc: Our open architecture seamlessly plugs into your existing infrastructure
+      and unlocks the value that is sitting within your systems in hours, not days.
   - link: ''
     icotype: yellowright
     title: ANALYTICS
