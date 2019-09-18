@@ -28,6 +28,8 @@ page_sections:
     title: OUT-OF-THE-BOX ENTERPRISE GRADE SECURITY
     desc: The most regulated companies love our platform because we are obsessed with
       providing the highest security, governance and metadata with a full audit trail.
+- template: horizontal-rule
+  block: hr
 - template: article-list-img
   block: article-list-img
   headline: You are in great company.
