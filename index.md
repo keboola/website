@@ -5,8 +5,8 @@ page_sections:
 - template: header-hp
   block: header-hp
   headlineleft: "</strong> to do their best work all in one place."
-  headlineright: Keboola connects <strong>data</strong>, <strong>systems</strong>and
-    <strong>people
+  headlineright: Keboola connects <strong>data</strong>, <strong>systems</strong>
+    and <strong>people
   headlineend: 'Keboola brings people together     <br> <strong>from Excel to AI</strong> with lightning speed. '
 - template: article-with-perex
   block: article-with-perex
