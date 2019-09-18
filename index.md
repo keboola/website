@@ -125,8 +125,8 @@ page_sections:
     icotype: ''
     title: ''
     desc: ''
-  subheadline: Who is Keboola for?
-  headline: Companies just getting started on their data journey.
+  subheadline: ''
+  headline: Who is Keboola for?
   content: ''
 - template: recent-list
   block: recent-list
