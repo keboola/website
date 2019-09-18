@@ -60,48 +60,15 @@ page_sections:
     img: "/uploads/makro-logo.svg"
   top-margin: false
   subheadline: ''
-- template: hp-main-goals
-  block: hp-main-goals
-  list:
-  - title: "All the tools you need \Lin one place"
-    desc: "<p>At Keboola, we have solved the procurement and administration nightmare
-      that businesses usually face when searching for and implementing new tools.
-      Now you can instantly get access to dozens of data analytics tools, and data
-      warehouses in one place. Your team will only be a click and a login away from
-      having everything they need available to them. You’ll have access to multiple
-      clouds dealing with everything from Excel to AI.</p>"
-    background: "/uploads/illu1.svg"
-    link: ''
-  - title: Comprehensive data infrastructure
-    desc: "<p>Keboola provides on-demand access to all the tools, servers, and data
-      warehouses you need to help your business succeed in a scalable environment.
-      We also make integration easier by allowing your tools to run in parallel, so
-      each user has their own environment with access to all the relevant data they
-      need in just one click. Keboola makes it easy for everyone in your company,
-      from a shop assistant to a CEO, to read, combine, and use data to improve their
-      effectiveness.</p>"
-    background: "/uploads/illu2.svg"
-    link: ''
-  - title: "Collaboration breeds \Lsuccess"
-    desc: "<p>Keboola allows people to work together on the same code in the same
-      pipeline. With our unique system, your team can build on top of each other’s
-      successes in real time. Since everything is versioned, nothing gets lost in
-      all the changes.</p>"
-    background: "/uploads/illu3.svg"
-    link: ''
-  - background: "/uploads/illu4.svg"
-    title: "Security means\L everything to us"
-    desc: "<p>Your data is valuable, so we guard it very carefully. All data is HIPAA-grade
-      secured, and we meticulously log all user actions for your complete peace of
-      mind.</p>"
-    link: ''
-  - title: "No more \Lvendor lock-in"
-    desc: "<p>We intentionally made Keboola completely transparent and open box so
-      you can improve and build on top of existing work. We’re so confident that you’ll
-      love Keboola that we give you the option to cancel anytime and take all your
-      data with you with just one click.</p>"
-    background: "/uploads/illu5.svg"
-    link: ''
+- template: article-with-perex
+  block: article-with-perex
+  headlinesmall: false
+  headline: 'How does it work? '
+  content: Whether you are a startup ready to build your data strategy, an organization
+    that needs to unblock data to flow from IT to business, or a company ready to
+    innovate and pilot your next big project, Keboola will get you where you want
+    to go.
+  subheadline: ''
 - template: review
   block: review
   list:
