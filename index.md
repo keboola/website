@@ -122,7 +122,7 @@ page_sections:
       get you there in days, not months.
   - link: ''
     pictogram: ''
-    icotype: ''
+    icotype: yellow
     title: 'Corporations who are ready to innovate and pilot with their favorite apps
       and brands. '
     desc: If you have been wanting to pilot a project  but don’t want to build something
