@@ -74,8 +74,6 @@ page_sections:
       nothing gets lost. We also make integration easier by allowing your tools to
       run in parallel, so each user has their own environment with access to all the
       relevant data they need in just one click."
-  - descleft: ''
-    descright: ''
   headline: How does it work?
   content: Whether you are a startup ready to build your data strategy, an organization
     that needs to unblock data to flow from IT to business, or a company ready to
