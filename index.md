@@ -135,10 +135,9 @@ page_sections:
   block: article-gray-box
   img: "/uploads/boxFull.svg"
   headline: You are three steps away from your data goals
-  content: |-
-    Talk to an expert about your data vision and what you would like to do with data.
-    Get a custom demo that walks you through how to solve your current need.
-    Unlock innovation within your organization.
+  content: Talk to an expert about your data vision and what you would like to do
+    with data. Get a custom demo that walks you through how to solve your current
+    need. Unlock innovation within your organisation.
   ctaname: Talk to a data expert now!
   ctalink: https://keboola.drift.click/88e6ae2f-18d0-4872-9250-183cbe01eba8
   subheadline: ''
