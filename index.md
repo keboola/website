@@ -38,9 +38,9 @@ page_sections:
       and unlocks the value that is sitting within your systems in hours, not days.
   - link: ''
     icotype: yellowright
-    title: ANALYTICS
-    desc: Get your personal sandbox, with scalable memory to run all of your models,
-      and deploy to production in just 1 click.
+    title: AUTOMATE HOW YOUR WORK FLOWS
+    desc: We help you analyse your organisational work flows and automate manual tasks
+      using Machine Learning, AI or 3rd party apps so your teams can focus on innovation.
   - link: ''
     icotype: black
     title: AUTOMATION
