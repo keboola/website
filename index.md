@@ -48,7 +48,7 @@ page_sections:
       providing the highest security, governance and metadata with a full audit trail.
 - template: article-list-img
   block: article-list-img
-  headline: Keboola works with the world’s best!
+  headline: You are in great company.
   list:
   - img: "/uploads/goodyear_logo.svg"
     name: Goodyear
