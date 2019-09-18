@@ -106,6 +106,6 @@ page_sections:
       processing infrastructure from scratch.
 - template: recent-list
   block: recent-list
-  headline: Success Stories
+  headline: Customer Stories
 
 ---
