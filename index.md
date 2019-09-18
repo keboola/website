@@ -102,6 +102,30 @@ page_sections:
     desc: Keboola Connection allowed us to start super quickly building our analytics
       offering and focus on our strengths rather than building the underlying data
       processing infrastructure from scratch.
+- template: article-list-one-row
+  block: article-list-one-row
+  list:
+  - link: ''
+    pictogram: ''
+    icotype: blue
+    title: ''
+    desc: 'If you want to build a data driven team and data infrastructure that will
+      scale your business to the next level, Keboola’s all-in-one integrated platform
+      will set you up for business growth. Organisations ready to unlock data flow
+      between business and IT to access insights in real time. '
+  - link: ''
+    pictogram: ''
+    icotype: ''
+    title: ''
+    desc: ''
+  - link: ''
+    pictogram: ''
+    icotype: ''
+    title: ''
+    desc: ''
+  subheadline: Who is Keboola for?
+  headline: Companies just getting started on their data journey.
+  content: ''
 - template: recent-list
   block: recent-list
   headline: Customer Stories
