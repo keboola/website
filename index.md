@@ -116,11 +116,11 @@ page_sections:
   - link: ''
     pictogram: ''
     icotype: blueright
-    title: ''
-    desc: 'If you want to unlock the value that is sitting in your existing data silos
+    title: Organizations ready to unlock data flow between business and IT to access
+      insights in real time.
+    desc: If you want to unlock the value that is sitting in your existing data silos
       and systems and scale it through your teams. Keboola’s flow automation will
-      get you there in days, not months. Corporations who are ready to innovate and
-      pilot with their favorite apps and brands. '
+      get you there in days, not months.
   - link: ''
     pictogram: ''
     icotype: ''
