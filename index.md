@@ -108,11 +108,10 @@ page_sections:
   - link: ''
     pictogram: ''
     icotype: blue
-    title: ''
-    desc: 'If you want to build a data driven team and data infrastructure that will
+    title: Companies just getting started on their data journey.
+    desc: If you want to build a data driven team and data infrastructure that will
       scale your business to the next level, Keboola’s all-in-one integrated platform
-      will set you up for business growth. Organisations ready to unlock data flow
-      between business and IT to access insights in real time. '
+      will set you up for business growth.
   - link: ''
     pictogram: ''
     icotype: blueright
