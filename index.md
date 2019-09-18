@@ -20,12 +20,12 @@ page_sections:
     decisions in a fraction of the time it used to take.
 - template: ask-demo
   block: ask-demo
-  ctaname: Ask for a demo
-  ctalink: "/request-demo"
+  ctaname: Talk to a Data Expert
+  ctalink: https://keboola.drift.click/88e6ae2f-18d0-4872-9250-183cbe01eba8
   subheadline: ''
   headline: ''
   content: ''
-  newwindow: false
+  newwindow: true
 - template: article-list-hp
   block: article-list-hp
   subheadline: WE PROVIDE A CLOUD OPERATING SYSTEM FOR DATA ANALYTICS.
