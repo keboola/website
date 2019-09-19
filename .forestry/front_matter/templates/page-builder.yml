@@ -50,6 +50,7 @@ fields:
   - article-partners
 pages:
 - index.md
+- _landing/how-to-win-data.md
 - partners.md
 - _about/contact.md
 - _about/about.md
@@ -62,7 +63,6 @@ pages:
 - _product/keboola-for-enterprise.md
 - _product/security.md
 - _product/pricing.md
-- _landing/how-to-win-data.md
 - _product/serverless-data-analytics.md
 - _platform/3rd-party-ai.md
 - _platform/programmable-data-platform.md

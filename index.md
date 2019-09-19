@@ -7,7 +7,7 @@ page_sections:
   headlineleft: "</strong> to do their best work all in one place."
   headlineright: Keboola connects <strong>data</strong>, <strong>systems</strong>
     and <strong>people
-  headlineend: 'Keboola is a simple and scalable     all-in-one</br>cloud environment for your data needs.'
+  headlineend: Keboola is a secure data innovation</br>platform for your data needs.
 - template: article-list-hp
   block: article-list-hp
   subheadline: ''
@@ -15,21 +15,19 @@ page_sections:
   list:
   - link: ''
     icotype: blue
-    title: MAXIMIZE EXISTING INVESTEMENTS
+    title: MAXIMIZE EXISTING INVESTMENTS
     desc: Our open architecture seamlessly plugs into your existing infrastructure
       and unlocks the value that is sitting within your systems in hours, not days.
   - link: ''
     icotype: yellowright
     title: AUTOMATE HOW YOUR WORK FLOWS
-    desc: We help you analyse your organisational work flows and automate manual tasks
+    desc: We help you analyze your organizational workflows and automate manual tasks
       using Machine Learning, AI or 3rd party apps so your teams can focus on innovation.
   - link: ''
     icotype: black
     title: OUT-OF-THE-BOX ENTERPRISE GRADE SECURITY
     desc: The most regulated companies love our platform because we are obsessed with
       providing the highest security, governance and metadata with a full audit trail.
-- template: horizontal-rule
-  block: hr
 - template: article-list-img
   block: article-list-img
   headline: You are in great company.
@@ -145,9 +143,9 @@ page_sections:
   block: article-gray-box
   img: "/uploads/boxFullBigger.png"
   headline: You are three steps away from your data goals
-  content: Talk to an expert about your data vision and what you would like to do
-    with data. Get a custom demo that walks you through how to solve your current
-    need. Unlock innovation within your organisation.
+  content: "Talk to an expert about your data vision and what you would like to do
+    with data. \nGet a custom demo that walks you through how to solve your current
+    need. Unlock innovation within your organization."
   ctaname: Talk to a data expert now!
   ctalink: https://keboola.drift.click/88e6ae2f-18d0-4872-9250-183cbe01eba8
   subheadline: ''
