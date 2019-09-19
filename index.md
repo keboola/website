@@ -7,7 +7,7 @@ page_sections:
   headlineleft: "</strong> to do their best work all in one place."
   headlineright: Keboola connects <strong>data</strong>, <strong>systems</strong>
     and <strong>people
-  headlineend: Keboola is a secure data innovation platform for your data needs.
+  headlineend: Keboola is a secure data innovation</br>platform for your data needs.
 - template: article-list-hp
   block: article-list-hp
   subheadline: ''
@@ -28,8 +28,6 @@ page_sections:
     title: OUT-OF-THE-BOX ENTERPRISE GRADE SECURITY
     desc: The most regulated companies love our platform because we are obsessed with
       providing the highest security, governance and metadata with a full audit trail.
-- template: horizontal-rule
-  block: hr
 - template: article-list-img
   block: article-list-img
   headline: You are in great company.
