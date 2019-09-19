@@ -48,13 +48,16 @@ page_sections:
   list:
   - title: Get one platform for all needs on data journey
     img: "/uploads/lp1.svg"
+    yt_video: ''
   - title: Activate your business departments with data
     img: "/uploads/lp2.svg"
     yt_video: https://www.youtube.com/watch?v=9v--lgeAaEk
   - title: Automate actions and process based on data
     img: "/uploads/lp3.svg"
+    yt_video: ''
   - title: 'Connect the world best A.I. from our partners '
     img: "/uploads/lp4.svg"
+    yt_video: ''
 - template: ask-demo
   block: ask-demo
   ctaname: Get price quote
@@ -65,6 +68,7 @@ page_sections:
     get results within 3 months, you will get Keboola for free</strong>.
   ctalink: https://calendly.com/jeffrycape/30min
   newwindow: true
+  subheadline: ''
 - template: quote-long
   block: quote-long
   author: Jeff Miller, CTO Roti
@@ -94,6 +98,7 @@ page_sections:
   block: quote-long
   author: Tomas Cupr, CEO Rohlik
   youtubeid: 9v--lgeAaEk
+  desc: ''
 - template: article-list-table
   block: article-list-table
   tablehead:
@@ -106,7 +111,7 @@ page_sections:
     name: Connecting data sources
   - name: Team size
     valueold: 10+
-    valuenew: '1'
+    valuenew: "1"
   - name: Cost
     valueold: "$$$"
     valuenew: "$"
@@ -128,6 +133,8 @@ page_sections:
       focusing on strategic parts of the business. We now provide scalable platform
       and bigger business value.”"
     img: "/uploads/feature-list-img.png"
+    author: ''
+    img-left: false
   - title: "“Integrate with one click all of your key systems no matter if they are
       internal, Cloud or in your partners infrastructure. Integrate data, processes,
       people and machine learning models using Keboola’s One Digital Integration Hub”"
@@ -145,6 +152,7 @@ page_sections:
       in a given day! That is more than in all of the previous X years together!”"
     author: Michal - Chief of Risk Department HomeCredit VN
     img: "/uploads/feature-list-img.png"
+    img-left: false
   - title: Materialize and store all of the new data with Keboola’s auto storage
     desc: "“I’m always surprised by how smart Keboola’s data acquisition and warehousing
       is. Keboola automatically connects to source of data, stores the JSON file in
@@ -185,6 +193,7 @@ page_sections:
   ctaname: Choose the time slot
   ctalink: https://calendly.com/jeffrycape/30min
   newwindow: true
+  subheadline: ''
 - template: faq
   block: faq
   headline: Still have a questions?
@@ -210,6 +219,8 @@ page_sections:
   nomarginbottom: true
   subheadline: do it keboola way
   headline: The right people make anything possible
+  content: ''
+  list: []
 - template: article-about-founder
   block: article-about-founder
   list:
@@ -276,6 +287,7 @@ page_sections:
   - name: Martin
     position: Head of Customer Success
     photo: "/uploads/ddBVxSxm_400x400.jpg"
-date: 2019-02-05 09:38:34 +0000
+date: '2019-02-05T09:38:34.000+00:00'
+published: false
 
 ---

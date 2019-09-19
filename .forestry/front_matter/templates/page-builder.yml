@@ -49,6 +49,7 @@ fields:
   - hp-main-goals
   - article-partners
 pages:
+- _landing/how-to-win-data.md
 - index.md
 - partners.md
 - _about/contact.md
@@ -62,7 +63,6 @@ pages:
 - _product/keboola-for-enterprise.md
 - _product/security.md
 - _product/pricing.md
-- _landing/how-to-win-data.md
 - _product/serverless-data-analytics.md
 - _platform/3rd-party-ai.md
 - _platform/programmable-data-platform.md
