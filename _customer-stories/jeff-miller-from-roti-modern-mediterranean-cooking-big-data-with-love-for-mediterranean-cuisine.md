@@ -7,7 +7,7 @@ logo: "/uploads/rotiLogoResource.jpg"
 background-image: "/uploads/JAM Headshot.JPG"
 
 ---
-From the outset, Roti’s goal as a company has been so much more than being another “fast casual” food chain. Their mission statement - to serve food that “loves you back” - has been woven into nearly all aspects of how they service their customers. From highly customizable entree combinations to wholesomely sourced ingredients, Roti prides itself on being ahead of the curb. One of the less common ways they stay ahead of that curb is by being a data-oriented company behind the scenes. By following their data to drive their decision-making, Roti has been able to thrive in the fast-growing and often changing hospitality industry.
+From the outset, Roti’s goal as a company has been so much more than being another “fast casual” food chain. Their mission statement - to serve food that “loves you back” - has been woven into nearly all aspects of how they service their customers. From highly customizable entree combinations to wholesomely sourced ingredients, Roti prides itself on being ahead of the curve. One of the less common ways they stay ahead of that curve is by being a data-oriented company behind the scenes. By following their data to drive their decision-making, Roti has been able to thrive in the fast-growing and often changing hospitality industry.
 
 [![](/uploads/rollover-food2.jpg)](https://roti.com/)
 
@@ -23,12 +23,10 @@ With the old system, we were not able to identify the insights that were necessa
 
 Absolutely. Technology nowadays is really around the insights in the culture and the innovation that you can bring from a differentiation perspective, free from a brand. It’s definitely nothing like twenty years ago when you had only desktop support, broken networks, all the bits and bytes, etc. We are at a different level today.
 
-  
 **What was the original business objective of your cooperation with Keboola?**
 
 At the very beginning, we needed to capture customers‘ feedback and put it all into a single spot. Only this way can we understand how the feedback is influenced by location, people, and experience. Thanks to Keboola, we’ve got business insights. We enabled people to take that feedback from a corporate level and act upon it at the restaurant level.
 
-  
 **Nowadays you use Keboola as a data hub for all your data. Why did you decide to do so? Can you describe what data management looked like at Roti before you started using Keboola?**
 
 To compete these days, we don‘t want to just analyze and react. We need to anticipate and act. Keboola as a data hub has accelerated us closer to our future vision. I’ve got data that is stuck in artificial silos, and I need to create insights that my business partners are asking for at the senior leader level. We needed to go from nothing to something really quickly. Our previous data management sounds like from a different world today – Excel and email.
@@ -53,13 +51,10 @@ The plan is to build up our last year’s model “From Data to Insights”. Thi
 
 Machine learning and AI. The insights are kind of becoming the machine-driven part. A machine is getting smarter and smarter by listening and learning about how your restaurant is performing. It will eventually get smart enough to recognize that a restaurant in an urban area has different performance than a restaurant in a suburban area. And that’s the power that I see – the machine is always listening, learning and evolving.
 
-  
-**A Breakdown of Roti’s Wins With Keboola  
-**We at Keboola have been proud and excited to help Roti reach the next level in their mission - through the power of data. Since bringing Keboola on, we’ve helped Roti achieve the following:
+\**A Breakdown of Roti’s Wins With Keboola  
+\**We at Keboola have been proud and excited to help Roti reach the next level in their mission - through the power of data. Since bringing Keboola on, we’ve helped Roti achieve the following:
 
 * Shaving off nearly 4 hours of manual work per employee through automation.
-
-
 * Linking data insights with the Sales team for improved business relations.
 * Giving employees at the General Management level access to performance analytics on sales and labor.
 * Helped Roti customers connect with the brand digitally through feedback surveys, and quantified that feedback for analysis.
