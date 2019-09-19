@@ -7,7 +7,9 @@ logo: "/uploads/rotiLogoResource.jpg"
 background-image: "/uploads/JAM Headshot.JPG"
 
 ---
-##### From the outset, Roti’s goal as a company has been so much more than being another “fast casual” food chain. Their mission statement - to serve food that “loves you back” - has been woven into nearly all aspects of how they service their customers. From highly customizable entree combinations to wholesomely sourced ingredients, Roti prides itself on being ahead of the curve. One of the less common ways they stay ahead of that curve is by being a data-oriented company behind the scenes. By following their data to drive their decision-making, Roti has been able to thrive in the fast-growing and often changing hospitality industry.
+##### From the outset, Roti’s goal as a company has been so much more than being another “fast casual” food chain. Their mission statement - to serve food that “loves you back” - has been woven into nearly all aspects of how they service their customers. From highly customizable entree combinations to wholesomely sourced ingredients, Roti prides itself on being ahead of the curve.   
+  
+One of the less common ways they stay ahead of that curve is by being a data-oriented company behind the scenes. By following their data to drive their decision-making, Roti has been able to thrive in the fast-growing and often changing hospitality industry.
 
 [![](/uploads/rollover-food2.jpg)](https://roti.com/)
 
