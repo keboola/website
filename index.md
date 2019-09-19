@@ -7,7 +7,8 @@ page_sections:
   headlineleft: "</strong> to do their best work all in one place."
   headlineright: Keboola connects <strong>data</strong>, <strong>systems</strong>
     and <strong>people
-  headlineend: 'Keboola is a simple and scalable     all-in-one</br>cloud environment for your data needs.'
+  headlineend: Keboola is a simple and scalable data innovation platform for your
+    data needs.
 - template: article-list-hp
   block: article-list-hp
   subheadline: ''
