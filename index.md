@@ -21,7 +21,7 @@ page_sections:
   - link: ''
     icotype: yellowright
     title: AUTOMATE HOW YOUR WORK FLOWS
-    desc: We help you analyse your organisational work flows and automate manual tasks
+    desc: We help you analyze your organizational workflows and automate manual tasks
       using Machine Learning, AI or 3rd party apps so your teams can focus on innovation.
   - link: ''
     icotype: black
