@@ -2,7 +2,7 @@
 layout: post-case-study
 title: How Roti Reduced 4 Hours of Manual Work Per Employee with Automation.
 date: 2019-04-19 00:00:00 +0200
-author: Masha Reutovski
+author: 'Masha '
 logo: "/uploads/rotiLogoResource.jpg"
 background-image: "/uploads/JAM Headshot.JPG"
 
