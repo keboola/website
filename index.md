@@ -15,7 +15,7 @@ page_sections:
   list:
   - link: ''
     icotype: blue
-    title: MAXIMIZE EXISTING INVESTEMENTS
+    title: MAXIMIZE EXISTING INVESTMENTS
     desc: Our open architecture seamlessly plugs into your existing infrastructure
       and unlocks the value that is sitting within your systems in hours, not days.
   - link: ''
