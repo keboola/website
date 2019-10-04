@@ -9,6 +9,18 @@ page_sections:
   headline: "<strong>Data analytics stacks are always changing</strong>"
   headlinesecond: "<strong>Data analytics stacks can be easy</strong>"
   subheadlinesecond: End to end Solution
+- template: ask-demo
+  block: ask-demo
+  headline: Try Keboola free for 2 weeks
+  content: 'Get the power of the OneHub Automation under one roof. Comes with an easy
+    to follow interactive user guide. Go to<span class="Apple-converted-space"> </span><a
+    href="https://try.keboola.com/" title=""><span style="text-decoration: underline;">try.keboola.com</span></a><span
+    class="Apple-converted-space"> </span>and use the code "<strong>guide-mode</strong>"
+    to start your 2 weeks for free.'
+  ctalink: https://try.keboola.com
+  ctaname: Try Keboola for free
+  newwindow: true
+  subheadline: ''
 - template: article-full
   block: article-full
   subheadline: Keboola puts you in control of your data
@@ -95,18 +107,6 @@ page_sections:
   subheadline: ''
 - template: horizontal-rule
   block: hr
-- template: ask-demo
-  block: ask-demo
-  headline: Try Keboola free for 2 weeks
-  content: 'Get the power of the OneHub Automation under one roof. Comes with an easy
-    to follow interactive user guide. Go to<span class="Apple-converted-space"> </span><a
-    href="https://try.keboola.com/" title=""><span style="text-decoration: underline;">try.keboola.com</span></a><span
-    class="Apple-converted-space"> </span>and use the code "<strong>guide-mode</strong>"
-    to start your 2 weeks for free.'
-  ctalink: https://try.keboola.com
-  ctaname: Try Keboola for free
-  newwindow: true
-  subheadline: ''
 - template: article-full
   block: article-full
   subheadline: no more procurement nightmare
