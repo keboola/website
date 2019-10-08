@@ -129,14 +129,6 @@ page_sections:
   - name: Data Dog
     position: Such wow
     photo: "/uploads/doge-1.jpg"
-- template: ask-demo
-  block: ask-demo
-  headline: We appreciate the curious and creative!
-  ctaname: See open positions in Keboola
-  ctalink: https://www.linkedin.com/jobs/search/?f_C=1833529&locationId=OTHERS.worldwide
-  newwindow: true
-  subheadline: ''
-  content: ''
 - template: article-download-list
   block: article-download-list
   list:
