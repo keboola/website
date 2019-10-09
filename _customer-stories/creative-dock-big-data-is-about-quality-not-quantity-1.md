@@ -1,5 +1,5 @@
 ---
-title: 'Ivanhoé Cambridge: Focus on being innovative and not worry about our toolset '
+title: 'Ivanhoé Cambridge: Focus on being innovative and do not worry about your toolset '
 layout: post-case-study
 date: 2018-11-29T10:50:46.000+00:00
 author: Jiri Vicherek

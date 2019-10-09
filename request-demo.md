@@ -6,7 +6,7 @@ page_sections:
 - template: form
   block: form
   subheadline: Learn how to do it Keboola way!
-  headline: Get a free trial!
+  headline: ''
   formid: 00D1t000000uV6j
 - template: references
   block: references
