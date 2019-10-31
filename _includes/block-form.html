@@ -5,12 +5,19 @@
 	{% if section.headline != "" and section.headline != nil %}
 		<h1 class="h1-middle">{{ section.headline }}</h1>
 	{% endif %}
+
+	<script src="https://www.google.com/recaptcha/api.js"></script>
+	<script>
+	 function timestamp() { var response = document.getElementById("g-recaptcha-response"); if (response == null || response.value.trim() == "") {var elems = JSON.parse(document.getElementsByName("captcha_settings")[0].value);elems["ts"] = JSON.stringify(new Date().getTime());document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems); } } setInterval(timestamp, 500);
+	</script>
+
 	<div class="form">
 		<form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
 			<input type=hidden name="oid" value="{{ section.formid }}">
 			<input type=hidden name="retURL" value="https://www.keboola.com/success">
 			<input type=hidden name="00N1t00000Kk7PL" value="{{ page.url | replace: "/", "" }}">
 			<input type=hidden name="lead_source" value="Inbound">
+			<input type=hidden name='captcha_settings' value='{"keyname":"keboolacom","fallback":"true","orgId":"00D1t000000uV6j","ts":""}'>
 
 			<div class="form-columns-2">
 				<div class="hs-form-field">
