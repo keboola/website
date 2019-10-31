@@ -6,11 +6,6 @@
 		<h1 class="h1-middle">{{ section.headline }}</h1>
 	{% endif %}
 
-	<script src="https://www.google.com/recaptcha/api.js"></script>
-	<script>
-	 function timestamp() { var response = document.getElementById("g-recaptcha-response"); if (response == null || response.value.trim() == "") {var elems = JSON.parse(document.getElementsByName("captcha_settings")[0].value);elems["ts"] = JSON.stringify(new Date().getTime());document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems); } } setInterval(timestamp, 500);
-	</script>
-
 	<div class="form">
 		<form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
 			<input type=hidden name="oid" value="{{ section.formid }}">
@@ -309,10 +304,10 @@
 				<div class="actions"><input type="submit" name="submit" value="Send to Keboola"></div>
 			</div>
 			-->
-			<div class="hs-submit"><div class="actions">
+
 				<div class="g-recaptcha" data-sitekey="6Lf5BsAUAAAAANe7O04MtL7-F_w0gSX2Iy4Jt6Ia"></div><br>
 				<input type="submit" name="submit">
-			</div></div>
+
 
 		</form>
 	</div>
