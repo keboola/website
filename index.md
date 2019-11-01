@@ -42,8 +42,6 @@ page_sections:
     name: Bata
   - name: Zendesk
     img: "/uploads/zendesk-logo-1.svg"
-  - name: avast
-    img: "/uploads/avastLogo.svg"
   - name: homeCredit
     img: "/uploads/homeCreditLogo.svg"
   - name: nivea
