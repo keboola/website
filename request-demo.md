@@ -5,7 +5,7 @@ date: '2018-12-10T20:31:23.000+00:00'
 page_sections:
 - template: form
   block: form
-  subheadline: Learn how to do it Keboola way!
+  subheadline: Learn how to do it Keboola way
   headline: ''
   formid: 00D1t000000uV6j
 - template: references
