@@ -49,8 +49,8 @@ fields:
   - hp-main-goals
   - article-partners
 pages:
-- index.md
 - _about/about.md
+- index.md
 - _product/product.md
 - _landing/how-to-win-data.md
 - partners.md
