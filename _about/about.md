@@ -102,9 +102,6 @@ page_sections:
   - name: Ondrej
     position: Data Scientist
     photo: "/uploads/1*jBa92FLPeWL9AqV672m1Vw.jpeg"
-  - name: Leonard
-    position: Account Executive
-    photo: "/uploads/ihfpjqzags88p0uiyv7k_400x400.jpeg"
   - name: Martin
     position: Head of Professional Services
     photo: "/uploads/fisa-1.jpg"

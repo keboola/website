@@ -12,8 +12,8 @@ page_sections:
 - template: article-partners
   block: article-partners
   headline: Technology Partners
-  content: We work with industry leading data warehouses, business intelligence providers
-    and more so our customers can build their seamless, all-in-one data stack.
+  content: We work with a variety of trusted data warehouses, business intelligence
+    providers and more so our customers can create their perfect data stack.
   blue-background: true
   list:
   - name: snowflake
@@ -35,8 +35,8 @@ page_sections:
 - template: article-partners
   block: article-partners
   headline: Solution Partners
-  content: We work with trusted consultants and solution partners who have innovation
-    at their core so our customers can maximize business intelligence and analytics.
+  content: Work with trusted consultants and solution partners to streamline and maximize
+    your data stack.
   blue-background: false
   list:
   - name: decisiveData
