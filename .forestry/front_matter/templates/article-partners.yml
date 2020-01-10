@@ -55,14 +55,14 @@ fields:
     label: type
   - name: country
     type: select
-    default: []
+    default: ''
     config:
       required: false
       options:
-      - United States
-      - Czech republic
-      - Canada
-      - United Kingdom
+      - Global
+      - Europe
+      - Australia
+      - North America
       source:
         type: simple
         section: 
