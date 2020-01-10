@@ -6,7 +6,7 @@ permalink: :title
 future: true
 highlighter: true
 include: ['_redirects']
-exclude: ['Rakefile.rb', 'CNAME', 'README.md', 'config.codekit3', 'Gemfile*', 'less', 'js/global.js', 'css/vidyard.css', 'vidyard.html']
+exclude: ['Rakefile.rb', 'CNAME', 'README.md', 'config.codekit3', 'Gemfile*', 'less', 'js/global.js', 'css/vidyard.css', 'vidyard.html', 'package.json', 'docker-compose.yml']
 plugins:
   - jekyll-sitemap
   - jekyll-paginate-v2

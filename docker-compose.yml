@@ -1,0 +1,36 @@
+version: "3.6"
+
+services:
+  web:
+    image: jekyll/jekyll:4.0
+    volumes:
+      - ./:/srv/jekyll
+    ports:
+      - "127.0.0.1:4000:4004"
+    command: jekyll build
+
+  local:
+    image: jekyll/jekyll:4.0
+    volumes:
+      - ./:/srv/jekyll
+    ports:
+      - "127.0.0.1:4000:4004"
+    command: jekyll serve --watch
+
+  update:
+    image: jekyll/jekyll:4.0
+    volumes:
+      - ./:/srv/jekyll
+    command: bundle update
+
+  less:
+    image: appleboy/node-less
+    volumes:
+      - ./:/app
+    command: ["--plugin=less-plugin-clean-css", "less/style.less", "css/style.css"]
+
+  uglifyjs:
+    image: smithmicro/uglifyjs
+    volumes:
+      - ./:/file
+    command: "--compress --mangle -o /file/js/global.min.js /file/js/global.js"
