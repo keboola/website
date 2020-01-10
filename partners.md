@@ -74,18 +74,22 @@ page_sections:
       to transform their decision-making cultures. '
 - template: article-partners
   block: article-partners
-  headline: Solution Partners
+  headline: Consulting Partners
   content: Work with trusted consultants and solution partners to streamline and maximize
     your data stack.
   blue-background: false
   list:
   - name: decisiveData
     photo: "/uploads/decesiveData.png"
-    type: ''
-    country: ''
-    url: ''
-    tag: ''
-    desc: ''
+    type: all
+    country: United States
+    url: www.artplusdata.com
+    tag: Tableau
+    desc: Decisive Data helps organizations leverage everything Tableau has to offer.
+      Through their Art + Data design methodology, learn to facilitate cross-team
+      dashboard planning and empower analysts to build better dashboards faster. Reach
+      out to Decisive Data to learn more about Art + Data and the benefits it can
+      bring to your organization.
   - name: das42
     photo: "/uploads/das42.png"
     type: ''
