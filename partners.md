@@ -140,11 +140,14 @@ page_sections:
       can help you start transforming your data assets into actionable insights, today. '
   - name: revoltBI
     photo: "/uploads/revoltBI.png"
-    type: ''
-    country: ''
-    url: ''
-    tag: ''
-    desc: ''
+    type: premium
+    country: Czech republic
+    url: www.revolt.bi/en
+    tag: Tableau
+    desc: Revolt BI is a consulting agency that will help you to implement Keboola
+      to its full power. Revolt BI can help you with a whole range of services like
+      data integration, reporting in various tools like Tableau or Power BI and applying
+      Data Science to your business.
   - name: bytecodeIO
     photo: "/uploads/bytecodeIO.png"
     type: ''
