@@ -123,9 +123,9 @@ page_sections:
       principle is to help our clients move up the chain of analytic maturity.
   - name: bizztreat
     photo: "/uploads/bizztreat.png"
-    type: ''
-    country: ''
-    url: ''
+    type: premium
+    country: Czech republic
+    url: https://www.bizztreat.com/
     tag: ''
     desc: ''
   - name: billigence
