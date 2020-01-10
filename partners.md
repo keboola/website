@@ -113,11 +113,14 @@ page_sections:
       insights with visualization.
   - name: 4mile
     photo: "/uploads/4mile.png"
-    type: ''
-    country: ''
-    url: ''
-    tag: ''
-    desc: ''
+    type: premium
+    country: United States
+    url: https://4mile.io
+    tag: Snowflake
+    desc: 4 Mile Analytics is a full-service consultancy with expertise in strategy,
+      data analytics, data engineering, and software development. We believe in the
+      power of data to form compelling narratives that drive innovation. Our guiding
+      principle is to help our clients move up the chain of analytic maturity.
   - name: bizztreat
     photo: "/uploads/bizztreat.png"
     type: ''
