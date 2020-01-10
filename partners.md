@@ -102,9 +102,9 @@ page_sections:
       faster.
   - name: interworks
     photo: "/uploads/interworks.png"
-    type: ''
-    country: ''
-    url: ''
+    type: all
+    country: United States
+    url: https://interworks.com/contact
     tag: ''
     desc: ''
   - name: 4mile
