@@ -79,6 +79,15 @@ fields:
     config:
       required: false
     label: tag
+  - name: desc
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: desc
   config:
     min: 
     max: 
