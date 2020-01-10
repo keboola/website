@@ -92,11 +92,14 @@ page_sections:
       bring to your organization.
   - name: das42
     photo: "/uploads/das42.png"
-    type: ''
-    country: ''
-    url: ''
-    tag: ''
-    desc: ''
+    type: all
+    country: United States
+    url: das42.com
+    tag: Looker
+    desc: DAS42 provides cloud-based data analytics consulting and professional services.
+      We help Fortune 500 companies access and understand all of their data, reduce
+      the time to actionable insights, and empower organizations to make better decisions
+      faster.
   - name: interworks
     photo: "/uploads/interworks.png"
     type: ''
