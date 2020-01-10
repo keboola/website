@@ -14,7 +14,7 @@ page_sections:
   headline: Technology Partners
   content: We work with a variety of trusted data warehouses, business intelligence
     providers and more so our customers can create their perfect data stack.
-  blue-background: false
+  blue-background: true
   list:
   - name: looker
     photo: "/uploads/looker.png"
