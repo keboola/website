@@ -40,11 +40,16 @@ page_sections:
       everywhere use Tableau to see and understand their data.
   - name: goodData
     photo: "/uploads/goodData.png"
-    type: ''
-    country: ''
-    url: ''
+    type: all
+    country: United States
+    url: www.gooddata.com?utm_source=keboola.com/partners&utm_medium=referral&utm_campaign=referral_logo_from_partners
     tag: ''
-    desc: ''
+    desc: GoodData is a data analytics platform-as-a-service that enables organizations
+      to deliver, evolve, and manage analytics for their customers, employees, partners,
+      franchises, and other members of their business network. It is designed to deliver
+      dashboards, self-service data exploration, and insights at the point of work—in
+      products, business applications, and workflows. The highly scalable nature of
+      this cloud-based platform ensures you won’t outgrow your analytics investments.
   - name: periscope
     photo: "/uploads/periscope.png"
     type: ''
