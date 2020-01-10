@@ -170,7 +170,7 @@ page_sections:
   - name: aLook
     photo: "/uploads/alook.png"
     type: all
-    country: United States
+    country: Global
     url: https://www.alookanalytics.com/
     tag: ''
     desc: aLook /eɪˈlʊk/ is a data science company formed by enthusiastic young yet
