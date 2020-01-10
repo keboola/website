@@ -60,29 +60,20 @@ page_sections:
       insights across the business. Our advanced analytics platform empowers data
       teams to ingest, store, and analyze data to uncover deeper insights then visualize
       their findings.
-  - name: chartio
-    photo: "/uploads/chartio.png"
-    type: ''
-    country: ''
+  - name: ThoughtSpot
+    photo: "/uploads/download.png"
+    type: all
+    country: United States
     url: ''
     tag: ''
-    desc: ''
+    desc: 'The world’s most innovative enterprises use ThoughtSpot to empower their
+      entire organization with data-driven insights with a natural language search
+      and AI. ThoughtSpot is simple enough for any business person to use, yet built
+      to handle even the largest, most complex enterprise data. Customers like Walmart,
+      7-11, BT, Daimler, Hulu, and Miami Children’s Health System have turned to ThoughtSpot
+      to transform their decision-making cultures. '
   - name: snowflake
     photo: "/uploads/snowflake.png"
-    type: ''
-    country: ''
-    url: ''
-    tag: ''
-    desc: ''
-  - name: aws
-    photo: "/uploads/aws.png"
-    type: ''
-    country: ''
-    url: ''
-    tag: ''
-    desc: ''
-  - name: mode
-    photo: "/uploads/mode.png"
     type: ''
     country: ''
     url: ''
