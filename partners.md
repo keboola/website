@@ -167,10 +167,12 @@ page_sections:
     desc: ''
   - name: aLook
     photo: "/uploads/alook.png"
-    type: ''
-    country: ''
-    url: ''
+    type: all
+    country: United States
+    url: https://www.alookanalytics.com/
     tag: ''
-    desc: ''
+    desc: aLook /eɪˈlʊk/ is a data science company formed by enthusiastic young yet
+      experienced professionals. We use our knowledge of modern analytical approaches
+      to increase performance of our clients'​ businesses.
 
 ---
