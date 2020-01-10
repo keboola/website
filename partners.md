@@ -9,6 +9,8 @@ page_sections:
   content: Keboola partners are an extension of our team. We work with the best technology
     and solution partners that believe in the transforming power of data that is accessible,
     secure, and actionable to all users.
+- template: article-partners-select
+  block: partners-select
 - template: article-partners
   block: article-partners
   headline: Technology Partners
