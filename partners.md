@@ -72,13 +72,6 @@ page_sections:
       to handle even the largest, most complex enterprise data. Customers like Walmart,
       7-11, BT, Daimler, Hulu, and Miami Children’s Health System have turned to ThoughtSpot
       to transform their decision-making cultures. '
-  - name: snowflake
-    photo: "/uploads/snowflake.png"
-    type: ''
-    country: ''
-    url: ''
-    tag: ''
-    desc: ''
 - template: article-partners
   block: article-partners
   headline: Solution Partners
