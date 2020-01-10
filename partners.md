@@ -179,10 +179,11 @@ page_sections:
 - template: ask-demo
   block: ask-demo
   subheadline: ''
-  headline: ''
-  content: ''
-  ctaname: ''
-  ctalink: ''
+  headline: Become a partner
+  content: At Keboola, we believe in finding the best technologies and consultants
+    to help our customers become more data-driven. Join their data journey with us.
+  ctaname: Contact Us
+  ctalink: https://www.keboola.com/contact/
   newwindow: false
 - template: recent-list
   block: recent-list
