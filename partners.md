@@ -130,11 +130,14 @@ page_sections:
     desc: ''
   - name: billigence
     photo: "/uploads/billigence.png"
-    type: ''
-    country: ''
-    url: ''
-    tag: ''
-    desc: ''
+    type: all
+    country: Czech republic
+    url: https://billigence.com/
+    tag: Tableau
+    desc: 'Billigence provides business intelligence solutions. With capabilities
+      in leading toolsets for visualization and predictive modelling, and also robust
+      practices in data quality assessment, governance and data consolidation, we
+      can help you start transforming your data assets into actionable insights, today. '
   - name: revoltBI
     photo: "/uploads/revoltBI.png"
     type: ''
