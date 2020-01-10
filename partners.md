@@ -30,7 +30,7 @@ page_sections:
   - name: tableau
     photo: "/uploads/tableau.png"
     type: all
-    country: United States
+    country: Global
     url: www.tableau.com
     tag: ''
     desc: Tableau helps people transform data into actionable insights. Explore with
@@ -41,7 +41,7 @@ page_sections:
   - name: goodData
     photo: "/uploads/goodData.png"
     type: all
-    country: United States
+    country: Global
     url: www.gooddata.com?utm_source=keboola.com/partners&utm_medium=referral&utm_campaign=referral_logo_from_partners
     tag: ''
     desc: GoodData is a data analytics platform-as-a-service that enables organizations
