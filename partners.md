@@ -114,7 +114,7 @@ page_sections:
   - name: 4mile
     photo: "/uploads/4mile.png"
     type: premium
-    country: United States
+    country: North America
     url: https://4mile.io
     tag: Snowflake
     desc: 4 Mile Analytics is a full-service consultancy with expertise in strategy,
