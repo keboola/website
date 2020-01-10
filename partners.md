@@ -29,11 +29,15 @@ page_sections:
       with Powered by Looker.
   - name: tableau
     photo: "/uploads/tableau.png"
-    type: ''
-    country: ''
-    url: ''
+    type: all
+    country: United States
+    url: www.tableau.com
     tag: ''
-    desc: ''
+    desc: Tableau helps people transform data into actionable insights. Explore with
+      limitless visual analytics. Build dashboards and perform ad hoc analyses in
+      just a few clicks. Share your work with anyone and make an impact on your business.
+      From global enterprises to early-stage startups and small businesses, people
+      everywhere use Tableau to see and understand their data.
   - name: goodData
     photo: "/uploads/goodData.png"
     type: ''
