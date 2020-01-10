@@ -39,6 +39,46 @@ fields:
     config:
       maxSize: 250
     label: photo
+  - name: type
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - premium
+      - all
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: type
+  - name: country
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - United States
+      - Czech republic
+      - Canada
+      - United Kingdom
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: country
+  - name: url
+    type: text
+    config:
+      required: false
+    label: url
+  - name: tag
+    type: text
+    config:
+      required: false
+    label: tag
   config:
     min: 
     max: 
