@@ -158,13 +158,15 @@ page_sections:
       best use of their data. We provide clients expertise in data and software engineering,
       data platform architecture and business intelligence implemented on the best
       cloud technologies in the market.
-  - name: BQ
+  - name: Bootiq.io
     photo: "/uploads/BQ.png"
-    type: ''
-    country: ''
-    url: ''
+    type: all
+    country: Czech republic
+    url: https://www.bootiq.io/
     tag: ''
-    desc: ''
+    desc: BOOT!Q is a recognized e-commerce and mobile app developer ready to deliver
+      full-scale ICT projects. With 170 professionals and 15 years on the market BOOT!Q
+      stands behind the success of our leading digital companies.
   - name: aLook
     photo: "/uploads/alook.png"
     type: all
