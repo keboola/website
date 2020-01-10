@@ -187,6 +187,6 @@ page_sections:
   newwindow: false
 - template: recent-list
   block: recent-list
-  headline: ''
+  headline: Articles from our Blog
 
 ---
