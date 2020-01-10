@@ -19,7 +19,7 @@ page_sections:
   - name: looker
     photo: "/uploads/looker.png"
     type: all
-    country: United States
+    country: Global
     url: https://looker.com?utm_campaign=70144000001IPzg&utm_term=Keboola&utm_source=Keboola&utm_medium=partner%20referral
     tag: ''
     desc: Looker is a platform for data that streamlines the data supply chain to
