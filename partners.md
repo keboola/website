@@ -82,7 +82,7 @@ page_sections:
   - name: decisiveData
     photo: "/uploads/decesiveData.png"
     type: all
-    country: United States
+    country: North America
     url: www.artplusdata.com
     tag: Tableau
     desc: Decisive Data helps organizations leverage everything Tableau has to offer.
