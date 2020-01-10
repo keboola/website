@@ -150,11 +150,14 @@ page_sections:
       Data Science to your business.
   - name: bytecodeIO
     photo: "/uploads/bytecodeIO.png"
-    type: ''
-    country: ''
-    url: ''
-    tag: ''
-    desc: ''
+    type: all
+    country: United States
+    url: https://bytecode.io/about-us/
+    tag: Looker
+    desc: Bytecode IO is a consulting company focused on helping businesses make the
+      best use of their data. We provide clients expertise in data and software engineering,
+      data platform architecture and business intelligence implemented on the best
+      cloud technologies in the market.
   - name: BQ
     photo: "/uploads/BQ.png"
     type: ''
