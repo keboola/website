@@ -105,8 +105,12 @@ page_sections:
     type: all
     country: United States
     url: https://interworks.com/contact
-    tag: ''
-    desc: ''
+    tag: Snowflake
+    desc: InterWorks is a people-focused tech consultancy delivering premier service
+      and expertise in collaboration with strategic partners. Our clients trust us
+      to guide them toward the best solutions to maximize their data. We empower people
+      at every step of the analytics experience, from management and storage to communicating
+      insights with visualization.
   - name: 4mile
     photo: "/uploads/4mile.png"
     type: ''
