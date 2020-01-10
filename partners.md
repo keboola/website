@@ -14,7 +14,7 @@ page_sections:
   headline: Technology Partners
   content: We work with a variety of trusted data warehouses, business intelligence
     providers and more so our customers can create their perfect data stack.
-  blue-background: true
+  blue-background: false
   list:
   - name: looker
     photo: "/uploads/looker.png"
@@ -77,7 +77,7 @@ page_sections:
   headline: Consulting Partners
   content: Work with trusted consultants and solution partners to streamline and maximize
     your data stack.
-  blue-background: false
+  blue-background: true
   list:
   - name: decisiveData
     photo: "/uploads/decesiveData.png"
