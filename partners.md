@@ -64,7 +64,7 @@ page_sections:
     photo: "/uploads/download.png"
     type: all
     country: United States
-    url: ''
+    url: www.thoughtspot.com
     tag: ''
     desc: 'The world’s most innovative enterprises use ThoughtSpot to empower their
       entire organization with data-driven insights with a natural language search
