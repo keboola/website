@@ -124,14 +124,14 @@ page_sections:
   - name: bizztreat
     photo: "/uploads/bizztreat.png"
     type: premium
-    country: Czech republic
+    country: Europe
     url: https://www.bizztreat.com/
     tag: ''
     desc: ''
   - name: billigence
     photo: "/uploads/billigence.png"
     type: all
-    country: Czech republic
+    country: Europe
     url: https://billigence.com/
     tag: Tableau
     desc: 'Billigence provides business intelligence solutions. With capabilities
