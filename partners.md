@@ -200,7 +200,7 @@ page_sections:
       experienced professionals. We use our knowledge of modern analytical approaches
       to increase performance of our clients'​ businesses.
   content: ''
-  blue-background: false
+  blue-background: true
 - template: ask-demo
   block: ask-demo
   subheadline: ''
