@@ -53,7 +53,7 @@ page_sections:
   - name: periscope
     photo: "/uploads/periscope.png"
     type: ''
-    country: ''
+    country: Global
     url: www.periscopedata.com
     tag: ''
     desc: Periscope Data by Sisense allows organizations to gain deeper, more actionable
@@ -63,7 +63,7 @@ page_sections:
   - name: ThoughtSpot
     photo: "/uploads/download.png"
     type: all
-    country: United States
+    country: Global
     url: www.thoughtspot.com
     tag: ''
     desc: 'The world’s most innovative enterprises use ThoughtSpot to empower their
