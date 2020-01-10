@@ -16,22 +16,66 @@ page_sections:
     providers and more so our customers can create their perfect data stack.
   blue-background: true
   list:
-  - name: snowflake
-    photo: "/uploads/snowflake.png"
   - name: looker
     photo: "/uploads/looker.png"
+    type: all
+    country: United States
+    url: https://looker.com?utm_campaign=70144000001IPzg&utm_term=Keboola&utm_source=Keboola&utm_medium=partner%20referral
+    tag: ''
+    desc: Looker is a platform for data that streamlines the data supply chain to
+      create actionable information. It allows any organization to extract value from
+      their data at web scale, delivers powerful purpose built applications to address
+      the needs of specific teams, and provides a flexible, embedded analytics framework
+      with Powered by Looker.
   - name: tableau
     photo: "/uploads/tableau.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
   - name: goodData
     photo: "/uploads/goodData.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
   - name: periscope
     photo: "/uploads/periscope.png"
-  - name: aws
-    photo: "/uploads/aws.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
   - name: chartio
     photo: "/uploads/chartio.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
+  - name: snowflake
+    photo: "/uploads/snowflake.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
+  - name: aws
+    photo: "/uploads/aws.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
   - name: mode
     photo: "/uploads/mode.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
 - template: article-partners
   block: article-partners
   headline: Solution Partners
@@ -41,23 +85,73 @@ page_sections:
   list:
   - name: decisiveData
     photo: "/uploads/decesiveData.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
   - name: das42
     photo: "/uploads/das42.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
   - name: interworks
     photo: "/uploads/interworks.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
   - name: 4mile
     photo: "/uploads/4mile.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
   - name: bizztreat
     photo: "/uploads/bizztreat.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
   - name: billigence
     photo: "/uploads/billigence.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
   - name: revoltBI
     photo: "/uploads/revoltBI.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
   - name: bytecodeIO
     photo: "/uploads/bytecodeIO.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
   - name: BQ
     photo: "/uploads/BQ.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
   - name: aLook
     photo: "/uploads/alook.png"
+    type: ''
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
 
 ---
