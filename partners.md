@@ -161,7 +161,7 @@ page_sections:
   - name: Bootiq.io
     photo: "/uploads/BQ.png"
     type: all
-    country: Czech republic
+    country: Europe
     url: https://www.bootiq.io/
     tag: ''
     desc: BOOT!Q is a recognized e-commerce and mobile app developer ready to deliver
