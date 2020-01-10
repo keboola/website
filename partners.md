@@ -176,6 +176,29 @@ page_sections:
     desc: aLook /eɪˈlʊk/ is a data science company formed by enthusiastic young yet
       experienced professionals. We use our knowledge of modern analytical approaches
       to increase performance of our clients'​ businesses.
+- template: article-partners
+  block: article-partners
+  headline: " App Developers"
+  list:
+  - name: Revolt.bi
+    photo: "/uploads/revoltBI.png"
+    country: Europe
+    url: www.revolt.bi/en
+    tag: Tableau
+    desc: Revolt BI is a consulting agency that will help you to implement Keboola
+      to its full power. Revolt BI can help you with a whole range of services like
+      data integration, reporting in various tools like Tableau or Power BI and applying
+      Data Science to your business.
+    type: premium
+  - name: ''
+    photo: ''
+    type: []
+    country: ''
+    url: ''
+    tag: ''
+    desc: ''
+  content: ''
+  blue-background: false
 - template: ask-demo
   block: ask-demo
   subheadline: ''
