@@ -141,7 +141,7 @@ page_sections:
   - name: revoltBI
     photo: "/uploads/revoltBI.png"
     type: premium
-    country: Czech republic
+    country: Europe
     url: www.revolt.bi/en
     tag: Tableau
     desc: Revolt BI is a consulting agency that will help you to implement Keboola
@@ -151,7 +151,7 @@ page_sections:
   - name: bytecodeIO
     photo: "/uploads/bytecodeIO.png"
     type: all
-    country: United States
+    country: North America
     url: https://bytecode.io/about-us/
     tag: Looker
     desc: Bytecode IO is a consulting company focused on helping businesses make the
