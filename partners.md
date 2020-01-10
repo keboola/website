@@ -54,9 +54,12 @@ page_sections:
     photo: "/uploads/periscope.png"
     type: ''
     country: ''
-    url: ''
+    url: www.periscopedata.com
     tag: ''
-    desc: ''
+    desc: Periscope Data by Sisense allows organizations to gain deeper, more actionable
+      insights across the business. Our advanced analytics platform empowers data
+      teams to ingest, store, and analyze data to uncover deeper insights then visualize
+      their findings.
   - name: chartio
     photo: "/uploads/chartio.png"
     type: ''
