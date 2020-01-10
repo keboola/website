@@ -93,7 +93,7 @@ page_sections:
   - name: das42
     photo: "/uploads/das42.png"
     type: all
-    country: United States
+    country: North America
     url: das42.com
     tag: Looker
     desc: DAS42 provides cloud-based data analytics consulting and professional services.
@@ -103,7 +103,7 @@ page_sections:
   - name: interworks
     photo: "/uploads/interworks.png"
     type: all
-    country: United States
+    country: Global
     url: https://interworks.com/contact
     tag: Snowflake
     desc: InterWorks is a people-focused tech consultancy delivering premier service
