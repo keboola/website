@@ -190,13 +190,15 @@ page_sections:
       data integration, reporting in various tools like Tableau or Power BI and applying
       Data Science to your business.
     type: premium
-  - name: ''
-    photo: ''
-    type: []
-    country: ''
-    url: ''
+  - name: Alook
+    photo: "/uploads/alook.png"
+    type: all
+    country: Global
+    url: https://www.alookanalytics.com/
     tag: ''
-    desc: ''
+    desc: aLook /eɪˈlʊk/ is a data science company formed by enthusiastic young yet
+      experienced professionals. We use our knowledge of modern analytical approaches
+      to increase performance of our clients'​ businesses.
   content: ''
   blue-background: false
 - template: ask-demo
