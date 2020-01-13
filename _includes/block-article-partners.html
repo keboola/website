@@ -8,9 +8,27 @@
 		</div>
 		<div class="article-partners-list"><ul>
 			{% for list in section.list %}
-				<li><div class="item-desc">
-					<img src="{{ list.photo }}" alt="{{ list.name }}">
-				</div></li>
+				<li data-type="{{ list.type }}" data-country="{{ list.country }}">
+					<div class="item-desc">
+						{% if list.type == 'premium' %}<div class="item-premium">{{ list.type }}</div>{% endif %}
+						<img src="{{ list.photo }}" alt="{{ list.name }}">
+
+						<div class="item-desc-detail">
+							<div class="item-desc-detail-head">
+								<div class="item-img"><img src="{{ list.photo }}" alt="{{ list.name }}"></div>
+								{% if list.type == 'premium' %}<div class="item-premium-detail">{{ list.type }}</div>{% endif %}
+							</div>
+							<div class="item-desc-content">
+								<p>{{ list.desc }}</p>
+							</div>
+							<div class="item-desc-detail-info">
+								<a href="{{ list.url }}" target="_blank" class="url"></a>
+								<span class="country" title="{{ list.country }}">{{ list.country }}</span>
+								{% if list.tag != "" and list.tag != nil %}<span class="tag">{{ list.tag }}</span>{% endif %}
+							</div>
+						</div>
+					</div>
+				</li>
 	        {% endfor %}
 		</ul></div>
 	</div>

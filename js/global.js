@@ -366,6 +366,67 @@
 
 
 
+        // PARTNERS
+        $('#partners-type').on('change', function() {
+            if (this.value == 'all') {
+                if ($('#partners-country').val() == 'all'){
+                    $('.article-partners-list li').removeClass('filter-type-hide');
+                } else{
+                    $('.article-partners-list li').addClass('filter-type-hide');
+                    $('.article-partners-list li[data-country="' + $('#partners-country').val() + '"]').removeClass('filter-type-hide');
+                }
+            } else {
+                if ($('#partners-country').val() == 'all'){
+                    $('.article-partners-list li').addClass('filter-type-hide');
+                    $('.article-partners-list li[data-type="premium"]').removeClass('filter-type-hide');
+                } else{
+                    $('.article-partners-list li').addClass('filter-type-hide');
+                    $('.article-partners-list li[data-type="premium"][data-country="' + $('#partners-country').val() + '"]').removeClass('filter-type-hide');
+                }
+            }
+            
+        });
+
+        $('#partners-country').on('change', function() {
+            if (this.value == 'all') {
+                if ($('#partners-type').val() == 'all'){
+                    $('.article-partners-list li').removeClass('filter-type-hide');
+                } else{
+                    $('.article-partners-list li').addClass('filter-type-hide');
+                    $('.article-partners-list li[data-type="premium"]').removeClass('filter-type-hide');
+                }
+            } else {
+                if ($('#partners-type').val() == 'all'){
+                    $('.article-partners-list li').addClass('filter-type-hide');
+                    $('.article-partners-list li[data-country="' + this.value + '"]').removeClass('filter-type-hide');
+                } else{
+                    $('.article-partners-list li').addClass('filter-type-hide');
+                    $('.article-partners-list li[data-type="premium"][data-country="' + this.value + '"]').removeClass('filter-type-hide');
+                }
+            }
+        });
+
+
+        // PARTNERS - DETAIL
+        $('.article-partners-list li').each(function(e){
+            var li = $(this);
+
+            li.find('.item-desc').on('click', function(e){
+
+                var item = $(this),
+                    el = item.parent();
+
+                if (el.hasClass('show')) {
+                    el.removeClass('show');
+                } else{
+                    $('.article-partners-list li.show').removeClass('show');
+                    el.addClass('show');
+                }
+            });
+        });
+
+
+
 
         // HOME
         if ($('.hp-home-header').length){
