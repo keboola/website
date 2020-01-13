@@ -44,6 +44,29 @@ page_sections:
     pictogram: "/uploads/box_pietro.svg"
     link: ''
   subheadline: ''
+- template: article-scaffolds-list
+  block: article-scaffolds-list
+  subheadline: Everyone’s Favorite Scaffolds
+  headline: In one-click, change the way you work
+  btnlink: https://try.keboola.com
+  btnname: Documentation
+  list:
+  - title: "Bitbucket Devops \Lto Snowflake"
+    desc: Bitbucket repositories analysis to track progress of your development and
+      activity of your team members. Includes output to Snowflake DWH.
+    ctaname: SEE SCAFFOLD
+    link: https://try.keboola.com
+    img: "/uploads/netflixLogo.png"
+  - title: ''
+    desc: ''
+    ctaname: ''
+    link: ''
+    img: ''
+  - title: ''
+    desc: ''
+    ctaname: ''
+    link: ''
+    img: ''
 - template: ask-demo
   block: ask-demo
   headline: Request a Scaffold
