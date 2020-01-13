@@ -1,4 +1,56 @@
 ---
 label: header-blue-img
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: header-blue-img
+- name: headline
+  type: text
+  config:
+    required: false
+  label: headline
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: content
+- name: ctaname
+  type: text
+  config:
+    required: false
+  label: ctaname
+- name: ctalink
+  type: text
+  config:
+    required: false
+  label: ctalink
+- name: ctamorename
+  type: text
+  config:
+    required: false
+  label: ctamorename
+- name: ctamorelink
+  type: text
+  config:
+    required: false
+  label: ctamorelink
+- name: img
+  type: file
+  config:
+    maxSize: 250
+  label: img
+- name: videoid
+  type: text
+  config:
+    required: false
+  label: videoid
+  description: 'pouze id, třeba: bG17UN-KWz8'
