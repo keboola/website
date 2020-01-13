@@ -45,6 +45,10 @@ page_sections:
   - photo: "/uploads/about-dog.jpg"
     link: ''
     video: false
+- template: img
+  block: img
+  title: title
+  img: "/uploads/screenshot.jpg"
 - template: ask-demo
   block: ask-demo
   headline: Try Keboola free for 2 weeks
