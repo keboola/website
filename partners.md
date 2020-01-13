@@ -141,7 +141,7 @@ page_sections:
       practices in data quality assessment, governance and data consolidation, we
       can help you start transforming your data assets into actionable insights, today. '
   - name: revoltBI
-    photo: "/uploads/revoltBI.png"
+    photo: "/uploads/revoltLogo.png"
     type: premium
     country: Europe
     url: www.revolt.bi/en
