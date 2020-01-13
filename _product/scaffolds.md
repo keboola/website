@@ -17,29 +17,33 @@ page_sections:
   videoid: bG17UN-KWz8
 - template: article-list-two-row
   block: article-list-two-row
-  headline: 
-  content: 
+  headline: ''
+  content: ''
   list:
   - icotype: blue
     title: Slevomat.cz
     desc: From company operations to data driven customer experience and marketing.
     pictogram: "/uploads/box_slevomat.svg"
+    link: ''
   - title: Lékárna.cz
     desc: '"From our daily operations to our marketing campaigns, we know how to grow
       again. We work in a transparent way that everyone respects and trusts."'
     icotype: blueright
     pictogram: "/uploads/box_lekarna.svg"
+    link: ''
   - icotype: yellow
     title: McPen
     desc: Each and every employee has the right information to behave effectively
       to earn more money.
     pictogram: "/uploads/box_mcpen.svg"
+    link: ''
   - title: Pietro Filipi
     icotype: black
     desc: Revenue reporting, inventory, NPS, logistics, and warehouse management within
       two weeks!
     pictogram: "/uploads/box_pietro.svg"
-  subheadline: 
+    link: ''
+  subheadline: ''
 - template: ask-demo
   block: ask-demo
   headline: Request a Scaffold
