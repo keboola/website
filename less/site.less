@@ -155,6 +155,15 @@ a:hover{
     .transition(all .2s ease-in-out);
   }
 }
+.btn-more-white{
+  .font-size(16, 60px);
+  color:@white;
+  letter-spacing:0.6px;
+
+  &:after{
+    background-image:url(../img/ico-arrow-right-white.svg);
+  }
+}
 
 .btn-submit,
 .btn-linkedin{
@@ -1945,6 +1954,56 @@ section{
     margin-top:-26px;
   }
 }*/
+
+
+// SECTION - HEADER - IMG (620x500px)
+// ---------
+.section-header-img{
+  .in{
+    padding-top:100px;
+    padding-bottom:140px;
+  }
+  .section-desc{
+    float:left;
+    width:100%;
+    max-width:580px;
+    text-align:left;
+  }
+  .section-img{
+    position:absolute;
+    right:0;
+    top:100px;
+    .size(620px, 500px);
+    .c;
+
+    img{
+      float:left;
+      .size(100%, auto);
+    }
+  }
+}
+.section-header-video{
+  margin-top:-150px;
+  .size(100%, auto);
+}
+.video-content{
+  margin:0 auto 0;
+  .size(100%, auto);
+  max-width:780px;
+
+  .video{
+    position:relative;
+    padding-bottom:56.25%;
+    .size(100%, auto);
+
+    iframe{
+      position:absolute;
+      left:0;
+      top:0;
+      .sq(100%);
+    }
+  }
+}
 
 
 // SECTION - HEADER - LEARNING
