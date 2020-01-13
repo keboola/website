@@ -82,6 +82,15 @@ page_sections:
     desc: 'Banana.bi is a business intelligence agency. We are BI tools specialists
       striving to make your business as "data-driven" as possible. '
     type: all
+  - name: Data Mind
+    photo: "/uploads/dataMind.png"
+    country: Europe
+    url: https://www.datamind.cz/en
+    tag: ''
+    desc: We teach data to make money. We empower you to understand your data and
+      customers. We make data science and marketing analytics to increase your profits.
+      We are the Data Mind.
+    type: all
 - template: article-partners
   block: article-partners
   headline: Consulting Partners
