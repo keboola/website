@@ -195,6 +195,16 @@ page_sections:
       customers. We make data science and marketing analytics to increase your profits.
       We are the Data Mind.
     type: all
+  - name: RedPill
+    photo: "/uploads/redPill.png"
+    country: North America
+    url: https://redpillanalytics.com/
+    tag: Looker
+    desc: Red Pill Analytics combines the best elements of cloud, agile development-as-a-service,
+      and continuous delivery to form a unique analytics services company. We continuously
+      evaluate, modernize, and automate to deliver a more valuable, less expensive
+      model.
+    type: all
 - template: article-partners
   block: article-partners
   headline: " App Developers"
