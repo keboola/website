@@ -3011,7 +3011,8 @@ section{
   .item-li-logo{
     padding:40px 0 20px 0;
 
-    .img{
+    .img,
+    .img-second{
       display:block;
       margin:0 0 35px 0;
       .sq(72px);
@@ -3020,6 +3021,19 @@ section{
 
       img{
         .sq(100%);
+      }
+    }
+    .img-second{
+      .size(100%, 40px);
+      .border-radius(0);
+      line-height:40px;
+
+      img{
+        display:inline-block;
+        .size(auto, auto);
+        max-width:100%;
+        max-height:40px;
+        vertical-align:middle;
       }
     }
     h2{

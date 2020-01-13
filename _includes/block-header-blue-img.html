@@ -9,6 +9,6 @@
 		<img src="{{ section.img }}" alt="">
 	</div>
 </div></article>
-{% if section.videoid != "" and section.videoid != nil %}<div class="section-header-video">
+{% if section.videoid != "" and section.videoid != nil %}<div class="section-header-video"><div class="in">
 	<div class="video-content"><div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ section.videoid }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
-</div>{% endif %}
+</div></div>{% endif %}
