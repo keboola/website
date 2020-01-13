@@ -161,7 +161,7 @@ page_sections:
       data platform architecture and business intelligence implemented on the best
       cloud technologies in the market.
   - name: Bootiq.io
-    photo: "/uploads/BQ.png"
+    photo: "/uploads/bootiq.png"
     type: all
     country: Europe
     url: https://www.bootiq.io/
