@@ -81,6 +81,14 @@ page_sections:
     your data stack.
   blue-background: true
   list:
+  - name: BananaBi
+    photo: "/uploads/bananaBI-1.png"
+    type: all
+    country: Europe
+    url: https://www.banana.bi/
+    tag: Tableau
+    desc: 'Banana.bi is a business intelligence agency. We are BI tools specialists
+      striving to make your business as "data-driven" as possible. '
   - name: decisiveData
     photo: "/uploads/decesiveData.png"
     type: all
