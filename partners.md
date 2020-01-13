@@ -81,14 +81,6 @@ page_sections:
     your data stack.
   blue-background: true
   list:
-  - name: BananaBi
-    photo: "/uploads/bananaBI-1.png"
-    type: all
-    country: Europe
-    url: https://www.banana.bi/
-    tag: Tableau
-    desc: 'Banana.bi is a business intelligence agency. We are BI tools specialists
-      striving to make your business as "data-driven" as possible. '
   - name: decisiveData
     photo: "/uploads/decesiveData.png"
     type: all
@@ -186,6 +178,23 @@ page_sections:
     desc: aLook /eɪˈlʊk/ is a data science company formed by enthusiastic young yet
       experienced professionals. We use our knowledge of modern analytical approaches
       to increase performance of our clients'​ businesses.
+  - name: BananaBi
+    photo: "/uploads/bananaBI-1.png"
+    type: all
+    country: Europe
+    url: https://www.banana.bi/
+    tag: Tableau
+    desc: 'Banana.bi is a business intelligence agency. We are BI tools specialists
+      striving to make your business as "data-driven" as possible. '
+  - name: Data Mind
+    photo: "/uploads/dataMind-1.png"
+    country: Europe
+    url: https://www.datamind.cz/en
+    tag: ''
+    desc: We teach data to make money. We empower you to understand your data and
+      customers. We make data science and marketing analytics to increase your profits.
+      We are the Data Mind.
+    type: all
 - template: article-partners
   block: article-partners
   headline: " App Developers"
