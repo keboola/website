@@ -49,6 +49,8 @@ fields:
   - hp-main-goals
   - article-partners
   - article-partners-select
+  - header-blue-img
+  - article-scaffolds-list
 pages:
 - _about/about.md
 - _about/contact.md
