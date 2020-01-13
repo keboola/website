@@ -1,0 +1,14 @@
+<article class="section-header section-header-img"><div class="in">
+	<div class="section-desc">
+		<h1 class="h1-head h1-white">{{ section.headline }}</h1>
+		<p class="p-head p-white">{{ section.content }}</p>
+		<a href="{{ section.ctalink }}" class="btn btn-big btn-white"><strong>{{ section.ctaname }}</strong></a>
+		<a href="{{ section.ctamorelink }}" class="btn btn-big btn-more btn-more-white">{{ section.ctamorename }}</a>
+	</div>
+	<div class="section-img">
+		<img src="{{ section.img }}" alt="">
+	</div>
+</div></article>
+{% if section.videoid != "" and section.videoid != nil %}<div class="section-header-video">
+	<div class="video-content"><div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ section.videoid }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
+</div>{% endif %}
