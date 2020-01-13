@@ -1,0 +1,21 @@
+---
+label: img
+hide_body: true
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  default: img
+  hidden: true
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: img
+  type: file
+  config:
+    maxSize: 250
+  label: img
