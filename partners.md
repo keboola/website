@@ -205,6 +205,16 @@ page_sections:
       evaluate, modernize, and automate to deliver a more valuable, less expensive
       model.
     type: all
+  - name: Digital Improvements
+    photo: "/uploads/digitalImpro.png"
+    country: Europe
+    url: https://www.d-improvements.com
+    tag: Thoughtspot
+    type: all
+    desc: Digital Improvements is a business enabler in the area of Next Generation
+      Data Analytics. Our mission is to support our customers on their journey towards
+      a data-driven, digital future and to help them – thanks to our innovative portfolio
+      of solutions – take decisions faster and based on better information.
 - template: article-partners
   block: article-partners
   headline: " App Developers"
