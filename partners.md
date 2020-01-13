@@ -74,6 +74,14 @@ page_sections:
       to handle even the largest, most complex enterprise data. Customers like Walmart,
       7-11, BT, Daimler, Hulu, and Miami Children’s Health System have turned to ThoughtSpot
       to transform their decision-making cultures. '
+  - name: BananaBi
+    photo: "/uploads/bananaBI.png"
+    country: Europe
+    url: https://www.banana.bi/
+    tag: Tableau
+    desc: 'Banana.bi is a business intelligence agency. We are BI tools specialists
+      striving to make your business as "data-driven" as possible. '
+    type: all
 - template: article-partners
   block: article-partners
   headline: Consulting Partners
