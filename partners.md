@@ -74,23 +74,6 @@ page_sections:
       to handle even the largest, most complex enterprise data. Customers like Walmart,
       7-11, BT, Daimler, Hulu, and Miami Children’s Health System have turned to ThoughtSpot
       to transform their decision-making cultures. '
-  - name: BananaBi
-    photo: "/uploads/bananaBI.png"
-    country: Europe
-    url: https://www.banana.bi/
-    tag: Tableau
-    desc: 'Banana.bi is a business intelligence agency. We are BI tools specialists
-      striving to make your business as "data-driven" as possible. '
-    type: all
-  - name: Data Mind
-    photo: "/uploads/dataMind.png"
-    country: Europe
-    url: https://www.datamind.cz/en
-    tag: ''
-    desc: We teach data to make money. We empower you to understand your data and
-      customers. We make data science and marketing analytics to increase your profits.
-      We are the Data Mind.
-    type: all
 - template: article-partners
   block: article-partners
   headline: Consulting Partners
