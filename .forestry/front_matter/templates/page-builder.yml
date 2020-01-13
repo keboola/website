@@ -51,6 +51,7 @@ fields:
   - article-partners-select
   - header-blue-img
   - article-scaffolds-list
+  - img
 pages:
 - _about/about.md
 - _about/contact.md
