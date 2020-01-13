@@ -111,6 +111,6 @@ page_sections:
   ctalink: https://components.keboola.com
 - template: recent-list
   block: recent-list
-  headline: More success stories
+  headline: "<strong>Case Study</strong> Articles"
 
 ---

@@ -100,6 +100,6 @@ page_sections:
   ctalink: https://500.keboola.com
 - template: recent-list
   block: recent-list
-  headline: Case Study Articles
+  headline: "<strong>Case Study</strong> Articles"
 
 ---

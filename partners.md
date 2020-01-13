@@ -251,6 +251,6 @@ page_sections:
   newwindow: false
 - template: recent-list
   block: recent-list
-  headline: Articles from our Blog
+  headline: "<strong>Case Study</strong> Articles"
 
 ---
