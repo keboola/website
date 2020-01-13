@@ -3,12 +3,11 @@ layout: blocks
 title: Product
 permalink: "/product/"
 page_sections:
-- template: header-product
-  block: header-product
-  subheadline: It is complicated to take care of it and distribute data to the users
-  headline: "<strong>Data analytics stacks are always changing</strong>"
-  headlinesecond: "<strong>Data analytics stacks can be easy</strong>"
-  subheadlinesecond: End to end Solution
+- template: header-blue
+  block: header-blue
+  subheadline: END TO END SOLUTION
+  headline: Data analytics stacks can be easy
+  content: ''
 - template: ask-demo
   block: ask-demo
   headline: Try Keboola free for 2 weeks

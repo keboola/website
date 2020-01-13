@@ -141,7 +141,7 @@ page_sections:
       practices in data quality assessment, governance and data consolidation, we
       can help you start transforming your data assets into actionable insights, today. '
   - name: revoltBI
-    photo: "/uploads/revoltBI.png"
+    photo: "/uploads/revoltLogo.png"
     type: premium
     country: Europe
     url: www.revolt.bi/en
@@ -161,7 +161,7 @@ page_sections:
       data platform architecture and business intelligence implemented on the best
       cloud technologies in the market.
   - name: Bootiq.io
-    photo: "/uploads/BQ.png"
+    photo: "/uploads/bootiq.png"
     type: all
     country: Europe
     url: https://www.bootiq.io/
@@ -178,6 +178,43 @@ page_sections:
     desc: aLook /eɪˈlʊk/ is a data science company formed by enthusiastic young yet
       experienced professionals. We use our knowledge of modern analytical approaches
       to increase performance of our clients'​ businesses.
+  - name: BananaBi
+    photo: "/uploads/bananaBI-1.png"
+    type: all
+    country: Europe
+    url: https://www.banana.bi/
+    tag: Tableau
+    desc: 'Banana.bi is a business intelligence agency. We are BI tools specialists
+      striving to make your business as "data-driven" as possible. '
+  - name: Data Mind
+    photo: "/uploads/dataMind-1.png"
+    country: Europe
+    url: https://www.datamind.cz/en
+    tag: ''
+    desc: We teach data to make money. We empower you to understand your data and
+      customers. We make data science and marketing analytics to increase your profits.
+      We are the Data Mind.
+    type: all
+  - name: RedPill
+    photo: "/uploads/redPill.png"
+    country: North America
+    url: https://redpillanalytics.com/
+    tag: Looker
+    desc: Red Pill Analytics combines the best elements of cloud, agile development-as-a-service,
+      and continuous delivery to form a unique analytics services company. We continuously
+      evaluate, modernize, and automate to deliver a more valuable, less expensive
+      model.
+    type: all
+  - name: Digital Improvements
+    photo: "/uploads/digitalImpro.png"
+    country: Europe
+    url: https://www.d-improvements.com
+    tag: Thoughtspot
+    type: all
+    desc: Digital Improvements is a business enabler in the area of Next Generation
+      Data Analytics. Our mission is to support our customers on their journey towards
+      a data-driven, digital future and to help them – thanks to our innovative portfolio
+      of solutions – take decisions faster and based on better information.
 - template: article-partners
   block: article-partners
   headline: " App Developers"
