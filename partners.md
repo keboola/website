@@ -219,6 +219,16 @@ page_sections:
   block: article-partners
   headline: " App Developers"
   list:
+  - name: Geneea
+    photo: "/uploads/geneea-logotype-250.png"
+    type: all
+    country: Global
+    url: https://www.geneea.com/
+    tag: ''
+    desc: Geneea's text-analytics platform extracts important information including
+      keywords, sentiment and categories from news articles, reviews, facebook posts,
+      support tickets, etc. Out of the box, it is optimized for analyzing news, as
+      well as hospitality and banking customer feedback.
   - name: Revolt.bi
     photo: "/uploads/revoltLogo.png"
     country: Europe
