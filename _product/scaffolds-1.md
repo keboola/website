@@ -66,7 +66,7 @@ page_sections:
   title: ''
 - template: ask-demo
   block: ask-demo
-  headline: Secuity by design
+  headline: Security by design
   subheadline: ''
   content: Read about Keboola’s approach to enterprise-level security and governance.
   ctaname: Get the security whitepaper!
