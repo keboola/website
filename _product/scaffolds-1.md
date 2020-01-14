@@ -72,6 +72,6 @@ page_sections:
 - template: recent-list
   block: recent-list
   headline: "<strong>Case Study</strong> Articles"
-permalink: data-catalog
+permalink: product/data-catalog
 
 ---
