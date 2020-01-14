@@ -27,12 +27,10 @@ page_sections:
     desc: Publish tools for description, metadata and data lineage analysis with a
       full audit trail of data usage by users, projects, and processes.
     img: "/uploads/box-left-item-3.svg"
-  - title: SET A BASELINE FOR YOUR MACHINE LEARNING MODELS
+  - title: REMOVE DATA ACCESS FRICTION
     colortype: black
-    desc: With machine learning models, in particular, the name-of-the-game is continuous
-      improvement. Scaffolds allow you to swiftly deploy a model that can act as your
-      baseline upon which you can develop further. Simplicity without compromise as
-      we like to say around here.
+    desc: Massive productivity gain with instant access to data required by any empowered
+      user.
     img: "/uploads/box.svg"
   subheadline: ''
   headline: ''
