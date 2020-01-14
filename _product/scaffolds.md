@@ -13,7 +13,7 @@ page_sections:
   ctalink: https://try.keboola.com
   ctamorename: LEARN MORE
   ctamorelink: https://try.keboola.com
-  img: "/uploads/scaffolds-header.png"
+  img: "/uploads/Frame 2.png"
   videoid: bG17UN-KWz8
 - template: article-list-two-row
   block: article-list-two-row
