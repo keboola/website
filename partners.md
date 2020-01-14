@@ -77,8 +77,8 @@ page_sections:
 - template: article-partners
   block: article-partners
   headline: Consulting Partners
-  content: Work with trusted consultants and solution partners to streamline and maximize
-    your data stack.
+  content: We work with proven and trusted consultants and solution partners to maximize
+    the return on your data investment.
   blue-background: true
   list:
   - name: decisiveData
