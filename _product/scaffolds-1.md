@@ -22,13 +22,10 @@ page_sections:
     desc: Simply and securely share enriched data among teams and projects within
       the organization.
     img: "/uploads/boxBlue.svg"
-  - title: UNBURDEN YOUR</br>DATA TEAM
+  - title: DEMOCRATIOZATION MEETS GOVERNANCE
     colortype: yellow
-    desc: With pre-built data pipelines, your data team can cover a vast array of
-      company use-cases without sweating over the details. Scaffolds free up their
-      time to focus on high-value work they love doing. Scaffolds do everything from
-      end-to-end, streamlining the usually fragmented data pipeline into a single
-      process.
+    desc: Publish tools for description, metadata and data lineage analysis with a
+      full audit trail of data usage by users, projects, and processes.
     img: "/uploads/box-left-item-3.svg"
   - title: SET A BASELINE FOR YOUR MACHINE LEARNING MODELS
     colortype: black
