@@ -44,7 +44,7 @@ page_sections:
     photo: "/uploads/goodData.png"
     type: all
     country: Global
-    url: www.gooddata.com?utm_source=keboola.com/partners&utm_medium=referral&utm_campaign=referral_logo_from_partners
+    url: https://www.gooddata.com?utm_source=keboola.com/partners&utm_medium=referral&utm_campaign=referral_logo_from_partners
     tag: ''
     desc: GoodData is a data analytics platform-as-a-service that enables organizations
       to deliver, evolve, and manage analytics for their customers, employees, partners,
