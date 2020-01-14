@@ -33,7 +33,7 @@ page_sections:
     photo: "/uploads/tableau.png"
     type: all
     country: Global
-    url: www.tableau.com
+    url: https://www.tableau.com
     tag: ''
     desc: Tableau helps people transform data into actionable insights. Explore with
       limitless visual analytics. Build dashboards and perform ad hoc analyses in
