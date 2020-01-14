@@ -96,7 +96,7 @@ page_sections:
     photo: "/uploads/das42.png"
     type: all
     country: North America
-    url: das42.com
+    url: https://www.das42.com
     tag: Looker
     desc: DAS42 provides cloud-based data analytics consulting and professional services.
       We help Fortune 500 companies access and understand all of their data, reduce
