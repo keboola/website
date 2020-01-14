@@ -220,7 +220,7 @@ page_sections:
   headline: " App Developers"
   list:
   - name: Revolt.bi
-    photo: "/uploads/revoltBI.png"
+    photo: "/uploads/revoltLogo.png"
     country: Europe
     url: www.revolt.bi/en
     tag: Tableau
@@ -228,7 +228,7 @@ page_sections:
       to its full power. Revolt BI can help you with a whole range of services like
       data integration, reporting in various tools like Tableau or Power BI and applying
       Data Science to your business.
-    type: premium
+    type: all
   - name: Alook
     photo: "/uploads/alook.png"
     type: all
