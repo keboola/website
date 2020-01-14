@@ -26,10 +26,14 @@ page_sections:
       time is squandered on project management, communication between departments
       and code hand over.
     img: "/uploads/boxBlue.svg"
-  - title: ''
-    colortype: ''
-    desc: ''
-    img: ''
+  - title: Unburden your data team
+    colortype: yellow
+    desc: With pre-built data pipelines, your data team can cover a vast array of
+      company use-cases without sweating over the details. Scaffolds free up their
+      time to focus on high-value work they love doing. Scaffolds do everything from
+      end-to-end, streamlining the usually fragmented data pipeline into a single
+      process.
+    img: "/uploads/box-left-item-3.svg"
   - title: ''
     colortype: ''
     desc: ''
