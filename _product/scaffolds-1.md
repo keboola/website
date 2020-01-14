@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Scaffolds
+title: Data Catalog
 page_sections:
 - template: header-blue-img
   block: header-blue-img
