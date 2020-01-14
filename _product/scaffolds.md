@@ -26,7 +26,7 @@ page_sections:
       time is squandered on project management, communication between departments
       and code hand over.
     img: "/uploads/boxBlue.svg"
-  - title: UNBURDEN YOUR DATA TEAM
+  - title: UNBURDEN YOUR</br>DATA TEAM
     colortype: yellow
     desc: With pre-built data pipelines, your data team can cover a vast array of
       company use-cases without sweating over the details. Scaffolds free up their
