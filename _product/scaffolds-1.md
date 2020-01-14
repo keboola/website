@@ -17,13 +17,10 @@ page_sections:
 - template: article-list-three-row
   block: article-list-three-row
   list:
-  - title: ACCELERATE DATA PRODUCTION
+  - title: BUILD YOUR</BR>DATA ASSETS
     colortype: blue
-    desc: With one-click scaffolds, you can quickly deploy a fully-fledged data workflow
-      to production. No time wasted in discovery, acquiring, organizing, cleaning,
-      transforming, and modeling data step by step manually. It also means that no
-      time is squandered on project management, communication between departments
-      and code hand over.
+    desc: Simply and securely share enriched data among teams and projects within
+      the organization.
     img: "/uploads/boxBlue.svg"
   - title: UNBURDEN YOUR</br>DATA TEAM
     colortype: yellow
