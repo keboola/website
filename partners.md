@@ -238,7 +238,8 @@ page_sections:
     desc: aLook /eɪˈlʊk/ is a data science company formed by enthusiastic young yet
       experienced professionals. We use our knowledge of modern analytical approaches
       to increase performance of our clients'​ businesses.
-  content: ''
+  content: We collaborate with experts to build both generally available and customer-specific
+    apps for our platform.
   blue-background: true
 - template: ask-demo
   block: ask-demo
