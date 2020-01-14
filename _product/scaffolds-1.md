@@ -36,29 +36,30 @@ page_sections:
   headline: ''
 - template: article-scaffolds-list
   block: article-scaffolds-list
-  subheadline: Everyone’s Favorite Scaffolds
-  headline: In one-click, change the way you work
+  subheadline: How it Works
+  headline: It is all there, at your fingertips.</br>Just start using it and get the
+    benefits.
   btnlink: https://try.keboola.com
   btnname: Documentation
   list:
-  - title: "Bitbucket Devops \Lto Snowflake"
-    desc: Bitbucket repositories analysis to track progress of your development and
-      activity of your team members. Includes output to Snowflake DWH.
-    ctaname: SEE SCAFFOLD
+  - title: Nothing to install or integrate
+    desc: The Data Catalog is a built-in feature in your Keboola Connection, with
+      any data available to be published.
+    ctaname: LEARN MORE
     link: https://try.keboola.com
-    img: "/uploads/bitbucket.png"
-  - title: Reviewtrackers Reviews to Snowflake
-    desc: Bitbucket repositories analysis to track progress of your development and
-      activity of your team members. Includes output to Snowflake DWH.
-    ctaname: SEE SCAFFOLD
+    img: "/uploads/1.svg"
+  - title: Describe data you want to publish
+    desc: And select access control - by user level, a specific project or specific
+      users to grant access to.
+    ctaname: LEARN MORE
     link: https://try.keboola.com
-    img: "/uploads/ReviewTrackers.png"
-  - title: Zendesk Support to Snowflake
-    desc: Bitbucket repositories analysis to track progress of your development and
-      activity of your team members. Includes output to Snowflake DWH.
-    ctaname: SEE SCAFFOLD
+    img: "/uploads/2.svg"
+  - title: See any data available to you
+    desc: And subscribe to it in a single click. Lorem ipsum dolor sit mat fermentum
+      mobile.
+    ctaname: LEARN MORE
     link: https://try.keboola.com
-    img: "/uploads/zendesk.png"
+    img: "/uploads/3.svg"
 - template: ask-demo
   block: ask-demo
   headline: Request a Scaffold
