@@ -55,19 +55,19 @@ page_sections:
       activity of your team members. Includes output to Snowflake DWH.
     ctaname: SEE SCAFFOLD
     link: https://try.keboola.com
-    img: "/uploads/netflixLogo.png"
-  - title: "Bitbucket Devops \Lto Snowflake"
+    img: "/uploads/bitbucket.png"
+  - title: Reviewtrackers Reviews to Snowflake
     desc: Bitbucket repositories analysis to track progress of your development and
       activity of your team members. Includes output to Snowflake DWH.
     ctaname: SEE SCAFFOLD
     link: https://try.keboola.com
-    img: "/uploads/netflixLogo.png"
-  - title: "Bitbucket Devops \Lto Snowflake"
+    img: "/uploads/ReviewTrackers.png"
+  - title: Zendesk Support to Snowflake
     desc: Bitbucket repositories analysis to track progress of your development and
       activity of your team members. Includes output to Snowflake DWH.
     ctaname: SEE SCAFFOLD
     link: https://try.keboola.com
-    img: "/uploads/netflixLogo.png"
+    img: "/uploads/zendesk.png"
 - template: ask-demo
   block: ask-demo
   headline: Request a Scaffold
