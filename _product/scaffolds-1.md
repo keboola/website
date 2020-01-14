@@ -62,11 +62,10 @@ page_sections:
     img: "/uploads/3.svg"
 - template: ask-demo
   block: ask-demo
-  headline: Request a Scaffold
+  headline: Secuity by design
   subheadline: ''
-  content: Don’t see a scaffold you need? We add new scaffolds monthly based on customer
-    feedback. <br>Email us the scaffold you’d like added today!
-  ctaname: Contact Us
+  content: Read about Keboola’s approach to enterprise-level security and governance.
+  ctaname: Get the security whitepaper!
   ctalink: https://try.keboola.com
   newwindow: false
 - template: recent-list
