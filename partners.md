@@ -85,7 +85,7 @@ page_sections:
     photo: "/uploads/decesiveData.png"
     type: all
     country: North America
-    url: www.artplusdata.com
+    url: https://www.artplusdata.com
     tag: Tableau
     desc: Decisive Data helps organizations leverage everything Tableau has to offer.
       Through their Art + Data design methodology, learn to facilitate cross-team
