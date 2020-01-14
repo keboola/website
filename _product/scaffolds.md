@@ -34,10 +34,13 @@ page_sections:
       end-to-end, streamlining the usually fragmented data pipeline into a single
       process.
     img: "/uploads/box-left-item-3.svg"
-  - title: ''
-    colortype: ''
-    desc: ''
-    img: ''
+  - title: 'Set a baseline for your       machine learning models'
+    colortype: black
+    desc: With machine learning models, in particular, the name-of-the-game is continuous
+      improvement. Scaffolds allow you to swiftly deploy a model that can act as your
+      baseline upon which you can develop further. Simplicity without compromise as
+      we like to say around here.
+    img: "/uploads/box.svg"
   subheadline: ''
   headline: ''
 - template: article-scaffolds-list
