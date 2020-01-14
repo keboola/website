@@ -4,17 +4,16 @@ title: Scaffolds
 page_sections:
 - template: header-blue-img
   block: header-blue-img
-  headline: 'Scaffolds: a new era of automating your data     pipeline is here.'
-  content: Scaffolds are end-to-end workflows built on top of the Keboola platform
-    that can be deployed in a couple of clicks or an API call. In literally seconds
-    your whole project blueprint is stood up all the while keeping the project flexible
-    to any changes, updates, modifications or extensions.
-  ctaname: Try a Scaffold
+  headline: Get to the next level of collaboration fast with an integrated Data Catalog
+  content: From the old world data warehouse world to the new, true data-centric -
+    using Keboola’s Data Catalog provides a new level of collaboration and data asset
+    management, without adding complexity to your data stack.
+  ctaname: See Data Catalog in Action
   ctalink: https://try.keboola.com
   ctamorename: LEARN MORE
   ctamorelink: https://try.keboola.com
   img: "/uploads/Frame 2.png"
-  videoid: bG17UN-KWz8
+  videoid: ''
 - template: article-list-three-row
   block: article-list-three-row
   list:
@@ -80,6 +79,5 @@ page_sections:
 - template: recent-list
   block: recent-list
   headline: "<strong>Case Study</strong> Articles"
-published: false
 
 ---
