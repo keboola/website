@@ -15,6 +15,27 @@ page_sections:
   ctamorelink: https://try.keboola.com
   img: "/uploads/Frame 2.png"
   videoid: bG17UN-KWz8
+- template: article-list-three-row
+  block: article-list-three-row
+  list:
+  - title: 'Accelerate       Data Production'
+    colortype: blue
+    desc: With one-click scaffolds, you can quickly deploy a fully-fledged data workflow
+      to production. No time wasted in discovery, acquiring, organizing, cleaning,
+      transforming, and modeling data step by step manually. It also means that no
+      time is squandered on project management, communication between departments
+      and code hand over.
+    img: "/uploads/boxBlue.svg"
+  - title: ''
+    colortype: ''
+    desc: ''
+    img: ''
+  - title: ''
+    colortype: ''
+    desc: ''
+    img: ''
+  subheadline: ''
+  headline: ''
 - template: article-scaffolds-list
   block: article-scaffolds-list
   subheadline: Everyone’s Favorite Scaffolds
