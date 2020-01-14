@@ -81,6 +81,5 @@ page_sections:
 - template: recent-list
   block: recent-list
   headline: "<strong>Case Study</strong> Articles"
-published: false
 
 ---
