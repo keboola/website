@@ -144,7 +144,7 @@ page_sections:
     photo: "/uploads/revoltLogo.png"
     type: premium
     country: Europe
-    url: www.revolt.bi/en
+    url: https://www.revolt.bi/en
     tag: Tableau
     desc: Revolt BI is a consulting agency that will help you to implement Keboola
       to its full power. Revolt BI can help you with a whole range of services like
