@@ -56,7 +56,7 @@ page_sections:
     photo: "/uploads/periscope.png"
     type: ''
     country: Global
-    url: www.periscopedata.com
+    url: https://www.periscopedata.com
     tag: ''
     desc: Periscope Data by Sisense allows organizations to gain deeper, more actionable
       insights across the business. Our advanced analytics platform empowers data
@@ -66,7 +66,7 @@ page_sections:
     photo: "/uploads/download.png"
     type: all
     country: Global
-    url: www.thoughtspot.com
+    url: https://www.thoughtspot.com
     tag: ''
     desc: 'The world’s most innovative enterprises use ThoughtSpot to empower their
       entire organization with data-driven insights with a natural language search
