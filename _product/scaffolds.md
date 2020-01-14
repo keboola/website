@@ -18,7 +18,7 @@ page_sections:
 - template: article-list-three-row
   block: article-list-three-row
   list:
-  - title: 'Accelerate       Data Production'
+  - title: ACCELERATE DATA PRODUCTION
     colortype: blue
     desc: With one-click scaffolds, you can quickly deploy a fully-fledged data workflow
       to production. No time wasted in discovery, acquiring, organizing, cleaning,
@@ -26,7 +26,7 @@ page_sections:
       time is squandered on project management, communication between departments
       and code hand over.
     img: "/uploads/boxBlue.svg"
-  - title: Unburden your data team
+  - title: UNBURDEN YOUR DATA TEAM
     colortype: yellow
     desc: With pre-built data pipelines, your data team can cover a vast array of
       company use-cases without sweating over the details. Scaffolds free up their
@@ -34,7 +34,7 @@ page_sections:
       end-to-end, streamlining the usually fragmented data pipeline into a single
       process.
     img: "/uploads/box-left-item-3.svg"
-  - title: 'Set a baseline for your       machine learning models'
+  - title: SET A BASELINE FOR YOUR MACHINE LEARNING MODELS
     colortype: black
     desc: With machine learning models, in particular, the name-of-the-game is continuous
       improvement. Scaffolds allow you to swiftly deploy a model that can act as your
