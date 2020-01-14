@@ -60,6 +60,10 @@ page_sections:
     ctaname: LEARN MORE
     link: https://try.keboola.com
     img: "/uploads/3.svg"
+- template: img
+  block: img
+  img: "/uploads/data-catalog-screnshot.png"
+  title: ''
 - template: ask-demo
   block: ask-demo
   headline: Secuity by design
