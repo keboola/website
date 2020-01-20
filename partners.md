@@ -222,6 +222,15 @@ page_sections:
   block: article-partners
   headline: " App Developers"
   list:
+  - name: Alook
+    photo: "/uploads/alook.png"
+    type: all
+    country: Global
+    url: https://www.alookanalytics.com/
+    tag: ''
+    desc: aLook /eɪˈlʊk/ is a data science company formed by enthusiastic young yet
+      experienced professionals. We use our knowledge of modern analytical approaches
+      to increase performance of our clients'​ businesses.
   - name: Geneea
     photo: "/uploads/geneea-logotype-250.png"
     type: all
@@ -242,15 +251,6 @@ page_sections:
       data integration, reporting in various tools like Tableau or Power BI and applying
       Data Science to your business.
     type: all
-  - name: Alook
-    photo: "/uploads/alook.png"
-    type: all
-    country: Global
-    url: https://www.alookanalytics.com/
-    tag: ''
-    desc: aLook /eɪˈlʊk/ is a data science company formed by enthusiastic young yet
-      experienced professionals. We use our knowledge of modern analytical approaches
-      to increase performance of our clients'​ businesses.
   content: We collaborate with experts to build both generally available and customer-specific
     apps for our platform.
   blue-background: true
