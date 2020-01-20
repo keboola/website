@@ -18,28 +18,6 @@ page_sections:
     providers and more so our customers can create their perfect data stack.
   blue-background: true
   list:
-  - name: looker
-    photo: "/uploads/looker.png"
-    type: all
-    country: Global
-    url: https://looker.com?utm_campaign=70144000001IPzg&utm_term=Keboola&utm_source=Keboola&utm_medium=partner%20referral
-    tag: ''
-    desc: Looker is a platform for data that streamlines the data supply chain to
-      create actionable information. It allows any organization to extract value from
-      their data at web scale, delivers powerful purpose built applications to address
-      the needs of specific teams, and provides a flexible, embedded analytics framework
-      with Powered by Looker.
-  - name: tableau
-    photo: "/uploads/tableau.png"
-    type: all
-    country: Global
-    url: https://www.tableau.com
-    tag: ''
-    desc: Tableau helps people transform data into actionable insights. Explore with
-      limitless visual analytics. Build dashboards and perform ad hoc analyses in
-      just a few clicks. Share your work with anyone and make an impact on your business.
-      From global enterprises to early-stage startups and small businesses, people
-      everywhere use Tableau to see and understand their data.
   - name: goodData
     photo: "/uploads/goodData.png"
     type: all
@@ -52,6 +30,17 @@ page_sections:
       dashboards, self-service data exploration, and insights at the point of work—in
       products, business applications, and workflows. The highly scalable nature of
       this cloud-based platform ensures you won’t outgrow your analytics investments.
+  - name: looker
+    photo: "/uploads/looker.png"
+    type: all
+    country: Global
+    url: https://looker.com?utm_campaign=70144000001IPzg&utm_term=Keboola&utm_source=Keboola&utm_medium=partner%20referral
+    tag: ''
+    desc: Looker is a platform for data that streamlines the data supply chain to
+      create actionable information. It allows any organization to extract value from
+      their data at web scale, delivers powerful purpose built applications to address
+      the needs of specific teams, and provides a flexible, embedded analytics framework
+      with Powered by Looker.
   - name: periscope
     photo: "/uploads/periscope.png"
     type: ''
@@ -62,6 +51,17 @@ page_sections:
       insights across the business. Our advanced analytics platform empowers data
       teams to ingest, store, and analyze data to uncover deeper insights then visualize
       their findings.
+  - name: tableau
+    photo: "/uploads/tableau.png"
+    type: all
+    country: Global
+    url: https://www.tableau.com
+    tag: ''
+    desc: Tableau helps people transform data into actionable insights. Explore with
+      limitless visual analytics. Build dashboards and perform ad hoc analyses in
+      just a few clicks. Share your work with anyone and make an impact on your business.
+      From global enterprises to early-stage startups and small businesses, people
+      everywhere use Tableau to see and understand their data.
   - name: ThoughtSpot
     photo: "/uploads/download.png"
     type: all
