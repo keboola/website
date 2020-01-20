@@ -129,7 +129,10 @@ page_sections:
     country: Europe
     url: https://www.bizztreat.com/
     tag: ''
-    desc: ''
+    desc: We are data detectives. Team which seeks potential how to grow your business
+      through data investigation. We can help you to implement data integration projects
+      powered by Keboola Connection. We also have experience with KBC multi project
+      architecture and data architecture consultations.
   - name: billigence
     photo: "/uploads/billigence.png"
     type: all
