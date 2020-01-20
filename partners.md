@@ -81,38 +81,6 @@ page_sections:
     the return on your data investment.
   blue-background: true
   list:
-  - name: decisiveData
-    photo: "/uploads/decesiveData.png"
-    type: all
-    country: North America
-    url: https://www.artplusdata.com
-    tag: Tableau
-    desc: Decisive Data helps organizations leverage everything Tableau has to offer.
-      Through their Art + Data design methodology, learn to facilitate cross-team
-      dashboard planning and empower analysts to build better dashboards faster. Reach
-      out to Decisive Data to learn more about Art + Data and the benefits it can
-      bring to your organization.
-  - name: das42
-    photo: "/uploads/das42.png"
-    type: all
-    country: North America
-    url: https://www.das42.com
-    tag: Looker
-    desc: DAS42 provides cloud-based data analytics consulting and professional services.
-      We help Fortune 500 companies access and understand all of their data, reduce
-      the time to actionable insights, and empower organizations to make better decisions
-      faster.
-  - name: interworks
-    photo: "/uploads/interworks.png"
-    type: all
-    country: Global
-    url: https://interworks.com/contact
-    tag: Snowflake
-    desc: InterWorks is a people-focused tech consultancy delivering premier service
-      and expertise in collaboration with strategic partners. Our clients trust us
-      to guide them toward the best solutions to maximize their data. We empower people
-      at every step of the analytics experience, from management and storage to communicating
-      insights with visualization.
   - name: 4mile
     photo: "/uploads/4mile.png"
     type: premium
@@ -123,55 +91,6 @@ page_sections:
       data analytics, data engineering, and software development. We believe in the
       power of data to form compelling narratives that drive innovation. Our guiding
       principle is to help our clients move up the chain of analytic maturity.
-  - name: bizztreat
-    photo: "/uploads/bizztreat.png"
-    type: premium
-    country: Europe
-    url: https://www.bizztreat.com/
-    tag: ''
-    desc: We are data detectives. Team which seeks potential how to grow your business
-      through data investigation. We can help you to implement data integration projects
-      powered by Keboola Connection. We also have experience with KBC multi project
-      architecture and data architecture consultations.
-  - name: billigence
-    photo: "/uploads/billigence.png"
-    type: all
-    country: Europe
-    url: https://billigence.com/
-    tag: Tableau
-    desc: 'Billigence provides business intelligence solutions. With capabilities
-      in leading toolsets for visualization and predictive modelling, and also robust
-      practices in data quality assessment, governance and data consolidation, we
-      can help you start transforming your data assets into actionable insights, today. '
-  - name: revoltBI
-    photo: "/uploads/revoltLogo.png"
-    type: premium
-    country: Europe
-    url: https://www.revolt.bi/en
-    tag: Tableau
-    desc: Revolt BI is a consulting agency that will help you to implement Keboola
-      to its full power. Revolt BI can help you with a whole range of services like
-      data integration, reporting in various tools like Tableau or Power BI and applying
-      Data Science to your business.
-  - name: bytecodeIO
-    photo: "/uploads/bytecodeIO.png"
-    type: all
-    country: North America
-    url: https://bytecode.io/about-us/
-    tag: Looker
-    desc: Bytecode IO is a consulting company focused on helping businesses make the
-      best use of their data. We provide clients expertise in data and software engineering,
-      data platform architecture and business intelligence implemented on the best
-      cloud technologies in the market.
-  - name: Bootiq.io
-    photo: "/uploads/bootiq.png"
-    type: all
-    country: Europe
-    url: https://www.bootiq.io/
-    tag: ''
-    desc: BOOT!Q is a recognized e-commerce and mobile app developer ready to deliver
-      full-scale ICT projects. With 170 professionals and 15 years on the market BOOT!Q
-      stands behind the success of our leading digital companies.
   - name: aLook
     photo: "/uploads/alook.png"
     type: all
@@ -189,6 +108,45 @@ page_sections:
     tag: Tableau
     desc: 'Banana.bi is a business intelligence agency. We are BI tools specialists
       striving to make your business as "data-driven" as possible. '
+  - name: billigence
+    photo: "/uploads/billigence.png"
+    type: all
+    country: Europe
+    url: https://billigence.com/
+    tag: Tableau
+    desc: 'Billigence provides business intelligence solutions. With capabilities
+      in leading toolsets for visualization and predictive modelling, and also robust
+      practices in data quality assessment, governance and data consolidation, we
+      can help you start transforming your data assets into actionable insights, today. '
+  - name: bizztreat
+    photo: "/uploads/bizztreat.png"
+    type: premium
+    country: Europe
+    url: https://www.bizztreat.com/
+    tag: ''
+    desc: We are data detectives. Team which seeks potential how to grow your business
+      through data investigation. We can help you to implement data integration projects
+      powered by Keboola Connection. We also have experience with KBC multi project
+      architecture and data architecture consultations.
+  - name: Bootiq.io
+    photo: "/uploads/bootiq.png"
+    type: all
+    country: Europe
+    url: https://www.bootiq.io/
+    tag: ''
+    desc: BOOT!Q is a recognized e-commerce and mobile app developer ready to deliver
+      full-scale ICT projects. With 170 professionals and 15 years on the market BOOT!Q
+      stands behind the success of our leading digital companies.
+  - name: bytecodeIO
+    photo: "/uploads/bytecodeIO.png"
+    type: all
+    country: North America
+    url: https://bytecode.io/about-us/
+    tag: Looker
+    desc: Bytecode IO is a consulting company focused on helping businesses make the
+      best use of their data. We provide clients expertise in data and software engineering,
+      data platform architecture and business intelligence implemented on the best
+      cloud technologies in the market.
   - name: Data Mind
     photo: "/uploads/dataMind-1.png"
     country: Europe
@@ -198,16 +156,27 @@ page_sections:
       customers. We make data science and marketing analytics to increase your profits.
       We are the Data Mind.
     type: all
-  - name: RedPill
-    photo: "/uploads/redPill.png"
-    country: North America
-    url: https://redpillanalytics.com/
-    tag: Looker
-    desc: Red Pill Analytics combines the best elements of cloud, agile development-as-a-service,
-      and continuous delivery to form a unique analytics services company. We continuously
-      evaluate, modernize, and automate to deliver a more valuable, less expensive
-      model.
+  - name: das42
+    photo: "/uploads/das42.png"
     type: all
+    country: North America
+    url: https://www.das42.com
+    tag: Looker
+    desc: DAS42 provides cloud-based data analytics consulting and professional services.
+      We help Fortune 500 companies access and understand all of their data, reduce
+      the time to actionable insights, and empower organizations to make better decisions
+      faster.
+  - name: decisiveData
+    photo: "/uploads/decesiveData.png"
+    type: all
+    country: North America
+    url: https://www.artplusdata.com
+    tag: Tableau
+    desc: Decisive Data helps organizations leverage everything Tableau has to offer.
+      Through their Art + Data design methodology, learn to facilitate cross-team
+      dashboard planning and empower analysts to build better dashboards faster. Reach
+      out to Decisive Data to learn more about Art + Data and the benefits it can
+      bring to your organization.
   - name: Digital Improvements
     photo: "/uploads/digitalImpro.png"
     country: Europe
@@ -218,6 +187,37 @@ page_sections:
       Data Analytics. Our mission is to support our customers on their journey towards
       a data-driven, digital future and to help them – thanks to our innovative portfolio
       of solutions – take decisions faster and based on better information.
+  - name: interworks
+    photo: "/uploads/interworks.png"
+    type: all
+    country: Global
+    url: https://interworks.com/contact
+    tag: Snowflake
+    desc: InterWorks is a people-focused tech consultancy delivering premier service
+      and expertise in collaboration with strategic partners. Our clients trust us
+      to guide them toward the best solutions to maximize their data. We empower people
+      at every step of the analytics experience, from management and storage to communicating
+      insights with visualization.
+  - name: revoltBI
+    photo: "/uploads/revoltLogo.png"
+    type: premium
+    country: Europe
+    url: https://www.revolt.bi/en
+    tag: Tableau
+    desc: Revolt BI is a consulting agency that will help you to implement Keboola
+      to its full power. Revolt BI can help you with a whole range of services like
+      data integration, reporting in various tools like Tableau or Power BI and applying
+      Data Science to your business.
+  - name: RedPill
+    photo: "/uploads/redPill.png"
+    country: North America
+    url: https://redpillanalytics.com/
+    tag: Looker
+    desc: Red Pill Analytics combines the best elements of cloud, agile development-as-a-service,
+      and continuous delivery to form a unique analytics services company. We continuously
+      evaluate, modernize, and automate to deliver a more valuable, less expensive
+      model.
+    type: all
 - template: article-partners
   block: article-partners
   headline: " App Developers"
