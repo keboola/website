@@ -149,6 +149,6 @@ page_sections:
   subheadline: ''
 - template: recent-list
   block: recent-list
-  headline: Customer Stories
+  headline: Our Customer Stories
 
 ---

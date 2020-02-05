@@ -1,0 +1,25 @@
+<div class="article-list article-list-table article-list-scaffolds"><div class="in">
+	<div class="item-desc">
+		{% if section.subheadline != "" and section.subheadline != nil %}
+			<p class="p-perex">{{ section.subheadline }}</p>
+		{% endif %}
+		{% if section.headline != "" and section.headline != nil %}
+			<h1>{{ section.headline }}</h1>
+		{% endif %}
+	</div>
+	<div class="item-list"><ul class="article-list-content-table">
+	{% for list in section.list %}
+		<li><a href="{{ list.link }}" class="item-li">
+			<div class="item-li-logo">
+				<div class="img-second"><img src="{{ list.img }}" alt=""></div>
+				<h2 class="h2-big h2-big-scaffolds">{{ list.title }}</h2>
+				<p>{{ list.desc }}</p>
+			</div>
+			<div class="item-li-foot"><strong>{{ list.ctaname }}</strong></div>
+		</a></li>
+    {% endfor %}
+    </ul></div>
+    {% if section.btnname != "" and section.btnname != nil %}
+		<a href="{{ section.btnlink }}" class="btn btn-big btn-blue">{{ section.btnname }}</a>
+	{% endif %}
+</div></div>

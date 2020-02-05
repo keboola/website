@@ -48,26 +48,32 @@ fields:
   - recent-list
   - hp-main-goals
   - article-partners
+  - article-partners-select
+  - header-blue-img
+  - article-scaffolds-list
+  - img
 pages:
-- partners.md
 - _about/about.md
-- index.md
-- _product/product.md
-- _landing/how-to-win-data.md
 - _about/contact.md
+- _landing/how-to-win-data.md
+- _platform/3rd-party-ai.md
+- _platform/actions.md
+- _platform/command-control-api-first.md
+- _platform/developer-docs.md
+- _platform/developers-portal.md
+- _platform/developers.md
 - _platform/platform.md
+- _platform/programmable-data-platform.md
 - _product/analytical-dwh.md
 - _product/etl-elt.md
 - _product/integration.md
-- _product/keboola-way.md
 - _product/keboola-for-enterprise.md
-- _product/security.md
+- _product/keboola-way.md
 - _product/pricing.md
+- _product/product.md
+- _product/scaffolds-1.md
+- _product/scaffolds.md
+- _product/security.md
 - _product/serverless-data-analytics.md
-- _platform/3rd-party-ai.md
-- _platform/programmable-data-platform.md
-- _platform/actions.md
-- _platform/command-control-api-first.md
-- _platform/developers.md
-- _platform/developers-portal.md
-- _platform/developer-docs.md
+- index.md
+- partners.md

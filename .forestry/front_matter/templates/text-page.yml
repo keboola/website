@@ -14,10 +14,10 @@ fields:
   name: subtitle
   label: sub title
 pages:
-- global-anti-bribery-policy.md
-- terms-and-conditions.md
 - data-konzultant-v-keboole.md
-- gdpr.md
-- security-whitepaper.md
 - dpa.md
+- gdpr.md
+- global-anti-bribery-policy.md
 - master-software-subscription-agreement.md
+- security-whitepaper.md
+- terms-and-conditions.md

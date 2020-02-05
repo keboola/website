@@ -39,6 +39,55 @@ fields:
     config:
       maxSize: 250
     label: photo
+  - name: type
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - premium
+      - all
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: type
+  - name: country
+    type: select
+    default: ''
+    config:
+      required: false
+      options:
+      - Global
+      - Europe
+      - Australia
+      - North America
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: country
+  - name: url
+    type: text
+    config:
+      required: false
+    label: url
+  - name: tag
+    type: text
+    config:
+      required: false
+    label: tag
+  - name: desc
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: desc
   config:
     min: 
     max: 

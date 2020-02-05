@@ -1,0 +1,68 @@
+---
+label: article-scaffolds-list
+hide_body: true
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  default: article-scaffolds-list
+  hidden: true
+- name: subheadline
+  type: text
+  config:
+    required: false
+  label: subheadline
+- name: headline
+  type: text
+  config:
+    required: false
+  label: headline
+- name: btnname
+  type: text
+  config:
+    required: false
+  label: btnname
+- name: btnlink
+  type: text
+  config:
+    required: false
+  label: btnlink
+- name: list
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: title
+  - name: desc
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: desc
+  - name: ctaname
+    type: text
+    config:
+      required: false
+    label: ctaname
+  - name: link
+    type: text
+    config:
+      required: false
+    label: link
+  - name: img
+    type: file
+    config:
+      maxSize: 250
+    label: img
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: list
