@@ -38,8 +38,8 @@ page_sections:
       747 626 8512)</p>"
     mapslink: https://goo.gl/maps/5dQbZKbtV4z
   - name: PRAGUE
-    address: "<p>Křižíkova 488/115 <br>Prague 8 <br>186 00 <br>Czech Republic <br>(+420
+    address: "<p>Dělnická 27 <br>Prague 7 <br>170 00 <br>Czech Republic <br>(+420
       739 632 821)</p>"
-    mapslink: https://goo.gl/maps/Kx5yYGMmMhw
+    mapslink: https://goo.gl/maps/52yux1PHVPfSFRiQA
 
 ---
