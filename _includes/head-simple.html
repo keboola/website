@@ -30,10 +30,10 @@
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,700">
 	<script src="/js/libs/modernizr.js"></script>
 
-	{% if page.url contains '/request-demo' '/partner-opportunity-registration' %}<script src="https://www.google.com/recaptcha/api.js"></script>
+	<script src="https://www.google.com/recaptcha/api.js"></script>
 	<script>
 	 function timestamp() { var response = document.getElementById("g-recaptcha-response"); if (response == null || response.value.trim() == "") {var elems = JSON.parse(document.getElementsByName("captcha_settings")[0].value);elems["ts"] = JSON.stringify(new Date().getTime());document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems); } } setInterval(timestamp, 500);
-	</script>{% endif %}
+	</script>
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128209249-1"></script>
