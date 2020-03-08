@@ -35,8 +35,8 @@
 	<link rel="stylesheet" href="/css/style.css?v=20">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,700">
 	<link rel=“stylesheet” href=“//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css”>
-	
-	{% if page.url contains '/request-demo' %}<script src="https://www.google.com/recaptcha/api.js"></script>
+
+	{% if page.url contains '/request-demo' '/partner-opportunity-registration'  %}<script src="https://www.google.com/recaptcha/api.js"></script>
 	<script>
 	 function timestamp() { var response = document.getElementById("g-recaptcha-response"); if (response == null || response.value.trim() == "") {var elems = JSON.parse(document.getElementsByName("captcha_settings")[0].value);elems["ts"] = JSON.stringify(new Date().getTime());document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems); } } setInterval(timestamp, 500);
 	</script>{% endif %}
