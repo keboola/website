@@ -1,7 +1,7 @@
 ---
-title: Lead partner registration
+title: Partner Lead Registration
 layout: contact-form
-date: 2020-03-08 20:31:23 +0000
+date: '2020-03-08T20:31:23.000+00:00'
 page_sections:
 - template: form
   block: form-partner
