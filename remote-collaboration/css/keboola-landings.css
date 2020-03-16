@@ -304,7 +304,7 @@ a {
   margin-bottom: 30px;
   margin-left: auto;
   padding: 0px 30px;
-  background-image: url('../images/headerHeroIMG.jpg');
+  background-image: url('../images/backgroundHero.jpg');
   background-position: 50% 50%;
   background-size: auto 100%;
   background-repeat: no-repeat;
@@ -777,6 +777,7 @@ a {
 }
 
 .headlinescaffold {
+  max-width: 60%;
   padding-bottom: 15px;
   font-size: 26px;
   line-height: 36px;
@@ -1347,6 +1348,9 @@ a {
     font-size: 28px;
     line-height: 40px;
   }
+  .containerlight {
+    margin-bottom: 50px;
+  }
   .image-4 {
     margin-right: 0px;
     margin-left: 0px;
@@ -1623,6 +1627,7 @@ a {
     line-height: 34px;
   }
   .containerlight {
+    margin-bottom: 30px;
     padding-top: 0px;
   }
   .divider {
@@ -1673,6 +1678,7 @@ a {
     padding-left: 0px;
   }
   .headlinescaffold {
+    max-width: 100%;
     font-size: 24px;
     line-height: 32px;
   }
@@ -1684,6 +1690,9 @@ a {
     -ms-flex: 0 auto;
     flex: 0 auto;
   }
+  .section {
+    margin-bottom: 50px;
+  }
   .grid-news {
     grid-column-gap: 40px;
     grid-row-gap: 32px;
@@ -1693,6 +1702,10 @@ a {
   .heading-3-dark {
     font-size: 24px;
     line-height: 36px;
+  }
+  .headlineblog {
+    font-size: 24px;
+    line-height: 34px;
   }
   .blognewsimg {
     -webkit-box-align: stretch;
@@ -1740,9 +1753,9 @@ a {
   .containeryellow {
     margin-right: 0px;
     margin-left: 0px;
-    padding-top: 15px;
+    padding-top: 20px;
     padding-right: 20px;
-    padding-bottom: 15px;
+    padding-bottom: 20px;
   }
 }
 
@@ -1851,8 +1864,8 @@ a {
   }
   .heading-2-dark-regular {
     margin-bottom: 0px;
-    font-size: 24px;
-    line-height: 34px;
+    font-size: 28px;
+    line-height: 38px;
   }
   .divider {
     margin-bottom: 40px;
@@ -1915,6 +1928,7 @@ a {
   }
   .headlineblog {
     margin-bottom: 20px;
+    font-size: 20px;
   }
   .blognewsimg {
     min-width: 100%;
