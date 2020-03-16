@@ -14,7 +14,7 @@ page_sections:
   ctamorename: LEARN MORE
   ctamorelink: https://try.keboola.com
   img: "/uploads/Frame 2.png"
-  videoid: bG17UN-KWz8
+  videoid: ''
 - template: article-list-three-row
   block: article-list-three-row
   list:
