@@ -304,7 +304,7 @@ a {
   margin-bottom: 30px;
   margin-left: auto;
   padding: 0px 30px;
-  background-image: url('../images/backgroundHero.jpg');
+  background-image: url('../images/heroPic.jpg');
   background-position: 50% 50%;
   background-size: auto 100%;
   background-repeat: no-repeat;
@@ -792,6 +792,8 @@ a {
   display: block;
   padding: 32px;
   background-color: #fff;
+  -webkit-transition: box-shadow 500ms ease;
+  transition: box-shadow 500ms ease;
 }
 
 .dropshadowbox:hover {
@@ -1047,7 +1049,7 @@ a {
 .div-block-49 {
   position: relative;
   top: -193px;
-  right: 230px;
+  right: 211px;
   display: block;
   width: 50px;
   height: 50px;
@@ -1179,6 +1181,55 @@ a {
   padding-right: 30px;
 }
 
+.small-divider-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: none;
+  margin-top: 20px;
+  padding-top: 20px;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  -webkit-align-content: space-around;
+  -ms-flex-line-pack: distribute;
+  align-content: space-around;
+  border-style: solid none none;
+  border-width: 2px;
+  border-color: rgba(175, 196, 215, 0.6) #000 #000;
+  color: #000;
+}
+
+.small-divider-2:hover {
+  opacity: 1;
+  color: #fff;
+}
+
+.scaffoldlink {
+  margin-right: 20px;
+  color: #afc4d7;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.link-3 {
+  color: #afc4d7;
+}
+
 @media screen and (max-width: 991px) {
   .top-nav-container {
     -webkit-box-pack: end;
@@ -1275,7 +1326,7 @@ a {
     align-items: flex-start;
   }
   .hero-sectionhp {
-    background-image: url('../images/imgnarrow.jpg');
+    background-image: url('../images/heroNarrow.jpg');
     background-position: 100% 100%;
     background-size: contain;
     background-repeat: no-repeat;
