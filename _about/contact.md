@@ -39,7 +39,7 @@ page_sections:
     mapslink: https://goo.gl/maps/5dQbZKbtV4z
   - name: PRAGUE
     address: "<p>Dělnická 27 <br>Prague 7 <br>170 00 <br>Czech Republic <br>(+420
-      739 632 821)</p>"
+      608 499 077)</p>"
     mapslink: https://goo.gl/maps/52yux1PHVPfSFRiQA
 
 ---
