@@ -7,7 +7,7 @@ page_sections:
   headlineleft: "</strong> to do their best work all in one place."
   headlineright: Keboola connects <strong>data</strong>, <strong>systems</strong>
     and <strong>people
-  headlineend: Keboola is a secure operations </br> platform for your data team.
+  headlineend: Keboola is a data operations </br> platform for your data team.
 - template: article-list-hp
   block: article-list-hp
   subheadline: ''
