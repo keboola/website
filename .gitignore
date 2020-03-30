@@ -7,3 +7,4 @@ __html
 *.iml
 config.codekit3
 .jekyll-cache
+*.icloud
